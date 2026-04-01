@@ -12,6 +12,11 @@ env/
 .DS_Store
 Thumbs.db
 
+# materials
+
+/PDF_medic_trials
+/TEXT_medic_trials
+
 # -------------------------
 
 /chroma_db
