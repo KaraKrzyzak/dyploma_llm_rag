@@ -1,0 +1,3373 @@
+RAPORT
+Hematologia:
+nowe otwarcie
+1
+Spis treści
+Wprowadzenie . 2
+Kluczowe wnioski . 4
+Epidemiologia . 6
+Świadczenia hematologiczne – liczba, wartość, pacjenci . 13
+Kadry w hematologii . 17
+Organizacja opieki nad pacjentami z chorobami hematologicznymi:
+potrzebne zmiany . 25
+Leczenie szpitalne . 28
+Odwrócenie piramidy świadczeń . 29
+Współpraca lekarzy rodzinnych, diagnostów i innych specjalistów . 31
+Porada diagnostyczna . 33
+Dostęp do opieki i życie pacjentów z chorobą
+– wyniki badania ankietowego. 35
+Codzienność i potrzeby pacjentów z chorobami hematologicznymi . 43
+Wybrane choroby hematologiczne
+– Chłoniaki . 46
+– Szpiczak . 51
+– TTP – mikroangiopatie zakrzepowe . 55
+– Białaczki
+– Ostre białaczki . 60
+– Przewlekła białaczka limfocytowa . 62
+– Nowotwory mieloproliferacyjne . 69
+Bezpieczeństwo krwi . 71
+Autorzy:
+Marta Markiewicz-Melon, Katarzyna Lisowska
+Redakcja i korekta:
+Maja Marklowska-Tomar
+Wydawcy:
+Stowarzyszenie Hematoonkologiczni
+Fundacja Per Humanus
+Fundacja Rzecznicy Zdrowia
+Warszawa, wrzesień 2024
+Okładka:
+Violetta Zajk, ilustracja wygenerowana z wykorzystaniem AI
+Niniejszy raport jest objęty prawami autorskimi. Cytowanie fragmentów
+lub danych zawartych w raporcie powinno zawierać adnotację o źródle.
+2
+3
+Wspólny głos dla hematologii
+Na przestrzeni ostatnich dwóch dekad byliśmy świadkami
+ogromnego postępu w hematologii. Zmiany, jakie dokonały się
+w obszarze diagnostyki i terapii, sprawiły, że diagnoza choroby
+hematologicznej w zdecydowanej większości przypadków nie
+oznacza czarnego scenariusza, a wręcz daje nadzieję na dobrej
+jakości życie z chorobą przewlekłą. Jednocześnie demografia
+jest nieubłagana – wraz ze starzeniem się społeczeństwa liczba
+pacjentów z chorobami hematologicznymi będzie systematycznie rosła. Zjawisko
+to będzie nie lada wyzwaniem dla systemu ochrony zdrowia.
+W ostatnich latach dostęp do terapii hematologicznych uległ znaczącej popra­
+wie. Coraz większa populacja pacjentów ma możliwość skorzystania z nowych me­
+tod leczenia. Zdaniem ekspertów o realnych, długofalowych efektach zmian w do­
+stępie do terapii będziemy mogli dyskutować dopiero za kilka lat, ale już teraz warto
+zastanowić się nad kolejnymi krokami, które usprawniłyby funkcjonowanie całego
+systemu opieki, a jednocześnie podniosły jego efektywność ekonomiczną.
+Dziś oddajemy w Państwa ręce dokument, w którym wspólnie z ekspertami –
+hematologami, lekarzami rodzinnymi, diagnostami laboratoryjnymi i pielęgniarka­
+mi – nakreśliliśmy kierunki niezbędnych zmian w organizacji systemu opieki nad
+pacjentami z chorobami hematologicznymi. Pochylamy się w nim również nad kwe­
+stią kadr medycznych, które w obliczu rosnącej populacji pacjentów powinny stać
+się języczkiem u wagi organizatorów systemu ochrony zdrowia.
+Raport "Hematologia: nowe otwarcie” oddaje również głos pacjentom, których
+zapytaliśmy o najpilniejsze potrzeby i wyzwania związane z życiem z chorobą he­
+matologiczną. Jestem przekonana, że działając wspólnie i wsłuchując się w głos
+kluczowych interesariuszy, będziemy mogli kreować przyjazny, skuteczny, a jedno­
+cześnie efektywny kosztowo system ochrony zdrowia.
+Marta Markiewicz-Melon, prezes Fundacji Rzecznicy Zdrowia
+Pacjent wie najwięcej
+o swojej chorobie
+Dzięki ogromnemu postępowi w leczeniu chorób hematologicz­
+nych na świecie polscy pacjenci mają obecnie dostęp do więk­
+szości najnowszych technologii lekowych. Rozwój medycyny
+sprawił, że o chorobach krwi mówimy dzisiaj w kontekście cho­
+rób przewlekłych, czego konsekwencją już teraz jest i będzie
+w przyszłości wzrastająca liczba pacjentów znajdujących się
+pod opieką systemu ochrony zdrowia. Dzięki najnowszym lekom
+pacjenci żyją często wiele lat w remisji od choroby, mogąc normalnie funkcjonować
+w życiu codziennym.
+Jeszcze niedawno diagnoza nowotworu krwi była wyrokiem. Dzisiaj – jeżeli chory
+szybko trafi do specjalistycznego ośrodka – ma szansę nie tylko na szybką i trafną
+diagnozę, ale przede wszystkim na wdrożenie nowoczesnego leczenia, które może
+zmienić jego chorobę ze śmiertelnej w przewlekłą.
+Dziś oddajemy w Państwa ręce raport "Hematologia: nowe otwarcie”. Dlaczego
+chcemy mówić o nowym otwarciu w tej dziedzinie? Przede wszystkim dlatego, że
+jesteśmy świadkami ogromnego postępu, jaki nastąpił w leczeniu chorób krwi na
+przestrzeni ostatnich lat. Nowoczesne terapie nie tylko zwiększają szanse chorych,
+ale również mają potencjał do tego, by zmienić paradygmat opieki hematologicznej
+w kontekście organizacji opieki.
+Co nas czeka w przyszłości? Przede wszystkim musimy zmierzyć się z wyzwaniem,
+jakim będzie dla nas wzrost liczby pacjentów chorujących na choroby hematolo­
+giczne. I nie ma znaczenia, ile pacjent ma lat, bo zachorować może każdy z nas.
+Patrząc na trendy demograficzne i epidemiologiczne, widzimy ogromną potrzebę
+zmian w systemie opieki nad pacjentami. Jako organizacje pozarządowe edukujemy
+pacjentów i ich bliskich, współpracując w tym obszarze z ekspertami, którzy nas
+wspierają. Mamy nadzieję, że ten wspólny głos będzie także słyszalny przez decy­
+dentów, bo kto jak nie pacjent wie najwięcej o swojej chorobie i potrafi podzielić się
+swoją wiedzą i doświadczeniem z innym pacjentem?
+Katarzyna Lisowska, przedstawicielka Stowarzyszenia Hematoonkologiczni
+prezeska Fundacji Per Humanus
+4
+5
+Kluczowe wnioski
+➠ System ochrony zdrowia musi się przygotować na rosnącą liczbę
+pacjentów ze schorzeniami hematologicznymi – ze szczególnym
+uwzględnieniem nowotworów krwi i układu chłonnego.
+➠ Przez zaniechania związane z wdrażaniem klasyfikacji ICD-11 nadal
+nie dysponujemy rzetelnymi danymi dotyczącymi epidemiologii.
+➠ Liczba pacjentów korzystających ze świadczeń leczenia szpitalne­
+go jest dwukrotnie niższa niż w przypadku chorych korzystających
+z ambulatoryjnej opieki specjalistycznej, jednocześnie nakłady na le­
+czenie szpitalne są około 18-krotnie wyższe.
+➠ Nakłady na świadczenia w dziedzinie hematologii rosną szybciej niż
+średni wzrost nakładów Narodowego Funduszu Zdrowia na świad­
+czenia w latach 2022-2023. W przypadku AOS dynamika wydatków
+na świadczenia ogółem wyniosła 30 proc., podczas gdy w hemato­
+logii 32 proc. (różnica 2 pp.). Natomiast w przypadku leczenia szpi­
+talnego dynamika wydatków ogółem wynosiła 20 proc., podczas gdy
+w hematologii wyniosła 46 proc. (różnica 26 pp.).
+➠ Sytuacja kadrowa w obszarze hematologii wymaga dalszej poprawy.
+W ostatnich latach obserwowaliśmy rosnącą liczbę lekarzy hemato­
+logów, niestety – pomimo starań środowiska i ośrodków hematolo­
+gicznych – młodzi lekarze niechętnie wybierają tę specjalizację. Sy­
+tuacja wygląda podobnie w przypadku diagnostów laboratoryjnych
+oraz kadr pielęgniarskich.
+➠ Potencjał organizacyjny systemu opieki hematologicznej wyraźnie
+wskazuje na potrzebę lepszego wykorzystania ambulatoryjnej opieki
+specjalistycznej oraz wprowadzenie możliwości systemowej współ­
+pracy specjalistów hematologów i transfuzjologów ze specjalistami
+medycyny rodzinnej. Należy również:
+Ҍ wprowadzić w podstawowej opiece zdrowotnej rozwiązania na­
+wiązujące do opieki koordynowanej;
+Ҍ uzupełnić koszyk świadczeń gwarantowanych o poradę diagno­
+styczną;
+Ҍ rozszerzyć możliwości prowadzenia programów lekowych w opiece
+ambulatoryjnej;
+Ҍ włączyć nowe produkty diagnostyczne w ramach AOS.
+➠ Pacjenci uczestniczący w badaniu ankietowym zwrócili uwagę na
+postęp w obszarze farmakoterapii. Jednocześnie wskazali wiele ob­
+szarów wymagających zmian organizacyjnych. Wśród wyzwań i naj­
+większych obciążeń związanych z chorobą wymienili kwestię do­
+jazdu do ośrodków, w których są leczeni, konieczność sięgania po
+prywatne konsultacje lekarzy innych specjalności czy ponoszenie
+kosztów rehabilitacji.
+➠ Chorzy wskazali na potrzebę udostępnienia im refundowanego przez
+NFZ wsparcia psychologicznego od momentu podejrzenia choroby,
+a także systemowych zmian w procedurze orzekania o niepełno­
+sprawności.
+7
+6
+W
+2021 roku nowotwory złośliwe układu krwiotwórczego i limfa­
+tycznego rozpoznano u 10 166 pacjentów (wg klasyfikacji ICD10), natomiast pełne rozpoznanie zgodne z klasyfikację zgodną
+z ICD-O1 przeprowadzono u 10 095 chorych. Dane zawarte w raporcie "No­
+wotwory złośliwe w Polsce w 2021 roku” wskazują, że 43 proc. wszystkich
+rozpoznań (4295 przypadków) dotyczyło chłoniaków, 38 proc. (3846 przypad­
+ków) białaczek, a 17 proc. (1721 przypadków) szpiczaków.
+W grupie chłoniaków blisko 17 proc. stanowiły chłoniaki zakwalifikowane do gru­
+py chłoniaków Hodgkina, natomiast 75 proc. zaszeregowano do grupy chłoniaków
+nie-Hodgkina. Pozostałe 8 proc. stanowiły chłoniaki o złożonej lub nieokreślonej
+morfologii. Najczęstszą postacią chłoniaka nie-Hodgkina z komórek B były chłoniaki
+rozlane z dużych komórek B (DLBCL) — stwierdzono 996 takich przypadków, chło­
+niaki grudkowe (496 przypadków), chłoniaki strefy brzeżnej z komórek B (252 przy­
+padki) oraz chłoniaki z komórek płaszcza (211 przypadków). Jeśli chodzi o chłoniaki
+z komórek T, to w 2021 roku w całej Polsce rozpoznano 308 przypadków.2
+Spośród zdiagnozowanych ponad 3800 przypadków białaczek dokładna klasyfika­
+cja ICD-O została ustalona dla nieco ponad 3500 z nich. Najczęstszą była przewlekła
+białaczka limfocytowa z komórek B (CLL/SLL), którą rozpoznano u 1732 pacjentów,
+ostra białaczka szpikowa (AML) — 905 przypadków, ostra białaczka limfatyczna (ALL)
+— 393 przypadki oraz przewlekła białaczka szpikowa (CML) — 309 przypadków.
+Skala wyzwania dla systemu ochrony zdrowia
+To, jakim wyzwaniem dla systemu ochrony zdrowia są chorzy zmagający się
+z chorobami hematologicznymi, oddają również dane dotyczące liczby pacjen­
+tów, którym NFZ udzielił świadczeń w ramach ambulatoryjnej opieki specja­
+listycznej (AOS) oraz leczenia szpitalnego. Jak jednak zwracał uwagę prof. dr
+hab. Wiesław Wiktor Jędrzejczak w publikacji "Epidemiologia nowotworów
+krwi w Polsce na podstawie danych Narodowego Funduszu Zdrowia”3, w przy­
+padku korzystania z danych NFZ należy spodziewać się zjawiska "nadrozpo­
+znawania” schorzeń, dla których wycena realizowanych procedur jest korzyst­
+niejsza dla świadczeniodawcy.
+1 ICD-O to międzynarodowa klasyfikacja chorób przygotowana z myślą o onkologii https://onkologia.org.pl/sites/
+default/files/publications/2023-11/icd_o_3_pl.pdf
+2 J.Didkowska, U.Wojciechowska, K. Barańska, M.Miklewska, I.Michałek, P.Olasek "Nowotwory złośliwe w Polsce
+w 2021 roku”, Warszawa 2023
+3 "Hematoonkologia. Część ogólna i nowotwory mieloidalne” Tom 1 pod red. Tadeusza Robaka, Jana Walewskiego
+i Joanny Romejko-Jarosińskiej, Via Medica, Gdańsk 2022
+Epidemiologia
+0
+20 000
+40 000
+60 000
+80 000
+100 000
+120 000
+2024, I-V
+2023
+2022
+AOS
+Leczenie szpitalne
+Pozostałe
+106 212
+53 889
+60 761
+113 104
+59 735
+67 950
+86 221
+45 092
+46 499
+Wykres 1. Liczba świadczeniobiorców4 z rozpoznaniem hematologicznym,
+którym udzielono świadczeń z wybranego zakresu
+Źródło: NFZ
+AOS
+Leczenie szpitalne
+Wykres 2. Liczba pacjentów z rozpoznaniem C81 chłoniak Hodgkina, którym
+udzielono świadczeń w ramach kontraktu z NFZ (bez względu na rok rozpoznania)
+Źródło: NFZ
+0
+2000
+4000
+6000
+8000
+2024, I-V
+2023
+2022
+7565
+2040
+7720
+5425
+1442
+2108
+AOS
+Leczenie szpitalne
+Wykres 3. Liczba pacjentów z rozpoznaniem C82 chłoniak nieziarniczy
+guzkowy (grudkowy), którym udzielono świadczeń w ramach kontraktu
+z NFZ (bez względu na rok rozpoznania)
+Źródło: NFZ
+0
+2000
+4000
+6000
+8000
+2024, I-V
+2023
+2022
+4402
+1769
+4790
+3486
+1442
+1971
+4 Dane Narodowego Funduszu Zdrowia dla rozpoznań sklasyfikowanych w następujących grupach: D45, D46, D47,
+C81, C82, C83, C84, C85, C86, C87, C88, C89, C90, C91, C92, C93, C94, C95, C96, D75.2
+9
+8
+AOS
+Leczenie szpitalne
+Wykres 4. Liczba pacjentów z rozpoznaniem C83 chłoniak nieziarniczy
+rozlany, którym udzielono świadczeń w ramach kontraktu z NFZ (bez względu
+na rok rozpoznania)
+Źródło: NFZ
+0
+1500
+3000
+4500
+6000
+7500
+9000
+2024,I-V
+2023'
+2022'
+7832
+2722
+8158
+5727
+1999
+3197
+AOS
+Leczenie szpitalne
+Wykres 7. Liczba pacjentów z rozpoznaniem C90 szpiczak mnogi
+i nowotwory złośliwe z komórek plazmatycznych, którym udzielono
+świadczeń w ramach kontraktu z NFZ (bez względu na rok rozpoznania)
+Źródło: NFZ
+0
+2000
+4000
+6000
+8000
+10 000
+2024, I-V
+2023
+2022
+8916
+7830
+9437
+9611
+7023
+8560
+AOS
+Leczenie szpitalne
+Wykres 5. Liczba pacjentów z rozpoznaniem C84 obwodowy i skórny
+chłoniak z komórek T, którym udzielono świadczeń w ramach kontraktu z NFZ
+(bez względu na rok rozpoznania)
+Źródło: NFZ
+0
+2000
+4000
+6000
+8000
+2024, I-V
+2023
+2022
+1717
+815
+1909
+1380
+598
+943
+AOS
+Leczenie szpitalne
+Wykres 8. Liczba pacjentów z rozpoznaniem C91 białaczka limfatyczna,
+którym udzielono świadczeń w ramach kontraktu z NFZ (bez względu
+na rok rozpoznania)
+Źródło: NFZ
+0
+5000
+10 000
+15 000
+20 000
+25 000
+2024, I-V
+2023
+2022
+22 059
+8227
+23 136
+18 502
+6672
+9270
+AOS
+Leczenie szpitalne
+Wykres 6. Liczba pacjentów z rozpoznaniem C88 złośliwe choroby
+immunoproliferacyjne (makroglobulinemia Waldenströma, choroba łańcuchów
+ciężkich alfa oraz gamma), którym udzielono świadczeń w ramach kontraktu
+z NFZ (bez względu na rok rozpoznania)
+Źródło: NFZ
+0
+2000
+4000
+6000
+8000
+2024, I-V
+2023
+2022
+968
+501
+1074
+854
+326
+471
+AOS
+Leczenie szpitalne
+Wykres 9. Liczba pacjentów z rozpoznaniem C92 białaczka szpikowa,
+którym udzielono świadczeń w ramach kontraktu z NFZ (bez względu
+na rok rozpoznania)
+Źródło: NFZ
+0
+2000
+4000
+6000
+8000
+2024, I-V
+2023'
+2022'
+4282
+7119
+4542
+3204
+6519
+7555
+10
+11
+AOS
+Leczenie szpitalne
+Wykres 10. Liczba pacjentów z rozpoznaniem C94 ostra czerwienica
+i erytroleukemia, którym udzielono świadczeń w ramach kontraktu z NFZ
+(bez względu na rok rozpoznania)
+Źródło: NFZ
+0
+2000
+4000
+6000
+8000
+2024, I-V
+2023
+2022
+712
+452
+637
+435
+271
+410
+AOS
+Leczenie szpitalne
+Wykres 11. Liczba pacjentów z rozpoznaniem D45 czerwienica prawdziwa,
+którym udzielono świadczeń w ramach kontraktu z NFZ (bez względu
+na rok rozpoznania)
+Źródło: NFZ
+0
+2000
+4000
+6000
+8000
+2024, I-V
+2023
+2022
+7115
+2729
+7459
+5853
+2862
+3424
+AOS
+Leczenie szpitalne
+Wykres 12. Liczba pacjentów z rozpoznaniem D46 zespoły
+mielodysplastyczne, którym udzielono świadczeń w ramach kontraktu z NFZ
+(bez względu na rok rozpoznania)
+Źródło: NFZ
+0
+2000
+4000
+6000
+8000
+2024, I-V
+2023
+2022
+5926
+4216
+6208
+4547
+3056
+4548
+Prof. dr hab. Joanna Didkowska, kierownik Zakładu
+Epidemiologii i Prewencji Pierwotnej Nowotworów
+oraz Krajowego Rejestru Nowotworów
+Na przestrzeni ostatnich lat obserwujemy wyraźny wzrost zachorowalności na nowotwory
+krwi i układu chłonnego. Jest on niestety domeną populacji wszystkich państw rozwinię­
+tych, ze względu na zmiany struktury demograficznej. Wiek jest niezależnym czynnikiem
+ryzyka wszystkich nowotworów. Wiele badań wskazuje, że powodem tego zjawiska mogą
+być zmiany w organizmie powiązane z procesem starzenia. Ale to nie wszystko, bowiem
+wśród przyczyn tego zjawiska wskazuje się również kumulację wpływu różnych czyn­
+ników ryzyka w czasie życia człowieka. Niestety nie potrafimy tych dwóch determinant
+jasno rozdzielić, dlatego uznaje się, że to właśnie wiek jest głównym czynnikiem ryzyka
+rozwoju nowotworów.
+Na nowotwory krwi i układu chłonnego co roku w Polsce zapada około 11 tys.
+pacjentów. Co warto podkreślić, zespół Krajowego Rejestru Nowotworów utworzył
+i implementował pierwszy rejestr narządowy właśnie dotyczący nowotworów krwi
+i układu chłonnego – Polski Rejestr Onko-Hematologiczny (PROH). Pierwsze dane za
+2022 rok pokażemy jeszcze w 2024 roku i liczymy, że pozwolą one na jeszcze głęb­
+sze spojrzenie na problematykę i epidemiologię nowotworów układu krwiotwórczego
+i chłonnego. Natomiast pierwszych szczegółowych danych za 2023 rok możemy się
+spodziewać w kolejnych latach.
+To, z czym mierzymy się w Polsce, to pewnego rodzaju niedorejestrowanie przy­
+padków. Mimo istniejących regulacji prawnych, które obligowały lekarzy do zgłaszania
+informacji o przypadkach nowotworów do rejestru, nie wszystkie dane do nas trafiały.
+Liczę jednak na to, że ulegnie to zmianie dzięki nowelizacji rozporządzenia w sprawie
+Krajowego Rejestru Nowotworów z 2023 roku1. Według nowych regulacji obowiązek
+raportowania do systemu KRN został przeniesiony z lekarza na placówkę, w której
+Nowotwory hematologiczne
+– perspektywa Krajowego
+Rejestru Nowotworów
+1  Rozporządzenie Ministra Zdrowia z dnia 30 marca 2023 r. zmieniające rozporządzenie w sprawie Krajowego Rejestru
+Nowotworów https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000661 dostęp 20 sierpnia 2024
+12
+13
+pracuje, tj. szpital bądź przychodnię. Dodatkowo system e-KRN+ oraz PROH został
+zintegrowany z pracowniami histopatologicznymi, co pozwoli nam pozyskiwać dane
+bezpośrednio z baz pracowni. Spodziewam się, że dane dotyczące roku 2023 poka­
+żą nam prawdziwą epidemiologię nowotworów w Polsce, a niedorejestrowanie będzie
+stanowiło niewielki odsetek wszystkich przypadków.
+Współczynniki zachorowalności: Polska na tle Europy
+Zebrane przez nasz KRN dane pokazują, że współczynniki zachorowalności na nowotwo­
+ry krwi w Polsce nie odbiegają znacząco od tego, co obserwujemy w innych krajach Eu­
+ropy. Na naszym kontynencie również obserwujemy pewną różnorodność, np. w krajach
+Półwyspu Skandynawskiego współczynniki zachorowalności są nieco wyższe. Są również
+kraje, takie jak Czechy, gdzie są one podobne do notowanych w Polsce.
+Czym wytłumaczyć pojawiające się różnice? Niestety trudno jest mi to rozstrzygnąć,
+gdyż czynniki ryzyka rozwoju nowotworów krwi — w przeciwieństwie do np. nowotwo­
+rów litych, takich jak rak płuca — są bardzo słabo poznane. Oczywiście pojawiają się
+w publikacjach pewne tropy — przykładem może być ekspozycja na pestycydy: herbicy­
+dy, insektycydy czy fungicydy, które mogą być źródłem narażenia na karcinogeny.
+Na przestrzeni ostatnich lat widoczna jest natomiast wyraźna poprawa wskaź­
+ników przeżyć. Wiele nowotworów hematoonkologicznych ma wyraźnie lepsze
+przeżycie lub wręcz staje się powoli chorobą przewlekłą. Przykładem może być
+chłoniak Hodgkina, który jest nowotworem o dobrym rokowaniu, a wskaźnik
+umieralności (standaryzowany) wynosi w Polsce 0,34 przypadku na 100 tys.
+Różnice w klasyfikacji
+Należy również zwrócić uwagę na istniejące różnice dotyczące klasyfikowania nowotworów
+krwi i układu chłonnego. Niestety obecnie stosowana przy raportowaniu klasyfikacja ICD10 jest ułomna i może generować błędy interpretacyjne. Optymalnym byłoby stosowanie
+klasyfikacji ICD-O2, która jest Międzynarodową Klasyfikacją Chorób w Onkologii. Ostatnia
+rewizja klasyfikacji ICD-10 miała miejsce w 2019 roku, kiedy to pod wpływem środowiska
+lekarzy hematologów Światowa Organizacja Zdrowia zdecydowała się uzupełnić klasyfika­
+cję nowotworów hematologicznych. Niestety w Polsce nie została wdrożona ta zmiany kla­
+syfikacji nowotworów, co ułatwiłoby analizę danych dotyczących nowotworów krwi. Rze­
+telne bazy danych są nam niezwykle potrzebne, ponieważ regulator powinien dysponować
+wiarygodnymi danymi, by móc podejmować właściwe decyzje. Według zapowiedzi wpro­
+wadzenie nowej klasyfikacji ICD-11, która ma uwzględniać m.in. zapisy klasyfikacji ICD-O,
+może nastąpić w perspektywie 2-3 lat, co z pewnością przełoży się na precyzję rozpoznań.
+2  W rewizji kodów ICD-O klasyfikację rozbudowano i zweryfikowane kody morfologiczne m.in. dla chłoniaków i bia­
+łaczek. Do kodów włączono klasyfikację WHO (oparta została o nową klasyfikację chłoniaków REAL oraz klasyfikację
+białaczek FAB). Dodatkowo włączono klasyfikację dotyczącą białaczek szpikowych uwzględniającą kombinacje morfolo­
+giczne i zaburzenia cytogenetyczne https://iris.who.int/bitstream/handle/10665/42344/9788388681462_pol.pdf;jsessioni­
+d=612B668CB6E9AACDB890D80E4008D2BA?sequence=45 dana dostępu 21.08 2024
+N
+a potrzeby raportu "Hematologia: nowe otwarcie” zwróciliśmy się
+o przesłanie danych do Narodowego Funduszu Zdrowia. Na ich pod­
+stawie uzyskaliśmy informację m.in. o liczbie pacjentów korzystają­
+cych ze świadczeń zdrowotnych w latach 2022-2023 i w okresie od stycznia
+do maja 2024 roku, a także o liczbie sprawozdanych świadczeń i ich warto­
+ści (patrz ramka METODYKA) w wybranych rozpoznaniach sklasyfikowanych
+za pomocą Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów
+Zdrowotnych ICD-10. Analiza liczby pacjentów korzystających ze świadczeń
+zdrowotnych wskazuje, że chorzy korzystający ze świadczeń lecznictwa szpi­
+talnego są niemal dwukrotnie mniej liczną grupą niż pacjenci korzystający
+z ambulatoryjnej opieki specjalistycznej (patrz tabela 1). Ma to bezpośrednie
+przełożenie na liczbę udzielanych świadczeń i ich wartość. W ramach ambula­
+toryjnej opieki specjalistycznej (AOS) udzielanych jest ponad trzykrotnie wię­
+cej świadczeń niż w ramach lecznictwa zamkniętego – stosunek liczby porad
+w AOS do liczby porad sprawozdanych w ramach lecznictwa szpitalnego wahał
+się w analizowanym okresie od 3,7 w 2022 roku do 3,3 w 2023 roku (patrz
+tabela 2).
+Patrząc na wartość sprawozdanych świadczeń, widać wyraźną przewagę
+nakładów, jakie z tytułu leczenia pacjentów z rozpoznaniem hematologicznym
+przekazywane są przez NFZ placówkom realizującym świadczenia z zakresu
+leczenia szpitalnego. W zależności od roku nakłady na leczenie szpitalne były
+16,6-krotnie lub 18,7-krotnie wyższe niż na leczenie w ambulatoriach. Jedyną
+grupą schorzeń, gdzie wartość świadczeń udzielanych w AOS jest wyższa niż
+świadczeń udzielanych w leczeniu szpitalnym, są pacjenci chorzy na czerwie­
+nicę prawdziwą.
+Świadczenia hematologiczne
+– liczba, wartość, pacjenci
+14
+15
+Tabela 1. Liczba świadczeń oraz wartość refundacji sprawozdanych świad­
+czeń udzielonych pacjentom z rozpoznaniem hematologicznym w latach 2022,
+2023 i od stycznia do maja 2024 roku
+Hematologia ogółem
+Liczba
+świadczeń
+Wartość refundacji
+udzielonych świadczeń [zł]
+2022 AOS
+232 657
+35 257 251,51
+2022 Leczenie szpitalne
+62 788
+588 427 715,50
+2023 AOS
+244 325
+46 400 287,40
+2023 Leczenie szpitalne
+72 424
+861 759 641,67
+I-V 2024 AOS
+107 167
+18 080 690,44
+I-V 2024 Leczenie szpitalne
+32 458
+320 568 574,69
+Żródło: NFZ
+METODYKA
+Przesłane przez Narodowy Fundusz Zdrowia informacje obejmowały
+świadczenia sprawozdane w ramach listy zakresów sprawozdanych
+w rodzaju świadczeń leczenie szpitalne i ambulatoryjna opieka
+specjalistyczna. Przedstawiono je w podziale na rozpoznanie główne
+sprawozdane do świadczenia. W zestawieniu wartość refundacji
+świadczeń odnosi się do świadczeń, dla których wartość rozliczonego
+świadczenia była większa od zera lub świadczenie zostało sprawozdane
+w ramach ryczałtu systemu podstawowego szpitalnego zabezpieczenia
+świadczeń opieki zdrowotnej (PSZ), nie uwzględnia zatem m.in. świadczeń
+udzielonych w ramach stawki kapitacyjnej POZ i szpitalnych oddziałów
+ratunkowych. Przedstawione dane nie uwzględniają również świadczeń
+udzielonych w ramach lecznictwa uzdrowiskowego. W przypadku
+świadczeń sprawozdanych w ramach ryczałtu PSZ uwzględniono ich
+wartość w oparciu o cenę jednostki sprawozdawczej ryczałtu systemu
+zabezpieczenia obowiązującą w danym okresie rozliczeniowym.
+AOS
+Leczenie szpitalne
+Wykres 1. Liczba pacjentów z rozpoznaniem hematologicznym, którym
+udzielono świadczeń zdrowotnych odpowiednio w latach: 2022, 2023
+oraz od stycznia do maja 2024 roku
+Źródło: NFZ
+0
+30000
+60000
+90000
+120000
+2024, I-V
+2023
+2022
+106 210
+53 889
+113 104
+86 221
+45 092
+59 735
+CHŁONIAKI
+Liczba
+świadczeń
+Wartość refundacji
+świadczeń [zł]
+2022 AOS
+46 007
+7 358 270,19
+Leczenie szpitalne
+3003
+109 587 757,31
+2023 AOS
+48 410
+9 769 490,97
+Leczenie szpitalne
+13 550
+161 176 045,90
+I-V 2024 AOS
+2 1041
+3 771 032,95
+Leczenie szpitalne
+6223
+61 404 666,41
+BIAŁACZKI
+Liczba
+świadczeń
+Wartość refundacji
+świadczeń [zł]
+2022 AOS
+71 959
+10 375 573,34
+2022 Leczenie szpitalne
+23 197
+321 254 533,01
+2023 AOS
+74 084
+13 253 385,83
+2023 Leczenie szpitalne
+26 942
+453 229 314,07
+I-V 2024 AOS
+32 437
+5 097 411,67
+I-V 2024 Leczenie szpitalne
+12 033
+172 973 864,01
+CZERWIENICA
+PRAWDZIWA
+Liczba
+świadczeń
+Wartość refundacji
+2022 AOS
+21 014
+2 761 771,52
+Leczenie szpitalne
+1707
+1 597 579,31
+2023 AOS
+20 847
+3 363 905,11
+Leczenie szpitalne
+1888
+2 185 452,53
+2024 AOS
+9089
+1 289 761,27
+Leczenie szpitalne
+895
+718 189,02
+ZESPOŁY
+MIELODYSPLASTYCZNE
+Liczba
+świadczeń
+Wartość refundacji
+2022 AOS
+15 785
+2 295 486,26
+Leczenie
+4916
+35 036 011,54
+2023 AOS
+16 121
+2 924 436,06
+Leczenie
+5687
+60 018 794,17
+2024 AOS
+7029
+1 166 912,52
+Leczenie
+2356
+16 148 294,86
+1 Do przeprowadzenia analizy wykorzystano następujące rozpoznania ICD-10: C81-85, C-88, C90-96, D-45-47,
+2 Dane wpłynęły do Fundacji Rzecznicy Zdrowia odpowiedni 9 oraz 28 sierpnia 2024 roku
+Tabela 2. Liczba świadczeń oraz wartość refundacji sprawozdanych świadczeń
+udzielonych pacjentom z rozpoznaniem: Chłoniaki C81-85
+Tabela 3. Liczba świadczeń oraz wartość refundacji sprawozdanych świadczeń
+udzielonych pacjentom z rozpoznaniem: Białaczki C91-93
+Tabela 4. Liczba świadczeń oraz wartość refundacji sprawozdanych świadczeń
+udzielonych pacjentom z rozpoznaniem: Czerwienica prawdziwa D45
+Tabela 5. Liczba świadczeń oraz wartość refundacji sprawozdanych świadczeń
+udzielonych pacjentom z rozpoznaniem: Zespoły mielodysplastyczne D46
+[TABELA strona 9, nr 1]
+CHŁONIAKI | Liczba
+świadczeń | Wartość refundacji
+świadczeń [zł]
+-------------------+------------------+----------------------------------
+2022 AOS | 46 007 | 7 358 270,19
+Leczenie szpitalne | 3003 | 109 587 757,31
+2023 AOS | 48 410 | 9 769 490,97
+Leczenie szpitalne | 13 550 | 161 176 045,90
+I-V 2024 AOS | 2 1041 | 3 771 032,95
+Leczenie szpitalne | 6223 | 61 404 666,41
+[TABELA strona 9, nr 2]
+BIAŁACZKI | Liczba
+świadczeń | Wartość refundacji
+świadczeń [zł]
+----------------------------+------------------+----------------------------------
+2022 AOS | 71 959 | 10 375 573,34
+2022 Leczenie szpitalne | 23 197 | 321 254 533,01
+2023 AOS | 74 084 | 13 253 385,83
+2023 Leczenie szpitalne | 26 942 | 453 229 314,07
+I-V 2024 AOS | 32 437 | 5 097 411,67
+I-V 2024 Leczenie szpitalne | 12 033 | 172 973 864,01
+[TABELA strona 9, nr 3]
+Hematologia ogółem | Liczba
+świadczeń | Wartość refundacji
+udzielonych świadczeń [zł]
+----------------------------+------------------+----------------------------------------------
+2022 AOS | 232 657 | 35 257 251,51
+2022 Leczenie szpitalne | 62 788 | 588 427 715,50
+2023 AOS | 244 325 | 46 400 287,40
+2023 Leczenie szpitalne | 72 424 | 861 759 641,67
+I-V 2024 AOS | 107 167 | 18 080 690,44
+I-V 2024 Leczenie szpitalne | 32 458 | 320 568 574,69
+[TABELA strona 9, nr 4]
+CZERWIENICA
+PRAWDZIWA | Liczba
+świadczeń | Wartość refundacji
+----------------------+------------------+-------------------
+2022 AOS | 21 014 | 2 761 771,52
+Leczenie szpitalne | 1707 | 1 597 579,31
+2023 AOS | 20 847 | 3 363 905,11
+Leczenie szpitalne | 1888 | 2 185 452,53
+2024 AOS | 9089 | 1 289 761,27
+Leczenie szpitalne | 895 | 718 189,02
+[TABELA strona 9, nr 5]
+ZESPOŁY
+MIELODYSPLASTYCZNE | Liczba
+świadczeń | Wartość refundacji
+---------------------------+------------------+-------------------
+2022 AOS | 15 785 | 2 295 486,26
+Leczenie | 4916 | 35 036 011,54
+2023 AOS | 16 121 | 2 924 436,06
+Leczenie | 5687 | 60 018 794,17
+2024 AOS | 7029 | 1 166 912,52
+Leczenie | 2356 | 16 148 294,86
+16
+17
+Tabela 6. Pacjenci zakwalifikowani do programów lekowych w obszarze hemato­
+logii w roku 2023 oraz w okresie od stycznia do maja 2024
+Numer programu
+Nazwa programu
+Liczba nowych pacjentów w programie
+w 2023 roku (pacjenci otrzymali
+świadczenie w 2023 roku i nie otrzymali
+żadnego świadczenia w programie
+w roku poprzednim )
+Liczba nowych pacjentów w programie
+w 2024 roku (pacjenci otrzymali
+świadczenie w 2024 roku i nie otrzymali
+żadnego świadczenia w programie
+w roku poprzednim )
+B.12
+Leczenie chorych na chłoniaki
+B-komórkowe
+915
+545
+B.14
+Leczenie chorych na przewlekłą
+białaczkę szpikową
+224
+69
+B.15
+Zapobieganie krwawieniom u dzieci
+z hemofilią A i B
+23
+19
+B.54
+Leczenie chorych na szpiczaka
+plazmocytowego
+1364
+963
+B.65
+Leczenie chorych na ostrą białaczkę
+limfoblastyczną
+89
+33
+B.66
+Leczenie chorych na chłoniaki
+T-komórkowe
+94
+34
+B.77
+Leczenie chorych na klasycznego
+chłoniaka Hodgkina
+184
+159
+B.79
+Leczenie chorych na przewlekłą
+białaczkę limfocytową
+3127
+923
+B.81
+Leczenie chorych na nowotwory
+mieloproliferacyjne ph (-)
+425
+338
+B.97
+Leczenie dorosłych chorych
+na pierwotną małopłytkowość
+immunologiczną
+399
+186
+B.98
+Leczenie pediatrycznych chorych
+na pierwotną małopłytkowość
+immunologiczną
+50
+42
+B.114
+Leczenie chorych na ostrą białaczkę
+szpikową
+795
+343
+B.115
+Leczenie agresywnej mastocytozy
+układowej, mastocytozy układowej
+ze współistniejącym nowotworem
+układu krwiotwórczego oraz białaczki
+mastocytarnej
+19
+8
+B.142
+Leczenie dorosłych pacjentów
+z zespołami mielodysplastycznymi
+z towarzyszącą niedokrwistością
+zależną od transfuzji
+145
+54
+B.146
+Leczenie chorych na makroglobulinemię
+Waldenströma
+31
+81
+B.149
+Leczenie pacjentów z chorobą
+przeszczep przeciwko gospodarzowi
+< 5
+124
+J
+ednym z wyzwań polskiego systemu ochrony zdrowia są niedobory
+kadr medycznych. Według danych Naczelnej Izby Lekarskiej liczba le­
+karzy wykonujących ten zawód w Polsce na koniec czerwca 2024 roku
+wynosiła 176 068, z czego 136 336 posiadało tytuł specjalisty, natomiast
+39 732 posiadało tytuł specjalisty I stopnia1. W grupie tej liczba lekarzy posia­
+dających specjalizację w dziedzinie hematologii wynosiła 633. Dane przedsta­
+wione przez Ministerstwo Zdrowia wskazują, że od 2019 roku liczba hemato­
+logów wzrosła o 26 proc. (patrz tabela)2. Wskaźnik liczby lekarzy hematologów
+na 100 tys. mieszkańców Polski wyniósł 1,68.
+Tabela 1. Liczba lekarzy hematologów
+
+Liczba lekarzy
+| wskaźnik
+na 100 tys.
+mieszkańców
+Kobiety
+Mężczyźni
+Kadra w wieku
+emerytalnym
+% kadry w wieku
+emerytalnym
+Średni wiek
+2019
+499 | 1,3
+340
+159
+106
+21 proc.
+52
+2020
+516 | 1,3
+349
+157
+109
+21 proc.
+52
+2021
+547 | 1,4
+368
+179
+121
+22 proc.
+52
+2022
+555 | 1,5
+373
+182
+130
+23 proc.
+53
+Źródło: MZ basiw.mz.gov.pl
+Niestety ostatnie wyniki naborów na szkolenie specjalizacyjne wskazują,
+że młodzi lekarze niechętnie wybierają hematologię jako dziedzinę, w której
+chcą się szkolić. W trakcie ostatnich dwóch naborów na szkolenie specjaliza­
+cyjne młodzi lekarze zajęli odpowiednio 38,5 proc. (w naborze jesień 2023)
+i 12,1 proc. (w naborze wiosna 2024) dostępnych miejsc.
+Kadry w hematologii
+1 Zestawienie liczbowe lekarzy i lekarzy dentystów wg dziedziny i stopnia specjalizacji Naczelna Izba Lekarska dane
+aktualne na dzień 30 czerwca 2024 https://nil.org.pl/uploaded_files/1720084289_zestawienie-4.pdf (dostęp 8 sierp­
+nia 2024)
+2 Dane z https://basiw.mz.gov.pl/mapy-informacje/mapa-2022-2026/analizy/kadry-medyczne/kadry-medyczne/
+dostęp 8 sierpnia 2024
+[TABELA strona 10, nr 1]
+umargorp
+remuN | umargorp
+awzaN | ilamyzrto
+eimargorp
+eimargorp
+ilamyzrto
+ein
+w
+wótnejcap i ukor
+w
+icnejcap(
+3202 ainezcdaiwś )
+mindezrpop
+hcywon w
+ukor einezcdaiwś
+ogendaż
+abzciL 3202 ukor
+w w | ilamyzrto
+eimargorp
+eimargorp
+ilamyzrto
+ein
+w
+wótnejcap i ukor
+w
+icnejcap(
+4202 ainezcdaiwś )
+mindezrpop
+hcywon w
+ukor einezcdaiwś
+ogendaż
+abzciL 4202 ukor
+w w
+---------------+----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+B.12 | Leczenie chorych na chłoniaki
+B-komórkowe | 915 | 545
+B.14 | Leczenie chorych na przewlekłą
+białaczkę szpikową | 224 | 69
+B.15 | Zapobieganie krwawieniom u dzieci
+z hemofilią A i B | 23 | 19
+B.54 | Leczenie chorych na szpiczaka
+plazmocytowego | 1364 | 963
+B.65 | Leczenie chorych na ostrą białaczkę
+limfoblastyczną | 89 | 33
+B.66 | Leczenie chorych na chłoniaki
+T-komórkowe | 94 | 34
+B.77 | Leczenie chorych na klasycznego
+chłoniaka Hodgkina | 184 | 159
+B.79 | Leczenie chorych na przewlekłą
+białaczkę limfocytową | 3127 | 923
+B.81 | Leczenie chorych na nowotwory
+mieloproliferacyjne ph (-) | 425 | 338
+B.97 | Leczenie dorosłych chorych
+na pierwotną małopłytkowość
+immunologiczną | 399 | 186
+B.98 | Leczenie pediatrycznych chorych
+na pierwotną małopłytkowość
+immunologiczną | 50 | 42
+B.114 | Leczenie chorych na ostrą białaczkę
+szpikową | 795 | 343
+B.115 | Leczenie agresywnej mastocytozy
+układowej, mastocytozy układowej
+ze współistniejącym nowotworem
+układu krwiotwórczego oraz białaczki
+mastocytarnej | 19 | 8
+B.142 | Leczenie dorosłych pacjentów
+z zespołami mielodysplastycznymi
+z towarzyszącą niedokrwistością
+zależną od transfuzji | 145 | 54
+B.146 | Leczenie chorych na makroglobulinemię
+Waldenströma | 31 | 81
+B.149 | Leczenie pacjentów z chorobą
+przeszczep przeciwko gospodarzowi | < 5 | 124
+[TABELA strona 10, nr 2]
+| yzrakel wócńakzseim
+kinźaksw .syt
+001
+abzciL
+an
+| | yteiboK | inźyzcżęM | ukeiw
+mynlatyreme
+w
+ardaK | ukeiw
+mynlatyreme
+w
+yrdak
+% | keiw
+inderŚ
+-----+---------------------------------------------------+---------+-----------+---------------------------+-----------------------------+------------
+2019 | 499 | 1,3 | 340 | 159 | 106 | 21 proc. | 52
+2020 | 516 | 1,3 | 349 | 157 | 109 | 21 proc. | 52
+2021 | 547 | 1,4 | 368 | 179 | 121 | 22 proc. | 52
+2022 | 555 | 1,5 | 373 | 182 | 130 | 23 proc. | 53
+18
+19
+Tabela 2. Wyniki naboru na szkolenie specjalizacyjne w dziedzinie hematologii
+w poszczególnych województwach – nabory jesień 2023 oraz wiosna 2024
+Województwo
+Liczba obsadzonych miejsc
+w naborze jesień 2023 – stan na
+21.12.233 (liczba przewidzianych
+miejsc szkoleniowych: tryb
+rezydencki/tryb pozarezydencki)
+Liczba obsadzonych miejsc
+w naborze wiosna 2024 – stan na
+16.04.244 (liczba przewidzianych
+miejsc szkoleniowych: tryb
+rezydencki/tryb pozarezydencki)
+Dolnośląskie
+4 (4/3)
+3 (3/3)
+Kujawsko-Pomorskie
+1 (5/0)
+1 (3/6)
+Lubelskie
+5 (7/2)
+3 (5/4)
+Lubuskie
+1 (2/0)
+0 (1/1)
+Łódzkie
+3 (3/2)
+0 (3/1)
+Małopolskie
+3 (2/1)
+1 (1/0)
+Mazowieckie
+9 (9/2)
+2 (3/2)
+Opolskie
+0 (2/2)
+0 (2/2)
+Podkarpackie
+6 (7/5)
+0 (3/3)
+Podlaskie
+0 (1/1)
+0 (4/0)
+Pomorskie
+4 (14/7)
+1 (8/9)
+Śląskie
+5 (7/2)
+1 (5/2)
+Świętokrzyskie
+0 (3/2)
+0 (3/2)
+Warmińsko-mazurskie
+0 (2/0)
+0 (2/0)
+Wielkopolskie
+4 (4/3)
+0 (2/0)
+Zachodniopomorskie
+2 (15/2)
+0 (6/9)
+Źródło: CMKP
+Diagnostów laboratoryjnych posiadających specjalizację w dziedzinie labo­
+ratoryjnej hematologii medycznej w całej Polsce jest 81. W przypadku tej spe­
+cjalizacji nie widać jednak skokowego przyrostu liczby specjalistów. Wskaźnik
+liczby diagnostów specjalistów w dziedzinie hematologii na 100 tys. mieszkań­
+ców Polski wyniósł 0,215.
+3 Dane za CMKP https://www.cmkp.edu.pl/ksztalcenie/postepowania-kwalifikacyjne/postepowanie-kwalifikacyjne­
+-jesien-2023 (dostęp 8 sierpnia 2024)
+4 Dane za CMKP https://www.cmkp.edu.pl/ksztalcenie/postepowania-kwalifikacyjne/postepowanie-kwalifikacyjne­
+-wiosna-2024 (dostęp 8 sierpnia 2024)
+Dane Naczelnej Izby Pielęgniarek i Położnych wskazują, że specjalizację
+w dziedzinie pielęgniarstwa onkologicznego na koniec 2023 roku posiada­
+ło 3749 pielęgniarek i położnych5. Zebrane do raportu dane wskazują, że od
+2019 roku, kiedy liczba pielęgniarek z tą specjalizacją wynosiła 21206, ich licz­
+ba istotnie wzrosła (o 76,8 proc.).
+5 Statystyka Naczelnej Izby Pielęgniarek i Położnych – Centralny Rejestr pielęgniarek i Położnych https://nipip.pl/
+wp-content/uploads/2024/01/2023-12-31-Specjalizacje.pdf (dostęp 8 sierpnia 2024)
+6 Statystyka Naczelnej Izby Pielęgniarek i Położnych – Centralny Rejestr pielęgniarek i Położnych https://nipip.pl/
+wp-content/uploads/2023/01/Specjalizacje_2019.pdf (dostęp 8 sierpnia 2024)
+Wykres 1. Liczba diagnostów laboratoryjnych, któr zy ukończyli specjalizację
+w dziedzinie laboratoryjnej hematologii medycznej
+Źródło: CMKP/KIDL
+0
+2
+4
+6
+8
+10
+2024
+2023
+2022
+2021
+2020
+2019
+(stan na 31 lipca 2024)
+2
+0
+0
+0
+3
+9
+Wykres 2. Liczba pielęgniarek i położnych, które uzyskały tytuł specjalisty
+w dziedzinie pielęgniarstwa onkologicznego
+Źródło: NIPiP
+0
+200
+400
+600
+2024
+2023
+2022
+2021
+2020
+2019
+(sesja wiosenna)
+599
+260
+290
+440
+90
+420
+Wykres 3. Liczba pielęgniarek i położnych, które uzyskały tytuł specjalisty
+w dziedzinie pielęgniarstwa internistycznego
+Źródło: NIPiP
+0
+600
+1200
+1800
+2400
+3000
+2024
+2023
+2022
+2021
+2020
+2019
+(sesja wiosenna)
+2980
+969
+1406
+2894
+865
+1618
+[TABELA strona 11, nr 1]
+owtzdówejoW | an hcynaizdiwezrp )ikcnedyzerazop
+csjeim nats byrt
+– :hcywoinelokzs
+hcynozdasbo 3202
+ńeisej abzcil( byrt/ikcnedyzer
+ezroban
+abzciL 332.21.12 csjeim
+w | an hcynaizdiwezrp )ikcnedyzerazop
+csjeim nats byrt
+– :hcywoinelokzs
+hcynozdasbo 4202
+ansoiw
+abzcil( byrt/ikcnedyzer
+abzciL ezroban 442.40.61 csjeim
+w
+--------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------
+Dolnośląskie | 4 (4/3) | 3 (3/3)
+Kujawsko-Pomorskie | 1 (5/0) | 1 (3/6)
+Lubelskie | 5 (7/2) | 3 (5/4)
+Lubuskie | 1 (2/0) | 0 (1/1)
+Łódzkie | 3 (3/2) | 0 (3/1)
+Małopolskie | 3 (2/1) | 1 (1/0)
+Mazowieckie | 9 (9/2) | 2 (3/2)
+Opolskie | 0 (2/2) | 0 (2/2)
+Podkarpackie | 6 (7/5) | 0 (3/3)
+Podlaskie | 0 (1/1) | 0 (4/0)
+Pomorskie | 4 (14/7) | 1 (8/9)
+Śląskie | 5 (7/2) | 1 (5/2)
+Świętokrzyskie | 0 (3/2) | 0 (3/2)
+Warmińsko-mazurskie | 0 (2/0) | 0 (2/0)
+Wielkopolskie | 4 (4/3) | 0 (2/0)
+Zachodniopomorskie | 2 (15/2) | 0 (6/9)
+20
+21
+Jak zachęcić młodych lekarzy
+do kształcenia w dziedzinie
+hematologii?
+Prof. dr hab. Krzysztof Giannopoulos, prezes Polskiego
+Towarzystwa Hematologów i Transfuzjologów, kierownik
+Zakładu Hematoonkologii Doświadczalnej Uniwersytetu
+Medycznego w Lublinie, dyrektor Centrum Wsparcia
+Badań Klinicznych Uniwersytetu Medycznego w Lublinie
+Kwestia kadr medycznych w obszarze hematologii jest odzwierciedleniem sy­
+tuacji, jaką mamy w całym systemie ochrony zdrowia – lekarzy jest zbyt mało.
+W ostatnich naborach na specjalizacje mieliśmy sytuacje, w których nieobsa­
+dzonych pozostawało blisko 100 miejsc zabezpieczonych w trybie rezydenckim.
+Z jednej strony to sygnał, że nasze ośrodki są w gotowości i chcą kształcić przy­
+szłych hematologów, z drugiej jednak strony nadal nie udaje nam się zachęcić
+wystarczającej liczby młodych osób do podejmowania kształcenia w tej deficy­
+towej specjalizacji. Jest to oczywiście szerszy problem, który powinien skłonić
+nas do przeanalizowania atrakcyjności naszej specjalizacji i jednocześnie do za­
+stanowienia się nad możliwościami rozwoju, jakie będziemy oferować młodym.
+Blaski i cienie hematologii
+Jestem przekonany, że jednym z elementów, który powinien zachęcać mło­
+dych lekarzy, jest dynamiczny rozwój tej dziedziny medycyny i czerpanie
+z najnowszych osiągnięć genetyki i immunologii. Z mojego punktu widzenia
+problemem jest to, że większość badań diagnostycznych oraz terapii jest
+podawana w systemie szpitalnym, co sprawia, że hematolodzy nie mogą
+w pełni korzystać z tych nowoczesnych osiągnięć w trybie ambulatoryj­
+nym. W efekcie hematologia staje się mniej atrakcyjną dziedziną w porów­
+naniu do tych, gdzie praca ambulatoryjna jest bardziej rozpowszechniona
+i istnieją większe możliwości rozwoju również finansowego poza systemem
+publicznym.
+Innym elementem mogącym wpływać na wybory młodych ludzi jest nie­
+wątpliwie presja związana z rozpoznaniem. Nadal większość naszych pacjen­
+tów w momencie rozpoznania nie będzie mogła zostać wyleczona. Oczywi­
+ście nasza praca będzie zmierzała do tego, by pacjentom przedłużać życie
+w dobrym komforcie, natomiast nadal umieralność na oddziałach hematologii
+może dla młodszego pokolenia stanowić pewne obciążenie psychiczne i ba­
+rierę do podejmowania szkolenia w tej dziedzinie. Dlatego ważną z mojego
+punktu widzenia wydaje się edukacja prowadzona w taki sposób, by z jednej
+strony nie zabić w młodym pokoleniu empatii do ciężko chorych pacjentów,
+z drugiej natomiast umożliwić mu zachowanie profesjonalizmu w relacji z pa­
+cjentem i jego bliskimi. Tego ostatniego na studiach młodzi adepci medycyny
+nie nauczą się i jedynie praca na oddziale jest w stanie pomóc im przygotować
+się na różne sytuacje.
+Ostatnim elementem, który może nie zachęcać młodych do podejmowania
+szkolenia w trudnych specjalizacjach, w tym hematologii, jest bardzo duże ob­
+ciążenie administracyjne, wynikające z organizacji polskiego systemu ochrony
+zdrowia.
+Hematologia otwiera ścieżki rozwoju
+Jednocześnie hematologia to specjalizacja wymagająca z jednej strony ogrom­
+nych pokładów cierpliwości, z drugiej natomiast wykorzystująca wiedzę teo­
+retyczną zdobywaną w trakcie studiów w takich obszarach jak genetyka czy
+immunologia. Daje nam to duże możliwości nieustannego rozwoju i łączenia
+działalności naukowej z działalnością kliniczną. Jestem przekonany, że specja­
+lizacja z hematologii otwiera tak dużo ścieżek, że każdy znajdzie obszar, w któ­
+rym będzie mógł się rozwijać.
+22
+23
+Potrzeby diagnostów
+w zakresie kształcenia
+Dr Karolina Bukowska-Strakova, wiceprezes Krajowej
+Rady Diagnostów Laboratoryjnych, przewodnicząca
+Krajowego Związku Zawodowego Pracowników
+Medycznych Laboratoriów, Zakład Immunologii Klinicznej
+Collegium Medicum Uniwersytetu Jagiellońskiego
+Nie ma prostej recepty na poprawę sytuacji kadrowej w medycynie laboratoryjnej.
+Z punktu widzenia środowiska diagnostów laboratoryjnych, aby przyciągnąć do zawo­
+du najlepszych, należałoby uczynić zawód bardziej atrakcyjnym poprzez zwiększenie
+samodzielności i właściwe wykorzystanie kompetencji merytorycznych w systemie
+(pomijam zarobki, jako dość oczywistą zachętę). Aby osiągnąć ten cel, należałoby wpro­
+wadzić zmiany zarówno w kształceniu przeddyplomowym, jak i również kształceniu
+podyplomowym, ze szczególnym uwzględnieniem zajęć w zespołach interprofesjonal­
+nych, tak aby już na tym etapie edukacji każdy zawód medyczny rozumiał, jaką wartość
+dodaną wnosi do opieki nad pacjentem współpraca specjalistów z poszczególnych ga­
+łęzi medycyny, w tym medycyny laboratoryjnej. Zmiany te powinny być dopasowane
+do potrzeb pacjentów oraz całego systemu ochrony zdrowia.
+Niestety, pomimo ukończenia kierunkowych, jednolitych studiów medycznych,
+nie zawsze jesteśmy w systemie ochrony zdrowia postrzegani jako samodzielna
+kadra mogąca wnieść dodatkową wartość do opieki nad pacjentem. To zniechęca
+młodych adeptów do pozostania w zawodzie. W związku z tym oczekiwalibyśmy już
+na etapie kształcenia przeddyplomowego większej współpracy między studentami
+poszczególnych kierunków medycznych. To pozwoli na zwiększenie świadomości
+wśród lekarzy i przedstawicieli innych zawodów medycznych, jeszcze zanim wejdą
+do zawodu, jakie korzyści daje interdyscyplinarna opieka nad pacjentem w ramach
+zespołów diagnostyczno-terapeutycznych z diagnostą laboratoryjnym jako ciałem
+doradczym w zakresie interpretacji możliwych odchyleń poszczególnych parame­
+trów, interferencji leków w oznaczenia laboratoryjne (DLTI), zapewniając efektywne
+(w tym ekonomicznie) i właściwe wykorzystanie badań i informacji z nich płynących.
+Natomiast w obszarze kształcenia podyplomowego, specjalizacyjnego, w tym
+także w ramach specjalizacji z laboratoryjnej hematologii medycznej, również istnia­
+łaby potrzeba zbliżenia nas z lekarzami hematologami. To zbliżenie sprawi, że z jed­
+nej strony nasz potencjał będzie efektywniej wykorzystywany do skrócenia ścieżki
+diagnostycznej pacjenta, z drugiej natomiast strony lekarze będą wiedzieli, w jakich
+obszarach możemy stanowić dla nich wsparcie merytoryczne, z korzyścią dla pacjen­
+ta. Naszym wymarzonym modelem realizacji kształcenia specjalizacyjnego byłby tryb
+rezydencki, z pełnym finansowaniem przez Ministerstwo Zdrowia. Taka formuła jest
+najbardziej efektywna zarówno dla samego specjalizanta, jak i dla kadry szkolącej
+w miejscu realizacji stażu podstawowego czy staży kierunkowych (dziś borykamy się
+z wieloma administracyjnymi i organizacyjnymi problemami).
+Jak stworzyć mechanizm zachęt dla ośrodków do realizacji szkoleń? Analogicznie
+jak w zawodzie lekarza – tyle, że tu byłaby oczywiście znacznie mniejsza skala. My­
+ślę, że w takim modelu nie trzeba byłoby specjalnie zachęcać młodych diagnostów
+do podejmowania specjalizacji.
+Jeśli chodzi o potencjał naukowy, trzeba pamiętać, że diagności w toku kształce­
+nia przeddyplomowego również zdobywają szeroką wiedzę z zakresu immunologii
+czy genetyki, a jednocześnie są świetnie przygotowani do stosowania wysokospe­
+cjalistycznych technik laboratoryjnych i prowadzenia badań naukowych. W szcze­
+gólności do planowania i realizowania eksperymentów badawczych, polegającego na
+przeprowadzeniu badań materiału biologicznego i genetycznego, co przy dzisiejszym
+postępie hematologii daje wielkie – i na dziś nie w pełni wykorzystane – możliwości
+prowadzania wspólnie badań. Badania takie powinny być zogniskowane na wdraża­
+niu do praktyki klinicznej innowacyjnych metod badawczych, ocenie przydatności
+klinicznej wybranych parametrów laboratoryjnych czy opracowywaniu nowych pro­
+cedur czy algorytmów diagnostycznych opartych o parametry laboratoryjne. Przy tak
+dynamicznym rozwoju dziedziny, jaką jest hematologia, konieczne są równoległy roz­
+wój i nakłady finansowe na medycynę laboratoryjną, która powinna podążać – jeśli
+wręcz nie wyprzedzać – za rozwojem nowych możliwości terapeutycznych. Powin­
+niśmy się nauczyć współpracować również na tym polu – na studiach w ramach np.
+wspólnych kół naukowych, a w szkołach doktorskich w ramach realizowania wspól­
+nych projektów badawczych. Łączenie klasycznej formy wykonywania zawodu "dia­
+gnosty praktyka” z prowadzeniem badań naukowych mogłoby być bardzo atrakcyj­
+ną formą realizacji aktywności zawodowej diagnostów w szpitalach klinicznych czy
+uniwersyteckich, która na pewno przyciągnęłaby młodych, ambitnych adeptów do
+tej dziedziny. Diagnosta, będąc zawodem na styku metodologii naukowej oraz pro­
+blematyki klinicznej, to potencjalnie idealne ogniwo rozwoju medycyny translacyjnej.
+Umiejętności prowadzenia badań oraz współpracy w tym zakresie z innymi zawoda­
+mi, należy zdecydowanie wzmacniać w ramach kształcenia przed- i podyplomowego.
+Połączenie szerokiej wiedzy z dziedzinie hematologii medycznej, chemii klinicz­
+nej, mikrobiologii klinicznej, immunohematologii, immunologii klinicznej, immuno­
+diagnostyki, diagnostyki molekularnej i patofizjologii, zintegrowane z wiedzą z za­
+kresu opieki zdrowotnej tj.: polityki zdrowotnej i zarządzania, farmakologii, edukacji
+zdrowotnej, zdrowia publicznego i epidemiologii, jaką diagnosta pozyskuje w trakcie
+kształcenia przeddyplomowego, a następnie specjalizacyjnego, czyni z diagnosty
+unikatowe ogniwo w procesie diagnostycznym.
+24
+25
+Jak zachęcić młode
+pielęgniarki do podjęcia pracy
+na oddziale hematologii?
+Mgr Ewa Baluch, pielęgniarka oddziałowa Kliniki Transplantacji
+Szpiku i Onkohematologii, zastępca Naczelnej Pielęgniarki,
+Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie
+– Państwowy Instytut Badawczy Oddział Gliwice
+Pielęgniarstwo jest jedną z najbardziej inspirujących i satysfakcjonujących karier,
+jakie kiedykolwiek stworzono. Tyle, ile dyscyplin medycyny, tyle też ukierunko­
+wań w pracy personelu pielęgniarskiego.
+Moje życie zawodowe od wielu lat splecione jest z oddziałem hematologii
+i transplantacji szpiku. Na oddziale o takim profilu nabywałam doświadczenia za­
+wodowego i podnosiłam kwalifikacje. Hematologia jest dziedziną medycyny zajmu­
+jącą się diagnozowaniem i leczeniem chorób krwi i układu krwiotwórczego. Często
+oddział hematologii połączony jest z oddziałem transplantacji szpiku, co poszerza
+możliwość leczenia poprzez przeprowadzanie procedur przeszczepienia komórek
+krwiotwórczych krwi. Obecnie jedną z najbardziej zajmujących świat metod lecze­
+nia niektórych chorób hematologicznych jest terapia CAR-T cells. W tych wszyst­
+kich procedurach na oddziale hematologicznym aktywny udział biorą pielęgniarki.
+Warto zwrócić też uwagę na możliwości tematyczne w podnoszeniu kwalifi­
+kacji zawodowych, można wybrać zarówno specjalizację w dziedzinie pielęgniar­
+stwa internistycznego, jak i onkologicznego, gdyż obie zawierają zagadnienia
+z dziedziny hematologii. Jednak najbardziej przekonującym argumentem jest to,
+że pielęgniarki podejmujące pracę na oddziałach hematologicznych pozostają
+z pacjentami wiele lat, niekiedy całe swoje zawodowe życie.
+Wielką radością i satysfakcją napawa mnie fakt, że w ciągu ostatnich czte­
+rech lat na nasz oddział zatrudniono 6 pielęgniarek tuż po uzyskaniu dyplomu.
+Świetnie odnalazły się w zespole i wśród wymagających holistycznej opieki
+pacjentów, a jedna z naszych młodych koleżanek podjęła badania naukowe
+i reprezentuje oddział na zjazdach i konferencjach.
+Praca na oddziale hematologicznym: jest trudna merytorycznie – ale przez
+to stajesz się bystrzejszym, jest intensywna – ale przez to stajesz się silniej­
+szym, wymaga zachowań opiekuńczych – ale przez to stajesz się lepszym czło­
+wiekiem.
+J
+ednym z aktualnych wyzwań polskiego systemu ochrony zdrowia jest
+odwrócona piramida świadczeń zdrowotnych. Według sprawozdania
+z działalności Narodowego Funduszu Zdrowia za 2023 rok w struk­
+turze kosztów świadczeń zdrowotnych finansowanych z budżetu płatnika aż
+51,6 proc. stanowiły koszty leczenia szpitalnego, 11,49 proc. – podstawowej
+opieki zdrowotnej, a 9,88 proc. ambulatoryjnej opieki specjalistycznej.
+Problem ten dotyka również hematologii, gdzie w latach 2022-2024 war­
+tość świadczeń udzielanych pacjentom hematologicznym w ambulatoryjnej
+opiece specjalistycznej stanowiła od 5,3 proc. do 5,9 proc. wartości świadczeń
+udzielanych pacjentom hospitalizowanym. Jednocześnie od 2022 roku liczba
+świadczeń udzielanych pacjentom hematologicznym – zarówno w AOS, jak
+i w szpitalach – rośnie. Przyczyn tej sytuacji jest wiele i – jak wskazują eksperci
+– wynikają one zarówno z ograniczeń związanych z brakiem produktów roz­
+liczeniowych, jak również z ograniczonych uprawnień i niewykorzystywanych
+kompetencji wybranych przedstawicieli kadr medycznych.
+W 2024 roku w Polsce1 dorośli pacjenci mogą otrzymać świadczenia z za­
+kresu leczenia hematologicznego w ramach ambulatoryjnej opieki specjali­
+stycznej w 110 poradniach, natomiast świadczenia z zakresu leczenie szpitalne
+realizowane są w 46 lokalizacjach.
+Organizacja opieki
+nad pacjentami z chorobami
+hematologicznymi:
+potrzebne zmiany
+1 Stan na 29 sierpnia 2024
+26
+27
+7
+5
+5
+3
+4
+6
+8
+6
+1
+18
+7
+5
+13
+3
+12
+22
+(14 miejsc
+udzielania
+świadczeń)
+(20
+miejsc)
+(9 miejsc
+udzielania
+świadczeń)
+LUBUSKIE
+WIELKOPOLSKIE
+KUJAWSKO-POMORSKIE
+ŁÓDZKIE
+DOLNOŚLĄSKIE
+OPOLSKIE
+ŚLĄSKIE
+MAŁOPOLSKIE
+PODKARPACKIE
+LUBELSKIE
+PODLASKIE
+ŚWIĘTOKRZYSKIE
+MAZOWIECKIE
+WARMIŃSKO-MAZURSKIE
+POMORSKIE
+ZACHODNIOPOMORSKIE
+Rysunek 1. Liczba świadczeniodawców udzielających świadczeń ambulatoryj­
+nych (AOS) z zakresu hematologii na terenie województwa
+2 Z przyczyn losowych (zgon lekarza udzielającego świadczeń w Jędrzejowie) placówka zgłosiła przerwę w realizacji
+kontraktu na świadczenia w ramach AOS
+Rysunek 2. Liczba świadczeniodawców udzielających świadczeń z zakresu le­
+czenie szpitalne w obszarze hematologii na terenie województwa
+3
+3
+2
+1
+1
+4
+4
+4
+1
+6
+3
+2
+4
+1
+6
+1
+LUBUSKIE
+WIELKOPOLSKIE
+KUJAWSKO-POMORSKIE
+ŁÓDZKIE
+DOLNOŚLĄSKIE
+OPOLSKIE
+ŚLĄSKIE
+MAŁOPOLSKIE
+PODKARPACKIE
+LUBELSKIE
+PODLASKIE
+ŚWIĘTOKRZYSKIE
+MAZOWIECKIE
+WARMIŃSKO-MAZURSKIE
+POMORSKIE
+ZACHODNIOPOMORSKIE
+Mapa oddziały szpitalne
+Mapa oddziały AOS
+Dane pozyskane od OW NFZ oraz z portalu https://gsl.nfz.gov.pl/
+28
+29
+Leczenie szpitalne dla
+pacjentów z najbardziej
+zaawansowaną chorobą
+Prof. dr hab. Sebastian Giebel, kierownik Kliniki
+Transplantacji Szpiku i Onkohematologii Narodowego
+Instytutu Onkologii im. Marii Skłodowskiej-Curie
+– Państwowego Instytutu Badawczego, Oddział
+w Gliwicach, prezes Stowarzyszenia Polska Grupa
+ds. Leczenia Białaczek u Dorosłych
+Liczba łóżek hematologicznych jest ograniczona i organizacyjnie nie jesteśmy
+w stanie zaopatrzyć wszystkich naszych chorych w warunkach szpitalnych.
+Z drugiej strony mamy świadomość, że nie we wszystkich przypadkach to le­
+czenie szpitalne jest uzasadnione, z uwagi na stosowanie nowoczesnej terapii,
+która z powodzeniem może być prowadzona w trybie ambulatoryjnym. Podob­
+nie jest z diagnostyką, która w wielu przypadkach może i wręcz powinna być
+przeprowadzana ambulatoryjnie, pod warunkiem powstania odpowiednich
+produktów rozliczeniowych.
+Oczywiście to nie dotyczy wszystkich chorych. Mamy nowotwory o agre­
+sywnym przebiegu, które wymagają intensywnego leczenia. Mamy również
+procedury, np. podanie CAR-T cells, czy procedury transplantacji szpiku, które
+bezwzględnie wymagają hospitalizacji. Do tego wszystkiego pobyty pacjentów
+na oddziale bywają długie i stąd infrastruktura w postaci oddziałów szpital­
+nych powinna być dla naszych pacjentów zabezpieczona.
+Odwrócenie piramidy
+świadczeń
+Prof. dr hab. Krzysztof Giannopoulos, prezes Polskiego
+Towarzystwa Hematologów i Transfuzjologów, kierownik
+Zakładu Hematoonkologii Doświadczalnej Uniwersytetu
+Medycznego w Lublinie, dyrektor Centrum Wsparcia
+Badań Klinicznych Uniwersytetu Medycznego w Lublinie
+
+Zdecydowanie znaczny zakres opieki nad pacjentami z nowotworami krwi mógł­
+by zostać przeniesiony poza szpitalne oddziały. W ostatnich latach rejestracje
+i refundacje, jakie odbywały się również w Polsce, dotyczyły kilku grup leków.
+Dwie z nich – leki celowane oraz leki immunoterapeutyczne – to grupy, w których
+pojawiły się preparaty podawane podskórnie lub doustnie, albo połączenia tych
+terapii. Te nowe możliwości leczenia naszych pacjentów sprawiają, że chorzy nie
+wymagają hospitalizacji podczas podawania leku. Konsekwencją podjętych decy­
+zji refundacyjnych powinno być zatem nie tylko zwiększenie dostępności terapii,
+ale również bardziej efektywne wykorzystanie kadr.
+Środowisko hematologiczne jest w stanie takie zabezpieczenie chorych zaofe­
+rować. W Polsce funkcjonuje 50 oddziałów i klinik hematologii, które w większości
+przypadków mają pełne kontraktowanie programów lekowych. Natomiast jedno­
+stek leczenia ambulatoryjnego mamy niemal dwa razy więcej. Warto podkreślić,
+że również w placówkach AOS są specjaliści, którzy wiedzą, jak leczyć pacjentów
+zgodnie ze standardami międzynarodowymi. To, czego im brakuje, to narzędzia –
+nie tylko w postaci leków, ale również produktów rozliczeniowych. Przesunięcie
+możliwie szerokiej grupy pacjentów z leczenia szpitalnego do leczenia ambulato­
+ryjnego przyniesie nam ogromną korzyść pod względem bardziej efektywnego wy­
+korzystania łóżek szpitalnych, do których również mamy obecnie ogromne kolejki.
+Hospitalizacji będą mogli natomiast podlegać pacjenci przyjmujący leki, ale w przy­
+padku, gdy nastąpi powikłanie terapii lub rozpoznanie będzie późne – wówczas
+terapia jest podawana w trybie ratunkowym z uwagi na ciężki stan pacjenta.
+Jednak by było to możliwe, konieczne jest wprowadzenie odpowiednich narzę­
+dzi. Pierwsze z nich to programy lekowe, których liczba w ambulatoryjnej opiece
+specjalistycznej jest obecnie ograniczona. Drugą kwestią jest diagnostyka. Pierw­
+szy krok – w postaci umożliwienia przeprowadzenia biopsji szpiku w warunkach
+ambulatoryjnych – został wykonany. Potrzebujemy jednak kolejnych świadczeń
+diagnostycznych, takich jak np. rozliczenie badań genetycznych, czy rozliczenie
+badań immunofenotypowych, które obecnie są ściśle związane z hospitalizacją.
+30
+31
+Musimy pamiętać, że diagnostyka chorób hematoonkologicznych nie wyma­
+ga skomplikowanych procedur chirurgicznych związanych z poborem tkanek czy
+wycinków, ale jest realizowana na podstawie badania krwi lub szpiku.
+Konkludując, nowoczesną diagnostykę chorób hematologicznych oraz nowo­
+czesne leczenie jesteśmy w stanie przesunąć do ambulatoryjnej opieki specjali­
+stycznej, ale niezbędne jest wprowadzenie odpowiednich produktów rozliczenio­
+wych.
+Innym istotnym dla hematologii obszarem powinna stać się medycyna
+rodzinna, która w Polsce powraca do roli głównego filaru systemu ochrony
+zdrowia. Jest to istotne z punktu widzenia przesuwania pacjentów ze szpitali
+do ambulatoryjnej opieki specjalistycznej, a dalej do POZ. Dlatego ważna jest
+dobra komunikacja pomiędzy poszczególnymi poziomami opieki. Oczywiście
+pewną praktyką stało się to, że pacjent trafiający do gabinetu lekarza specja­
+listy w obszarze hematologii pozostawał pod jego opieką. W praktyce jednak
+dzieje się to zarówno w przypadku ciężkich schorzeń, jak również prostych
+chorób, np. niedoborów żelaza, które z powodzeniem mogą być leczone przez
+lekarza rodzinnego. To pokazuje, że przepływ pacjentów powinien odbywać
+się w każdą ze stron.
+Mam świadomość, że obecnie wdrażany model opieki koordynowanej nie jest
+dopasowany do realiów onkologii i hematologii, natomiast sama koncepcja jest
+niezwykle cenna i dobra – zarówno dla pacjentów, jak i kadr medycznych oraz
+samego systemu ochrony zdrowia. Warto sięgnąć do doświadczeń z Wielkiej Bry­
+tanii i tego, jak opieka nad pacjentami z chorobami hematologicznymi wygląda
+w tamtejszym systemie ochrony zdrowia. Dobrym przykładem są chorzy z prze­
+wlekłą białaczką limfocytową, którzy w Wielkiej Brytanii otrzymują w ramach
+ambulatoryjnej opieki dwie porady. Na pierwszej wizycie przeprowadzane jest
+oznaczenie fenotypu, na drugiej wykonywany jest panel badań genetycznych. Na
+tej podstawie oceniane jest to, czy lekarz ma do czynienia z chorobą bardzo ni­
+skiego ryzyka.
+W przypadku systemu brytyjskiego badania genetyczne zostały włączone do
+systemu nie po to, aby włączyć pacjenta do programu lekowego, ale po to, by
+zarówno lekarz, jak i pacjent otrzymali informację rokowniczą. Pacjent z delecją
+13q (del(13q) i zmutowanym statusem genów IgVH najprawdopodobniej nigdy
+nie będzie wymagał leczenia. Taki pacjent w systemie brytyjskim po dwóch kon­
+sultacjach wraca do lekarza rodzinnego i ma proponowaną kontrolę w postaci ba­
+dania morfologicznego raz do roku. Jeśli w tym czasie rozwinąłby objawy według
+określonej listy, wówczas wróciłby do lekarza hematologa.
+Patrząc koncepcyjnie na przyszłość systemu ochrony zdrowia, to wprowa­
+dzenie takiego rozwiązania mogłoby udrożnić system opieki hematologicznej
+i zapewnić przepływ pacjentów pomiędzy poszczególnymi poziomami opieki.
+Współpraca lekarzy
+rodzinnych, diagnostów
+i innych specjalistów
+Tomasz Zieliński, specjalista medycyny rodzinnej,
+współwłaściciel poradni POZ, wiceprezes Federacji
+Związków Pracodawców Ochrony Zdrowia Porozumienie
+Zielonogórskie, prezes Lubelskiego Związku Lekarzy
+Rodzinnych-Pracodawców
+We wdrażanym modelu opieki koordynowanej w podstawowej opiece zdro­
+wotnej zakres onkologii i hematologii jest trudny do realizacji. Do nowego
+modelu wybrane zostały schorzenia, które są prowadzone przez lekarza ro­
+dzinnego. W przyjętym rozwiązaniu lekarz rodzinny jest głównym lekarzem
+prowadzącym dla pacjenta z cukrzycą, nadciśnieniem i innymi przewlekłymi
+schorzeniami, a wsparcia udziela mu konsultant – specjalista w danej dziedzi­
+nie (kardiolog, diabetolog etc.).
+Od pewnego czasu terminem opieka koordynowana chcemy natomiast
+określić nowoczesną formę organizacji opieki nad pacjentem. W przypadku
+pacjentów ze schorzeniami hematologicznymi ta nowa jakość opieki w podsta­
+wowej opiece zdrowotnej jest zasadna i mogłaby zostać zrealizowana np. u pa­
+cjentów, u których wynik badania morfologicznego krwi wskazuje na nieprawi­
+dłowości, a lekarz rodzinny ma wątpliwości dotyczące dalszej ścieżki pacjenta.
+Prosty kanał komunikacji między lekarzem rodzinnym a lekarzem hematolo­
+giem ułatwiłby szybką konsultację i uzyskanie informacji, jakie dodatkowe ba­
+dania wykonać, tak by dalsza ścieżka pacjenta była prostsza. W podstawowej
+opiece zdrowotnej lekarze zajmują się wieloma schorzeniami i w związku z tym
+często nie jesteśmy w stanie śledzić wszystkich najnowszych doniesień nauko­
+wych. Hematologia to dziedzina dynamicznie rozwijająca się, dlatego możli­
+wość przeprowadzenia konsultacji i ewentualnego wsparcia ze strony hemato­
+loga byłaby nieoceniona.
+32
+33
+Aby taka koordynacja mogła się wydarzyć, warto byłoby się również za­
+stanowić nad tym, jak zorganizować system. Dotychczasowe doświadczenia
+z wdrażaniem systemowej opieki koordynowanej w chorobach przewlekłych
+pokazują, że jednym z głównych wyzwań jest dostępność specjalistów. W efek­
+cie po 1,5 roku w tak przygotowany model weszło nieco ponad 30 proc. świad­
+czeniodawców.
+W przypadku hematologii wydaje się, że proces można byłoby odwrócić –
+to poradnie hematologiczne mogłyby pokazywać lekarzom rodzinnym swoją
+dostępność i to lekarze rodzinni decydowaliby o skorzystaniu z konsultacji
+z hematologiem. Organizacja ścieżki pacjentów powinna być systemowo
+przygotowana, a świadczeniodawcy AOS podpisując umowy z NFZ, powinni
+mieć zawarte w kontrakcie krótkie konsultacje z POZ. To rozwiązanie nie słu­
+żyłoby omijaniu kolejek do AOS, ale pozwalałoby rozróżniać ścieżki pacjen­
+tów na tych, którzy powinni możliwie szybko trafić do opieki specjalistycznej
+i tych, którzy mogą poczekać, a ich badania mogą zostać powtórzone, czy
+mogą pozostać pod kontrolą lekarza rodzinnego. Tak szeroko rozumiana ko­
+ordynacja w chorobach hematologicznych może przynieść korzyści zarówno
+pacjentom, jak i samemu systemowi.
+Porada diagnostyczna
+ma szansę usprawnić
+diagnostykę i ocenę leczenia
+Dr Karolina Bukowska-Strakova, wiceprezes Krajowej
+Rady Diagnostów Laboratoryjnych, przewodnicząca
+Krajowego Związku Zawodowego Pracowników
+Medycznych Laboratoriów, Zakład Immunologii Klinicznej
+Collegium Medicum Uniwersytetu Jagiellońskiego
+Nie możemy tracić z oczu faktu, że diagności laboratoryjni to naprawdę świet­
+nie wykształcona kadra – zdobywamy wykształcenie w trakcie jednolitych
+5-letnich studiów medycznych, a następnie podejmujemy kształcenie specja­
+lizacyjne w 13 dziedzinach medycyny laboratoryjnej, w tym m.in. z laborato­
+ryjnej hematologii medycznej. Jesteśmy wprost kształceni, aby opracowywać
+algorytmy diagnostyczne oparte o badania laboratoryjne i stanowić wsparcie
+merytoryczne dla lekarzy oraz proponować właściwą ścieżkę diagnostyczną
+dla danego pacjenta. Niestety te kompetencje nie są wystarczająco wykorzy­
+stywane, szczególnie na poziomie POZ czy AOS (trochę lepiej jest w leczeniu
+szpitalnym). Jednak już na etapie POZ podstawowe badanie, jakim jest morfo­
+logia krwi z rozmazem, jest kluczowym elementem z punktu widzenia wcze­
+snego wykrycia choroby i oceny, czy pacjent wymaga pogłębionej diagnostyki.
+Diagnosta, w szczególności diagnosta-specjalista, jest świetnie przygotowany,
+aby decydować o konieczności wykonania dodatkowych badań. Szybka, pro­
+aktywna interpretacja wyników badań przez diagnostę w nagłych przypadkach
+może zminimalizować opóźnienie w diagnostyce, wynikające z czasu oczekiwa­
+nia pacjenta na wizytę u lekarza/lekarza specjalisty. Przyczyni się to do zmniej­
+szenia kosztów, szybszej diagnozy i poprawy wyników leczenia pacjentów.
+Oczywiście w hematologii istotne są nie tylko rutynowe badania labo­
+ratoryjne, ale z punktu widzenia wdrażania zaawansowanych, celowanych
+terapii w leczeniu szpitalnym (a potencjalnie również z poziomu AOS) klu­
+czowe są również zaawansowane badania genetyczne, czy badania immuno­
+fenotypowe. Diagności laboratoryjni-specjaliści są istotni zarówno w przy­
+padku pogłębienia diagnostyki hematologicznej, jak również monitorowania
+pacjenta, w tym oceny mierzalnej choroby resztkowej. Praktycznie w każdym
+aspekcie hematologii diagnostyka laboratoryjna i praca diagnostów stano­
+wią zasadnicze wsparcie pacjenta i lekarza. Zwiększanie znaczenia diagnosty
+34
+35
+powinno polegać na obligatoryjnym uwzględnieniu jego roli jako członka in­
+terprofesjonalnych zespołów diagnostyczno-terapeutycznych.
+Jednym z rozwiązań, które mogłoby usprawnić i poprawić jakość opieki
+nad chorymi, jest porada diagnostyczna – jako odrębne świadczenie udziela­
+ne przez diagnostę. O takie rozwiązanie postuluje nasze środowisko wspie­
+rane przez Krajową Izbę Diagnostów Laboratoryjnych (KIDL). To świadcze­
+nie mogłoby być wykorzystywane na wielu etapach, np. diagnosta mógłby
+zlecić dodatkowe badanie z tej samem próbki krwi w momencie, gdy zauwa­
+żyłby niepokojący obraz w zleconym przez lekarza badaniu podstawowym.
+Ponadto, dozlecenie badań z tej samej próbki i wykonanie badań w jednym
+pakiecie, jednoczasowo, ma zdecydowanie większą wartość kliniczną i decy­
+zyjną dla lekarza. Można również wzorem UK czy ośrodków z USA (jak Mayo
+Clinic) wdrożyć algorytmy postępowania w laboratorium w przypadku otrzy­
+mania konkretnej wartości, przy wskazanym na skierowaniu rozpoznaniu. To
+oczywiście implikuje właściwe wypełnianie skierowania na badania, poprzez
+umieszczanie tam istotnych danych klinicznych, czy kodu ICD-10. W tym
+celu należałoby poprawić rejestr badań (kod LOINC) i wyodrębnić wycenę
+badań oraz ustalić ścieżki w komunikacji na linii diagnosta-lekarz-pacjent.
+Najbardziej palącymi problemami jest to, że diagnostyka laboratoryjna
+w wielu obszarach nie ma odrębnych produktów rozliczeniowych, przez co
+nie ma możliwości odrębnego kontraktowania. Nie ma również wymogów ka­
+drowych, przez co płatnik – Narodowy Fundusz Zdrowia (NFZ) – kontraktując
+świadczenia, nie wie, ile de facto środków przeznacza na diagnostykę, kto te
+badania wykonuje i interpretuje i jakiej są one jakości.
+Jednocześnie, chcąc zapewnić pacjentom opiekę na poziomie AOS, musimy
+wdrożyć odrębną wycenę badań, szczególnie kosztochłonnych badań specjali­
+stycznych, aby ich koszt nie obciążał rozliczenia samej wizyty. Obecnie prakty­
+ka jest taka, że aby rozliczyć badania w ramach AOS, pacjent jest umawiany na
+kilka wizyt, tak aby badania najkorzystniej rozliczyć. Nie ma to ani uzasadnienia
+klinicznego, ani ekonomicznego dla samego płatnika, bo finalnie płatnik koszt
+tych badań pokryje.
+Diagnosta powinien się przyczynić do zwiększenia wydajności procesu
+diagnostycznego, lepszego i szybszego dostępu do dokładnych i odpowied­
+nich badań laboratoryjnych, monitorowania wykorzystania badań labora­
+toryjnych i prowadzenia badań naukowych nad procesem diagnostycznym.
+Diagnosta powinien stanowić krytyczne ogniwo pomiędzy badaniami labora­
+toryjnymi, praktyką kliniczną i polityką opieki zdrowotnej, zapewniając efek­
+tywne i właściwe wykorzystanie badań i informacji płynących z badań labo­
+ratoryjnych poprzez eliminację zbędnych badań oraz zlecanie badań, które
+powinny były zostać zlecone, a nie zostały.
+W
+okresie od 1 sierpnia do 5 września inicjatorzy raportu Stowarzy­
+szenie Hematoonkologiczni, Fundacja Per Humanus i Fundacja
+Rzecznicy Zdrowia przeprowadzili internetowe badanie ankieto­
+we poświęcone życiu pacjentów mierzących się z chorobami hematologiczny­
+mi oraz nowotworami krwi i układu chłonnego.
+
+Odyseja diagnostyczna
+Ankieta przeprowadzona wśród pacjentów chorujących na schorzenia hematolo­
+giczne pokazała, że u co trzeciego respondenta czas postawienia prawidłowej dia­
+gnozy — od momentu zgłoszenia się do systemu ochrony zdrowia — wynosił ponad
+dwa lata. Na drugim biegunie była grupa 38,2 proc. ankietowanych chorych, u któ­
+rych czas postawienia właściwej diagnozy był liczony w miesiącach i nie przekroczył
+pół roku (wykres 1).
+Leczenie w oczach pacjentów
+Pacjenci dostrzegają również postęp, jaki dokonał się w obszarze leczenia.
+W ocenie 53,9 proc. ankietowanych leczenie ich choroby jest realizowane
+z wykorzystaniem najnowszych dostępnych terapii. Niestety nieco gorzej pa­
+cjenci oceniają informacje, jakie uzyskują na temat dostępnych, refundowa­
+nych terapii. W badaniu 58 proc. respondentów wskazało, że nie otrzymuje
+informacji o wszystkich dostępnych opcjach terapeutycznych.
+Badania kliniczne
+Jedną z możliwości skorzystania z nierefundowanych opcji terapeutycznych są
+również prowadzone w Polsce oraz za granicą badania kliniczne. W tym obsza­
+rze chorzy wskazują jednak na niedostateczną informację, jaką otrzymują od
+kadry medycznej. W ankiecie 67,2 proc. respondentów wskazało, że lekarze
+nie informowali ich czym są badania kliniczne, a 72,5 proc. nie uzyskało infor­
+macji o toczących się badaniach klinicznych w ich jednostce chorobowej.
+Choroba a życie społeczne i zawodowe
+W przypadku zdecydowanej większości chorych uczestniczących w badaniu
+(59,1 proc.) choroba nie zmieniła nic w ich życiu zawodowym, bowiem nadal
+pracują na pełen etat. Co dziesiąty ankietowany (10,2 proc.) przyznał natomiast,
+Dostęp do opieki i życie
+pacjentów z chorobą
+36
+37
+Wykres 1. Ile minęło czasu od momentu zgłoszenia się do systemu ochrony
+zdrowia z objawami choroby do momentu postawienia prawidłowej diagnozy?
+131 odpowiedzi
+2-3 lata
+1-2 lata
+6-12 miesięcy
+0-6 miesięcy
+powyżej 3 lat
+28,2 proc.
+38,2 proc.
+16 proc.
+12,2 proc.
+12,2 proc.
+Wykres 2. Jak choroba wpłynęła na Pani/Pana życie?
+127 odpowiedzi
+jestem na zasiłku
+przebywam
+na zwolnieniu lekarskim
+jestem na rencie ze względu
+na pogarszający się
+stan zdrowia
+pracuję na pełem etat,
+choroba nic nie zmieniła
+w moim życiu
+w momencie diagnozy
+byłam/byłem na emeryturze
+21,3 proc.
+59,1 proc.
+10,2 proc.
+4,7 proc.
+4,7 proc.
+że z uwagi na pogarszający się stan zdrowia musiał przejść na rentę lub też prze­
+bywa na zwolnieniu lekarskim (4,7 proc.). 21,3 proc. ankietowanych o swojej
+chorobie dowiedziało się, pobierając świadczenie emerytalne. 28 proc. ankie­
+towanych posiada jednocześnie orzeczenie o niepełnosprawności (wykres 2).
+
+Wyzwania dla pacjentów hematologicznych
+Jednym z głównych wyzwań dla pacjentów uczestniczących w badaniu była
+konieczność sfinansowania ze środków prywatnych dojazdu do ośrodka,
+w którym byli leczeni. Na problem ten wskazywał co drugi respondent. Równie
+istotnym obciążeniem dla domowych budżetów była konieczność skorzystania
+z prywatnych konsultacji lekarskich (48,4 proc.), a także konieczność sfinan­
+sowania dodatkowych leków (47,7 proc.) oraz suplementów diety (35,2 proc.).
+Blisko 11 proc. ankietowanych dodatkowo musiało ponosić koszty rehabilitacji
+i fizjoterapii (wykres 3).
+Pacjenci hematologiczni a ich komfort psychiczny
+Jednym z wyzwań dla chorych na choroby hematologiczne i hematoonkolo­
+giczne jest ogromny stres związany z diagnozą, ale również terapią. A jednym
+z narzędzi pozwalających na ocenę "temperatury” psychiki chorego jest termo­
+metr dystresu — darmowe narzędzie opracowane przez National Comprehen­
+sive Cancer Network (NCCN), którego celem jest ułatwienie rozmowy z cho­
+rym, a także szybsze reagowanie na psychiczny dyskomfort chorego. W wersji
+2.2022 termometru dystresu oceniane są problemy pacjentów w pięciu obsza­
+rach, do których należą:
+
+⦁Obawy fizyczne (m.in. kwestia snu, bólu, zmęczenia, utraty lub zmiany zdol­
+ności fizycznych, czy zdrowia seksualnego).
+
+⦁Obawy o charakterze emocjonalnym (m.in. strach, samotność, złość, smu­
+tek lub depresja).
+
+⦁Obawy o charakterze społecznym (m.in. relacje z małżonkiem lub partne­
+rem, z dziećmi, przyjaciółmi).
+
+⦁Obawy o charakterze praktycznym (m.in. dbanie o siebie, praca, szkoła, fi­
+nanse, opieka nad dziećmi).
+
+⦁Kwestie duchowe lub religijne (m.in. poczucie sensu, konflikt między prze­
+konaniami a terapią nowotworową, stosunek do sacrum).
+W praktyce okazuje się jednak, że 96,9 proc. ankietowanych nie wie­
+działo, czym jest badanie termometrem dystresu, a 98,5 proc. nigdy nie
+miało do czynienia z tego typu badaniem w gabinecie lekarza. Zdecydowa­
+na większość ankietowanych (85,5 proc.) nie otrzymała w gabinecie lekar­
+skim propozycji skorzystania ze wsparcia psychologicznego.
+Pacjent w chorobie
+— gdzie szuka informacji i wsparcia
+W ankiecie zapytaliśmy również o to, skąd pacjenci czerpią wiedzę na temat
+swojej choroby. Zdecydowana większość wiedzę o zdiagnozowanej chorobie
+czerpie z materiałów dostępnych w Internecie (81,8 proc.) oraz uczestnicząc
+w grupach wsparcia działających w mediach społecznościowych (80,3 proc.).
+Kadra medyczna — lekarze oraz pielęgniarki — byli źródłem wiedzy na temat
+choroby dla co drugiego ankietowanego (53,8 proc.). Uczestniczący w bada­
+niu pacjenci wskazali również na edukacyjny wymiar webinarów z eksperta­
+38
+39
+Wykres 3. Wydatki związane z moją chorobą, które obciążają mój budżet to:
+128 odpowiedzi
+0
+10
+20
+30
+40
+50
+60
+70
+dojazd do ośrodka
+rehabilitacja
+i ﬁzjoterapia
+prywatne
+wizyty lekarskie
+suplementy diety
+dodatkowe leki
+47,7 proc.
+35,2 proc.
+48,4 proc.
+10,9 proc.
+53,1 proc.
+Wykres 4. Skąd czerpie Pani/Pan wiedzę na temat swojej choroby?
+132 odpowiedzi
+0
+25
+50
+75
+100
+125
+z warsztatów
+z webinarów
+z grup wsparcia
+z otrzymanych
+poradników
+z internetu
+od lekarza/
+pielęgniarki
+53,8 proc.
+81,8 proc.
+13,6 proc.
+80,3 proc.
+23,5 proc.
+11,4 proc.
+mi (23,5 proc.), a także poradników edukacyjnych otrzymanych w placówkach
+medycznych (13,6 proc.) oraz warsztatów edukacyjnych organizowanych przez
+organizacje pacjenckie (11,4 proc., wykres 4).
+ŻYCIE Z CHOROBĄ HEMATOLOGICZNĄ
+– OPINIE PACJENTÓW
+Jakiego innego, dodatkowego wsparcia (poza tym oferowanym przez
+kadrę medyczną i organizacje pozarządowe) oczekiwałby Pan/ oczeki­
+wałaby Pani w związku ze swoją chorobą?
+➠ "Oczekiwałbym procedury orzeczenia o niepełnosprawności,
+która nie uwłacza człowiekowi choremu, stara się pomóc i za­
+bezpieczyć go”.
+➠ "Koordynacja leczenia wielonarządowych powikłań po przeszcze­
+pie (aby prowadził mnie zespół, żebym nie musiała na własną rękę
+leczyć się u różnych specjalistów, ale żeby opieka była skoordy­
+nowana). Wsparcia w organizacji częstych dojazdów do ośrod­
+ka transplantacyjnego, zapewnienia przez szpital niedrogiego
+hostelu, możliwości wykonywania części badań poza ośrodkiem
+transplantacyjnym, w najbliższym szpitalu NFZ. Uwzględnienia
+w procesie wieloletniego leczenia życia prywatnego pacjenta.”.
+➠ "Kadrze medycznej brakuje czasu na to, by wyposażyć pacjenta
+w wiedzę. Dobrze by było, gdyby istniała "państwowa” baza da­
+nych, miejsce, gdzie pacjent otrzymałby rzetelne informacje na
+temat choroby, leczenia, możliwości terapii czy otrzymania leku,
+który nie jest podawany w placówce medycznej, w której się le­
+czę…”.
+➠ "Szybszego dostępu do wizyt u lekarzy specjalistów, z konsultacji
+których muszę korzystać w związku ze skutkami ubocznymi le­
+czenia podstawowego. Zazwyczaj muszę decydować się na kosz­
+towne wizyty prywatne”.
+[TABELA strona 21, nr 1]
+| 5 | 3,8 proc. | |
+---+------------------+-----------+----------+----
+| | | 81,8 pr | oc.
+1 | 3,6 proc. | | |
+| | | 80,3 pro | c.
+| 23,5 pr
+,4 proc. | oc. | |
+11 | | | |
+40
+41
+➠ "Pacjenci potrzebują stałego, bezpłatnego wsparcia psycholo­
+gicznego dla chorujących onkologicznie”.
+➠ "Pacjenci w momencie postawienia diagnozy powinni być kiero­
+wani do psychologa chociaż na kilka wizyt. Niestety często jest
+tak, że nawet rodzina nie umie pomóc.”.
+➠ "Wsparcie psychologiczne byłoby pożądane, ponieważ po dia­
+gnozie byłam w fatalnym stanie psychicznym. Głównie przez sta­
+ny lękowe. Kadra medyczna wiedziała o tym, jednak w szpitalu
+nie odwiedził mnie żaden psycholog ani nie dostałam do niego
+skierowania”.
+➠ "Możliwość uzyskania szybszej wizyty u lekarza innej specjal­
+ności, niezbędnej w związku z innymi problemami zdrowotnymi
+jako skutkami leczenia choroby podstawowej. Uzyskanie wizyty
+u lekarza rodzinnego w tym samym dniu, w którym zgłaszamy się
+o niezbędną poradę lekarską, co nie zawsze jest możliwe w przy­
+chodniach”.
+➠ "Z moich doświadczeń wynika, że brakuje kompleksowego po­
+dejścia do chorego. Kiedy w wyniku brania leków na nadpłyt­
+kowość pojawiły się u mnie skrajne świądy, a potem jeszcze
+depresja, wówczas jeździłam na prywatne wizyty do poszcze­
+gólnych specjalistów, aby sobie pomóc. To grupa [w mediach
+społecznościowych — przyp. red.] udzielała mi wsparcia i pod­
+powiadała, co robić. Lekarze hematolodzy są przepracowani.
+W nagłej sytuacji, kiedy coś się dzieje, nie ma możliwości, aby
+się ich poradzić. Tego właśnie też brakuje — dostępności, kiedy
+nagle pojawiają się powikłania leczenia podstawowego”.
+System ochrony zdrowia
+oczami pacjentów
+Katarzyna Lisowska, przedstawicielka Stowarzyszenia
+Hematoonkologiczni, prezeska Fundacji Per Humanus
+W naszej ankiecie zdecydowaną większość odpowiadających stanowiły kobie­
+ty, to prawie 80 proc. osób. Dla większości pacjentów to mąż, żona, partner,
+partnerka jest największym wsparciem w chorobie. Na drugim miejscu są grupy
+wsparcia, które od lat wspierają pacjentów w konkretnych jednostkach choro­
+bowych. Na pomoc w tym trudnym czasie pacjenci mogą liczyć także ze strony
+dzieci i przyjaciół. Niestety nadal aktywność organizacji pacjentów nie jest wy­
+starczająco dostrzegana przez personel medyczny — ponad 92 proc. pacjentów
+nie otrzymało żadnej informacji od lekarza i personelu medycznego o organiza­
+cjach, które wspierają pacjentów. Szkoda, bo organizacje pacjentów wydają po­
+radniki edukacyjne, organizują webinary z ekspertami, pacjenci mogą się spotkać
+i porozmawiać o swojej chorobie podczas warsztatów, otrzymać także wsparcie
+psychologiczne oraz rzetelną wiedzę na temat swojej choroby.
+Kiedy już pacjent znajdzie informacje w Internecie i trafi do grup wsparcia, to
+zdecydowana większość (ponad 80 proc.) pacjentów czerpie wiedzę na temat
+swojej choroby właśnie z zamkniętych grup. Pacjenci bardzo cenią sobie wiedzę,
+którą otrzymują od lekarza i personelu medycznego. Ten kontakt z lekarzem he­
+matologiem jest dla chorych bardzo ważny, ponieważ obecnie większość terapii
+jest "uszytych na miarę” dla konkretnych mutacji genetycznych, zatem leczenie
+może być personalizowane dla każdego pacjenta.
+Metryczka pokazała, że choroby hematologiczne mogą dotknąć pacjentów
+w każdym wieku. Chorują zarówno osoby młode, jak również seniorzy powyżej
+70. roku życia. Dlatego w przypadku pacjentów tak ważna jest refundacja nowo­
+czesnych molekuł, pozwalających chorym pozostać na rynku pracy.
+O ile w ostatnich latach doszło do istotnej poprawy w dostępie do nowych te­
+rapii hematologicznych i hematoonkologicznych, to nadal jednym z największych
+wyzwań dla pacjentów leczonych w ośrodkach referencyjnych jest konieczność
+dotarcia do placówki oddalonej od miejsca zamieszkania. Przyczyn tego stanu
+upatrywać należy w wykluczeniu transportowym. Dlatego nie dziwi nas, że w an­
+42
+43
+kiecie ponad 53 proc. pacjentów wskazało, że jednym z istotnych obciążeń dla
+domowego budżetu jest konieczność ponoszenia kosztów związanych z dojaz­
+dem do ośrodka. Co dziesiąty zapytany ze swoich prywatnych środków płaci
+za dodatkową rehabilitację i fizjoterapię. Ten obszar wymaga naszym zdaniem
+zmian, bo od lat nic się na lepsze nie zmieniło.
+Nasza ankieta wyraźnie pokazała, że obszarem, o którym pacjenci mają nadal
+zbyt małą wiedzę, jest kwestia orzeczenia o niepełnosprawności — warunków
+jego uzyskania, kwalifikacji etc. W przypadku ankietowanych tylko 28 proc.
+posiadało takowe. Dlatego w tym obszarze upatrywałabym konieczności więk­
+szej aktywności organizacji pozarządowych i działań edukacyjnych ze strony
+instytucji państwowych.
+Raport "Hematologia — nowe otwarcie” pokazuje, jak wiele przez ostatnie
+lata zmieniło się w polskiej hematologii. Postęp w medycynie sprawił, że część
+chorób hematologicznych stała się chorobami przewlekłymi. Świadczy o tym
+również grupa pacjentów biorących udział w badaniu — 39,4 proc. pacjentów
+leczy się od 1 roku do 5 lat, 23,5 proc. pacjentów od 5 do 10 lat, a 18,9 proc.
+ankietowanych leczy się powyżej 10 lat.
+Wyniki ankiety wyraźnie wskazują na potrzebę zmiany w organizacji systemu
+ochrony zdrowia w obszarze szybszego wykrywania choroby. Ponad 28 proc.
+ankietowanych na właściwą diagnozę swojego stanu zdrowia czekało powyżej
+trzech lat. Musimy pamiętać, że brak diagnozy oznacza brak dostępnego le­
+czenia. Często pacjenci w chwili rozpoznania są już w bardzo zaawansowanym
+stadium choroby. Pocieszającym jest jednak to, że 38,2 proc. ankietowanych
+na diagnozę czekało do 6 miesięcy. Pokazuje to potrzebę szerszej edukacji le­
+karzy rodzinnych, samych pacjentów i ich bliskich.
+Warto również zwrócić uwagę, że badanie wskazuje na ogromny sukces organi­
+zacji pozarządowych, które działają na rzecz chorych. To właśnie organizacje poza­
+rządowe stanowią dla pacjentów ogromne wsparcie — organizują dni profilaktyki,
+kampanie edukacyjne, spotkania z ekspertami, tworzą poradniki, są do dyspozycji
+pacjentów i ich bliskich, prowadzą grupy wsparcia, a także organizują pacjentom
+wsparcie psychologiczne, którego w systemie ochrony zdrowia brakuje. Często to
+właśnie organizacje pacjentów, dysponując doświadczeniem swoim oraz swo­
+ich podopiecznych, najlepiej znają potrzeby chorych i są w stanie przygotować
+materiały edukacyjne dopasowane do danej choroby.
+Z ankiety wynika, że 89,4 proc. respondentów nie otrzymało podczas wizy­
+ty w ośrodku leczenia żadnych materiałów edukacyjnych dedykowanych ich
+chorobie. To jednak już się zmienia. Szpitale i przychodnie przyszpitalne co­
+raz częściej nawiązują współpracę z organizacjami pacjenckimi, pozwalając im
+przekazywać takie materiały pacjentom leczonym w ośrodku.
+Codzienność i potrzeby
+pacjentów z chorobami
+hematologicznymi
+Monika Skóra, lat 46, współzałożycielka Stowarzyszenia
+Hematoonkologiczni, Olsztyn
+Z mielofibrozą żyję już dziesięć lat. Wszystko zaczęło się w 2014 roku, kie­
+dy pojawiły się pierwsze objawy. Już wówczas podejrzewałam u siebie cho­
+robę, ale nie miałam postawionej diagnozy. Pierwsze symptomy skłaniały
+mnie do podejrzewania u siebie alergii, dodatkowo mierzyłam się z dużymi
+bólami kości. Będąc osobą, która nie spożywa mięsa, miałam jednak w zwy­
+czaju wykonywanie co roku badania morfologicznego krwi. W pewnym mo­
+mencie zaczęłam zauważać pewne nieprawidłowości, które zaczęły mnie
+niepokoić i swoim uporem przekonałam lekarza rodzinnego, że potrzebuję
+konsultacji z lekarzem hematologiem. Szukając informacji o stwierdzonych
+nieprawidłowościach w badaniu morfologicznym krwi, trafiłam na stronę
+internetową Instytutu Hematologii i Transfuzjologii. Analizując zawarte tam
+informacje, doszłam do wniosku, że mogę mierzyć się z poważną chorobą
+hematologiczną. Wówczas byłam już przekonana, że wymagać będę bar­
+dziej szczegółowych badań, których prywatnie nie będę w stanie wykonać.
+Na wizytę w poradni hematologicznej czekałam blisko 9 miesięcy.
+Ostatecznie trafiłam jednak do bardzo zaangażowanej hematolog, która
+po dwóch miesiącach pogłębionej diagnostyki postawiła diagnozę mielo­
+fibrozy. Byłam zaskoczona, gdyż przeprowadzając "autodiagnozę”, byłam
+przekonana, że choroba, z którą się mierzę, to nadpłytkowość. Tak wyglą­
+dał początek mojej choroby.
+Wsparcie ze strony kadr medycznych
+Słysząc diagnozę choroby nowotworowej, byłam zaskoczona, ale to, w jaki
+sposób zajmowała się mną przez dwa miesiące lekarz hematolog sprawiło,
+że nie potrzebowałam wsparcia psychologa. Pani doktor, omawiając ze mną
+44
+45
+poszczególne wyniki badań i kolejne kroki na ścieżce diagnostyczno-terapeu­
+tycznej, stworzyła atmosferę, która napawała mnie nadzieją. Dzięki jasno na­
+kreślonemu planowi pokazującemu każdy kolejny etap na drodze do zdrowia
+i życia wiedziałam, którędy będziemy wspólnie podążać. Dzięki empatii i po­
+stawie pani doktor, która dawała mi poczucie "zaopiekowania”, w sposób dość
+naturalny przeszłam do porządku dziennego nad moją chorobą.
+Moje życie z chorobą
+Jednym z największych wyzwań i dolegliwości, z jakimi musiałam mierzyć się
+od początku swojej choroby, były bóle kości. Próbując różnych rozwiązań, py­
+tając na grupach wsparcia i radząc się innych chorych, doszłam jednak do mo­
+mentu, w którym wiem, co może być przyczyną wzmagających się objawów
+bólowych. Szybko okazało się, że z diety wegetariańskiej musiałam przejść na
+dietę wegańską, eliminując z diety wszelkie produkty mleczne.
+Niestety problemy pojawiły się u mnie również podczas leczenia. W jego
+trakcie źle reagowałam na leki, pojawiły się u mnie działania niepożądane, m.in.
+zakrzepica, przez którą musiałam zrezygnować z biegania. Muszę przyznać, że
+było to dla mnie trudne doświadczenie, bo bieganie było dla mnie niezwykle
+ważne. Niestety wraz z postępem choroby zostałam poproszona przez lekarzy
+o rezygnację z tej aktywności.
+Muszę również podkreślić, że trafiłam na lekarzy, którzy traktowali mnie,
+i nadal traktują, po partnersku. Od początku wiedziałam, jak będzie przebie­
+gać leczenie i to wpłynęło również na moje nastawienie do niego. Chciałabym
+w tym miejscu zaapelować do pacjentów, aby na wizyty szli ze swoimi bliskimi
+i przygotowywali sobie pytania, które zadadzą lekarzowi. Oczywiście dobrze,
+żeby pacjenci poszerzali swoją wiedzę o chorobie, natomiast mam świado­
+mość, że nie zastąpi to wiedzy, jaką posiada lekarz.
+Moje doświadczenia oraz doświadczenia osób, które szukają wsparcia na
+prowadzonych przez Stowarzyszenie Hematoonkologiczni grupach wspar­
+cia, pokazują, że pacjenci w Polsce muszą być dobrymi menedżerami swojej
+choroby. Muszą znać nie tylko jej specyfikę, ale również śledzić informacje
+o nowych terapiach i starać się na bieżąco aktualizować wiedzę o swojej
+chorobie. Jest to szczególnie ważne z uwagi na system, w którym lekarze
+są przeciążeni administracją i często czas, jaki mogliby poświęcić choremu,
+jest pożerany przez obowiązki biurokratyczne związane np. z obsługą pro­
+gramów lekowych.
+Choroba to dodatkowe obciążenie dla domowego budżetu
+Dla wielu pacjentów poważnym wyzwaniem – obok konieczności dotarcia do
+placówki, gdzie otrzymują leczenie – są dodatkowe obciążenia w postaci np.
+konieczności finansowania sobie wizyt u innych specjalistów, zakupu dodat­
+kowych leków, które mogą nie być refundowane, a także wykonywania dodat­
+kowych badań. Przykładem może być sytuacja, jakiej doświadczyłam w trak­
+cie terapii, kiedy w wyniku leczenia wystąpiło u mnie działanie niepożądane
+w postaci zakrzepicy. Niestety refundowany lek nie zadziałał i dopiero terapia
+lekiem pełnopłatnym przyniosła efekty.
+Często ograniczając podróże do ośrodków prowadzących terapię, pacjen­
+ci decydują się na wykonywanie kontrolnych badań (morfologii czy badań
+obrazowych) w pobliżu miejsca zamieszkania, przez co muszą je realizować
+na własny koszt. W przypadku mielofibrozy wiemy, że bez przeszczepu szpi­
+ku, na który nie każdy pacjent się decyduje, leczenie będzie musiało być
+prowadzone do końca życia.
+Choroba nauczyła mnie jednej rzeczy: nie planować. Brać z życia, co tu i te­
+raz, i nie zakładać. Dziś już nie biegam - została mi tylko joga i aż joga, ale
+cieszę się tym. Nie jestem sprawna jak dawniej, ale staram się, choć mam ogra­
+niczenia (rosnąca śledziona nie pomaga, poty nie pomagają, wysiłek bardziej
+męczy, organizm wolniej się regeneruje). Joga uczy dystansu do siebie. Pozwala
+mi odganiać złe emocje. Dzięki niej znajduję wyciszenie, spokój i siłę do życia,
+z którego staram się brać tyle, ile mogę, bez pretensji, i tyle, ile będę mogła. Nie
+walczę ze sobą. Najważniejsze to znaleźć to, co jest dobre dla ciebie w danej
+chwili i się temu poddać. Nie zakładać i nie planować – wtedy nie przyjdzie roz­
+czarowanie. Znaleźć pozytywne strony, nawet w najtrudniejszej sytuacji. I jesz­
+cze jedno – warto podzielić swój problem na pół i dzielić z kimś swoje troski.
+46
+47
+Dr hab. Tomasz Wróbel, kierownik Kliniki Hematologii,
+Nowotworów Krwi i Transplantacji Szpiku
+Uniwersyteckiego Szpitala Klinicznego
+im. Jana Mikulicza-Radeckiego we Wrocławiu
+Nowotwory układu chłonnego stanowią około 2-3 proc. wszystkich nowotwo­
+rów, co sprawia, że mówimy o kilku tysiącach ludzi w Polsce, którzy chorują na
+różne typy chłoniaków. To, co jest wyzwaniem, to istnienie wielu podtypów no­
+wotworów hematologicznych, co komplikuje ich klasyfikację. Niestety to spra­
+wia, że nie mamy w Polsce dobrych danych epidemiologicznych. Szacuje się,
+że na chłoniaka rozlanego z dużych limfocytów B, czyli najczęstszy nowotwór
+agresywny układu chłonnego, co roku zapada około 1500 pacjentów. Z drugiej
+strony stosowanie klasyfikacji ICD-10 sprawia, że nowotwory hematologiczne
+wydają się rzadkie. W przypadku chłoniaków każdy ich podtyp spełnia kryte­
+ria choroby rzadkiej. Jeśli jednak zagregujemy te dane i włączymy wszystkie
+podtypy nowotworów do jednej grupy nowotworów układu krwiotwórczego
+(chłoniaki, białaczki, zespoły mielodysplastyczne itd.), wówczas stanowią one
+nawet 11 proc. wszystkich nowotworów. To pokazuje, że nowotwory krwi nie
+są tak rzadkie w Polsce i stanowią istotny problem i wyzwanie dla systemu
+i środowiska klinicystów.
+Układ chłonny składa się z systemu węzłów chłonnych zlokalizowanych
+w różnych miejscach i towarzyszących wielu naszym organom, a także z tkanki
+chłonnej zlokalizowanej np. w migdałkach, jelitach. Stąd też chłoniaki mogą
+zajmować każdy narząd. Najczęstszym objawem jest niebolesne powiększenie
+węzłów chłonnych w różnych lokalizacjach — na szyi, w pachwinie, pod pachą,
+w klatce piersiowej, czy w jamie brzusznej. Niestety dość często zdarza się, że
+to powiększenie węzłów chłonnych przebiega bez żadnych innych dodatko­
+wych objawów. U około jednej trzeciej pacjentów może dojść do wystąpienia
+tzw. objawów systemowych. To mogą być gorączki o niewyjaśnionej przyczy­
+nie, nocne zlewne poty, utrata masy ciała. W przypadku chłoniaka Hodgkina
+dodatkowo może być to świąd skóry — uporczywy, o niejasnym mechanizmie
+i trudny do złagodzenia. Oczywiście to nie jedyne objawy. W przypadku, gdy
+Chłoniaki — epidemiologia,
+diagnostyka, leczenie
+dojdzie do nacieków na jelitach np. w chłoniaku żołądka, wówczas możemy
+mieć do czynienia z krwawieniami do układu pokarmowego, perforacji. W przy­
+padku chłoniaka usytuowanego w śródpiersiu może dochodzić do duszności,
+czy powikłań zakrzepowych.
+W klasyfikacji dzielimy chłoniaki na ziarnicze (chłoniak Hodgkina) oraz
+chłoniaki nieziarnicze. Chłoniak Hodgkina to relatywnie rzadki typ chłoniaka
+— w Polsce notujemy około kilkuset zachorowań rocznie. Ten typ nowotworu
+dotyka w głównej mierze osoby młode i co istotne, dobrze się leczy — szacunki
+dla Polski wskazują, że ponad 80 proc. pacjentów można wyleczyć.
+W przypadku drugiej, liczniejszej grupy — chłoniaków nieziarniczych mamy
+do czynienia z wieloma podtypami histologicznymi, które z klinicznego punktu
+widzenia dzielimy na dwa główne podtypy: chłoniaki agresywne oraz indolent­
+ne, czy inaczej mówiąc — przewlekłe.
+W przypadku chłoniaków agresywnych choroba ma dynamiczny przebieg:
+rozwija się w ciągu tygodni lub miesięcy i nieleczona prowadzi nieuchronnie do
+śmierci. U takich pacjentów konieczne jest jak najszybsze postawienie rozpozna­
+nia oraz wdrożenie właściwego leczenia. Warto również podkreślić, że agresywny
+przebieg nie oznacza, że takie chłoniaki źle rokują. Jeśli diagnostyka jest odpo­
+wiednio szybka to większość pacjentów można skutecznie i efektywnie wyleczyć.
+Celem klinicznym jest więc uzyskanie całkowitej remisji i wyleczenia chorego.
+Natomiast chłoniaki indolentne charakteryzują się bardzo powolnym rozwo­
+jem, przez co w większości przypadków rozpoznawane są w stadiach zaawan­
+sowanych. W stadium zaawansowanym ten typ nowotworu nie jest wyleczalny,
+ale nie jest to jednoznaczne z tym, że chory umrze. Strategia leczenia tego typu
+nowotworu nie zawsze zakłada podanie pacjentowi leków przeciwnowotworo­
+wych od razu. Jeśli dynamika choroby jest niska, nie ma ona takich cech aktyw­
+ności jak np. anemia, czy zagrażające życiu naciekanie na narządy, to często taki
+pacjent na początku nie jest leczony, lecz znajduje się w obserwacji. Ta strategia
+nazywana jest watch & wait i polega na tym, że terapia wdrażana jest dopiero
+w momencie, kiedy u pacjenta dochodzi do progresji choroby. W przypadku pa­
+cjentów z chłoniakami indolentnymi mediana przeżycia wynosi nawet 10-12 lat.
+Oczywiście jest to pewien poziom uogólnienia, ponieważ również w tej grupie
+pojawiają się wyjątki od reguły. W przypadku chłoniaków indolentnych szybkie
+wdrożenie terapii nie jest dla nas priorytetem, ale wdrażając terapię, również
+dążymy do uzyskania całkowitej remisji, mając jednocześnie świadomość, że ta
+choroba ma tendencję do nawrotów. W związku z tym pacjent w trakcie swojej
+choroby może wymagać kilku czy nawet kilkunastu linii terapii i jednocześnie
+będzie potrzebował stałego monitoringu swojej choroby.
+Trudno jest mówić o profilaktyce chłoniaków, natomiast czujność lekarzy
+rodzinnych powinna dotyczyć najczęstszego objawu, jakim jest powiększenie
+48
+49
+węzłów chłonnych. Na pewno wskazane są okresowe badania kontrolne. Jeśli
+pacjent regularnie wykonuje badania morfologiczne, to również powinien być
+poddawany badaniu przedmiotowemu i ocenie węzłów chłonnych. Chciałbym
+w tym miejscu również podkreślić, że chłoniaki nie muszą dawać nieprawidło­
+wości w badaniu morfologicznym, co wiąże się bezpośrednio z faktem, że są
+to przede wszystkim nowotwory układu chłonnego i węzłów chłonnych, gdzie
+zajęcie szpiku kostnego i krwi występuje relatywnie rzadko. Można więc mieć
+prawidłowe wyniki badania krwi i jednocześnie zmagać się z chłoniakiem.
+Postępowanie diagnostyczne
+W przypadku stwierdzenia powiększonych węzłów chłonnych i przy podej­
+rzeniu choroby nowotworowej u pacjenta powinniśmy pobrać materiał do ba­
+dania histopatologicznego w celu potwierdzenia rozpoznania i oceny podtypu
+chłoniaka. Samo badanie histopatologiczne to jednak nie wszystko, by móc
+postawić diagnozę. Lekarze histopatolodzy posiłkują się obecnie badaniami
+genetycznymi, molekularnymi, czy badaniami cytometrycznymi po to, by do­
+określić podtyp chłoniaka. Oznaczenie to jest kluczowe, gdyż warunkuje sku­
+teczne leczenie z wykorzystaniem właściwej dla danego nowotworu terapii
+celowanej, ukierunkowanej na dany typ chłoniaka.
+Mając określone rozpoznanie, musimy przejść do oznaczenia stadium za­
+awansowania choroby. W większości chłoniaków kluczowym w tym wypadku
+jest badanie PET-CT, które pozwala nam ocenić stan zaawansowania choroby.
+Jeśli u pacjenta stwierdzimy powiększony węzeł chłonny na szyi, to nie ozna­
+cza to, że nie będzie miał niedających objawów powiększonych węzłów np.
+w jamie brzusznej. Określając na podstawie badania PET-CT stadia kliniczne
+chłoniaka, dzielimy je odpowiednio na I, II, III i IV, gdzie I i II to stadia wczesne
+choroby, a III i IV to stadia zaawansowane. Umowną granicą jest przepona.
+W momencie, gdy choroba dotyka jedną grupę węzłów chłonnych, mówimy
+wówczas o stadium I. Jeśli mamy więcej niż jedną grupę węzłów chłonnych
+zajętych przez chorobę, ale znajdują się one po tej samej stronie przepony,
+wówczas mówimy o stadium II choroby. Gdy do zajęcia węzłów chłonnych do­
+szło po obu stronach przepony, wówczas mamy do czynienia ze stadium III,
+natomiast gdy u pacjenta stwierdzamy dodatkowo nacieki na narządach — IV
+stadium. Stadium choroby to element warunkujący dalej strategię leczenia.
+Oczywiście w procesie diagnostycznym wykonujemy szereg innych badań
+mających pozwolić nam na ocenę kondycji pacjenta, funkcji innych narządów
+(nerek, serca i innych), co pozwoli nam na ocenę możliwości kwalifikacji chore­
+go do danego leczenia.
+Dostępność terapii
+Mamy świadomość, że na przestrzeni ostatnich lat nastąpił ogromny postęp
+w dostępie do terapii. W Polsce jest on dobry lub wręcz bardzo dobry — chorzy
+w większości przypadków mają możliwość leczenia celowanego z wykorzy­
+staniem innowacyjnych molekuł. W przypadku chłoniaków B-komórkowych
+wiodącą strategią leczenia jest obecnie immunochemioterapia, czyli leczenie
+skojarzone z wykorzystaniem leków cytostatycznych i przeciwciał monoklo­
+50
+51
+nalnych lub inhibitorów kinaz tyrozynowych. Ta grupa leków pozwala nam na
+poprawę wyników leczenia. Dodatkowo dysponujemy immunoterapią dla pa­
+cjentów opornych lub nawrotowych, mamy także przeciwciała bispecyficzne
+i terapię CAR-T cells — można więc powiedzieć, że dysponujemy szeroką gamą
+możliwości terapeutycznych w zależności od podtypu chłoniaka i stanu cho­
+rego — czy jest to leczenie pierwszej linii, leczenie choroby nawrotowej, czy
+opornej.
+Ostatnie wykazy leków refundowanych przyniosły nam zmiany w refunda­
+cji terapii w chłoniaku grudkowym. Natomiast nadal brakuje nam możliwości
+leczenia przeciwciałami bispecyficznymi chorych z chłoniakiem z dużych lim­
+focytów B, czyli najczęstszym agresywnym chłoniakiem z grupy chłoniaków
+nieziarniczych. Nowe leki — glofitamab i epkorytamab — mogliby otrzymać
+pacjenci nawrotowi i oporni w ramach trzeciej linii leczenia. To terapie rela­
+tywnie łatwe w stosowaniu, oczywiście nie są one pozbawione działań nie­
+pożądanych, więc początek leczenia wiąże się z koniecznością hospitalizacji.
+Zazwyczaj jest ona krótka, a dalsze leczenie może odbywać się w ramach AOS,
+co powinno być brane pod uwagę jako argument za udostępnieniem tych tera­
+pii pacjentom. Badania kliniczne i doświadczenia z innych państw, gdzie leki te
+są stosowane, wskazują na wysoką skuteczność.
+Zaletą nowych terapii celowanych jest to, że w większości przypad­
+ków są one mniej toksyczne niż klasyczna chemioterapia, są relatywnie
+łatwe w stosowaniu i można je podać pacjentowi w ramach opieki ambu­
+latoryjnej. Wszędzie tam, gdzie moglibyśmy zaopatrzyć pacjenta w te leki
+w trybie ambulatoryjnym, byłaby to ogromna korzyść dla systemu, ale
+również dla samych pacjentów. Należy pamiętać, że nowotwory układu
+chłonnego przebiegają z deficytem odporności — nasi pacjenci są bar­
+dzo narażeni na zakażenia. Intuicyjnie chorzy uważają, że podczas cięż­
+kiej choroby najlepszą opcją jest szpital, natomiast pacjenci z chorobami
+nowotworowymi układu chłonnego są chorymi podwyższonego ryzyka
+infekcji i ich pobyt w szpitalu może nie być dla nich optymalny, gdyż
+zakażenia szpitalne bywają częste i niejednokrotnie trudne w leczeniu.
+Dlatego, paradoksalnie, pacjentów hematologicznych, którzy mogliby być
+leczeni poza szpitalnymi oddziałami powinniśmy móc leczyć w ramach
+ambulatoryjnej opieki specjalistycznej. To oczywiście wymaga od pacjen­
+tów również wsparcia logistycznego (w dojazdach do placówki), ale jed­
+nocześnie przekłada się na lepszy komfort psychiczny chorych, którzy
+pozostają w domach z rodziną.
+D
+ane zebrane w Krajowym Rejestrze Nowotworów wskazują, że licz­
+ba nowo diagnozowanych pacjentów zapadających na szpiczaka
+(ICD10 - C90) wzrośnie o jedną piątą – do poziomu 2074 nowych
+rozpoznań w 2024 roku. W Polsce od 2017 roku pacjenci mają dostęp do pro­
+gramu lekowego, do którego w latach 2017-2022 liczba pacjentów zakwali­
+fikowanych wzrosła dwukrotnie – z poziomu 1449 w 2017 roku do poziomu
+3401 w 2022 roku. Ponadto, według danych NFZ, w 2023 roku do progra­
+mu zakwalifikowano 1364 pacjentów (pacjenci, którzy w poprzednim roku nie
+otrzymali żadnego świadczenia w programie), natomiast od stycznia do maja
+2024 roku kolejnych 963 chorych na szpiczaka. Jednocześnie liczba pacjen­
+tów chorujących na szpiczaka mnogiego, którym udzielono porady w ambu­
+latoryjnej opiece specjalistycznej (AOS), wyniosła w 2022 roku 8916 osób,
+w 2023 roku 9437 osób, natomiast od stycznia do maja 2024 roku ze świad­
+czeń udzielanych w AOS skorzystało 6911 chorych na szpiczaka. W przy­
+padku leczenia szpitalnego skorzystało z niego odpowiednio 7830 chorych
+w 2022 roku, 8560 w 2023 roku, natomiast w okresie od stycznia do maja
+2024 roku liczba ta wyniosła 7023.
+Szpiczak
+0
+500
+1000
+1500
+2000
+Przewidywana liczba nowych rozpoznań
+C90
+2074
++21,1 proc.
+2019
+2024
+Źródło: KRN
+52
+53
+Stosowanie terapii złożonych
+wyzwala potencjał molekuł
+Prof. dr hab. Krzysztof Giannopoulos, prezes Polskiego
+Towarzystwa Hematologów i Transfuzjologów, kierownik
+Zakładu Hematoonkologii Doświadczalnej Uniwersytetu
+Medycznego w Lublinie, dyrektor Centrum Wsparcia
+Badań Klinicznych Uniwersytetu Medycznego w Lublinie
+Polska Grupa Szpiczakowa i Polskie Konsorcjum Szpiczakowe wystosowa­
+ły do Ministra Zdrowia pismo, w którym pytamy o dostępność terapii dla
+chorych na szpiczaka plazmocytowego, a także wskazujemy na najpilniejsze
+potrzeby naszej dziedziny. Z jednej strony są to kwestie techniczne – jednym
+z przykładów może być zmieniona definicja wysokiego ryzyka cytogenetycz­
+nego, podczas gdy jej nowe zapisy nie zostały implementowane w programie
+lekowym, co sprawia, że zapisy programu nie są zgodne z aktualną wiedzą
+medyczną.
+Drugą kwestią jest możliwość stosowania nowych terapii, ale z użyciem le­
+ków, które są nam już znane. Mam tu na myśli połączenie daratumumabu, kar­
+filzomibu i deksametazonu w drugiej linii leczenia szpiczaka plazmocytowego.
+Jest to bardzo ważny schemat dla pacjentów, którzy w pierwszej linii otrzymują
+lenalidomid, który kontynuujemy dopóki jest on skuteczny, czyli do wytworze­
+nia się oporności na ten lek lub przerywamy terapię ze względu na toksyczność.
+Obie sytuacje sprawiają, że lenalidomidu w kolejnych liniach leczenia nie
+powinniśmy stosować. Z punktu widzenia klinicznego jest to dla nas, lekarzy,
+trudna sytuacja, ponieważ wyłączając wszystkie schematy terapeutyczne z le­
+nalidomidem, okazuje się, że mimo licznych decyzji refundacyjnych pozostają
+nam zasadniczo dwie grupy produktów. Pierwszy schemat opiera się o pomali­
+domid, i mamy tu terapie refundowane, a drugi schemat to terapie, gdzie trzo­
+nem jest karfilzomib. Tutaj niestety nie mamy dostępu do optymalnego sche­
+matu – szczególnie że już wiele lat temu dowiedziono, iż terapie trójlekowe,
+czyli tzw. triplety, są bardziej skuteczne niż terapie dwulekowe.
+Obecnie w przypadku tripletów możliwe jest wykorzystanie ich, gdy trzo­
+nem terapii jest pomalidomid i deksametazon. Natomiast w przypadku sto­
+sowania karfilzomibu z deksametazonem nie ma możliwości zastosowania
+tej terapii lekowej. Dlaczego należy się nad tym pochylić? Ponieważ badanie
+porównujące skuteczność schematów trójlekowych z pomalidomidem i kar­
+filzomibem w grupie pacjentów opornych na lenalidomid wykazuje prawie
+dwukrotnie większą skuteczność schematów z karfilzomibem. Z punktu wi­
+dzenia klinicystów i pacjentów zmagających się ze szpiczakiem plazmocy­
+towym to jest naprawdę bardzo istotna potrzeba. Obecnie w pierwszej linii
+leczenia szeroka grupa pacjentów – zarówno kwalifikujących się do prze­
+szczepienia szpiku, jak i nie – ma możliwość skorzystania z refundowanego
+daratumumabu. Jeśli rozwiną oni oporność na lenalidomid i będą po wcze­
+śniejszej ekspozycji na daratumumab, to kolejne schematy z dartumumabem
+będą z pewnością mniej skuteczne. Stąd też pacjenci, którzy teraz otrzymują
+lenalidomid i nie otrzymywali dotychczas daratumumabu, skorzystaliby naj­
+bardziej ze schematu daratumumab – karfilzomib. Ostatnią kwestią jest to,
+że schematy z daratumumabem i karfilzomibem w innych połączeniach są
+już dostępne. Dlatego wydaje się, że nie powinno mieć to istotnego wpływu
+na budżet, ponieważ leki te pacjent może dostać tylko oddzielnie. Niestety
+ordynując je oddzielnie, nie wykorzystujemy pełnego potencjału innowacyj­
+nych terapii.
+Najtrudniejszym tematem jest dla nas leczenie w dalszych liniach. U pa­
+cjentów po trzech liniach leczenia zgodnie z zapisami refundacyjnymi mamy
+dostępność do terapii nieoptymalnych. Optymalnymi terapiami są te oparte
+o leczenie immunologiczne, CAR-T lub przeciwdziała dwuswoiste. W przy­
+padku szpiczaka żaden z podmiotów odpowiedzialnych posiadających w port­
+folio terapię CAR-T nie rozpoczął procedury refundacyjnej i nie mamy pew­
+ności, czy i kiedy terapia ta mogłaby zostać zrefundowana. W przypadku
+przeciwciał dwuswoistych – trzy są zarejestrowane, a jeden od października
+znalazł się w obwieszczeniu refundacyjnym i mamy nadzieję, że możliwość
+stosowania kolejnych przeciwciał dwuswoistych pojawi się w przypadku
+chorych zmagających się ze szpiczakiem plazmocytowym, szczególnie dla
+tych chorych, którzy są po trzech liniach leczenia i nie ma dla nich żadnej
+innej opcji terapeutycznej.
+54
+55
+Nowe schematy dopełnią
+program leczenia szpiczaka
+Łukasz Rokicki, prezes, lider ds. badań klinicznych Fundacji
+Carita im. Wiesławy Adamiec
+Na przestrzeni ostatnich siedmiu lat doszło do bardzo dużych zmian w progra­
+mie lekowym B.54 dedykowanym leczeniu szpiczaka plazmocytowego. Obec­
+nie mamy więcej niż dziewięć nowych schematów lekowych, co pokazuje, jak
+duży postęp dokonał się w obszarze leczenia tego nowotworu. Nie możemy
+jednak spoczywać na laurach. Przed nami kolejne wyzwania, a leczenie pacjen­
+tów powinno być nie tylko indywidualne i dostosowane do każdego pacjenta,
+ale przede wszystkim powinno podążać za trendami i światowymi wytycznymi.
+Według nich terapie trójlekowe są skuteczniejsze od monoterapii, które były
+dotychczas dostępne.
+Bardzo dobrym przykładem jest stosowanie inhibitora proteasomu – karfil­
+zomibu, który jest dostępny od trzech lat, razem z przeciwciałem monoklonal­
+nym anty-CD38 – daratumumabem, które również jest nam już znane. Zgodnie
+z najnowszymi wytycznymi, jeśli połączymy dwa leki, czyli inhibitor i przeciw­
+ciało monoklonalne, to widzimy, że efektywność i skuteczność leczenia jest
+o wiele wyższa. To działanie zostało udowodnione w badaniach klinicznych,
+a ich wyniki wskazują, że czas wolny od progresji jest niemal dwukrotnie dłuż­
+szy. Wdrożenie tej formy leczenia stanowi szansę dla pacjentów nawrotowych
+oraz opornych.
+Oczywiście rozwój technologii lekowych w obszarze hematologii jest ogrom­
+ny i widzimy na horyzoncie terapię CAR-T czy przeciwciała dwuswoiste, ale na
+nie będziemy musieli jeszcze poczekać. Natomiast tu i teraz oczekiwalibyśmy
+udostępnienia pacjentom możliwości leczenia w schemacie trójlekowym.
+Z
+akrzepowa plamica małopłytkowa oraz pierwotna małopłytkowość
+immunologiczna to bardzo rzadkie choroby hematologiczne, w przy­
+padku których tylko właściwie postawiona diagnoza na początku
+choroby może pacjenta uchronić przed najbardziej poważnymi skutkami obu
+schorzeń.
+Pacjenci, u których pojawiają się pierwsze epizody choroby, to zazwyczaj
+ludzie młodzi, którzy byli do tej pory aktywni zawodowo i społecznie, często
+znajdują się w momencie zakładania rodzin i rodzą im się dzieci. Kiedy słyszą
+diagnozę, w jednej chwili ich życie przewraca się do góry nogami i muszą stawić
+czoło chorobie, o której wciąż bardzo mało wiemy. Dodatkowo każdy epizod
+choroby stanowi realne zagrożenie życia.
+Współczesne dokonania medycyny sprawiają, że z tymi schorzeniami moż­
+na żyć, ale cały czas konieczna jest ich kontrola i odpowiednie leczenie, które­
+go celem jest niedopuszczenie do nawrotu. Z tego punktu widzenia ważna jest
+edukacja ratowników medycznych, lekarzy pracujących na szpitalnych oddzia­
+łach ratunkowych oraz lekarzy rodzinnych.
+TTP – mikroangiopatie
+zakrzepowe w Polsce
+56
+57
+Zakrzepowa plamica
+małopłytkowa i pierwotna
+małopłytkowość
+immunologiczna
+Dr Michał Witkowski, Oddział Hematologii Ogólnej
+Wielospecjalistycznego Centrum Onkologii i Traumatologii
+im. M. Kopernika w Łodzi, prezes Fundacji na Rzecz
+Pomocy Chorym na Białaczki
+Zakrzepowa plamica małopłytkowa (thrombotic thrombocytopenic purpura,
+TTP) to choroba ultrarzadka (zachorowalność 3/mln/rok, chorobowość 10/
+mln) będąca rodzajem mikroangiopatii zakrzepowej, w której niedobór metylo­
+proteinazy ADAMTS-13 prowadzi do spontanicznego tworzenia mikrozakrze­
+pów, małopłytkowości i niedokrwistości. Choroba znacznie częściej wystę­
+puje jako postać immunologiczna (immune TTP, iTTP) - 95 proc. przypadków,
+rzadziej jako choroba wrodzona (congenital TTP, cTTP) – 5 proc. przypadków.
+Pierwsze epizody najczęściej pojawiają się w czwartej dekadzie życia, iTTP
+występuje 2,5–3,5 razy częściej u kobiet niż u mężczyzn1, 2. Cały czas boryka­
+my się ze zbyt małą liczbą rozpoznawanych przypadków, przez co trudno jest
+określać dane epidemiologiczne. To, czego brakuje, to polski rejestr pacjentów
+chorujących na małopłytkowość.
+Czynniki ryzyka związane z iTTP mogą obejmować szeroką grupę proble­
+mów medycznych, m.in. otyłość, obecność wirusa HIV, reumatoidalne zapale­
+nie stawów oraz toczeń rumieniowaty. Choroba może być również indukowa­
+na przez niektóre leki. Co ciekawe, wykonane niedawno badania sugerują, że
+iTTP może być także jednym z potencjalnych skutków ubocznych COVID-193,
+co zwiększa znaczenie monitorowania pacjentów zakażonych koronawirusem.
+Choroba może pojawić się również u osób poddawanych przeszczepowi ko­
+mórek macierzystych krwi lub przeszczepowi szpiku kostnego.
+1 Coppo P, et al. Res Pract Thromb Haemost. 2019;3(1):26-37.
+2 Kremer Hovinga JA, et al. Nat Rev Dis Primers. 2017;3:17020. Nuñez Zuno JA, Khaddour K. Thrombotic Throm­
+bocytopenic Purpura Evaluation and Management [2022]
+3 Stalin Ramprakash, C.P. Raghuram, Anoop P, Veerabhadra Gupta, Sujatha Thyagarajan, COVID-19 associated life­
+-threatening immune-mediated thrombotic thrombocytopenic purpura in an adolescent girl, Pediatric Hematology
+Oncology Journal, Volume 9, Issue 1, 2024
+TTP prowadzi do niedokrwienia narządów, a w ciężkich przypadkach do
+udaru mózgu, niewydolności serca, niewydolności nerek. Objawia się krwa­
+wieniem, siniakami, gorączką, osłabieniem, bólami głowy, bólami w klatce pier­
+siowej, bólami stawów, bólami brzucha, bólami mięśni, biegunką.
+Aby rozpoznać TTP, konieczne jest przeprowadzenie specjalnych testów
+(oznaczenie poziomu ADAMTS13 oraz inhibitora ADAMTS13). Na wyniki tych
+badań często trzeba czekać kilka dni (nierzadko ośrodki nie wykonują tych ba­
+dań u siebie). Mimo że istnieją także szybkie przesiewowe testy, to w Polsce są
+wykonywane rzadko z powodu braku finansowania.
+Ultrarzadka i ultraniebezpieczna
+W postaci immunologicznej zakrzepowej plamicy małopłytkowej (iTTP) liczy
+się każda minuta i godzina. Choroba pojawia się nagle i stanowi poważne
+zagrożenie dla zdrowia pacjenta. Nieleczone, czyli też nierozpoznane iTTP
+charakteryzuje się śmiertelnością nawet na poziomie 90 proc.4. Wdrożenie
+leczenia plazmaferezami i steroidami zmniejsza śmiertelność do 8-20 proc.
+Problemem z punktu widzenia klinicznego jest jednak brak powszechnej
+wiedzy o chorobie, a także brak doświadczenia wśród personelu medyczne­
+go, które jest niezbędne do jej wykrycia.
+Ze względu na patomechanizm cTTP i iTTP leczenie każdej z jednostek
+chorobowych jest odmienne. iTTP zgodnie z wytycznymi ISTH 2020 le­
+czymy schematem potrójnym (kaplacyzumab, plazmafereza z FFP, steroidy,
+rytuksymab)5. Plazmafereza służy suplementacji ADAMTS-13 oraz elimi­
+nacji przeciwciał anty-ADAMTS-13 i ultradużych multimetrów czynnika
+von Willebranda.
+Obecnie trwają badania nad schematami leczenia bez zastosowania plazma­
+ferezy. Głównym powodem jest chęć uniknięcie trudności i powikłań związa­
+nych z tą metodą leczenia6. Przełomem jest terapia humanizowanym, biwa­
+lentnym nanociałem – kaplacyzumabem, stosowana jako uzupełnienie terapii
+standardowej (plazmafereza + leczenie immunosupresyjne). Terapia ta pełni
+rolę leczenia ratunkowego, umożliwiając działanie lekom immunosupresyjnym,
+ale też powoduje szybsze zwiększenie liczby płytek krwi i skrócenie hospita­
+4 Scully M i wsp. Br J Haematol. 2012;158(3):323-335
+5 Zheng XL, Vesely SK, Cataland SR, Coppo P, Geldziler B, Iorio A, Matsumoto M, Mustafa RA, Pai M, Rock G,
+Russell L, Tarawneh R, Valdes J, Peyvandi F. ISTH guidelines for treatment of thrombotic thrombocytopenic pur­
+pura. J Thromb Haemost. 2020 Oct;18(10):2496-2502. doi: 10.1111/jth.15010. Epub 2020 Sep 11. PMID: 32914526;
+PMCID: PMC8091490
+6 Kühne L, Knoebl P, Eller K, Thaler J, Sperr WR, Gleixner KV, Osterholt T, Kaufeld JK, Menne J, Buxhofer-Ausch V,
+Mühlfeld AS, Seelow E, Schreiber A, Todorova P, Cukoski S, Jabs WJ, Özcan F, Gäckler A, Schönfelder K, Seibert
+FS, Westhoff TH, Schwenger V, Eichenauer DA, Völker L, Brinkkoetter P. Management of Immune Thrombotic
+Thrombocytopenic Purpura without Therapeutic Plasma Exchange. Blood. 2024 Jun 5:blood.2023023780. doi:
+10.1182/blood.2023023780. Epub ahead of print. PMID: 38838300.
+7 Scully M i wsp. N Engl J Med. 2019;380(4):335-346.
+58
+59
+lizacji7. Istotnym jest, by pamiętać, iż iTTP to choroba przewlekła z okresami
+zaostrzeń i remisji i tą remisję powinniśmy uzyskać u pacjenta jak najszybciej.
+We wrodzonej, zakrzepowej plamicy małopłytkowej (cTTP) najlepszą
+opcją leczenia jest rekombinowany ADAMTS13. Przed erą tego leku lub przy
+braku dostępności w praktyce klinicznej zastosowanie znajdowały przeto­
+czenia świeżo mrożonego osocza (fresh frozen plasma, FFP).
+Obecnie jesteśmy w erze molekuły rADAMTS13, która jest pierwszym
+lekiem dedykowanym pacjentom w profilaktyce cTTP. Zwiększa ona poziom
+enzymu ADAMTS13 we krwi8, 9, którego brak (spadek poniżej 10 proc.) jest
+czynnikiem ryzyka kolejnego epizodu cTTP. Głównym celem terapii jest re­
+dukcja zaostrzeń zagrażających życiu, co jest możliwe właśnie przez pod­
+niesienie poziomu ADAMTS13 we krwi pacjenta. W listopadzie 2023 roku
+lek ten został udostępniony pacjentom w Stanach Zjednoczonych. Dopusz­
+czenie Europejskiej Agencji Leków spodziewane jest jesienią 2024 roku (do­
+tychczas dostępny w ramach wczesnego dostępu).
+Istotną kwestią jest edukacja i podnoszenie świadomości na temat tej
+choroby, zarówno wśród pacjentów, jak i lekarzy. W miarę rozwoju medy­
+cyny pojawiają się coraz skuteczniejsze terapie, które pozwalają pacjentom
+na prowadzenie normalnego życia. Oczekuje się, że w ciągu najbliższych lat
+będziemy świadkami postępów w leczeniu TTP, dzięki lepszemu zrozumieniu
+mechanizmów tej choroby.
+Obecnie pacjenci z TTP w ramach wsparcia prowadzą grupę na social
+mediach oraz wydają kartę pacjenta z TTP.
+Pierwotna małopłytkowość immunologiczna ITP
+Pierwotna małopłytkowość immunologiczna (immune thrombocytopenia,
+ITP), nazywana wcześniej samoistną plamicą małopłytkową lub chorobą
+Werlhofa, to nabyta choroba autoimmunologiczna charakteryzująca się izo­
+lowaną małopłytkowością (PLT <100 G/l) bez znanych czynników ją wywo­
+łujących oraz bez zaburzeń przebiegających z małopłytkowością. Szacuje
+się, że roczna zachorowalność to 3/100 tys./ rok, a chorobowość pomiędzy
+9-26/100 tys. mieszkańców, co zalicza ją do chorób rzadkich.10 11
+8 Kremer Hovinga JA, et al. Nat Rev Dis Primers. 2017;3:17020. Nuñez Zuno JA, Khaddour K. Thrombotic Throm­
+bocytopenic Purpura Evaluation and Management [2022]
+9 Scully M i wsp. N Engl J Med. 2019;380(4):335-346.
+10 Sivaramakrishnan P, Vaccination-associated immune thrombocytopenia possibly due to ChAdOx1 nCoV-19 (Co­
+vishield) coronavirus vaccine BMJ Case Reports CP https://archiwum.mz.gov.pl/leczenie/choroby-rzadkie/
+11 Polskie zalecenia postępowania w pierwotnej małopłytkowości immunologicznej u dorosłych opracowane przez
+Grupę ds. Hemostazy Polskiego Towarzystwa Hematologów i Transfuzjologów – aktualizacja 2024
+ITP leczymy w pierwszej linii steroidami lub dożylnymi immunoglobulina­
+mi (leczenie ratunkowe lub stosowane w przypadku pojawienia się u pacjen­
+ta przeciwwskazań do steroidów). Przy braku skuteczności tego leczenia lub
+steroidozależności w drugiej linii możemy zastosować agonistów receptora
+trombopoetyny (thrombopoetin receptor agonist, TPO-RA): romiplostym,
+eltrombopag, awatrombopag lub leki o udowodnionym innym mechanizmie
+działania: rytuksymab (anty-CD20) czy fostamatynib (inhibitor śledzionowej
+kinazy tyrozynowej). Przy braku skuteczności wspomnianych terapii mamy
+do dyspozycji leki starszej generacji o znacznie mniejszej skuteczności, a tak­
+że splenektomię, czyli chirurgiczne usunięcie śledziony. Leczenie chirurgicz­
+ne staramy się jednak odraczać w czasie, gdyż jest to usunięcie zdrowego
+narządu, a skuteczność tej procedury szacowana jest na około 60 proc.
+Obecnie wszystkie trzy terapie TPO-RA są dostępne w ramach programu
+lekowego, dzięki czemu możemy leczyć pacjentów zgodnie ze światowymi
+standardami. Każda ze wskazanych terapii ma swoją własną charakterystykę:
+
+⦁romiplostym podajemy raz na tydzień podskórnie i nie ma przy nim ogra­
+niczeń dietetycznych,
+
+⦁eltrombopag wymaga wyeliminowania z diety nabiału w okresie doustne­
+go przyjęcia leku,
+
+⦁awatrombopag, najnowszy z tej grupy, podawany jest zazwyczaj codzien­
+nie doustnie i bez ograniczeń dietetycznych12.
+Obecnie brak jest refundacji dla fostamatynibu i jest on dostępny jedynie po
+wyczerpaniu opcji leczniczych w ramach RDTL.
+Z punktu widzenia klinicznego najważniejszym wydaje się jasne i klarow­
+ne przedstawienie pacjentom opcji leczenia w ITP, ponieważ doświadczenie
+kliniczne wskazuje, że preferencje pacjenta wpływają na wyższy compliance.
+W rozmowie z pacjentami należy również zwracać uwagę na problem długo­
+trwałego stosowania leków steroidowych. Pomimo efektu terapeutycznego
+są one mniej korzystne, natomiast nowe leki dają dużo mniej działań niepo­
+żądanych przy jednocześnie lepszej odpowiedzi na leczenie.
+12 A. J. Gerard Jansen, Vickie McDonald, Adrian Newland, Mervyn Morgan, Mieke Bastiaanse, Koo Wilson, Daniel
+Eriksson, Emma Geldman, Owen Daykin-Pont, Samantha Prince & Jaap Jan Zwaginga (2023) Patient preferences
+and experiences regarding thrombopoietin-receptor agonists for immune thrombocytopenia in The Netherlands
+(TRAPeze Netherlands study), Hematology, 28:1, 2267942, DOI: 10.1080/16078454.2023.2267942 Kruk, M. E.,
+and Schwalbe, N. (2006). The relation between intermittent dosing and adherence: preliminary insights. Clin. Ther.
+28, 1989–1995. doi: 10.1016/j.clinthera. 2006.12.011
+60
+61
+Prof. dr hab. Sebastian Giebel, kierownik Kliniki
+Transplantacji Szpiku i Onkohematologii Narodowego
+Instytutu Onkologii im. Marii Skłodowskiej-Curie –
+Państwowego Instytutu Badawczego, Oddział w Gliwicach,
+prezes Stowarzyszenia Polska Grupa ds. Leczenia Białaczek
+u Dorosłych
+Białaczki to zróżnicowana grupa schorzeń, którą dzielimy na ostre i przewle­
+kłe. Dodatkowo zarówno białaczki przewlekłe, jak i ostre dzielimy również ze
+względu na linie pochodzenia komórkowego – na białaczki szpikowe i limfa­
+tyczne.
+Dane epidemiologiczne wskazują, że mamy około tysiąca zachorowań rocz­
+nie na ostre białaczki, natomiast jeśli chodzi o białaczki przewlekłe, to liczba
+zachorowań jest zdecydowanie większa i sięga nawet 3-4 tys. rocznie. Z punk­
+tu widzenia demografii ryzyko zachorowania na białaczkę rośnie wraz z wie­
+kiem – zwłaszcza w przypadku ostrej białaczki szpikowej, jak również przewle­
+kłej białaczki limfocytowej. W związku z tym, wraz ze zwiększającą się grupą
+osób w szóstej i siódmej dekadzie życia, możemy spodziewać się, że liczba
+pacjentów z tymi schorzeniami będzie w Polsce rosła.
+Ostre białaczki są chorobami bardzo agresywnymi i w przypadku niektó­
+rych wariantów mogą doprowadzić do śmierci nawet w ciągu kilku tygodni.
+Z tego powodu diagnostyka tych schorzeń powinna być bardzo szybka.
+Ostre białaczki w niedługim czasie ujawniają się poważnymi nieprawidło­
+wościami w obrazie morfologicznym krwi. Jeśli zatem pacjent pojawia się
+w gabinecie lekarza rodzinnego i zgłasza takie objawy jak znaczne osłabie­
+nie, gorączki czy krwawienia, wówczas badanie morfologiczne krwi powin­
+no być wykonane natychmiast, a jego wynik będzie ukierunkowywał dalszą
+diagnostykę. W momencie, kiedy pacjent trafi do ośrodka specjalistycznego,
+ta diagnostyka jest bardzo szybka, ponieważ dysponujemy w Polsce wszyst­
+kimi możliwościami, które pozwalają nam nie tylko na rozpoznanie samej
+białaczki, ale również bardzo precyzyjne określenie jej wariantu, a co za tym
+idzie, dobranie odpowiedniego leczenia. Pewne opóźnienia w diagnostyce
+Ostre białaczki
+mogą pojawić się, gdy pacjent trafi do ośrodka o niższym poziomie referen­
+cyjności. Gdy chory trafi tam w bardzo ciężkim stanie klinicznym, z objawa­
+mi, zdarza się, że nie udaje się go przekazać do specjalistycznego ośrodka
+hematologicznego.
+Standaryzacja terapii białaczek
+Leczenie białaczek w Polsce jest wystandaryzowane, a przygotowaniem wy­
+tycznych zajmuje się Polska Grupa ds. Leczenia Białaczek Dorosłych (Polish
+Adult Leukemia Group – PALG). Obejmują one wszystkie wyspecjalizowane
+ośrodki hematologiczne w Polsce. W gronie eksperckim spotykamy się dwu­
+krotnie w ciągu roku, a dodatkowo częściej odbywają się spotkania w ramach
+sekcji roboczych. W ramach swojej działalności PALG na bieżąco stara się ak­
+tualizować protokoły leczenia, przede wszystkim dla ostrych białaczek. Celem
+jest to, by wszyscy chorzy byli leczeni w sposób ujednolicony i optymalny,
+zgodnie z aktualną wiedzą medyczną i naszym doświadczeniem.
+Na poziomie europejskim krajowe grupy robocze spotykają się w celu
+przedstawienia i omówienia danych związanych z leczeniem pacjentów w po­
+szczególnych krajach. Moje doświadczenie związane z opracowywaniem stan­
+dardów europejskich dotyczy ostrej białaczki limfoblastycznej, jednego z pod­
+typów ostrych białaczek. Doświadczenia poszczególnych grup narodowych są
+różne, a protokoły w poszczególnych krajach nie są identyczne, choć wyko­
+rzystują te same założenia i pryncypia. Dotyczy to również stosowania nowo­
+czesnych leków, które w ostatnich latach zostały opracowane, udostępnione
+i zarejestrowane przez Europejską Agencję Leków (EMA), a które w znakomitej
+większości są również dostępne w Polsce – w ramach refundacji przewidzianej
+programem lekowym. Najnowsza decyzja refundacyjna dotyczy terapii CAR-T
+cells, czyli immunoterapii komórkowej, u chorych na oporne, nawrotowe po­
+staci ostrej białaczki limfoblastycznej. Preparaty te pierwotnie były dostępne
+do stosowania u dzieci i u pacjentów poniżej 25. roku życia. Od 1 października
+program lekowy obejmuje też chorych starszych, bez ograniczeń wiekowych.
+W przypadku ostrej białaczki szpikowej decyzje refundacyjne są podejmo­
+wane na bieżąco – w stosunku do innych krajów UE nie obserwujemy tutaj
+opóźnień w dostępie do refundacji. To, co chciałbym szczególnie podkreślić,
+to zaangażowanie PALG w realizację licznych badań klinicznych, które mają
+wpływ na sposoby leczenia chorych na świecie. To pokazuje, że w Polsce nie
+tylko jesteśmy realizatorami zaleceń klinicznych, ale również ich twórcami.
+62
+63
+Prof. dr hab. Iwona Hus, kierownik Kliniki Hematologii
+Państwowego Instytutu Medycznego MSWiA
+w Warszawie
+Przewlekła białaczka limfocytowa (PBL) jest nowotworem wywodzącym się
+z limfocytów B – komórek należących do układu chłonnego. Komórki białacz­
+kowe gromadzą się we krwi, szpiku, węzłach chłonnych i śledzionie. W rzad­
+kich przypadkach są wykrywane w innych tkankach i narządach.
+Komórki PBL cechują się obecnością na powierzchni charakterystycznych
+cząsteczek – antygenów, których ocena metodą cytometrii przepływowej
+w większości przypadków pozwala na ustalenie rozpoznania.
+Przewlekła białaczka limfocytowa jest białaczkową postacią chłoniaka
+z małych limfocytów, w związku z czym pacjenci z chłoniakiem z małych lim­
+focytów powinni być leczeni tak samo jak pacjenci z PBL.
+Aby ustalić rozpoznanie przewlekłej białaczki limfocytowej należy stwierdzić:
+
+⦁przynajmniej 5 tys./μl białaczkowych limfocytów B we krwi obwodowej.
+Badanie wykonuje się z próbki krwi obwodowej pobranej tak jak na badanie
+morfologii krwi. Do rozpoznania PBL niepotrzebne jest badanie szpiku ani
+węzła chłonnego.
+
+⦁Chłoniaka z małych limfocytów rozpoznajemy na podstawie biopsji otwar­
+tej węzła chłonnego lub innej zmienionej nowotworowo tkanki u chorego,
+który nie spełnia kryteriów białaczki.
+
+⦁Jeśli we krwi stwierdza się białaczkowe limfocyty w liczbie mniejszej niż
+5 tys./μl i nie stwierdza się powiększenia węzłów chłonnych ani śledziony,
+rozpoznaje się tzw. monoklonalną B-komórkową limfocytozę (MBL), któ­
+ra nie jest chorobą, lecz stanem przednowotworowym. U 1–2 proc. osób
+z MBL w ciągu roku rozwija się PBL.
+Przewlekła białaczka
+limfocytowa
+Częstość występowania i czynniki ryzyka rozwoju PBL
+Przewlekła białaczka limfocytowa jest najczęstszym rodzajem białaczki. W Eu­
+ropie Zachodniej i Ameryce Północnej stanowi ona około 30 proc. wszystkich
+białaczek u osób dorosłych. Jest to choroba ludzi starszych, ponieważ średnia
+wieku przy zachorowaniu wynosi około 70 lat, a ponad 60 proc. chorych ma
+więcej niż 65 lat. Mężczyźni chorują około dwukrotnie częściej niż kobiety.
+Ryzyko wystąpienia choroby u krewnych 1. stopnia chorego na przewlekłą
+białaczkę limfocytową jest 2-7 razy większe niż w populacji ogólnej. Nie ma
+jednak wskazań do wykonywania badań w kierunku białaczki u krewnych
+chorych na PBL.
+Objawy PBL
+Początek choroby jest zwykle bezobjawowy – około 60-70 proc. chorych
+w chwili rozpoznania nie ma żadnych objawów choroby i zgłasza się do lekarza
+wyłącznie z powodu zwiększenia liczby krwinek białych, w tym limfocytów.
+PBL wykrywana jest zwykle w trakcie przypadkowej morfologii krwi lub mor­
+fologii krwi zleconej z powodu innych dolegliwości.
+Do najczęstszych objawów, które mogą rozwinąć się w dalszym przebiegu
+PBL, należą:
+
+⦁niebolesne powiększenie węzłów chłonnych, które występuje u ¾ chorych;
+najczęściej powiększone są węzły chłonne szyjne, nadobojczykowe i pa­
+chowe, ale mogą być również powiększone węzły chłonne w jamie brzusz­
+nej czy śródpiersiu;
+
+⦁powiększenie śledziony;
+
+⦁objawy ogólne związane z PBL: gorączka bez uchwytnej przyczyny, powy­
+żej 38,0 st. C, trwająca ≥2 tygodnie, poty nocne trwające ≥1 miesiąc, utrata
+masy ciała >10 proc. masy wyjściowej w ciągu ostatnich 6 miesięcy, postę­
+pujące osłabienie;
+
+⦁częste zakażenia;
+
+⦁osłabienie, zmęczenie, zmniejszenie wydolności wysiłkowej, bladość skóry
+i błon śluzowych (związane z niedokrwistością);
+
+⦁krwawienia, siniaki i wybroczyny spowodowane małopłytkowością.
+Przebieg kliniczny
+Przewlekła białaczka limfocytowa jest chorobą o bardzo zmiennym przebiegu
+klinicznym. U części chorych obserwuje się łagodny przebieg i długie przeży­
+64
+65
+cie nawet bez leczenia. U pozostałych osób choroba ma natomiast przebieg
+agresywny i mimo intensywnej terapii, prowadzi do zgonu w ciągu kilku lat.
+Uważa się, że 1/3 chorych na PBL nigdy nie wymaga leczenia, 1/3 wymaga go
+po różnie długim okresie obserwacji, a tylko 1/3 potrzebuje leczenia od razu
+po ustaleniu rozpoznania PBL.
+Powikłania PBL związane są z zaburzeniami w układzie odporności. Należą
+do nich:
+
+⦁powikłania tzw. autoimmunologiczne związane z pojawieniem się przeciw­
+ciał przeciw własnym komórkom (niedokrwistość autoimmunohemolitycz­
+na, małopłytkowość immunologiczna);
+
+⦁zwiększone ryzyko zakażeń (najczęściej bakteryjnych i wirusowych);
+
+⦁zwiększone ryzyko wtórnych nowotworów, najczęściej skóry.
+Do najpoważniejszych powikłań PBL należy transformacja w bardziej agre­
+sywnego chłoniaka, najczęściej jest to rozlany chłoniak z dużych komórek B
+(DLBCL), znacznie rzadziej chłoniak Hodgkina. Obecnie, w dobie nowocze­
+snych terapii, transformacja Richtera występuje rzadziej niż wcześniej, gdy
+podstawą leczenia była chemioterapia.
+Czynniki rokownicze
+Z uwagi na zmienny przebieg kliniczny PBL przez wiele lat poszukiwano czyn­
+ników, które pozwoliłyby przewidzieć rokowanie pacjentów. Obecnie do naj­
+ważniejszych czynników o znaczeniu prognostycznym (mówiącym o przebie­
+gu klinicznym) i predykcyjnym (mówiącym o odpowiedzi na leczenie) należą:
+
+⦁zaburzenia genu TP53 (mutacja TP53, delecja 17p);
+
+⦁stan mutacji genów immunoglobulinowych (IGHV).
+Obecność delecji 17p/mutacji TP53 wiąże się z najgorszym rokowaniem
+w związku z opornością na chemio- i immunoterapię. Wyniki leczenia znacz­
+nie poprawiły się dzięki wprowadzeniu do terapii PBL leków o odmiennym
+niż chemioterapia mechanizmie działania – inhibitorów BCR i BCL2. Niemniej
+nawet przy zastosowaniu nowych metod leczenia ich rokowanie pozostaje
+nadal gorsze niż u chorych bez tych nieprawidłowości.
+Zaburzenia genu TP53 występują u około 10 proc. chorych przy rozpo­
+znaniu białaczki i częstość ta zwiększa się wraz z czasem trwania choroby.
+Ocena zaburzeń genu TP53 powinna być wykonywana przed każdą kolejną
+linią leczenia. Uważa się, że najskuteczniejszą metodą leczenia w przypadku
+ich wykrycia jest ciągła terapia inhibitorem BTK, która zapewnia lepszą kon­
+trolę choroby niż terapie ograniczone w czasie.
+Niezmutowany stan genu IgVH wiąże się z bardziej agresywnym przebiegiem
+PBL, krótszym czasem przeżycia chorych oraz krótkim czasem odpowiedzi na
+immunochemioterapię. Natomiast inhibitory kinazy tyrozynowej Brutona (BTK)
+działają niezależnie od stanu mutacji IgHV. Przebieg postaci ze zmutowanymi
+genami IgVH jest łagodniejszy. Ocenę stanu mutacji zaleca się przeprowadzić
+jednorazowo, przed rozpoczęciem leczenia 1. Linii, ponieważ nie zmienia się on
+w czasie.
+Ocena zaawansowania choroby
+W celu oceny stopnia zaawansowania choroby stosuje się dwie klasyfikacje:
+3-stopniową klasyfikację Bineta i 5-stopniową klasyfikację Raia.
+Leczenie PBL
+Przewlekła białaczka limfocytowa pozostaje chorobą nieuleczalną przy pomo­
+cy konwencjonalnych metod leczenia. Jedyną metodą prowadzącą do wyle­
+czenia jest allotransplantacja komórek macierzystych, jednak jej wykonanie
+jest możliwe u niewielu chorych. Metoda ta jest obarczona wysokim ryzykiem
+śmiertelnych powikłań.
+Celem terapii chorych na przewlekłą białaczkę limfocytową jest wydłużenie
+życia i poprawa jego jakości.
+W praktyce klinicznej nie należy rozpoczynać leczenia u chorych z nowo
+rozpoznaną PBL we wczesnych stadiach (Rai 0 i Binet A), bez cech progre­
+sji choroby, ponieważ nie wykazano wydłużenia czasu przeżycia u chorych
+wcześnie rozpoczynających leczenie, nawet nowoczesnymi terapiami, w po­
+równaniu do chorych, u których leczenie zastosowano przy obecności wska­
+zań do niego.
+Chorzy we wczesnych stadiach powinni pozostawać pod obserwacją,
+z monitorowaniem statusu choroby co 3–12 miesięcy (strategia "wait and
+watch”).
+Chorzy w pośrednim okresie zaawansowania (stadium I i II wg Raia lub
+B wg Bineta) wymagają ścisłego monitorowania określonych parametrów
+białaczki co 3–9 miesięcy i rozpoczęcia leczenia w przypadku cech pro­
+gresji.
+Chorzy na PBL w zaawansowanym okresie choroby (okres III i/lub IV wg
+Raia lub C wg Bineta) wymagają zastosowania leczenia przeciwbiałaczkowe­
+go. Należy pamiętać, że wysoka bezwzględna liczba limfocytów sama w so­
+bie nie jest wskazaniem do rozpoczęcia terapii.
+66
+67
+Tabela 1. Wskazania do rozpoczęcia leczenia
+Znaczne lub szybko postępujące powiększenie węzłów chłonnych
+(>5-6 cm).
+Znaczne powiększenie śledziony, grożące jej pęknięciem.
+Szybkie narastanie limfocytozy krwi obwodowej
+(dla wartości powyżej 30 000/µl lub wzrost liczby limfocytów >50 proc.
+w ciągu dwóch miesięcy.
+Niedokrwistość (Hgb <10 g/dl) lub małopłytkowość
+(liczba płytek krwi <100 tys./l). Niedokrwistość lub małopłytkowość
+autoimmunologiczna niereagująca na leczenie kortykosteroidami.
+Pojawienie się objawów ogólnych (gorączka, nocne poty,
+utrata masy ciała).
+Objawowe zajęcie narządów pozawęzłowych.
+Leczenie chorych na przewlekłą białaczkę zmieniło się istotnie w ciągu ostat­
+nich lat. Miejsce stanowiącej jeszcze niedawno standard leczenia immunoche­
+mioterapii zajęły nowe terapie celowane, przede wszystkim inhibitory kinazy
+Brutona (ibrutynib, akalabrutynib, zanubrutynib) oraz inhibitor białka Bcl-2 (we­
+netoklaks). Leki te w monoterapii stosowane są w sposób ciągły do progresji lub
+nieakceptowanej toksyczności, natomiast w schematach skojarzonych (weneto­
+klaks + obinutuzumab, wenetoklaks + ibrutynib, wenetoklaks + ibrutynib) przez
+czas określony.
+W Polsce leczenie chorych na PBL jest refundowane w ramach programu
+lekowego B.79 i należy podkreślić, że obecnie możliwe jest leczenie chorych
+na PBL bez chemioterapii, zgodnie z aktualnymi wytycznymi polskich i między­
+narodowych towarzystw naukowych
+Leczenie 1. linii
+Opcje leczenia chorych na PBL w pierwszej linii obejmują trzy strategie:
+
+⦁schematy skojarzone bez chemioterapii ograniczone w czasie:
+– wenetoklaks i obinutuzumab
+– wenetoklaks i ibrutynib
+
+⦁terapie celowane stosowane w sposób ciągły:
+– inhibitory kinazy Brutona (BTK: ibrutynib, akalabrutynib, zanubrutynib)
+
+⦁ograniczona w czasie immunochemioterapia z zastosowaniem przeciwciał
+monoklonalnych anty-CD20.
+Przy wyborze między leczeniem ograniczonym w czasie a stosowanymi
+w sposób ciągły inhibitorami BTK należy uwzględnić czynniki, takie jak:
+
+⦁wyniki badań genetycznych (u chorych z zaburzeniami genu TP53 prefero­
+wane jest leczenie ciągłe inhibitorem BTK);
+
+⦁profil toksyczności – wenetoklaks: funkcja nerek i ryzyko zespołu lizy guza
+(przy gwałtownym rozpadzie komórek białaczkowych) vs inhibitory BTK:
+migotanie przedsionków i ryzyko krwawienia;
+
+⦁możliwość ponownego zastosowania leczenia (przy terapiach ograniczo­
+nych w czasie);
+
+⦁droga podawania (dożylna + doustna vs wyłącznie doustna);
+
+⦁częstość wizyt kontrolnych (5-tygodniowy okres zwiększania dawki wene­
+toklaksu);
+
+⦁preferencje pacjenta.
+Schematy ograniczone w czasie mają wiele zalet zarówno dla pacjenta,
+jak i dla systemu ochrony zdrowia, uważa się jednak, że w przypadku PBL
+wysokiego ryzyka związanego z obecnością delecji 17p/mutacji TP53 zasto­
+sowanie leczenia ciągłego inhibitorem BTK zapewnia lepszą kontrolę choro­
+by. Należy podkreślić, iż w przypadku wyboru 1. linii leczenia (z wyłączeniem
+pacjentów z delecją 17p (del17p) / mutacją w genie TP53 (mutTP53), rodzaj
+terapii coraz częściej zależy od preferencji pacjenta i powinien być z nim
+omówiony. Szczegółowo przedstawione powinny być potencjalne korzyści
+i działania niepożądane, drogi podawania leków i konieczność hospitalizacji
+związana z daną metodą leczenia.
+Leczenie chorych na nawrotową/oporną PBL
+Wskazania do kolejnych linii leczenia takie jak do 1. Linii. Zgodnie z zaleceniami
+międzynarodowych towarzystw naukowych optymalną metodą leczenia cho­
+rych na oporną/nawrotową PBL są nowe terapie celowane — inhibitory BTK
+i BCL2.
+Powinno się zastosować jedną z dwóch opcji leczenia:
+1) wenetoklaks + rytuksymab (24 miesiące);
+2) inhibitory BTK (jako leczenie ciągłe).
+W leczeniu drugiego i kolejnego rzutu decyzja terapeutyczna zależy od:
+
+⦁rodzaju wcześniejszego leczenia;
+
+⦁czasu trwania remisji;
+
+⦁obecności delecji 17p/mutacji TP53;
+
+⦁stanu ogólnego chorego;
+68
+69
+
+⦁chorób współistniejących;
+
+⦁preferencji chorego;
+
+⦁dostępności leków.
+Zakażenia jako powikłanie przewlekłej białaczki limfocytowej
+Najczęstszym powikłaniem PBL są zakażenia. Stanowią one główną przyczynę
+śmiertelności chorych na przewlekłą białaczkę limfocytową (30-50 proc. zgo­
+nów). Zakażenia u chorych na PBL wynikają z zaburzeń odporności związanych
+z białaczką, ale również z podeszłego wieku chorych, obecności chorób współ­
+istniejących (np. cukrzyca, niewydolność krążenia).
+U chorych na PBL zaleca się szczepienia ochronne przeciw pneumoko­
+kom (Streptococcus pneumoniae) najlepiej bezpośrednio po ustaleniu rozpo­
+znania, przed rozpoczęciem leczenia. Zaleca się również coroczne (wrzesień,
+październik) szczepienia przeciw grypie sezonowej szczepionkami zawierają­
+cymi aktualne w danym sezonie szczepy tego wirusa oraz szczepienia przeciw
+COVID-19 zgodnie z aktualnie obowiązującymi zaleceniami. Nowe zaleca­
+ne szczepienia ochronne to szczepionki przeciw półpaścowi i wirusowi RSV.
+U chorych na PBL należy unikać szczepień żywymi szczepionkami przeciw
+gruźlicy (BCG) oraz odrze, różyczce, śwince, ospie wietrznej/półpaścowi, żółtej
+febrze. Szczepień ochronnych nie wykonuje się także w czasie poważnych in­
+fekcji i ostrych chorób przebiegających z gorączką. Łagodne infekcje (przezię­
+bienie) nie powinny być powodem odroczenia szczepień.
+Katarzyna Lisowska, przedstawicielka Stowarzyszenia
+Hematoonkologiczni, prezeska Fundacji Per Humanus
+Zespoły mieloproliferacyjne to grupa chorób rzadkich, nowotworów hemato­
+logicznych związanych z klonalnym rozrostem linii mieloidalnej komórek hema­
+topoetycznych. Charakteryzują się nadprodukcją jednego lub kilku elementów
+morfotycznych krwi: czerwonych krwinek, białych krwinek, płytek krwi, dlate­
+go przynajmniej raz w roku trzeba robić morfologię krwi obwodowej. Często
+lekarze rodzinni lekceważą pierwsze objawy tej choroby.
+W przypadku mielofibrozy pacjent zgłasza się do lekarza z objawami suge­
+rującymi raczej przeziębienie niż tak poważną chorobę nowotworową: zmę­
+czenie, gorączka, nocne poty, ból kości, świąd skóry, uczucie pełności w brzu­
+chu, ból pleców, zgaga, nudności, wymioty, duszność, podatność na infekcje.
+Część chorych może mieć także powiększoną śledzionę, która może osiągać
+ogromne rozmiary i powodować ból brzucha.
+Na mielofibrozę chorują pacjenci w różnym wieku, także dzieci. Liczba no­
+wych zachorowań wynosi od 0,5 do 1,5 osoby na 100 000 tys. mieszkańców.
+Mutacje genowe JAK2 w komórkach macierzystych szpiku kostnego, a także
+mutacje MPL i CARL sprawiają, że nieprawidłowe komórki mnożą się w szpi­
+ku kostnym bez kontroli, ale u ok 15 proc. chorych nie stwierdza się żadnej
+z tych mutacji. Dlatego na chwilę obecną nie wiemy, co dokładnie powoduje
+tę chorobę.
+Obecnie na mielofibrozę nie ma leku, więc celem leczenia jest przedłuże­
+nie życia pacjenta. Leki łagodzą objawy i poprawiają jakość życia. W Polsce
+mamy obecnie refundowane leczenie w ramach programu lekowego B.81.
+Leczenie chorych na nowotwory mieloproliferacyjne Ph(-) (ICD-10: D45,
+Nowotwory
+mieloproliferacyjne
+70
+71
+D47.1). Wyleczenie chorego można osiągnąć jedynie poprzez allogenicz­
+ne przeszczepienie krwiotwórczych komórek macierzystych (przeszczep
+szpiku). O tym, jaką metodę leczenia zastosować, decyduje lekarz wspólnie
+z pacjentem.
+Czerwienica prawdziwa to także przewlekły nowotwór szpiku kostnego.
+Nie jest znana przyczyna tej choroby, ale wiadomo, że u chorych dochodzi do
+zwiększenia produkcji krwinek czerwonych, w mniejszym stopniu także innych
+komórek krwi (płytek i białych krwinek). Pacjenci często zgłaszają się do leka­
+rza rodzinnego z silnym świądem skóry nasilającym się po gorącej kąpieli.
+Morfologia krwi jest badaniem, które pokazuje, że pacjent ma podwyższo­
+ne parametry czerwonokrwinkowe. Dalsza diagnostyka wykaże, czy pacjent
+choruje na czerwienicę prawdziwą czy wtórną. Nieleczona czerwienica praw­
+dziwa może prowadzić do zakrzepicy, która z kolei może być przyczyną zatoru
+płucnego, udaru mózgu lub niedokrwienia narządów w jamie brzusznej. Jaką
+metodę leczenia zastosować? To decyzja lekarza podjęta wspólnie z lekarzem.
+Ma ona zapobiec powikłaniom zakrzepowym.
+Nadpłytkowość samoistna to kolejny nowotwór mieloproliferacyjny. Cha­
+rakteryzuje się zwiększonym wytwarzaniem płytek krwi. W wyniku mutacji
+w komórce macierzystej szpiku dochodzi do niekontrolowanego wytwarzania
+płytek krwi. Dlaczego tak się dzieje? Dlaczego dochodzi do nadprodukcji pły­
+tek w naszym organizmie? Tego nie wiemy. Często pacjenci latami nie wiedzą,
+że chorują na nadpłytkowość. Dlatego ważne jest wykonywanie morfologii
+krwi obwodowej przynajmniej raz w roku. Dalsza diagnostyka i wdrożenie le­
+czenia pomoże skutecznie kontrolować tę chorobę.
+Trzeba pamiętać, że zarówno czerwienica prawdziwa, jak i nadpłytkowość
+samoistna może z czasem przejść w mielofibrozę. Natomiast mielofibroza może
+transformować w ostrą białaczkę szpikową (AML).
+W Polsce toczą się obecnie badania kliniczne, w których udział biorą chorzy
+na nowotwory mieloproliferacyjne. Jako środowisko czekamy także na dostęp
+do leków, które otrzymały rejestrację na rynku europejskim. Mamy wspania­
+łych lekarzy, którzy na co dzień pomagają naszym pacjentom.
+Od kilku lat pacjentom z nowotworami mieloproliferacyjnymi pomaga rów­
+nież Stowarzyszenie Hematoonkologiczni. Na Facebooku prowadzone są grupy
+wsparcia. Nasi pacjenci mogą skorzystać z poradników, uczestniczyć w webi­
+narach oraz warsztatach stacjonarnych z ekspertami. Staramy się, aby wiedza,
+którą otrzymuje od nas pacjent, była rzetelna i sprawdzona.
+P
+acjenci hematologiczni to grupa pacjentów, u których zapotrzebowanie
+na terapię krwią oraz składnikami krwi jest – według ekspertów – jed­
+nym z największych. Jest to związane ze specyfiką schorzeń, ale rów­
+nież wynika z faktu, że dotychczas nie udało się opracować substytutu krwi.
+Co roku w Polsce wykonuje się ponad 1,7 mln transfuzji krwi i jej składników,
+a w 2023 roku dawcami było ponad 640,2 tys. mieszkańców Polski, z czego
+640 tys. stanowili dawcy honorowi1. W całym kraju w 2023 roku zarejestrowa­
+no 1,501 mln donacji krwi i jej składników, o 5,2 proc. więcej niż w 2022 roku.
+Dane wskazują, że wskaźnik liczby krwiodawców na 10 tys. mieszkańców wy­
+niósł 170 (w 2023 roku) i był wyższy o 6 krwiodawców/10 tys. mieszkańców
+od odnotowanego w 2022 roku. Kontrole Najwyższej Izby Kontroli potwier­
+dzają, że potrzeby państwa i pacjentów w zakresie pozyskania, przechowywa­
+nia i transportu krwi niezbędnej do funkcjonowania krajowego systemu ochro­
+ny zdrowia są zabezpieczone.
+Na system pozyskiwania krwi należy jednak patrzeć również przez pryzmat
+wyzwań demograficznych. Według prognoz GUS2 do 2060 roku liczba ludno­
+ści rezydującej zmniejszy się do 32,9 mln osób. Dodatkowo prognozowane są
+głębokie zmiany w demografii populacji kraju, bowiem do 2060 roku o ponad
+jedną trzecią wzrośnie liczba osób w wieku 65 lat i więcej, a liczba osób w wie­
+ku 80+ ulegnie podwojeniu. Dlatego zasadnym wydaje się zwiększenie efek­
+tywności wykorzystania zasobów krwi – poprzez optymalizację wykorzystania
+i docelowo minimalizację zużycia.
+Jednym z wyzwań w przypadku transfuzji wykonywanych u pacjentów ze
+schorzeniami hematologicznymi jest ryzyko rozwoju powikłań. Praktyka kli­
+niczna wskazuje, że wraz z wydłużeniem czasu terapii krwią i preparatami
+krwiopochodnymi nie tylko rośnie zapotrzebowanie na krew, ale istnieje rów­
+nież większe ryzyko powikłań, w tym zakażeń czynnikami zakaźnymi3. Według
+wytycznych Światowej Organizacji Zdrowia (WHO) wszystkie donacje krwi
+powinny być badane pod kątem ryzyka przeniesienia infekcji. W przypadku
+wirusa nabytego niedoboru odporności (HIV), zapalenia wątroby typu B, zapa­
+Bezpieczeństwo krwi
+1 Dane GUS Krwiodawstwo w Polsce 2023 https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultaktualno­
+sci/5513/18/3/1/krwiodawstwo_w_2023_r.pdf
+2 Dane GUS Prognoza ludności rezydującej dla Polski na lata 2023-2060 https://stat.gov.pl/files/gfx/portalinformacyj­
+ny/pl/defaultaktualnosci/5469/12/1/1/prognoza_ludnosci_rezydujacej_dla_polski_na_lata_2023-2060.pdf
+3 Grabarczyk P, Kopacz A, Sulkowska E, Kalińska A. Ryzyko przeniesienia czynników zakaźnych przez transfuzje
+w Polsce [Risk of transmission of blood-derived pathogens by transfusion in Poland]. Acta Haematol Pol. 2017
+Jul-Sep;48(3):174-182. Polish. doi: 10.1016/j.achaem.2017.07.006. Epub 2017 Jul 24. PMID: 32226060; PMCID:
+PMC7094117.
+72
+73
+Rycina 1. Mechanizm
+działania amotosalenu/
+UVA: Blokowanie na­
+mnażania patogenów
+poprzez sieciowanie
+DNA i RNA.
+1
+2
+3
+TESTOWANIE
+BEZPIECZEŃSTWO
+TRANSFUZJI
+DYSKWALIFIKACJA
+DAWCÓW
+INAKTYWACJA
+CZYNNIKÓW
+CHOROBOTWÓRCZYCH
+Holistyczna strategia bezpieczeństwa krwi
+
+⦁Znane i potwierdzone TTIs
+
+⦁Gdy czułość i swoistość są
+odpowiednie
+
+⦁Wykluczenie dawców na podstawie
+postrzeganego ryzyka
+
+⦁Ogranicza dostępność dawców
+
+⦁Znane i nieznane patogeny
+
+⦁Zastąpienie mikrobiologicznych badań
+przesiewowych i napromieniowania
+Rycina 2. Inaktywacja czynników chorobotwórczych stanowi proaktywny
+środek bezpieczeństwa krwi zapewniający ochronę przeciwko chorobom
+zakaźnym
+74
+75
+lenia wątroby typu C oraz kiły badaniom powinny podlegać wszystkie donacje.
+W Polsce, zgodnie z zapisami rozporządzenia Ministra Zdrowia z 11 września
+2017 roku w sprawie warunków pobierania krwi od kandydatów na dawców
+krwi i dawców krwi, próbki krwi osoby zakwalifikowanej do pobrania krwi wy­
+magają oznaczenia antygenu HBs, przeciwciał anty-HIV ½, przeciwciał anty­
+-HCV, RNA HCV, DNA HBV, RNA HIV oraz markerów zakażenia krętkiem kiły.
+W części państw europejskich istnieją protokoły pozwalające na testowanie
+krwi pod kątem zakażeń pierwotniakiem Trypanosoma cruzi4, wirusem HTLV
+I i II5 czy zarodźcem malarii6. W 14 państwach wdrożono politykę testowania
+pod kątem zakażeń wirusem Zachodniego Nilu, w czterech kolejnych donację
+ocenia się pod kątem zakażeń parwowirusem B19.
+Mimo nowoczesnych metod pobierania, preparatyki i przechowywania,
+zawsze istnieje ryzyko przeniesienia czynnika zakaźnego z transfuzją krwi.
+Ostrożność jest potrzebna na wszystkich etapach transfuzji, od kwalifikacji
+dawcy, po przetoczenie biorcy. Zakażenia bakteryjne są bagatelizowanym za­
+grożeniem dla łańcuchów dostaw płytek krwi na całym świecie.
+Na całym świecie systemy czuwania nad bezpieczeństwem krwi są rozdrob­
+nione i niedofinansowane. W rezultacie liczba zgłaszanych każdego roku zaka­
+żeń bakteryjnych przenoszonych drogą transfuzji (TTBI) jest prawdopodobnie
+zaniżona w stosunku do rzeczywistego obciążenia chorobowego. Na podstawie
+badań aktywnego nadzoru, w których wszystkie składniki płytek krwi są badane
+pod kątem TTBI przed transfuzją i po transfuzji, szacuje się, że zakażenie bakte­
+ryjne może występować w 1 na ok. 2000 płytek krwi7, a wskaźniki TTBI mogą
+być nawet 30-krotnie wyższe niż wykrywane wyłącznie w ramach nadzoru bier­
+nego8, 9. Jako że pacjenci otrzymują zazwyczaj wiele dawek płytek krwi w trakcie
+leczenia, ryzyko ekspozycji na zakażone bakteryjnie płytki krwi w przeliczeniu
+na pacjenta może być bliższe 1 na 400. Poza inaktywacją bakterii inaktywacja
+czynników chorobotwórczych umożliwia optymalizację procesów wytwarzania
+składników krwi i ochronę przed szeroką gamą innych zagrożeń chorobotwór­
+czych. Stosowanie technologii inaktywacji czynników chorobotwórczych (PIT)
+stało się integralną częścią procesu zapewniania bezpieczeństwa płytek krwi
+4 Protokoły selektywnego testowania funkcjonują m.in. w Belgii, Francji, Włoszech, Hiszpanii, Portugalii, Szwecji,
+czy Szwajcarii.
+5 Protokoły testowania funkcjonują m.in. we Francji, Grecji, Izraelu, Luksemburgu, Portugalii, Norwegii, Rumunii,
+Hiszpanii, Szwecji, czy Wielkiej Brytanii.
+6 Protokoły testowania funkcjonują m.in. w Finlandii, Islandii, Norwegii, Szwecji, Belgii, Grecji, Włoszech, Portuga­
+lii, Hiszpanii, Wielkiej Brytanii.
+7 White SK, Schmidt RL, Walker BS, Metcalf RA. Bacterial contamination rate of platelet components by primary
+culture: a systematic review and meta-analysis BACKGROUND: Platelets have the highest bacterial. Published
+online 2020. doi:10.1111/trf.15762
+8 Hong H, Xiao W, Lazarus HM, Good CE, Maitta RW, Jacobs MR. Detection of septic transfusion reactions to plate­
+let transfusions by active and passive surveillance. Blood. 2016;127(4). doi:10.1182/blood-2015-07-655944
+9 White SK, Schmidt RL, Walker BS, Metcalf RA. Bacterial contamination rate of platelet components by primary
+culture: a systematic review and meta-analysis BACKGROUND: Platelets have the highest bacterial. Published
+online 2020. doi:10.1111/trf.15762
+FAZY WHO
+OKRES MIĘDZYPANDEMICZNY
+1
+Nie wykryto żadnych nowych pod­
+typów wirusa grypy u ludzi. Podtyp
+wirusa grypy, który spowodował
+zakażenie u ludzi, może występować
+u zwierząt. Jeśli występuje u zwierząt,
+ryzyko zachorowania u ludzi uważa
+się za niskie.
+2
+Nie wykryto żadnych nowych podty­
+pów wirusa grypy u ludzi. Jednastwa­
+rzakże krążący podtyp wirusa grypy
+u zwierząt znaczne ryzyko zachoro­
+wania na chorobę u ludzi.
+OKRES ALARMOWY PANDEMII
+3
+Zakażenie(a) u ludzi nowym podty­
+pem, ale bez przeniesienia zakażenia
+z człowieka na człowieka lub, w bar­
+dzo rzadkich przypadkach, przeniesie­
+nie zakażenia na osobę mającą bliski
+kontakt.
+4
+Niewielkie skupiska o ograniczonej
+transmisji z człowieka na człowieka,
+ale rozprzestrzenianie się jest silnie
+zlokalizowane, co sugeruje, że wirus
+nie jest dobrze przystosowany do
+ludzi.
+5
+Większe skupiska, ale
+rozprzestrzenianie się z człowieka na
+człowieka nadal ma charakter lokalny,
+co sugeruje, że wirus jest coraz lepiej
+przystosowany do ludzi, choć może
+jeszcze nie być w pełni zaraźliwy
+(znaczne ryzyko pandemii).
+OKRES PANDEMII
+6
+Faza pandemii: zwiększona
+i utrzymująca się transmisja
+w populacji ogólnej.
+DYSKWALIFIKACJA
+DAWCÓW
+INAKTYWACJA CZYNNIKÓW
+CHOROBOTWÓRCZYCH
+TESTOWANIE
+[TABELA strona 39, nr 1]
+FAZY WHO | |
+------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-
+OKRES MIĘDZYPANDEMICZNY | |
+1 | Nie wykryto żadnych nowych podtypów wirusa grypy u ludzi. Podtyp
+wirusa grypy, który spowodował
+zakażenie u ludzi, może występować
+u zwierząt. Jeśli występuje u zwierząt,
+ryzyko zachorowania u ludzi uważa
+się za niskie. |
+2 | Nie wykryto żadnych nowych podtypów wirusa grypy u ludzi. Jednastwarzakże krążący podtyp wirusa grypy
+u zwierząt znaczne ryzyko zachorowania na chorobę u ludzi. |
+OKRES ALARMOWY PANDEMII | |
+3 | Zakażenie(a) u ludzi nowym podtypem, ale bez przeniesienia zakażenia
+z człowieka na człowieka lub, w bardzo rzadkich przypadkach, przeniesienie zakażenia na osobę mającą bliski
+kontakt. |
+4 | Niewielkie skupiska o ograniczonej
+transmisji z człowieka na człowieka,
+ale rozprzestrzenianie się jest silnie
+zlokalizowane, co sugeruje, że wirus
+nie jest dobrze przystosowany do
+ludzi. |
+5 | Większe skupiska, ale
+rozprzestrzenianie się z człowieka na
+człowieka nadal ma charakter lokalny,
+co sugeruje, że wirus jest coraz lepiej
+przystosowany do ludzi, choć może
+jeszcze nie być w pełni zaraźliwy
+(znaczne ryzyko pandemii). |
+OKRES PANDEMII | |
+6 | Faza pandemii: zwiększona
+i utrzymująca się transmisja
+w populacji ogólnej. |
+76
+77
+i osocza w wielu krajach na całym świecie (inaktywowane krwinki płytkowe
+100% m.in. Francja, Belgia, Szwajcaria, Austria, Luksemburg, Islandia, Słowenia,
+powyżej 70% Kanada, USA; Polska 12.70% płytki; osocze 24.73%10).
+W przeszłości działania na rzecz ochrony KKP i innych preparatów krwio­
+pochodnych przed zagrożeniami związanymi z chorobami zakaźnymi opierały
+się na metodach i technologiach badań laboratoryjnych. Badania przyczyniły
+się wprawdzie do znacznego zmniejszenia ryzyka poważnych zagrożeń wiru­
+sowych w zasobach krwi na całym świecie, ale nawet najbardziej czułe platfor­
+my testowe nie są w stanie wykryć niskich poziomów zanieczyszczenia krwi.
+Technologie PIT umożliwiają niwelację "ryzyka resztkowego” i zapewniają do­
+datkową ochronę przed zagrożeniami chorobotwórczymi, dla których nie ma
+dostępnych testów lub testy nie są rutynowo stosowane.
+Obserwowane zmiany w występowaniu czynników chorobotwórczych,
+a także zwiększona mobilność społeczna sprawiają, że rośnie znaczenie tech­
+nologii stosowanych w inaktywacji czynników chorobotwórczych w procesie
+zabezpieczenia zasobów krwi i jej składników. Z tak przygotowanych prepara­
+tów krwi oraz ich składników korzystać powinny szczególnie wrażliwe grupy
+pacjentów, m.in. pacjenci pediatryczni, chorzy onkologicznie, ze schorzenia­
+mi hematologicznymi. Obecnie do inaktywacji czynników chorobotwórczych
+w płytkach krwi oraz osoczu stosuje się różnorodne rozwiązania i technologie
+inaktywacji patogenów (PIT). W zabezpieczaniu krwi stosuje się m.in.:
+• reakcję fotochemiczną amotosalenu (S-59) i światła ultrafioletowego A (UVA)
+– stosowana jest do inaktywacji czynników chorobotwórczych w płytkach
+krwi i osoczu;
+• mechanizm rozpuszczalnik/detergent – stosowany jest do inaktywacji czyn­
+ników chorobotwórczych w osoczu;
+• reakcje fotodynamiczne z udziałem:
+o ryboflawiny (witamina B12) oraz światła UVA lub UVB – stosowana jest do
+inaktywacji czynników chorobotwórczych w płytkach krwi i osoczu;
+o błękitu metylenowego ze światła widzialnego – stosowana jest do inakty­
+wacji czynników chorobotwórczych w osoczu.
+Każdy ze wskazanych mechanizmów inaktywacji czynników chorobotwór­
+czych (PIT) ma własną specyfikę i zastosowanie. Dla przykładu technologia
+10 Rosiek A. et al Blood transfusion service in Poland in 2022 Journal of Transfusion Medicine 2023, vol. 16, no. 4,
+167–188 DOI: 10.5603/jtm.99300
+amotosalen/UVA wykorzystuje amotosalen w połączeniu ze światłem UVA do
+namierzania kwasów nukleinowych, podczas gdy systemy oparte na błękicie
+metylenowym i ryboflawinie/UV wykorzystują do inaktywacji czynników cho­
+robotwórczych związki fotouczulające i określone długości fal świetlnych. Me­
+toda rozpuszczalnik/detergent rozbija błony lipidowe, dzięki czemu jest szcze­
+gólnie skuteczna w inaktywacji wirusów otoczkowych11.
+Każda z tych metod ma zarówno zalety, jak również ograniczenia. Błękit
+metylenowy jest metodą niedrogą i łatwą w użyciu, ale może mieć ograniczo­
+ną skuteczność wobec wirusów bezotoczkowych. Dla odmiany technologia
+amotosalen/UVA jest skuteczna przeciwko szerokiej grupie czynników cho­
+robotwórczych, ale z drugiej strony wymaga specjalistycznego sprzętu do na­
+świetlania i odczynników. W przypadku wykorzystania ryboflawiny/UV otrzy­
+mujemy wysoki poziom bezpieczeństwa inaktywowanych preparatów krwi,
+ale jednocześnie wymaga ona precyzyjnego dozowania i ekspozycji na światło.
+Metoda rozpuszczalnik/detergent okazuje się być skuteczną wobec wirusów
+otoczkowych, ale wykazuje ograniczenia wobec wirusów bezotoczkowych
+i niektórych pasożytów.12
+Skuteczność technologii PIT znacznie różni się w zależności od rodzaju czyn­
+nika chorobotwórczego. Systemy amotosalen/UVA i ryboflawina/UV są co do
+zasady skuteczne przeciwko szerokiej gamie wirusów, bakterii i pasożytów, ale
+ich efektywność może się różnić w zależności od konkretnego organizmu. Me­
+tody rozpuszczalnik/detergent wyróżniają się na tle wirusów otoczkowych, ale
+nie radzą sobie z wirusami bezotoczkowymi. Badania wykazały, że zdolność
+inaktywacji czynników chorobotwórczych mierzona na podstawie sterylności
+końcowej jest różna dla różnych zatwierdzonych technologii13. Dla przykładu
+w badaniu przeprowadzonym w 2021 roku przez McDonald et al. porównano
+możliwości inaktywacji płytek krwi w dwóch dostępnych na rynku systemach:
+amotosalen/UVA i ryboflawina/UV. Oba systemy wykazały wysoki poziom
+inaktywacji w dniu wykonania procedury, ale płytki krwi inaktywowane przy
+użyciu systemu ryboflawina/UV wykazały znaczny ponowny wzrost 9 z 10 ga­
+tunków bakterii pod koniec siedmiodniowego terminu ważności, które mogą
+wynikać z różnic w mechanizmach działania systemów.14
+11 Liu H, Wang X. Pathogen reduction technology for blood component: A promising solution for prevention of emer­
+ging infectious disease and bacterial contamination in blood transfusion services. J Photochem Photobiol. 2021;8.
+doi:10.1016/j.jpap.2021.100079
+12 Klein HG, Bryant BJ. Pathogen‐reduction methods: advantages and limits. ISBT Sci Ser. 2009;4(1):154-160. do­
+i:10.1111/j.1751-2824.2009.01224.x
+13 Estcourt L. Pathogen-Reduced Platelets for the Prevention of Bleeding.
+14 McDonald CP, Bearne J, Aplin K, Sawicka D. Assessing the inactivation capabilities of two commercially available platelet com­
+ponent pathogen inactivation systems: effectiveness at end of shelf life. Vox Sang. Published online 2021. doi:10.1111/vox.13040
+78
+79
+Wybór technologii PIT powinien uwzględniać różnice w skuteczności kli­
+nicznej przetaczanych składników krwi, zaobserwowane w badaniach. Sku­
+teczność kliniczną płytek krwi można oceniać na podstawie ich skuteczności
+hemostatycznej lub na podstawie badań stosowania składników (najlepiej
+w rutynowej praktyce klinicznej). W badaniach austriackich i szwajcarskich po
+rutynowym wprowadzeniu inaktywowanych płytek krwi metodą amotosalen/
+UVA jako standardu opieki wykazano, że KKP inaktywowane za pomocą PIT
+były porównywalne do konwencjonalnych KKP15, 16.
+Jedna z największych prac, podsumowująca randomizowane kontrolowane
+badania kliniczne – metaanaliza Cid et al., obejmująca technologie PIT w po­
+staci systemów amotosalen/UVA i ryboflawina/UV, wykazała, że płytki krwi
+inaktywowane systemami amotosalen/UVA lub ryboflawina/UV mają porów­
+nywalne profile bezpieczeństwa i skuteczności do konwencjonalnych płytek.
+Jednakże tylko płytki krwi poddane działaniu metody amotosalen/UVA nie
+zwiększały liczby krwawień ≥ II stopnia, zachowując skuteczność hemosta­
+tyczną, podczas gdy płytki krwi poddane działaniu ryboflawina/UV wykazały
+jej obniżoną skuteczność17.
+Pacjenci, którzy otrzymali płytki krwi inaktywowane systemem amotosa­
+len/UVA, mieli niższą śmiertelność w porównaniu do tych, którzy otrzymali
+konwencjonalne płytki krwi. Może to wynikać ze zmniejszenia potencjału za­
+palnego dzięki inaktywacji białych krwinek. Ostatnia analiza w USA wykazała
+również, że ryzyko wspomaganej wentylacji mechanicznej z powodu dysfunk­
+cji płuc zmniejszyło się o 50% u pacjentów leczonych przeciwnowotworowo,
+którzy otrzymali płytki krwi inaktywowane systemem amotosalen/UVA, w po­
+równaniu do tych, którzy otrzymali nieinaktywowane płytki18.
+Inaktywacja osocza jest coraz szerzej implementowana w krajach euro­
+pejskich i innych częściach świata jako metoda proaktywnego zapewniania
+bezpieczeństwa osocza terapeutycznego oraz krioprecypitatu, z uwagi na
+czynniki chorobotwórcze i ryzyka omawiane powyżej (bakterie, znane i nowe
+czynniki chorobotwórcze, zawężenie okienka diagnostycznego, zmniejszenie
+niepożądanych reakcji poprzetoczeniowych). Istotnym jest, aby technologia
+inaktywacji zachowywała parametry jakościowe osocza, jak najmniej wpły­
+15 Amato M, Schennach H, Astl M, et al. Impact of platelet pathogen inactivation on blood component utilization and
+patient safety in a large Austrian Regional Medical Centre. Vox Sang. 2016;112(1):47-55. doi:10.1111/vox.12456
+16 Jutzi M, Mansouri Taleghani B, Rueesch M, Amsler L, Buser A. Nationwide Implementation of Pathogen Inactivation
+for All Platelet Concentrates in Switzerland. Transfus Med Hemother. 2018;45(3):151-156. doi:10.1159/000489900
+17 Cid J, Charry P, Lozano M. Therapeutic efficacy and safety of pathogen-reduced platelet components: Results of a
+meta-analysis of randomized controlled trials. Vox Sang. Published online 2024. doi:10.1111/vox.13573
+18 Wheeler AP, Snyder EL, Refaai M, et al. Acute pulmonary injury in hematology patients supported with pathogen-redu­
+ced and conventional platelet components. Blood Adv. 2024;8(9):2290-2299. doi:10.1182/bloodadvances.2023012425
+wając na ten składnik krwi. Różnice w mechanizmach działania mają wpływ
+na jakość osocza.
+Najszerszym spektrum inaktywacji oraz dobrze udokumentowanymi bada­
+niami klinicznymi, a także danymi z krajowych systemów czuwania nad bez­
+pieczeństwem krwi, wyróżnia się metoda amotosalen/UVA w zakresie inak­
+tywacji osocza19, 20, 21, 22. Bardzo dobra jakość osocza inaktywowanego została
+potwierdzona w wielu badaniach klinicznych zastosowania terapeutycznej wy­
+miany osocza w TTP23, 24, gdzie płynem zastępczym było inaktywowane osocze
+metodą amotosalen/UVA. Potwierdziło to bardzo dobry profil bezpieczeństwa
+i brak istotnych statystycznie różnic skuteczności w porównaniu z osoczem
+nieinaktywowanym lub lepszą skuteczność w porównaniu z osoczem przygo­
+towanym metodą rozpuszczalnik/detergent25.
+Wykorzystanie technologii PIT jest nieodzowną częścią procesu zapew­
+nienia bezpieczeństwa płytek krwi oraz osocza. Istniejące protokoły postę­
+powania związane z zagrożeniami chorobami zakaźnymi zmniejszają ryzy­
+ko m.in. zakażenia wirusem HIV, ale jednocześnie bardzo czułe platformy
+testowe nie gwarantują wykrycia wszystkich zagrożeń wynikających z za­
+nieczyszczenia krwi26. Stanem idealnym byłaby sytuacja, w której centra
+krwiodawstwa wykorzystywałyby w celu osiągnięcia najwyższego możli­
+wego poziomu bezpieczeństwa wszystkie trzy środki bezpieczeństwa: dys­
+19 Bubiński M. et al. Plasma pooling in combination with amotosalen/UVA pathogen inactivation to increase standar­
+disation and safety of therapeutic plasma units Transfus Med. 2021 Apr;31(2):136-141. doi: 10.1111/tme.12763.
+20 Ravanat C, Dupuis A, Marpaux N, et al. In vitro quality of amotosalen-UVA pathogen-inactivated mini-pool pla­
+sma prepared from whole blood stored overnight. Vox Sang. 2018;113:622-631.
+21 Cazenave JP Transfusion. 2010 Jun;50(6):1210-9. doi: 10.1111/j.1537-2995.2009.02579.x. An active hemovigilance
+program characterizing the safety profile of 7483 transfusions with plasma components prepared with amotosalen
+and UVA photochemical treatment
+22 Bost V, Chavarin P, Boussoulade F, Fabrigli P, Chabre C, Benamara H, et al. Independent evaluation of tolerance of
+therapeutic plasma inactivated by amotosalen- HCl-UVA (Intercept ™) over a 5-year period of extensive delivery.
+Vox Sang 2015;109:414–6.
+23 Guignier C, Benamara A, Oriol P, Coppo P, Mariat C, Garraud O. Amotosalen-inactivated plasma is as equally well
+tolerated as quarantine plasma in patients undergoing large volume therapeutic plasma exchange. Transfus Clin
+Biol 2018;25:73–7.
+24 Herbrecht R, Ojeda-Uribe M, Kientz D, Fohrer C, Bohbot A, Hinschberger O, et al. Characterization of efficacy and
+safety of pathogen inactivated and quarantine plasma in routine use for treatment of acquired immune thrombotic
+thrombocytopenic purpura. Vox Sang 2018(May (21)). https://doi.org/10.1111/vox.12663.
+25 Garraud O. et al Amotosalen-inactivated fresh frozen plasma is comparable to solventdetergent inactivated plasma
+to treat thrombotic thrombocytopenic purpura Transfus Apher Sci.2019 Dec;58(6):102665. doi: 10.1016/j.trans­
+ci.2019.10.007.
+26 Busch MP, Bloch EM, Kleinman S. Prevention of transfusion-transmitted infections. Blood. 2019;133(17):18541864. doi:10.1182/BLOOD-2018-11-833996
+80
+27 Strengers P, O’brien SF, Politis | Constantina, Mayr W, Seifried | Erhard, Spencer BR. White paper on pandemic
+preparedness in the blood supply. Published online 2022. doi:10.1111/vox.13378
+kwalifikacje dawców, badania przesiewowe oraz inaktywację czynników za­
+kaźnych za pomocą PIT. Ta ostatnia metoda zaliczana jest do proaktywnych
+strategii istotnych z punktu widzenia większej mobilności dawców, a także
+zmian klimatycznych, które niosą ze sobą coraz częściej stwierdzane na te­
+renie Europy ogniska m.in. wirusa Zachodniego Nilu, czy innych zakaźnych
+patogenów.
+Zgodnie z wytycznymi Europejskiej Dyrekcji ds. Jakości Środków Leczni­
+czych (EDQM) oraz Światowej Organizacji Zdrowia (WHO) państwa człon­
+kowskie powinny proaktywnie chronić zasoby krwi przed kolejnymi poten­
+cjalnymi pandemiami. Jednocześnie Europejskie Centrum ds. Zapobiegania
+i Kontroli Chorób (ECDC) zaleca krajom UE strategiczne wdrożenie technologii
+PIT w wybranych centrach krwiodawstwa, aby umożliwić szybkie zwiększenie
+skali w przypadku wystąpienia poważnej epidemii. Technologie PIT zapewnia­
+ją wczesną i szeroką ochronę we wszystkich 6 fazach pandemii określonych
+przez WHO27. Z perspektywy pacjentów hematoonkologicznych bardzo istot­
+nym jest podejmowanie wszelkich działań edukacyjnych na rzecz promowa­
+nia bezpieczeństwa krwi i jej składników, a co za tym idzie, otwarcia dyskusji
+w dążeniu zwiększenia możliwości wykorzystania składników inaktywowa­
+nych w jak najbardziej efektywnym zabezpieczaniu terapii najbardziej wrażli­
+wych grup pacjentów w Polsce.
+FUNDACJA RZECZNICY ZDROWIA to pozarządowa organizacja,
+której nadrzędnym celem jest wspieranie działań na rzecz zapewnienia
+właściwej dostępności i jakości usług w obszarze ochrony zdrowia.
+Za cel działalności stawia sobie budowanie świadomości społecznej
+oraz rozwój kompetencji zdrowotnych społeczeństwa. Jej priorytetem
+jest inicjowanie i prowadzenie debaty publicznej w oparciu o rzetelne
+informacje i uwzględniającej szerokie grono interesariuszy.
+STOWARZYSZENIE HEMATOONKOLOGICZNI jest organizacją łączącą
+pacjentów z chorobami hematologicznymi. Powstało w 2019 roku, działa
+dla i w imieniu chorych zmagających się z nowotworami krwi. Stanowi
+wsparcie, bazę wiedzy, a także oparcie dla pacjentów oraz ich bliskich.
+FUNDACJA PER HUMANUS to pozarządowa organizacja, która powstała
+w 2022 roku. Jednym z jej głównych celów jest wsparcie i bycie blisko
+drugiego człowieka. Jako priorytet stawia sobie m.in. ochronę i promocję
+zdrowia wśród dzieci, młodzieży i dorosłych, a także budowanie współpracy
+i komunikacji pomiędzy pacjentami, rodzinami osób chorych, środowiskiem
+medycznym, ekspertami, administracją państwową, samorządami i mediami.
+Raport powstał przy wsparciu firm:

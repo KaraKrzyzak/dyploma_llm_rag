@@ -1,0 +1,23 @@
+# ── Secrets and configs ──────────────────────────
+.env
+*.env
+config.json          # Azure ML config jeśli używasz
+
+# ── Enviroments ────────────────────────────────────────────────
+.venv/
+venv/
+env/
+
+# ── System ───────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# -------------------------
+
+/chroma_db
+*.sqlite3
+*.keras
+dyploma_llm/chroma_db/
+dyploma_llm/MiniLLMmodel/
+dyploma_llm/chroma_db/
+dyploma_llm/MiniLLMmodel/

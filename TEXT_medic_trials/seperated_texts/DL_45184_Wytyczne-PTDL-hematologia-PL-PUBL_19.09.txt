@@ -1,0 +1,3823 @@
+DIAGN LAB. 2024; 60(3): 137–169, DOI: 10.5604/01.3001.0054.7416
+137
+Rekomendacje / Recommedations
+L
+D
+ISSN 0867-4043
+Wytyczne Polskiego Towarzystwa
+Diagnostyki Laboratoryjnej i Kolegium
+Medycyny Laboratoryjnej dotyczące
+badania morfologii krwi do stosowania
+w medycznych laboratoriach
+diagnostycznych. 2024
+2024 The Polish Society of Laboratory Diagnostics
+Recommendations for morphology for use in medical
+diagnostics laboratories
+Mirosława Pietruczuk (Przewodnicząca)1,2,3, Makandjou-Ola Eusebio1,
+Jacek Golański1,4, Łukasz Kraszula1,3, Jan Kanty Kulpa1,5,
+Krzysztof Lewandowski1,2,6, Joanna Osada1,7, Aneta Wrzyszcz1,8,
+Urszula Rychlik1,2,5 (Z-ca przewodniczącej)
+1Polskie Towarzystwo Diagnostyki Laboratoryjnej
+2Stowarzyszenie Kolegium Medycyny Laboratoryjnej w Polsce
+3Zakład Diagnostyki Laboratoryjnej, II Katedra Chorób Wewnętrznych, Uniwersytet Medyczny
+w Łodzi, Polska
+4Zakład Zaburzeń Krzepnięcia Krwi, Katedra Nauk Biomedycznych, Uniwersytet Medyczny w Łodzi,
+Polska
+5Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie, Państwowy Instytut Badawczy – Oddział
+w Krakowie, Polska
+6Zakład Medycyny Laboratoryjnej, Gdański Uniwersytet Medyczny, Gdańsk, Polska
+7Zakład Diagnostyki Hematologicznej, Uniwersytet Medyczny w Białymstoku, Polska
+8Zakład Diagnostyki Laboratoryjnej, Dolnośląskie Centrum Onkologii, Pulmonologii i Hematologii,
+Polska
+Słowa kluczowe: hematologia, morfologia krwi, przedział referencyjny, wytyczne
+Keywords: CBC+Diff, haematology, recommendation, reference interval
+Received: 03.07.2024
+Accepted: 15.08.2024
+Published: 19.09.2024
+DOI: 10.5604/01.3001.0054.7416
+Corresponding author:
+prof. dr hab. n. med. Mirosława Pietruczuk,
+Zakład Diagnostyki Laboratoryjnej, II Katedra
+Chorób Wewnetrznych, Uniwersytet Medyczny
+w Łodzi, 90-153 Łódź, ul. Kopcińskiego 22,
+e-mail: miroslawa.pietruczuk@umed.lodz.pl
+Cite the article as:
+Pietruszuk M, Eusebio MO, Golański J,
+Kraszula Ł, Kulpa JK, Lewandowski K,
+Osada J, Wrzyszcz A, Rychlik U. 2024 The
+Polish Society of Laboratory Diagnostics
+Recommendations for morphology for use in
+medical diagnostics laboratories. Diagn Lab.
+2024; 60(3): 137–169
+Open access
+The content of the journal is available in Open
+Access formula which means free access to
+scientific data for researchers and readers.
+Copyright
+This material is available under the Creative
+Commons – Attribution-NonCommercial 4.0
+International (CC BY-NC 4.0). The full terms of
+this license are available on: https://creativecom­
+mons.org/licenses/by-nc/4.0/legalcode
+Licence
+Some right reserved: Polish Society of Laboratory
+Diagnostics. Published
+by Index Copernicus Sp. z o.o.
+Conflict of interests
+The authors declare that they have
+no competing interests.
+138
+L
+D
+WWW.DIAGNOSTYKALABORATORYJNA.EU
+diagnostyka laboratoryjna Journal of Laboratory Diagnostics
+Rekomendacje / Recommedations
+SPIS TREŚCI
+WYKAZ SKRÓTÓW.139
+1. WSTĘP.140
+2. ORGANIZACJA WYTYCZNYCH.141
+3. PRZYGOTOWANIE PACJENTA DO BADANIA MORFOLOGII KRWI.141
+4. POBIERANIE MATERIAŁU DO BADANIA MORFOLOGII KRWI.144
+
+4.1. Kryteria akceptacji/odrzucenia próbki pierwotnej .145
+
+4.2. Istotne dane kliniczne.145
+5. WYMAGANIA DOTYCZĄCE TRANSPORTU MATERIAŁU DO BADAŃ LABORATORYJNYCH.146
+6. ZALECANE MATERIAŁY DO UDOSTĘPNIENIA ZLECENIODAWCOM.147
+7. METODY STOSOWANE W ANALIZATORACH HEMATOLOGICZNYCH.147
+
+7.1. Zasady nadzoru nad wyposażeniem.147
+
+7.2. Metody oznaczania stosowane w analizatorach hematologicznych .147
+
+7.3. Weryfikacja metody automatycznej badania morfologii krwi .149
+8. KRYTERIA DO WERYFIKACJI WYNIKU I WSKAZANIA DO OCENY MIKROSKOPOWEJ
+ROZMAZU KRWI OBWODOWEJ.150
+9. SPRAWOZDANIE Z WYNIKÓW BADANIA MORFOLOGII KRWI.156
+
+9.1. Układ wyników w sprawozdaniu z badania morfologii krwi,
+skróty, rzędy wielkości jednostek.156
+
+9.2. Zalecenia odnośnie do stosowanych komentarzy.156
+10. PRZEDZIAŁY REFERENCYJNE.159
+
+10.1. Przedziały wartości referencyjnych w badaniu morfologii krwi żylnej.159
+
+10.2. Wymagania do stosowanie przedziałów referencyjnych, opracowanych
+przez producentów testów diagnostycznych i analizatorów.159
+
+10.3. Przedziały wartości referencyjnych w populacji osób w wieku starszym.160
+
+10.4. Przedziały wartości referencyjnych w populacji pediatrycznej.162
+11. KONTROLA JAKOŚCI.165
+
+11.1. Zalecenia dotyczące kontroli wewnątrzlaboratoryjnej.165
+
+11.2. Zalecenia dotyczące kontroli zewnątrzlaboratoryjnej.165
+12. MINIMALNE DOŚWIADCZENIE I SPOSÓB PRACY.166
+13. PIŚMIENNICTWO.167
+139
+DIAGN LAB. 2024; 60(3): 137–169, DOI: 10.5604/01.3001.0054.7416
+L
+D
+ISSN 0867-4043
+Rekomendacje / Recommedations
+WYKAZ SKRÓTÓW
+BASO – bazofile (ang. basophiles)
+CALIPER – ang. Canadian Laboratory Initiative on Pediatric Reference Intervals
+COLA-BIOCLI – ang. Latin America Confederation of Clinical Biochemistry
+EFLM – ang. European Federation of Clinical Chemistry and Laboratory Medicine
+EOS – eozynofile (ang. eosinophiles)
+HCT – hematokryt (ang. hematocrit)
+HGB – hemoglobina (ang. hemoglobin)
+ICSH – ang. International Council for Standardization in Haematology
+K2EDTA – sól disodowa kwasu etylenodiaminotetraoctowego (ang. ethylenediaminetetraacetic acid disodium
+salt solution)
+KiGGS – ang. German Health Interview and Examination Survey for Children and Adolescents
+LIS – Laboratoryjny System Informatyczny
+LYM – limfocyty (ang. lymphocytes)
+MCH – średnia masa hemoglobiny w erytrocycie (ang. mean corpuscular hemoglobin)
+MCHC – średnie stężenie hemoglobiny w erytrocytach
+(ang. mean corpuscular hemoglobin concentration)
+MCV – średnia objętość erytrocytu (ang. mean corpuscular volume)
+MONO – monocyty (ang. monocytes)
+MPV – średnia objętość krwinki płytkowej (ang. mean platelet volume)
+NEUT – neutrofile (ang. neutrophiles)
+NRBC – erytroblasty (ang. nucleated red blood cells)
+PLT – płytki krwi / trombocyty (ang. platelets)
+RBC – krwinki czerwone / erytrocyty (ang. red blood cells)
+RDW – wskaźnik anizocytozy erytrocytów (ang. red cell distribution width)
+RETIC – retikulocyty (ang. reticulocytes)
+TAT – ang. turnaround time
+WBC – krwinki białe / leukocyty (ang. white blood cells)
+WBC DIFF – subpopulacje krwinek białych uzyskanych w analizatorze hematologicznym
+WG-PRE – ang. Working Group: Preanalytical Phase
+WG-PRE-LATAM – hiszp. Grupo de Trabajo Latinoamericano para la Fase Preanalitica​
+WHO – Światowa Organizacja Zdrowia (ang. World Health Organization)
+140
+L
+D
+WWW.DIAGNOSTYKALABORATORYJNA.EU
+diagnostyka laboratoryjna Journal of Laboratory Diagnostics
+Rekomendacje / Recommedations
+1. WSTĘP
+Badanie morfologii krwi pełnej jest podstawowym,
+rutynowym badaniem laboratoryjnym. Ze względu na
+wieloparametrowość badania morfologii krwi, jego
+zastosowanie jest powszechne jako stały element
+zlecenia na badania laboratoryjne na poziomie leka­
+rza rodzinnego. Badanie to jest również badaniem
+specjalistycznym w obszarze onkohematologii i on­
+kologii. Obecnie nie ma obszaru medycyny, w któ­
+rym nie byłoby potrzeby, a właściwie konieczności
+zlecania tego badania, opisującego zarówno zmiany
+ilościowe, jak i jakościowe w trzech układach – bia­
+łokrwinkowym, czerwonokrwinkowym i płytkowym.
+Badanie morfologii krwi dotyczy oceny parametrów
+morfotycznych: morfotycznych, leukocytów, czyli
+krwinek białych, erytrocytów, czyli krwinek czerwo­
+nych, i trombocytów, tj. płytek krwi. Wykonywane
+jest we krwi pełnej pobranej na antykoagulant: sól
+wersenianową (dwu- lub trójpotasową) i oznaczane
+na analizatorach hematologicznych. Współczesne
+analizatory hematologiczne są licznikami, które ozna­
+czają parametry białokrwinkowe, czerwonokrwinko­
+we i płytkowe na podstawie różnych technik. Najczę­
+ściej, w medycznych laboratoriach diagnostycznych
+w Polsce, wykorzystywane są analizatory 5, a przede
+wszystkim 6 diff, czyli różnicujące krwinki białe na
+5 populacji (Neut, Lym, Mono, Eos, Baso) lub 6 popula­
+cji (5 diff + dodatkowy parametr, np. IG [ang. immature
+granulocytes, niedojrzałe granulocyty]). Liczba krwinek
+białych oraz ich populacje najczęściej oznaczane są
+na podstawie techniki cytometrii przepływowej, liczby
+erytrocytów i płytek krwi, metodą impedancyjną, a stę­
+żenie hemoglobiny metodą spektrofotometryczną.
+Oczywiście producenci analizatorów hematologicz­
+nych starają się udoskonalać te metody poprzez wpro­
+wadzanie innowacyjnych, specyficznych dla danej fir­
+my rozwiązań technologicznych. Na rynku polskim,
+pomimo dostępu do różnych typów analizatorów
+hematologicznych, zdecydowanie dominują anali­
+zatory jednego producenta, co umożliwia stosowa­
+nie przy ich ocenie kryteriów systemowych (aparat,
+metoda, odczynniki). Jednocześnie ten stosunkowo
+wąski zakres stosowanych technik do oznaczania
+parametrów morfologii krwi, stanowi podstawę do
+uporządkowania, ujednolicenia zasad wykonywania
+badana morfologii krwi pełnej.
+Największym wyzwaniem współczesnej medycyny
+laboratoryjnej, w tym laboratoryjnej hematologii
+medycznej, są:
+• stosowane na wynikach badań laboratoryjnych
+przedziały wartości referencyjnych, które powinny
+być właściwe do oznaczanych parametrów, ze
+wskazanymi ich źródłami;
+• czytelna i klinicznie użyteczna prezentacja para­
+metrów oznaczanych jako parametry morfologii
+krwi (CBC + Diff) w następujących aspektach:
+– właściwej kolejności przedstawianych na spra­
+wozdaniach z badań laboratoryjnych parametrów
+tego badania,
+– miejsc po przecinku prezentowanych wartości
+liczbowych,
+– stosowanych jednostek,
+– stosowanych komentarzy, jeżeli jest to zasadne.
+Obecnie w medycznych laboratoriach diagnostycz­
+nych istnieje bardzo duża różnorodność zarówno co
+do źródeł stosowanych przedziałów wartości refe­
+rencyjnych, jak i sposobu prezentowania wyników
+badania morfologii krwi na sprawozdaniu z badań
+laboratoryjnych, co znacząco utrudnia ich wykorzy­
+stanie kliniczne i budzi niepokój co do zapewnienia
+bezpieczeństwa opieki nad pacjentem.
+W przypadku badania morfologii krwi pełnej,
+przy wyborze przedziałów referencyjnych, należy
+uwzględnić: wiek, płeć, rasę oraz status fizjologicz­
+ny (ciąża). Zgodnie z zaleceniami WHO, producenci
+analizatorów mają obowiązek wsparcia użytkowni­
+ków poprzez zaproponowanie przedziałów referen­
+cyjnych. Jednak to na użytkownikach analizatorów
+spoczywa obowiązek właściwego stosowania prze­
+działów wartości referencyjnych, adekwatnych do
+danej grupy pacjentów i udokumentowanych źródła­
+mi. Aktualnie jest to największe wyzwanie i skutkuje
+tym, że często interpretacja wyniku badania mor­
+fologii krwi jest zależna od Laboratorium. Wydaje
+się to absurdalne w sytuacji, w której badanie
+to wykonywane jest nawet przy użyciu tego same­
+go typu analizatora.
+W badaniu morfologii krwi, tak jak w innych bada­
+niach laboratoryjnych wykonywanych w medycznych
+laboratoriach diagnostycznych, stosuje się podejście
+141
+DIAGN LAB. 2024; 60(3): 137–169, DOI: 10.5604/01.3001.0054.7416
+L
+D
+ISSN 0867-4043
+Rekomendacje / Recommedations
+procesowe na podstawie procesów przed-, anali­
+tycznych i poanalitycznych, ponieważ wszystkie są
+istotne do uzyskania wiarygodnego wyniku bada­
+nia laboratoryjnego. Ta różnorodność interpretacji
+wyników badania morfologii krwi, w zależności od
+laboratorium, w którym je wykonano, stanowi dzi­
+siaj największe wyzwanie i konieczność szybkiego
+uporządkowania tego obszaru – w aspekcie całego
+procesu laboratoryjnego dla zapewnienia pacjentowi
+bezpiecznej opieki o najwyższej jakości.
+Na świecie, jak co roku, w dziedzinie hematologii po­
+wstało wiele rekomendacji, jednak dotyczą one głów­
+nie obszaru klinicznego, diagnostyki / postępowania
+/ algorytmów w określonych zaburzeniach hemato­
+logicznych, nie bezpośrednio badań laboratoryjnych,
+stosowanych do ich diagnostyki.
+Dlatego powstała konieczność opracowania de novo
+rekomendacji, aby ujednolicić podejście w procesie
+przed-, analitycznym i poanalitycznym w badaniu
+morfologii krwi.
+2. ORGANIZACJA WYTYCZNYCH
+1. Członkowie Grupy Roboczej (GR), która przygo­
+towała niniejsze rekomendacje, zostali wybrani
+i wskazani przez: Polskie Towarzystwo Diagno­
+styki Laboratoryjnej (PTDL) i Kolegium Medycyny
+Laboratoryjnej w Polsce (KMLP), jako eksperci
+laboratoryjnej hematologii medycznej.
+2. Grupa Robocza dokonała szczegółowego
+przeglądu dostępnych źródeł, w tym publi­
+kacji, dotyczących postępowania w badaniu
+morfologii krwi pełnej, przedziałów referencyj­
+nych i danych w sprawozdaniu z badań labo­
+ratoryjnych. Źródła te jednak są nieliczne, co
+wymagało stworzenia de novo rekomendacji
+na podstawie dostępnych skąpych danych
+oraz doświadczeniu zawodowym w obsza­
+rze laboratoryjnej hematologii medycznej,
+członków GR.
+3. Ze względu na główne założenia niniejszych re­
+komendacji, dotyczące ich zastosowania w prak­
+tyce przez medyczne laboratoria diagnostyczne
+w Polsce, każdy rozdział dodatkowo podsumowa­
+no w ramkach, zwracając uwagę na informacje ko­
+nieczne do zastosowania przez diagnostów labo­
+ratoryjnych i najważniejsze punkty rekomendacji,
+w aspekcie ich zastosowania w codziennej prak­
+tyce laboratoryjnej.
+3. PRZYGOTOWANIE PACJENTA DO
+BADANIA MORFOLOGII KRWI
+Medyczne laboratorium diagnostyczne, zwane dalej
+"Laboratorium”, zobowiązane jest do opracowania
+niezbędnych procedur dotyczących przygotowa­
+nia pacjenta do badań laboratoryjnych, sposobu
+informowania pacjentów/zleceniodawców, a także
+transportu materiału do badań. Informacja może być
+przekazywana zarówno w formie ustnej, papierowej
+(biuletyny, ulotki), jak i elektronicznej.
+W okresie poprzedzającym badanie należy zacho­
+wać dotychczasową, typową dietę bez ograniczeń.
+Na 24 godziny przed planowanym pobraniem krwi
+należy unikać znacznego wysiłku fizycznego i spo­
+żywania alkoholu.
+Do pobrania krwi należy zgłaszać się na czczo, po
+co najmniej 8 godzinnej przerwie posiłkowej, po
+lekkostrawnej kolacji.
+Próbki krwi do rutynowego badania morfologii krwi
+powinny być pobrane pomiędzy 7 a 10 rano. Jest
+to pora dnia po wypoczynku nocnym, traktowana
+jako najbardziej miarodajna pod kątem stabilności
+oznaczanych parametrów.
+Sposób pobierania materiału biologicznego nie
+może wpływać na własności próbki.
+W tabeli I wymieniono informacje na temat czynni­
+ków związanych z przygotowaniem pacjenta do po­
+brania krwi, które mogą wpływać na wyniki badania
+morfologii krwi i ich interpretację.
+142
+L
+D
+WWW.DIAGNOSTYKALABORATORYJNA.EU
+diagnostyka laboratoryjna Journal of Laboratory Diagnostics
+Rekomendacje / Recommedations
+Tabela I. Przykładowe czynniki wpływające na ilościowe zmiany parametrów morfologii krwi.
+CZYNNIK
+ZMIANA PRZEJŚCIOWA
+PARAMETRU
+PRZYCZYNA ZMIANY
+ZALECENIE
+WYSIŁEK FIZYCZNY
+ WBC
+Przesunięcie granulocytów obojętnochłonnych z puli
+marginalnej do puli krążącej.
+Wzrost ciśnienia hydrostatycznego – zagęszczenie krwi
+o ok. 10%.
+Na 24 godziny przed planowanym pobraniem krwi
+należy unikać intensywnego wysiłku fizycznego.
+Przed pobraniem krwi zaleca się 15-20 minutowy
+odpoczynek.
+DIETA
+ WBC
+Przesunięcie granulocytów obojętnochłonnych z puli
+marginalnej do puli krążącej. Dotyczy to w szczególności
+diety bogatobiałkowej.
+Na czczo: 8 – 14 h od przyjęcia ostatniego posiłku.
+PRÓBKI
+HIPERLIPEMICZNE
+ HGB
+Próbki hiperlipemiczne mogą zaburzać pomiar
+spektrofotometryczny.
+Dieta lekkostrawna, niskotłuszczowa.
+Należy rozważyć stosowanie odpowiednich komentarzy
+u pacjentów z uwarunkowaną genetycznie lub nabytą
+hipertriglicerydemią lub u pacjentów otrzymujących
+dożylne wlewy emulsji lipidów.
+ PLT
+Lipoproteiny tworzą cząsteczki o dużej objętości, które
+mogą interferować z płytkami krwi podczas pomiaru.
+NAWODNIENIE
+Względna niedokrwistość
+( RBC,  HGB)
+Stany przewodnienia prowadzą do względnej
+niedokrwistości.
+Odpowiednie nawodnienie organizmu (1-2 l płynów)
+w dniu poprzedzającym badanie.
+Dopuszcza się w dniu pobrania krwi wypicie szklanki
+wody
+Względna nadkrwistość
+( RBC,  HGB)
+Stany odwodnienia prowadzą do względnej
+nadkrwistości.
+TEMPERATURA
+POMIESZCZENIA
+ WBC
+Wysoka temperatura otoczenia sprzyja przesunięciu
+granulocytów obojętnochłonnych z puli marginalnej do
+puli krążącej.
+Fizjologiczną temperaturą jest temperatura pokojowa
+pomieszczenia.
+STRES
+ WBC
+Stres sprzyja przesunięciu granulocytów
+obojętnochłonnych z puli marginalnej do puli krążącej.
+Przed pobraniem krwi, zaleca się
+15-20 minutowy odpoczynek.
+CIĄŻA
+Względna niedokrwistość
+( RBC,  HGB)
+Od 6 tygodnia ciąży zmienia się objętość osocza, która:
+• w 16 tyg. ciąży zwiększa się o 10%,
+• w 26 tyg. ciąży osiąga objętość o 50% wyższą,
+a następnie utrzymuje się na tym poziomie aż do
+porodu.
+Zmiany fizjologiczne
+ WBC
+Występuje fizjologiczna leukocytoza. Całkowita liczba
+leukocytów zwiększa się w czasie ciąży. Szczyt osiąga
+w III trymestrze (do 16 x 109/l), po porodzie i wczesnym
+połogu (do 25 x 109/l). Zwiększa się liczba granulocytów
+obojętnochłonnych.
+ PLT
+Liczba płytek krwi zmniejsza się w III trymestrze
+ciąży na skutek zwiększenia objętości osocza oraz
+wzmożonej degradacji płytek krwi. Po porodzie
+obserwuje się wzrost liczby krwinek płytkowych.
+[TABELA strona 6, nr 1]
+EINECELAZ | iwrk
+.ogenzcyzfi ywotunim
+meinarbop
+02-51
+ukłisyw
+mynawonalp
+ęis
+ogenwysnetni acelaz
+iwrk
+dezrp
+meinarbop
+ynizdog ćakinu
+.kenyzcopdo
+42 yżelan dezrP
+aN | .ukłisop
+ogeintatso
+aicęjyzrp
+do
+h
+41
+–
+8
+:ozczc
+aN | yzratnemok
+ątyban
+hcycąjumyzrto
+bul
+hcindeiwopdo
+einzcyteneg
+.awozczsułtoksin
+wótnejcap
+.wódipil
+ąnawoknurawu
+einawosots
+u
+bul
+ijslume
+,anwartsokkel ąimedyrecilgirtrepih
+ćyżawzor
+z ywelw
+wótnejcap
+enlyżod
+yżelaN
+ateiD
+u | | iknalkzs
+)wónyłp
+eicipyw
+l
+2-1(
+umzinagro
+iwrk
+.einadab
+ainarbop
+eineindowan
+mycąjazdezrpop
+uind
+w
+ęis
+eindeiwopdO
+azczsupoD
+uind
+ydow
+w | | awojokop
+arutarepmet
+tsej
+ąrutarepmet
+.ainezczseimop
+ąnzcigolojziF | ęis
+acelaz .kenyzcopdo
+,iwrk
+meinarbop
+ywotunim
+dezrP 02-51 | enzcigolojzfi
+ynaimZ | |
+-----------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+YNAIMZ
+ANYZCYZRP | iwrk
+ilup
+einezczsęgaz
+z
+hcynnołhcontęjobo
+–
+ogenzcytatsordyh
+.jecążąrk
+wótycolunarg
+ilup
+aineinśic
+od
+eicęinusezrP
+jenlanigram
+.%01
+tsorzW
+.ko
+o | icśonlógezczs
+ilup
+z
+hcynnołhcontęjobo
+w
+ot
+yzcytoD
+.jecążąrk
+wótycolunarg
+.jewokłaibotagob
+ilup
+od
+eicęinusezrP
+jenlanigram
+yteid | raimop
+ćazrubaz
+ągom
+enzcimepilrepih .ynzcyrtemotofortkeps
+ikbórP | erótk
+.uraimop
+,icśotęjbo
+sazcdop
+jeżud
+iwrk
+o
+ikzcetsązc
+imaktyłp
+z
+ązrowt ćaworefretni
+ynietorpopiL
+ągom | jendęlgzw
+od
+ązdaworp
+aineindowezrp
+.icśotsiwrkodein
+ynatS | jendęlgzw
+od
+ązdaworp
+aineindowdo
+.icśotsiwrkdan
+ynatS | od
+uicęinusezrp jenlanigram
+ajyzrps ilup
+z
+hcynnołhcontęjobo
+ainezcoto
+arutarepmet
+wótycolunarg .jecążąrk
+akosyW
+ilup | .jecążąrk
+ilup
+wótycolunarg od
+jenlanigram
+uicęinusezrp
+ilup
+z
+hcynnołhcontęjobo
+ajyzrps
+sertS | :arótk
+od
+,azcoso
+,ązsżyw ża
+eimoizop
+ćśotęjbo
+%05
+,%01
+o myt
+ćśotęjbo
+ęis o
+ęis an
+aineimz
+ęis
+azskęiwz
+agąiso ejumyzrtu
+yżąic
+yżąic yżąic
+aindogyt
+einpętsan
+.gyt .gyt
+.udorop
+61 62
+6
+dO w w a
+• • | wótycolunarg
+abzcil agąiso mynsezcw
+atiwokłaC tyzczS
+i
+eizdorop
+abzcil
+.yżąic
+.azotycokuel
+ęis
+eisazc op
+azskęiwZ
+,)l/901
+w
+anzcigolojzfi ęis x
+61 .)l/901
+azskęiwz
+od( .hcynnołhcontęjobo
+ezrtsemyrt x
+52
+ejupętsyW wótycokuel od(
+ugołop
+III
+w | zaro
+ezrtsemyrt .hcywoktyłp
+eizdorop
+azcoso
+icśotęjbo oP
+III
+keniwrk
+w .iwrk
+ęis
+azsjeinmz ainezskęiwz ketyłp ybzcil
+ijcadarged
+tsorzw
+iwrk
+ketuks
+ketyłp ęis
+jenożomzw
+ejuwresbo
+an
+abzciL
+yżąic
+AWOICŚJEZRP
+URTEMARAP
+ANAIMZ | CBW
+ | CBW
+ | BGH
+ | TLP
+ | ćśotsiwrkodein
+)BGH
+
+,CBR
+andęlgzW
+( | ćśotsiwrkdan
+)BGH
+
+,CBR
+andęlgzW
+( | CBW
+ | CBW
+ | ćśotsiwrkodein
+)BGH
+
+,CBR
+andęlgzW
+( | CBW
+ | TLP
+
+KINNYZC | YNZCYZIF
+KEŁISYW | ATEID | ENZCIMEPILREPIH
+IKBÓRP | | EINEINDOWAN | | ARUTAREPMET AINEZCZSEIMOP | SERTS | AŻĄIC | |
+143
+DIAGN LAB. 2024; 60(3): 137–169, DOI: 10.5604/01.3001.0054.7416
+L
+D
+ISSN 0867-4043
+Rekomendacje / Recommedations
+Tabela I. c.d. Czynniki wpływające na ilościowe zmiany parametrów morfologii krwi.
+CZYNNIK
+ZMIANA PRZEJŚCIOWA
+PARAMETRU
+PRZYCZYNA ZMIANY
+ZALECENIE
+PRZYJMOWANE
+LEKI
+Zmiany zależne od rodzaju
+leku, dawki, czasu stoso­
+wania:
+Terapia sterydami, chemioterapeutyki, czynniki wzrostu.
+W miarę możliwości badanie krwi należy przeprowadzić
+przed przyjęciem porannej porcji leków, chyba że lekarz
+zaleci inaczej.
+Jeśli to możliwe, pobranie krwi powinno, odbyć się
+przed wdrożeniem leczenia. Pacjent, po uzgodnieniu
+z lekarzem, powinien ograniczyć przyjmowanie leków
+(z wyjątkiem leków koniecznych) lub wyłączyć leki
+mogące wpływać na poziom mierzonego składnika,
+o ile nie zaburza to procesu terapeutycznego oraz
+powstrzymać się od stosowania parafarmaceutyków.
+Pacjent powinien poinformować personel pobierający
+o stosowanych lekach.
+WBC
+RBC
+• Czynniki indukujące niedokrwistości
+immunohemolityczne (np. penicylina, metyldopa,
+chinidyna);
+• Leki indukujące niedokrwistości aplastyczne,
+np. cytostatyki, środki alkilujące, antymetabolity,
+antybiotyki;
+• Polekowe niedokrwistości megaloblastyczne, np.
+metotreksat, fenytoina.
+PLT
+Antybiotyki, aspiryna, leki przeciwkrzepliwe.
+ALKOHOL
+ MCV
+Alkohol powoduje tymczasowe podwyższenie średniej
+objętości erytrocytów.
+Na 2-3 dni przed planowanym pobraniem krwi należy
+unikać spożywania alkoholu.
+BŁĄD "STAZY”
+Przedłużający się ucisk stazy powoduje utrudnienie
+odpływu krwi i w efekcie dochodzi do szybkiego
+zagęszczenia krwi manifestującego się wzrostem
+poziomu parametrów morfotycznych krwi. Efekt "stazy”
+nasila się u osób z obrzękami i niewydolnością krążenia.
+Ucisk stazy ograniczyć do niezbędnego minimum
+(należy zwolnić ucisk stazy w trakcie napływu krwi do
+pierwszej probówki).
+[TABELA strona 7, nr 1]
+EINECELAZ | ćizdaworpezrp zrakel
+wókel .wókytuecamrafarap ycąjareibop
+uineindogzu
+,akindałks
+ęis ikel zaro
+eż
+abyhc ćybdo einawomjyzrp ćyzcąływ
+ogenzcytueparet
+yżelan ,onniwop ogenozreim lenosrep
+,wókel op
+,tnejcaP bul
+iwrk ijcrop ćyzcinargo )hcynzceinok ainawosots ćawomrofniop
+iwrk
+einadab .ainezcel moizop usecorp
+jennarop einarbop
+.hcakel
+icśowilżom neiniwop an do
+meineżordw wókel ot
+meicęjyzrp ,ewilżom ćawyłpw azrubaz ęis neiniwop
+hcynawosots
+.jezcani ćamyzrtswop
+meiktąjyw
+,mezrakel
+ęraim ot ecągom ein tnejcaP
+dezrp icelaz dezrp
+ilśeJ eli
+W z z( o o | | | | yżelan
+iwrk
+meinarbop
+mynawonalp
+.ulohokla
+ainawyżops
+dezrp
+ind
+3-2 ćakinu
+aN | od
+iwrk
+muminim
+uwyłpan
+ogendębzein
+eickart
+w
+yzats
+od
+ćyzcinargo
+ksicu .)ikwóborp
+ćinlowz
+yzats
+jezswreip
+yżelan(
+ksicU
+-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+-------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+YNAIMZ
+ANYZCYZRP | .utsorzw
+ikinnyzc
+,ikytueparetoimehc
+,imadyrets
+aipareT | | ,apodlytem ,ytilobatemytna .pn
+,enzcytsalpa ,enzcytsalbolagem
+,anilycinep
+icśotsiwrkodein
+icśotsiwrkodein ,ecąjulikla
+.pn( icśotsiwrkodein
+.aniotynef
+enzcytilomehonummi ikdorś
+ecąjukudni
+ecąjukudni ,ikytatsotyc
+,taskertotem
+;)anydinihc ;ikytoibytna
+ewokeloP
+ikinnyzC
+ikeL
+.pn
+• • • | .ewilpezrkwicezrp
+ikel
+,anyripsa
+,ikytoibytnA | jeinderś
+einezsżywdop
+ewosazcmyt
+.wótycortyre
+ejudowop
+icśotęjbo
+lohoklA | .aineżąrk
+”yzats"
+eineindurtu
+metsorzw
+ogeikbyzs tkefE
+ąicśonlodywein
+.iwrk
+ejudowop ęis
+od hcynzcytofrom
+ogecąjutsefinam
+izdohcod
+i
+yzats imakęzrbo
+eickefe
+ksicu
+wórtemarap
+iwrk z
+ęis w bóso
+ycąjażułdezrP i iwrk ainezczsęgaz
+u
+ęis
+uwyłpdo umoizop
+alisan
+AWOICŚJEZRP
+URTEMARAP
+ANAIMZ | ujazdor
+-osots
+do usazc
+:ainaw
+enżelaz
+,ikwad
+ynaimZ
+,ukel | CBW | CBR | TLP | VCM
+ |
+KINNYZC | ENAWOMJYZRP
+IKEL | | | | LOHOKLA | ”YZATS"
+DĄŁB
+144
+L
+D
+WWW.DIAGNOSTYKALABORATORYJNA.EU
+diagnostyka laboratoryjna Journal of Laboratory Diagnostics
+Rekomendacje / Recommedations
+4. POBIERANIE MATERIAŁU DO BADANIA
+MORFOLOGII KRWI
+Do pobierania krwi do badania liczby i objętości ele­
+mentów morfotycznych krwi obwodowej, zgodnie
+z zaleceniami Międzynarodowego Komitetu do Spraw
+Standaryzacji w Hematologii (ICSH; ang. Internatio­
+nal Council for Standardization in Haematology), za­
+leca się K2EDTA (kwas etylenodiaminotetraoctowy)
+jako antykoagulantu z wyboru. Objętość pobranej
+krwi powinna zapewnić stałe stężenie antykoagulan­
+tu, które dla soli EDTA wynosi 1,5 ±0,25 mg/ml krwi.
+Zgodnie z zaleceniami EFLM-COLABIOCLI (Europe­
+an Federation of Clinical Chemistry and Laboratory
+Medicine (EFLM), Working Group for Preanalytical
+Phase (WG-PRE) i Latin American Working Group
+for Preanalytical Phase (WG-PRE-LATAM)) of the La­
+tin America Confederation of Clinical Biochemistry
+(COLA-BIOCLI), dotyczącymi pobierania krwi żylnej
+u pacjentów hospitalizowanych i ambulatoryjnych,
+należy zachować odpowiednią kolejność pobierania
+próbek krwi w zależności od zawartości probówek
+i celu badania:
+1. Probówka na posiew;
+2. Probówka z cytrynianem;
+3. Probówka bez dodatków lub z aktywatorem skrzepu;
+4. Probówka z heparyną;
+5. Probówka z EDTA;
+6. Probówka z inhibitorem glikolizy;
+7. Inne.
+Zachowanie zalecanej kolejności przy pobieraniu
+krwi do kilku probówek pozwala uniknąć możliwych
+błędów w badaniach i zanieczyszczenia próbek sub­
+stancjami dodatkowymi.
+Nieodpowiednie mieszanie zawartości probówek
+może prowadzić do uzyskania niewiarygodnych wy­
+ników badań.
+Kolor korków używanych do identyfikacji zawartości
+probówek reguluje wydana przez Międzynarodową
+Organizację Normalizacyjną (ISO; ang. International
+Organization for Standardization; International Standards
+Organization) Norma 6710:2017 "Single-use conta­
+iners for human venous blood specimen collection:
+Intern Organ for Standardization” (tab. II). Norma ta
+powstała we współpracy z Grupą EFLM ds. stan­
+daryzacji kodowania kolorami zamknięć probówek
+do pobierania krwi (EFLM TFG-STCC).
+Tabela II. Identyfikacja zawartości probówek do pobierania krwi żylnej na podstawie koloru korka na podstawie Normy ISO
+6710:2017.
+TYP PRÓBKI
+DODATEK
+KOLOR KORKA
+Surowica
+Aktywator skrzepu
+Czerwony
+Surowica (żel)
+Żel, aktywator skrzepu
+Żółty
+Osocze
+Heparyna litowa
+Ciemnozielony
+Osocze (żel)
+Żel, heparyna litowa
+Jasnozielony
+Osocze
+Cytrynian sodu (1:9)
+Jasnoniebieski
+Pełna krew
+Cytrynian sodu (1:4)
+Czarny
+Pełna krew
+EDTA
+Lawendowy
+Osocze
+Inhibitor glikolizy
+Szary
+Osocze (EDTA, żel)
+Żel, EDTA
+Biały lub perłowy
+[TABELA strona 8, nr 1]
+TYP PRÓBKI | DODATEK | KOLOR KORKA |
+-------------------+-----------------------------+-------------+-
+Osocze | Inhibitor glikolizy Szary | |
+Osocze (EDTA, żel) | Żel, EDTA Biały lub perłowy | |
+145
+DIAGN LAB. 2024; 60(3): 137–169, DOI: 10.5604/01.3001.0054.7416
+L
+D
+ISSN 0867-4043
+Rekomendacje / Recommedations
+Tabela III. Przykładowe kryteria akceptacji/odrzucenia próbki pierwotnej.
+AKCEPTACJA
+ODRZUCENIE
+Prawidłowo wypełnione skierowanie na badania
+laboratoryjne
+Próbka transportowana w odpowiednim czasie
+Prawidłowo umieszczony numer kodowy
+Pobranie do właściwej probówki
+Brak uszkodzeń probówki lub zabrudzenia
+materiałem biologicznym
+Objętość próbki zgodna z zaleceniami producenta
+systemu do pobierania krwi
+Brak skrzepu
+Brak hemolizy
+Brak hiperlipidemii
+Brak istotnych danych na skierowaniu na badania
+laboratoryjne
+Przekroczenie maksymalnego czasu transportu
+próbki do laboratorium
+Brak numeru kodowego
+Pobranie do niewłaściwej probówki
+Probówka uszkodzona lub zabrudzona
+materiałem biologicznym
+Za mała objętość próbki
+Nadmierna objętość próbki
+Obecność skrzepu
+Hemoliza (z wyłączeniem jako przyczyny
+niedokrwistości hemolitycznej)
+Hiperlipidemia (próbka lipemiczna)
+z wyłączeniem jako przyczyny rodzinnej
+hipertriglicyrydemii) lub stosowanego leczenia
+4.1. Kryteria akceptacji/odrzucenia
+próbki pierwotnej
+Zaleca się, aby medyczne laboratorium diagnostycz­
+ne opracowało procedurę postępowania z materia­
+łem do badań uwzględniającą kryteria akceptacji
+i odrzucenia próbek pierwotnych.
+Procedura powinna uwzględniać co najmniej, wy­
+mienione w tabeli III, kryteria.
+4.2. Istotne dane kliniczne
+Zlecenie badania laboratoryjnego powinno zawierać
+informację o istotnych danych klinicznych.
+Zaleca się, aby w systemach LIS (Laboratoryjne
+Systemy Informatyczne) pole dotyczące istotnych
+danych klinicznych umożliwiało ich wybór (tab. IV).
+Laboratorium ze współpracy ze Zleceniodawcami
+przygotowują dodatkowo własne informacje o danych
+klinicznych mających wpływ na oznaczane parametry.
+146
+L
+D
+WWW.DIAGNOSTYKALABORATORYJNA.EU
+diagnostyka laboratoryjna Journal of Laboratory Diagnostics
+Rekomendacje / Recommedations
+5. WYMAGANIA DOTYCZĄCE
+TRANSPORTU MATERIAŁU DO BADAŃ
+LABORATORYJNYCH
+Każdą próbkę należy traktować jako materiał poten­
+cjalnie zakaźny. Próbki muszą być transportowane
+w probówkach/pojemnikach właściwych dla danego
+rodzaju materiału biologicznego oraz rodzaju badań
+zlecanych do wykonania. Próbki z miejsca pobrania
+powinny być transportowane do Laboratorium bez­
+zwłocznie w temperaturze pokojowej (20 – 250C).
+Próbki w czasie transportu muszą być ustawione
+w statywie w pozycji pionowej, korkiem/pokrywką
+zwróconym ku górze. Pojemnik w czasie transportu
+Tabela IV. Przykłady istotnych danych klinicznych mających wpływ na wynik badania morfologii krwi.
+ZALECANE
+– Stan kliniczny pacjenta (np. stan ostry, niewydolność nerek).
+– Wlewy dożylne, transfuzje (zlecenie powinno zawierać informację o przeprowadzeniu tej czynności
+oraz czasie jaki upłynął do pobrania próbki).
+– Dializy.
+– Niedokrwistość (z niedoboru żelaza, folianów lub witaminy B12; hemolityczna; pokrwotoczna; choroba
+zimnych aglutynin; inne niedokrwistości).
+– Choroby rozrostowe układu krwiotwórczego.
+– Choroby nowotworowe inne niż z układu krwiotwórczego.
+– Stosowane leczenie (preparaty żelaza, preparaty z folianami i/lub wit. B12, erytropoetyna, immunosupresja/
+chemioterapia/radioterapia, terapia celowana, czynniki wzrostu, diuretyki.
+– Zabiegi chirurgiczne.
+– Stan nawodnienia: norma, przewodnienie, odwodnienie.
+– Narażenie na promieniowanie jonizujące.
+PRZYDATNE
+– Biopsje.
+– Punkcje.
+– Zabiegi endoskopowe.
+– Próby czynnościowe.
+– Immunoscyntygrafia.
+– Środki kontrastowe.
+nie powinien być narażony na wstrząsy, ponieważ
+może to doprowadzić do uszkodzenia krwinek i wpły­
+wać na wyniki oznaczanych składników. Badanie
+morfologii krwi powinno być wykonane do 4 godzin
+od momentu pobrania próbki. Rozmaz krwi obwo­
+dowej powinien być wykonany do dwóch godzin po
+pobraniu krwi. W przypadku konieczności wykonania
+tego badania, po dłuższym niż wskazanym czasie,
+należy taką informację umieścić w sprawozdaniu
+z badania laboratoryjnego.
+147
+DIAGN LAB. 2024; 60(3): 137–169, DOI: 10.5604/01.3001.0054.7416
+L
+D
+ISSN 0867-4043
+Rekomendacje / Recommedations
+7. METODY STOSOWANE
+W ANALIZATORACH
+HEMATOLOGICZNYCH
+7.1. Zasady nadzoru nad wyposażeniem
+Zaleca się, aby stosowane przez laboratorium zasady
+nadzoru nad wyposażeniem były oparte na zaleceniach
+producenta analizatorów i odczynników i uwzględniały
+co najmniej zalecenia przedstawione poniżej.
+Nadzór nad wyposażeniem powinien obejmować:
+• analizatory hematologiczne,
+• materiały odniesienia (kalibratory i materiały
+kontrolne),
+• materiały zużywalne (odczynniki i drobny sprzęt),
+• systemy analityczne (LIS, programy w analiza­
+torach),
+• wyposażenie pomocnicze, np. sumatory hema­
+tologiczne, mieszadła, lodówki.
+Laboratorium powinno:
+• opracować procedurę nadzoru nad wyposażeniem,
+6. ZALECANE MATERIAŁY
+UDOSTĘPNIANE ZLECENIODAWCOM
+W celu zapewnienia właściwego przepływu informa­
+cji pomiędzy Laboratorium i zleceniodawcami badań
+Tabela V. Wykaz materiałów do udostępnienia zleceniodawcom.
+ZALECANE
+UŻYTECZNE
+Lista wykonywanych badań laboratoryjnych
+Lista zlecanych badań laboratoryjnych podwykonawcom.
+Formularz zlecenia na badania laboratoryjne
+Procedury dotyczące:
+• przygotowania pacjenta do badań laboratoryjnych,
+• zasad pobierania materiału i warunków jego transportu do
+Laboratorium,
+• Informacje o czasie oczekiwania na wynik badania laboratoryjnego
+(TAT; ang. turnaround time), definiowany jako czas pomiędzy
+zleceniem badania przez lekarza a otrzymaniem przez niego wyniku.
+Wykaz niepewności
+pomiarowych dla mierzonych
+parametrów morfologii krwi.
+Wykaz metod pomiarowych.
+Wykaz stosowanych procedur
+badawczych/instrukcji
+producentów analizatorów
+i odczynników.
+laboratoryjnych, rekomendowane jest udostępnienie
+zleceniodawcom informacji zawartych w tabeli V.
+• opracować listę istotnego wyposażenia pomoc­
+niczego,
+• wskazać osoby odpowiedzialne za nadzór,
+• potwierdzać zgodność metrologiczną wyposa­
+żenia z częstotliwością zalecaną przez produ­
+centa (przeglądy techniczne, kalibracje),
+• tam, gdzie jest to możliwe, zapewnić spójność
+pomiarową poprzez pozyskanie informacji od
+producenta analizatora i odczynników,
+• opracować procedury zabezpieczające:
+– integralność danych informacyjnych,
+– właściwą konserwację LIS,
+– przed dostępem przez nieupoważnione osoby,
+– przed dokonywaniem zmian przez nieupoważ­
+nione osoby,
+– przed zniszczeniem danych przez nieupoważ­
+nione osoby.
+7.2. Metody oznaczania
+stosowane w analizatorach
+hematologicznych
+W analizatorach hematologicznych stosowane są
+różne technologie oznaczania parametrów mor­
+fologii krwi. Jedną z podstawowych jest metoda
+impedancji, która pozwala określić liczbę krwinek
+148
+L
+D
+WWW.DIAGNOSTYKALABORATORYJNA.EU
+diagnostyka laboratoryjna Journal of Laboratory Diagnostics
+Rekomendacje / Recommedations
+białych, czerwonych i płytek krwi oraz większość
+wskaźników czerwonokrwinkowych i płytkowych
+związanych z objętością (wielkością) tych elemen­
+tów. Metoda impedancji stanowi również podstawę
+różnicowania krwinek białych na trzy populacje (lim­
+focyty, granulocyty, monocyty).
+Do zliczania krwinek białych, czerwonych i płytek
+krwi stosowane są również metody optyczne, wy­
+korzystujące cytometrię przepływową i pomiar roz­
+proszenia światła lasera przez detektory ustawione
+pod różnymi kątami, zarówno jako jedyne metody
+pomiarowe, jak i w połączeniu z impedancją.
+Różnicowanie krwinek białych na co najmniej pięć
+populacji wymaga zastosowania kombinacji kilku
+metod (impedancja, pomiar rozproszenia światła
+przez komórki, pomiar fluorescencji, cytoliza, cyto­
+chemia), umożliwiających ocenę różnych cech fizy­
+ko-chemicznych komórek przepływających przez
+kilka odrębnych kanałów pomiarowych. Metody te
+pozwalają różnicować populację krwinek białych na
+neutrofile, limfocyty, monocyty, eozynofile i bazofile,
+a niektóre dodatkowo wyodrębniają populacje niedoj­
+rzałych neutrofili i/lub limfocytów, i/lub monocytów.
+Wiele parametrów morfologii krwi ma znaczenie klinicz­
+ne, jednak nie dla wszystkich zostały określone metody
+referencyjne, co może być przyczyną różnic w raporto­
+wanych wynikach, a także w ich interpretacji klinicznej.
+W tabeli VI przedstawiono obecnie stosowane metody
+referencyjne dla analizatorów hematologicznych.
+Tabela VI. Metody referencyjne dostępne dla analizatorów hematologicznych.
+PARAMETR
+METODA REFERENCYJNA
+HGB (stężenie hemoglobiny)
+Cyjanomethemoglobinowa (WHO IRR 98/708)
+HCT (hematokryt)
+Mikrohematokrytowa
+RBC (liczba krwinek czerwonych)
+Impedancyjna
+WBC (liczba krwinek białych)
+Impedancyjna
+PLT (liczba płytek krwi)
+Cytometria przepływowa ze swoistymi
+przeciwciałami monoklonalnymi
+RETIC (liczba retikulocytów)
+Cytometria przepływowa
+WBC DIFF (odsetek subpopulacji krwinek białych)
+Mikroskopowa
+HGB
+Metodą referencyjną jest metoda cyjanomethemo­
+globinowa. Ze względu na toksyczność cyjanku
+obecne metody oznaczania stężenia hemoglobiny
+zastępowane są metodami alternatywnymi z od­
+czynnikami nie zawierającymi cyjanku. W związku
+z tym wymagana jest od producentów weryfikacja
+metody alternatywnej. Hemoglobina jest jedynym
+parametrem morfologii krwi, dla którego istnieje
+norma odniesienia w postaci wzorca międzynaro­
+dowego IRR 98/708 (WHO).
+HCT
+W przypadku hematokrytu metodą referencyj­
+ną jest metoda mikrohematokrytowa, w której
+próbkę krwi odwirowuje się w szklanej kapilarze,
+a następnie mierzy się wysokość słupka krwinek
+czerwonych w stosunku do wysokości całego
+słupka krwi. Metoda mikrohematokrytowa obar­
+czona jest pewnymi wadami, odczyt może być
+błędny w przypadkach nieprawidłowej morfolo­
+gii krwinek czerwonych (np. w anemii sierpowa­
+tokrwinkowej).
+RBC i WBC
+W odniesieniu do liczby krwinek czerwonych i liczby
+krwinek białych metoda referencyjna została opubli­
+kowana w 1994 r. przez Zespół Ekspertów ds. Cyto­
+metrii ICSH i obowiązuje do dziś. Metoda opiera się
+na automatycznym zliczaniu komórek metodą im­
+pedancyjną i zastąpiła metodę opartą na zliczaniu
+komórek w komorze z użyciem mikroskopu.
+149
+DIAGN LAB. 2024; 60(3): 137–169, DOI: 10.5604/01.3001.0054.7416
+L
+D
+ISSN 0867-4043
+Rekomendacje / Recommedations
+rozkład agregatów w próbce mogą nie zostać
+zaaspirowane, pomimo ich obecności w próbce.
+• Pomiar tylko metodą impedancyjną zawyża licz­
+bę płytek krwi w porównaniu z metodą optycz­
+ną i referencyjną (immunologiczną). Różnica
+pomiędzy metodami pomiaru może dochodzić
+do 25%, a zmienność pomiarowa (CV) do 8%.
+7.3. Weryfikacja metody automatycznej
+badania morfologii krwi
+Zaleca się, aby sposób przeprowadzenia weryfikacji me­
+tody badania morfologii krwi z różnicowaniem leukocytów
+i retikulocytami pozwolił na potwierdzenie jej użyteczno­
+ści w warunkach Laboratorium, i powinien obejmować:
+• Dla metod opracowanych i opisanych przez pro­
+ducenta, proces weryfikacji metody co najmniej:
+a) ocenę precyzji i poprawności.
+• Dla metod komercyjnych modyfikowanych
+w Laboratorium:
+a) ocenę powtarzalności, odtwarzalności, poprawności,
+b) porównanie wiarygodności wyników badań uzy­
+skiwanych przy użyciu procedury zalecanej przez
+producenta oraz procedury zmodyfikowanej przez
+Laboratorium.
+W przypadku korzystania z gotowych zestawów od­
+czynnikowych, przygotowanych przez producenta:
+Laboratorium poddaje analizie wyniki walidacji prze­
+prowadzonej przez producenta. W przypadku gdy wy­
+niki są satysfakcjonujące, umieszcza je we własnej
+dokumentacji metody badawczej. Zalecany sposób
+przeprowadzenia weryfikacji metody automatycznej
+badania morfologi krwi w warunkach Laboratorium:
+1. Weryfikacja wstępna metody polega na wykona­
+niu w serii jednoczesnej co najmniej 20 pomiarów
+tej samej próbki, dla wszystkich raportowanych
+przez Laboratorium parametrów. Wartości pra­
+widłowe, patologiczne, niskie i wysokie dla liczby
+krwinek białych i ich populacji, krwinek czerwo­
+nych, stężenia hemoglobiny, liczby płytek krwi oraz
+innych parametrów mierzonych powinny zostać
+poddane weryfikacji. Jeżeli Laboratorium wykazuje
+w raportach z badań parametry, takie jak: ery­
+troblasty i retikulocyty, to próbki użyte do oceny
+powtarzalności dla tych parametrów powinny
+być bliskie wartości decyzyjnych. Należy obliczyć
+PLT
+W przypadku liczby płytek krwi metodą referencyjną
+jest cytometria przepływowa, oparta na rozpozna­
+waniu płytek krwi przez swoiste przeciwciała mono­
+klonalne (np. anty-CD61, anty-CD41a).
+RETIC
+W przypadku liczby retikulocytów opisano metodę cy­
+tometrii przepływowej, w której retikulocyty są oddzie­
+lane od dojrzałych erytrocytów na podstawie barwienia
+RNA w połączeniu z pomiarami wielkości i struktury
+wewnętrznej komórki. Metoda ta jest dokładniejsza
+niż metoda mikroskopowa, w której retikulocyty są li­
+czone po zabarwieniu nowym błękitem metylenowym.
+DIFF
+W przypadku różnicowania krwinek białych na po­
+pulacje (DIFF) metodą referencyjną jest metoda
+mikroskopowa. Zaleca się zliczanie 400 komórek
+do wyciagnięcia średniej z 2 preparatów (do 200 ko­
+mórek w każdym, przez dwóch wykwalifikowanych
+i doświadczonych pracowników). Preparaty można
+wybarwić jedną z wymienionych metod: Romanow­
+skiego, Wrighta, Maya-Grünwalda i Giemsy, Wrigh­
+ta-Giemsy (metody równoważne).
+Uwagi i komentarze do oznaczania płytek krwi me­
+todą impedancyjną
+• Oznaczenie PLT metodą impedancyjną jest ba­
+daniem powszechnie dostępnym;
+• W metodzie impedancyjnej zastosowanie płyn­
+nych dyskryminatorów pozwala na optymalne
+odróżnienie płytek krwi od erytrocytów, w meto­
+dzie tej płytki krwi zliczane są w zakresie 2 – 30 fl,
+a erytrocyty w zakresie 25 – 250 fl). Jeżeli płytki
+są większe niż 30 fl (np. płytki olbrzymie) albo ery­
+trocyty są mniejsze niż 25 fl (np. fragmentocyty),
+dokładny rozdział może być zaburzony. W takich
+przypadkach analizator hematologiczny zwykle
+wyświetla komunikat ostrzegawczy, wówczas na­
+leży sprawdzić wiarygodność wyniku inną metodą.
+• W wielu przypadkach w obecności agregatów lub
+aglutynin w próbce analizatory hematologiczne
+wyświetlają ostrzeżenia i flagują nieprawidłowy
+rozkład na histogramie, pod warunkiem, że zosta­
+ły one zaaspirowane. Jednakże trzeba wziąć pod
+uwagę fakt, że ze względu na niehomogeniczny
+150
+L
+D
+WWW.DIAGNOSTYKALABORATORYJNA.EU
+diagnostyka laboratoryjna Journal of Laboratory Diagnostics
+Rekomendacje / Recommedations
+Wzór do obliczenia obciążenia:
+B = xśr – x
+B% = (xśr – xnom)/xnom * 100%
+gdzie: xśr – wartość średnia; xnom – wartość nominalna; B% –
+obciążenie wyrażone w procentach; xśr – wartość średnia;
+xnom – wartość nominalna.
+Wzór do obliczenia całkowitego dopuszczalnego
+błędu pomiaru:
+TAE = 1,65 *CV% + B%.
+gdzie: TAE – całkowity błąd analityczny (ang. Total Analytic
+Error); CV – współczynnik zmienności; B% – obciążenie
+wyrażone w procentach.
+
+Uzyskana wartość własnego błędu powinna się
+mieścić w zakresie założonej dopuszczalnej gra­
+nicy błędów.
+3. Podczas procesu weryfikacji wskazane jest także
+obliczenie zależności korelacyjnej między anali­
+zatorem stanowiącym punkt odniesienia a no­
+wym analizatorem, który poddany jest proceso­
+wi weryfikacji. Sugerowana jest ilość co najmniej
+20 pomiarów tej samej próbki, dla wszystkich ra­
+portowanych przez laboratorium parametrów. War­
+tości prawidłowe, patologiczne, niskie i wysokie
+dla liczby krwinek białych i ich populacji, krwinek
+czerwonych, stężenia hemoglobiny, liczby płytek
+krwi oraz innych parametrów mierzonych powinny
+zostać poddane ocenie zależności korelacyjnej.
+8. KRYTERIA DO WERYFIKACJI
+WYNIKU I WSKAZANIA DO OCENY
+MIKROSKOPOWEJ ROZMAZU KRWI
+OBWODOWEJ
+W celu ujednolicenia kryteriów oceny wyników ba­
+dań morfologii krwi, uzyskanych metodami automa­
+tycznymi, zgodnie z rekomendacjami ICSH, zaleca
+się co najmniej stosowanie kryteriów przedstawio­
+nych w tabeli VII i VIII.
+Zaleca się, aby Laboratorium dostarczyło wszyst­
+kim zleceniodawcom listę możliwych do pojawienia
+się w sprawozdaniu z badania morfologii krwi "Flag”
+wraz z ich wyjaśnieniem.
+parametry statystyczne, takie jak: średnia – x, od­
+chylenie standardowe – SD, współczynnik zmien­
+ności – CV, poprawność – B% oraz całkowity błąd
+analityczny TAE (ang. Total Analytic Error). Kryte­
+rium akceptacji weryfikacji wstępnej polega na:
+• porównaniu wartości współczynnika zmienno­
+ści wyliczonego przez laboratorium z współ­
+czynnikiem zmienności wyznaczonym przez
+producenta (CV% obliczony < CV% producenta);
+• porównaniu wyliczonego podczas oceny wstępnej
+całkowitego błędu analitycznego TAE, który musi
+być mniejszy od całkowitego dopuszczalnego błędu
+pomiar przyjętego przez laboratorium (TAE obliczone
+< TEA przyjęty przez laboratorium dla danej metody).
+2. Weryfikacja zasadnicza metody polega na wyko­
+naniu pomiarów w serii niejednoczesnej i powinna
+być wykonana z użyciem tego samego materiału,
+dla wszystkich raportowanych przez Laboratorium
+parametrów od 20 do 30 dni. Podobnie jak przy
+ocenie powtarzalności należy uwzględnić war­
+tości prawidłowe, patologiczne, niskie i wysokie
+dla liczby krwinek białych i ich populacji, krwinek
+czerwonych, stężenia hemoglobiny, liczby płytek
+krwi oraz innych parametrów mierzonych. Jeżeli
+laboratorium raportuje na wynikach takie parame­
+try jak erytroblasty i retikulocyty to próbki użyte
+do oceny odtwarzalności powinny mieć wartość
+dla tych parametrów blisko wartości decyzyjnej.
+Ze względu na wymaganą stabilność wszystkich
+parametrów przez dłuższy okres czasu, dopuszcza
+się korzystanie z materiałów kontrolnych dostar­
+czonych przez producenta testu. Należy obliczyć
+takie parametry statystyczne jak: średnia – x, od­
+chylenie standardowe – SD, współczynnik zmien­
+ności – CV, poprawność – B% oraz całkowity błąd
+analityczny TAE (ang. Total Analytic Error). Kryte­
+rium akceptacji weryfikacji wstępnej polega na:
+• porównaniu wartości współczynnika zmienno­
+ści wyliczonego przez laboratorium z współ­
+czynnikiem zmienności wyznaczonym przez
+producenta (CV% obliczony < CV% producenta),
+• porównaniu wyliczonego podczas oceny wstępnej
+całkowitego błędu analitycznego TAE, który musi
+być mniejszy od całkowitego dopuszczalnego
+błędu pomiar przyjętego przez laboratorium
+(TAE obliczone < TEA przyjęty przez laborato­
+rium dla danej metody).
+151
+DIAGN LAB. 2024; 60(3): 137–169, DOI: 10.5604/01.3001.0054.7416
+L
+D
+ISSN 0867-4043
+Rekomendacje / Recommedations
+Tabela VII. Kryteria oceny wyników morfologii krwi metodą automatyczną.
+PARAMETR
+JEDN.
+KRYTERIA DO WERYFIKACJI WYNIKU
+Z ANALIZATORA
+ZALECANE POSTĘPOWANIE
+ZALECANY KOMENTARZ
+W RAPORCIE Z BADAŃ
+WBC
+x 109/l
+< 3 x 109/l lub > 30 x 109/l *
+Różnicowanie mikroskopowe leukocytówa.
+< 3 x109/l – leukocyty należy różnicować
+na podstawie co najmniej 2-3 preparatów
+(celem zliczenia co najmniej 100 komórek);
+Jeżeli istnieje możliwość, należy wykonać
+preparat cytospinowyb.
+WBC < 0,5 x 109/l:
+a "Z uwagi na znaczną leukopenię
+nie wykonano mikroskopowej oceny
+leukogramu”.
+b"Różnicowania leukocytów dokonano
+na podstawie preparatu cytospinowego”.
+Neutrofile
+x 109/l
+< 1 x 109/l lub > 20 x 109/l *
+Przejrzenie poprawności rozdziału leukocy­
+tów przez analizator (ocena skatergramów).
+Przejrzenie rozmazu krwi pod mikroskopem.
+Różnicowanie mikroskopowe leukocytów
+w przypadku wątpliwości, co do zmian
+ilościowych poszczególnych subpopulacji
+leukocytów.
+Limfocyty
+x 109/l
+> 5 x 109/l *
+> 7 x 109/l (dzieci do lat 12) *
+Monocyty
+x 109/l
+> 1,5 x 109/l *
+> 3 x 109/l (dzieci do lat 12) *
+Eozynofile
+x 109/l
+> 2 x 109/l *
+Bazofile
+x 109/l
+> 0,2 x 109/l *
+"flagi”
+WBC
+"Flagi” sugerujące obecność atypowych
+limfocytów (Atypical/ Abnormal/Variant
+Lymph), blastów (Blasts), przesunięcie
+w lewo (Left Shift), obecność pałek (Band),
+niedojrzałych granulocytów (ImmatureGran/
+IG) i innych nieprawidłowych komórek.
+Nieprawidłowy histogram/skatergram
+rozdziału WBC
+Różnicowanie mikroskopowe leukocytów.
+152
+L
+D
+WWW.DIAGNOSTYKALABORATORYJNA.EU
+diagnostyka laboratoryjna Journal of Laboratory Diagnostics
+Rekomendacje / Recommedations
+Tabela VII. c.d. Kryteria oceny wyników morfologii krwi metodą automatyczną.
+PARAMETR
+JEDN.
+KRYTERIA DO WERYFIKACJI WYNIKU
+Z ANALIZATORA
+ZALECANE POSTĘPOWANIE
+ZALECANY KOMENTARZ
+W RAPORCIE Z BADAŃ
+HGB
+g/dl
+< 7 g/dl lub > 2 g/dl powyżej górnej granicy
+przedziału referencyjnego zależnie od płci
+i wieku*
+> 2 g/dl powyżej górnej granicy przedziału
+referencyjnego – próbkę należy sprawdzić
+w celu wykluczenia/potwierdzenia:
+1. znacznej lipemii:
+– można odwirować krew, odciągnąć
+osocze, uzupełnić taką samą ilością
+izotonicznego płynu (np. diluentu do ana­
+lizatora) i ponownie oznaczyć HGB, na­
+stępnie obliczyć MCH i MCHC. Uzyskane
+wyniki wpisać w miejsce poprzednich.
+– lub skorzystać z opcji podania próbki
+w trybie rozcieńczonym;
+– lub podać wartość tzw. komórkowej
+hemoglobiny, opartej na pomiarze bez­
+pośrednim stężenia hemoglobiny w poje­
+dynczych krwinkach i odpowiadające jej
+wskaźniki MCH i MCHC.
+2. znacznej bilirubinemii
+< 7 g/dl: przejrzenie rozmazu krwi pod
+mikroskopem.
+jeśli nie uda się skorygować HGB:
+"znaczna lipemia/bilirubinemia w próbce
+krwi – stężenie HGB, wartości MCH i
+MCHC mogą być zawyżone”
+MCHC
+g/dl
+> 2 jednostek ponad górną granicę prze­
+działu referencyjnego
+Próbkę należy sprawdzić w celu wyklucze­
+nia/potwierdzeni:
+1. Znacznej lipemii/bilirubinemii(j.w.)a
+2. Aglutynacji erytrocytów (ogrzanie prób­
+ki krwi w temperaturze 37oC i ponowne
+oznaczenie)b,
+3. Hemolizyc,
+4. Obecności sferocytów (przejrzenie
+rozmazu)
+5. hiponatremiid
+a Jeśli nie uda się skorygować HGB:
+"znaczna lipemia/bilirubinemia w
+próbce krwi – stężenie HGB, wartości
+MCH i MCHC mogą być zawyżone”
+b Pseudoaglutynacja erytrocytów -
+badanie wykonano po ogrzaniu próbki
+krwi do temperatury 37oC.
+c "Hemoliza – wymagane powtórzenie
+badania morfologii krwi”
+d "Znaczna hiponatremia – zawyżona
+wartość MCHC wskutek zaniżenia MCV
+153
+DIAGN LAB. 2024; 60(3): 137–169, DOI: 10.5604/01.3001.0054.7416
+L
+D
+ISSN 0867-4043
+Rekomendacje / Recommedations
+Tabela VII. c.d. Kryteria oceny wyników morfologii krwi metodą automatyczną.
+PARAMETR
+JEDN.
+KRYTERIA DO WERYFIKACJI WYNIKU
+Z ANALIZATORA
+ZALECANE POSTĘPOWANIE
+ZALECANY KOMENTARZ
+W RAPORCIE Z BADAŃ
+MCHC
+g/dl
+< 30 g/dl i MCV w przedziale wartości re­
+ferencyjnych lub powyżej górnej wartości
+przedziału referencyjnego
+Podejrzenie błędu przedlaboratoryjnego
+(wlewy dożylne, zbyt długi czas od
+pobrania krwi)
+"Podejrzenie błędu
+przedlaboratoryjnego – sugerowane
+powtórzenie badania morfologii krwi –
+wynik morfologii wątpliwy”
+MCV
+fl
+< 70 fl lub > 105 fl *
+Przejrzenie rozmazu krwi pod
+mikroskopem.
+RDW
+%
+> 22%
+Przejrzenie rozmazu krwi pod
+mikroskopem.
+Obecność mikro- i/lub makrocytów
+RETIC
+x 109/l
+> 100 *
+Przejrzenie rozmazu krwi pod
+mikroskopem.
+Na przykład obecność polichromatofilii
+NRBC
+Pojawienie się każdej wartości NRBC lub
+"flagi” sugerującej obecność NRBC
+Przejrzenie rozmazu krwi pod
+mikroskopem.
+W przypadku, gdy analizator nie posiada
+opcji ilościowej oceny erytroblastów i nie
+ma systemu korygującego liczby krwinek
+białych, lub nie posiada innej dodatkowej
+metody liczenia WBC bez interferencji
+NRBC, należy policzyć erytroblasty na 100
+leukocytów w rozmazie krwi i skorygować
+liczbę WBC wg wzoru a:
+a "Liczba krwinek białych skorygowana
+ze względu na obecność NRBC”
+154
+L
+D
+WWW.DIAGNOSTYKALABORATORYJNA.EU
+diagnostyka laboratoryjna Journal of Laboratory Diagnostics
+Rekomendacje / Recommedations
+Tabela VII. c.d. Kryteria oceny wyników morfologii krwi metodą automatyczną.
+PARAMETR
+JEDN.
+KRYTERIA DO WERYFIKACJI WYNIKU
+Z ANALIZATORA
+ZALECANE POSTĘPOWANIE
+ZALECANY KOMENTARZ
+W RAPORCIE Z BADAŃ
+"flagi”
+RBC
+"Flagi” sugerujące m.in.:
+– obecność schistocytów (RBC Fragments),
+– aglutynację krwinek czerwonych (RBC
+Agglutination)
+– nieprawidłowe warianty hemoglobin
+(Hemoglobin defekt),
+– heterogenną populację erytrocytów
+– przeważnie brak wartości RDW na
+wyniku (Dimorphic RBC Population),
+– interferencję w pomiar hemoglobiny
+Turbidity/Hemoglobin interference),
+– oporne na lizę erytrocyty (RBC Lyse
+Resistance).
+Ocena próbki pod kątem prawidłowego
+pobrania.
+Sprawdzenie warunków transportu oraz
+czasu jaki upłynął od momentu pobrania
+do wykonania analizy.
+Przejrzenie rozmazu krwi pod
+mikroskopem.
+Ocena anizocytozy erytrocytów w przy­
+padku nie oznaczania parametru RDW.
+Ogrzanie próbki w przypadku sugestii
+aglutynacji RBC.
+Ocena stopnia zmętnienia próbki (lipemia,
+hiperbilirubinemia).
+PLT
+x 109/l
+< 100 x 109/l lub > 1000 x 109/l *
+i/lub
+"Flagi” sugerujące:
+– obecność agregatów płytkowych (PLT
+Clumps),
+– dużych płytek (Large PLT),
+– nieprawidłowy histogram rozkładu
+objętości płytek lub nieprawidłowy
+skatergram
+Ocena próbki pod kątem prawidłowego
+pobrania (wykluczyć obecność skrzepu).
+Orientacyjna ocena liczby płytek krwi
+w rozmazie.
+Przejrzenie rozmazu pod mikroskopem
+pod kątem:
+– obecności agregatów płytkowych,
+satelityzmu płytek, obecności płytek
+olbrzymich (pseudotrombocytopenia)
+– lub obecności schistocytów,
+fragmentów krwinek białych,
+zanieczyszczeń próbki
+(pseudotrombocytoza)
+W przypadku obecności agregatów
+płytkowych dołączyć komentarz:
+"Podejrzenie pseudotrombocytopenii
+werseniano-zależnej, wskazane
+pobranie krwi do probówek z jonami
+magnezu (ThromboExact)”.
+Jeśli laboratorium nie korzysta z wy­
+mienionych probówek – "wskazane
+pobranie krwi na cytrynian”.
+W przypadku obecności licznych
+dużych agregatów płytek należy ukryć
+wartość PLT na wyniku
+UWAGA! Pseudotrombocytopenia
+może również wystąpić w obecności
+cytrynianu sodu.
+"flagi”
+PLT
+155
+DIAGN LAB. 2024; 60(3): 137–169, DOI: 10.5604/01.3001.0054.7416
+L
+D
+ISSN 0867-4043
+Rekomendacje / Recommedations
+Tabela VII. c.d. Kryteria oceny wyników morfologii krwi metodą automatyczną.
+PARAMETR
+JEDN.
+KRYTERIA DO WERYFIKACJI WYNIKU
+Z ANALIZATORA
+ZALECANE POSTĘPOWANIE
+ZALECANY KOMENTARZ
+W RAPORCIE Z BADAŃ
+MPV
+fl
+< 5 fl lub 12,5 fl
+Przejrzenie rozmazu krwi pod
+mikroskopem.
+Noworodki
+Ocena mikroskopowa rozmazu.
+* w przypadku pierwszego badania lub zmiany wyniku z dnia na dzień.
+Sugeruje się dostosowanie kryteriów weryfikacji wyników z analizatora do profilu pacjentów (pacjenci ambulatoryjni lub szpitala, a szczególnie oddziałów onkologicznych/
+hematologicznych), jak również doświadczeń własnych.
+Należy ustalić własne kryteria weryfikacji rozmazu dla parametrów i "flag” specyficznych dla danego typu analizatorów hematologicznych uwzględniając przy tym
+ograniczenia proceduralne analizatora.
+W przypadku, gdy analizator nie podaje wyniku leukogramu niezbędna jest ocena ilościowa subpopulacji krwinek białych pod mikroskopem.
+156
+L
+D
+WWW.DIAGNOSTYKALABORATORYJNA.EU
+diagnostyka laboratoryjna Journal of Laboratory Diagnostics
+Rekomendacje / Recommedations
+9.2. Zalecenia odnośnie do stosowanych
+komentarzy
+Zaleca się opracowanie przez Laboratorium listy
+komentarzy, mających zastosowanie w badaniu
+morfologii krwi i ocenie rozmazu krwi obwodowej,
+tak aby były one ujednolicone.
+Opracowanie komentarzy musi bazować na aktual­
+nych zaleceniach, w tym terminologii zalecanej w re­
+komendacjach PTDL i PTHiT, stosowanym słownic­
+twie, zgodnie z zasadami gramatyki i pisowni języka
+9. SPRAWOZDANIE Z WYNIKÓW
+BADANIA MORFOLOGII KRWI
+9.1. Układ wyników w sprawozdaniu
+z badania morfologii krwi, skróty, rzędy
+wielkości jednostek
+Zaleca się stosowanie kolejności wyników, skrótów
+i jednostek w badaniu morfologii krwi, przedstawio­
+nych w tabeli IX. Rekomendowany wzór raportu
+z badania laboratoryjnego morfologii krwi przed­
+stawia rycina 1.
+Tabela VIII. Kryteria do wykonania oceny mikroskopowej rozmazu krwi obwodowej.
+Leukopenia < 3 x 109/l lub leukocytoza > 30 x 109/l w przypadku pierwszego badania lub istotnej zmiany
+wyniku z dnia na dzień
+Neutrofilia lub neutropenia, limfocytoza, eozynofilia, bazofilia (zgodnie z wartościami podanymi w tabeli VII)
+w przypadku pierwszego badania lub istotnej zmiany wyniku z dnia na dzień
+Pojawienie się na wyniku morfologii krwi "flag” sugerujących obecność nieprawidłowych krwinek
+białych (niedojrzałych granulocytów, pałek, blastów, atypowych limfocytów, limfocytów o charakterze
+reaktywnym lub nowotworowym)
+Nieprawidłowy rozdział / brak rozdziału poszczególnych populacji leukocytów na histogramach /
+skatergramach WBC
+Niedokrwistość HGB < 7 g/dl lub nadkrwistość HGB > 18 g/dl w przypadku pierwszego badania lub istotnej
+zmiany wyniku z dnia na dzień, pod kątem oceny potencjalnych zmian morfologii krwinek czerwonych
+MCHC > 2 jednostek ponad górną granicę przedziału referencyjnego, po wykluczeniu lipemii,
+bilirubinemii, hemolizy, pod kątem obecności sferocytów lub aglutynacji erytrocytów
+MCV < 70 fl lub MCV > 105 fl w przypadku pierwszego badania, pod kątem potwierdzenia mikrocytozy
+lub makrocytozy erytrocytów oraz oceny potencjalnych zmian morfologii krwinek czerwonych, w tym
+wzmożonej polichromatofilii
+RDW > 22% w przypadku pierwszego badania, pod kątem potwierdzenia anizocytozy lub brak RDW
+w przypadku obecności podwójnej (dimorficznej) populacji erytrocytów
+Pojawienie się każdej wartości NRBC w przypadku pierwszego badania, pod kątem potwierdzenia
+obecności erytroblastów. Pojawienie się "flagi” sugerującej obecność NRBC celem policzenia
+erytroblastów na 100 leukocytów i ewentualnego skorygowania liczby WBC (jeśli analizator nie ma opcji
+ilościowej oceny liczby NRBC)
+Liczba PLT < 100 x 109/l lub PLT > 1000 x 109/l w przypadku pierwszego badania lub istotnej
+zmiany wyniku z dnia na dzień, "flagi” sugerujące: obecność agregatów płytkowych, dużych płytek,
+nieprawidłowy histogram rozkładu objętości płytek lub nieprawidłowy skatergram
+157
+DIAGN LAB. 2024; 60(3): 137–169, DOI: 10.5604/01.3001.0054.7416
+L
+D
+ISSN 0867-4043
+Rekomendacje / Recommedations
+opisania danej patologii. Lista opracowanych przez
+Laboratorium komentarzy, po ich zatwierdzeniu, po­
+winna zostać przekazana zleceniodawcom badań.
+Rycina 1. Zalecany wzór sprawozdania z wyników badania morfologii krwi.
+polskiego, tak aby komentarze były jednoznacz­
+nie czytelne i zrozumiałe przez zleceniodawców.
+Laboratorium stosuje jeden rodzaj komentarzy do
+158
+L
+D
+WWW.DIAGNOSTYKALABORATORYJNA.EU
+diagnostyka laboratoryjna Journal of Laboratory Diagnostics
+Rekomendacje / Recommedations
+Tabela IX. Kolejność parametrów, skróty i jednostki rekomendowana w sprawozdaniu z wyników badania morfologii krwi.
+PARAMETR
+SKRÓT
+JEDNOSTKA
+Liczba krwinek białych (leukocytów)
+WBC
+x 109/l
+Liczba neutrofili
+NEUT#
+x 109/l
+Liczba limfocytów
+LYM#
+x 109/l
+Liczba monocytów
+MONO#
+x 109/l
+Liczba eozynofilii
+EOS#
+x 109/l
+Liczba bazofilów
+BASO#
+x 109/l
+Opcjonalnie: dodatkowe subpopulacje leukocytów charakterystyczne dla
+określonego typu analizatora
+x 109/l
+Odsetek neutrofili
+NEUT%
+%
+Odsetek limfocytów
+LYM%
+%
+Odsetek monocytów
+MONO%
+%
+Odsetek eozynofili
+EOS%
+%
+Odsetek bazofilów
+BASO%
+%
+Opcjonalnie: dodatkowe subpopulacje leukocytów charakterystyczne dla
+określonego typu analizatora
+%
+Liczba krwinek czerwonych (erytrocytów)
+RBC
+x 1012/l
+Stężenie hemoglobiny
+HGB
+g/dl
+Hematokryt
+HCT
+%
+Średnia objętość erytrocytu
+MCV
+fl
+Średnia masa hemoglobiny w erytrocycie
+MCH
+pg
+Średnie stężenie hemoglobiny w erytrocytach
+MCHC
+g/dl
+Wskaźnik anizocytozy
+RDW
+% / fl
+Opcjonalnie: dodatkowe parametry układu czerwonokrwinkowego
+charakterystyczne dla określonego typu analizatora
+Liczba erytroblastów
+NRBC#
+x 109/l
+Odsetek erytroblastów
+NRBC%
+%
+Liczba retikulocytów
+RETIC#
+x 1012/l
+Odsetek retikulocytów
+RETIC%
+%
+Opcjonalnie: dodatkowe parametry retikulocytarne charakterystyczne dla
+określonego typu analizatora
+Liczba płytek krwi
+PLT
+x 109/l
+Płytkokryt
+PCT
+%
+Średnia objętość płytki krwi
+MPV
+fl
+Opcjonalnie: dodatkowe parametry płytkowe charakterystyczne dla
+określonego typu analizatora
+[TABELA strona 22, nr 1]
+PARAMETR | SKRÓT | JEDNOSTKA
+---------------------------------------------------------------------------------------------------------------+--------+----------
+Liczba krwinek białych (leukocytów) | WBC | x 109/l
+Liczba neutrofili | NEUT# | x 109/l
+Liczba limfocytów | LYM# | x 109/l
+Liczba monocytów | MONO# | x 109/l
+Liczba eozynofilii | EOS# | x 109/l
+Liczba bazofilów | BASO# | x 109/l
+Opcjonalnie: dodatkowe subpopulacje leukocytów charakterystyczne dla
+określonego typu analizatora | | x 109/l
+Odsetek neutrofili | NEUT% | %
+Odsetek limfocytów | LYM% | %
+Odsetek monocytów | MONO% | %
+Odsetek eozynofili | EOS% | %
+Odsetek bazofilów | BASO% | %
+Opcjonalnie: dodatkowe subpopulacje leukocytów charakterystyczne dla
+określonego typu analizatora | | %
+Liczba krwinek czerwonych (erytrocytów) | RBC | x 1012/l
+Stężenie hemoglobiny | HGB | g/dl
+Hematokryt | HCT | %
+Średnia objętość erytrocytu | MCV | fl
+Średnia masa hemoglobiny w erytrocycie | MCH | pg
+Średnie stężenie hemoglobiny w erytrocytach | MCHC | g/dl
+Wskaźnik anizocytozy | RDW | % / fl
+Opcjonalnie: dodatkowe parametry układu czerwonokrwinkowego
+charakterystyczne dla określonego typu analizatora | |
+Liczba erytroblastów | NRBC# | x 109/l
+Odsetek erytroblastów | NRBC% | %
+Liczba retikulocytów | RETIC# | x 1012/l
+Odsetek retikulocytów | RETIC% | %
+Opcjonalnie: dodatkowe parametry retikulocytarne charakterystyczne dla
+określonego typu analizatora | |
+Liczba płytek krwi | PLT | x 109/l
+Płytkokryt | PCT | %
+Średnia objętość płytki krwi | MPV | fl
+Opcjonalnie: dodatkowe parametry płytkowe charakterystyczne dla
+określonego typu analizatora | |
+159
+DIAGN LAB. 2024; 60(3): 137–169, DOI: 10.5604/01.3001.0054.7416
+L
+D
+ISSN 0867-4043
+Rekomendacje / Recommedations
+10.2. Wymagania do stosowanie
+przedziałów referencyjnych,
+opracowanych przez producentów
+testów diagnostycznych
+i analizatorów
+• Sprawdzenie i posiadanie dowodów, że przyjęte
+przedziały referencyjne są adekwatne do
+stosowania przez Laboratorium w odniesieniu
+do grupy pacjentów w aspekcie:
+– liczebności, na której producent wyznaczył ofero­
+wane przedziały wartości referencyjnych,
+– wieku, płci oraz rasy grupy referencyjnej, na któ­
+rej je wyznaczono.
+• Jeżeli stosowane dotychczas przez Laboratorium
+przedziały wartości referencyjnych nie były
+oparte na własnej referencyjnej populacji, to
+na podstawie zaleceń dokumentu CLSI/NCCLS,
+protokołu EP09, Measurement Procedure
+Comparison and Bias Estimation Using Patiente
+Samples, 3rd Edition, June 2018, z aktualizacją,
+należy przeprowadzać ich weryfikację, opierając
+się na oznaczeniu w zebranych przebadanych
+próbkach. Należy wykorzystać próbki pacjentów.
+Głównym ograniczeniem tej metody jest brak
+pewności, że wszystkie próbki pochodzą od
+zdrowych ludzi, pomimo spełnienia warunków
+założonych kryteriów.
+Jako metodę alternatywną zaleca się zebranie
+20 próbek z zakwalifikowanej grupy referencyjnej
+(populacja zdrowych ludzi) i wykonanie oznaczeń.
+Weryfikacja przedziałów wartości referencyjnych, prze­
+niesionych z udokumentowanego źródła, według prze­
+wodnika CLSI EP28-A3C powinna zawierać co najmniej:
+1. Zebranie i wykonanie badania morfologii krwi
+pełnej w 20 zebranych próbkach wg ustalonych
+dla danej grupy wiekowej i w zależności od płci
+o ile to jest zasadne, kryteriów a-priori i posteriori.
+2. Usunięcie wyników skrajnych/odstających, stosując
+do tego adekwatne metody, np. Reeda, Dixona, Tyke’a.
+3. Porównanie, czy uzyskane wyniki pokrywają się
+z 95% wyników z przedziału wartości referencyjnych.
+4. Jeżeli odrzucono ≤ 2 wynik (10%) z 20 uzyska­
+nych, które znalazły się poza 95%, to proces
+weryfikacji potwierdza ich użyteczność i jest
+zakończony.
+10. PRZEDZIAŁY REFERENCYJNE
+Medyczne laboratoria diagnostyczne w Polsce, po­
+dobnie jak medyczne laboratoria na świecie, są zo­
+bowiązane do tego, aby każdy wynik badania labo­
+ratoryjnego był opatrzony stosownym przedziałem
+wartości referencyjnych.
+W ostatnich latach, na podstawie Reference Intervals
+and Decision Limits (C-RIDL) – IFCC, i danych z wie­
+lu krajów, opracowano – stosując rekomendowaną
+metodę pośrednią – przedziały wartości referencyj­
+nych, jako globalne przedziały referencyjne. Takich
+zakresów nie opracowano na razie dla parametrów
+hematologicznych, które dotyczyłyby rasy kauka­
+skiej i naszej szerokości geograficznej.
+10.1. Przedziały wartości referencyjnych
+w badaniu morfologii krwi żylnej
+W sprawozdaniu z badania morfologii krwi żylnej,
+obok każdego oznaczonego parametru, należy umie­
+ścić właściwe dla tego parametru przedziały warto­
+ści referencyjnych. Wiele krajów, takich jak: Włochy,
+Niemcy, Wielka Brytania, Chorwacja, Kanada, USA,
+wyznaczyło i dokonało harmonizacji zakresów re­
+ferencyjnych, stosowanych w badaniach laborato­
+ryjnych; w większości przypadków w odniesieniu do
+parametrów biochemicznych.
+Do tej pory nie wyznaczono/nie dokonano aktualiza­
+cji przedziałów wartości referencyjnych dla populacji
+polskiej, dlatego w okresie przejściowym (do czasu ich
+wyznaczenia) zaleca się i dopuszcza się, co następuje:
+1. Stosowanie przedziałów wartości referencyjnych
+zalecanych w rekomendacjach w oparciu na
+udokumentowanych źródłach i wstępne prze­
+prowadzonych analizach przez GR.
+2. Stosowanie przedziałów wartości referencyjnych,
+opracowanych przez producentów testów dia­
+gnostycznych i analizatorów, po spełnieniu niżej
+opisanych warunków.
+Komentarz:
+W przypadku zastosowania przedziałów wartości
+referencyjnych, rekomendowanych przez GR, in­
+terpretacja wyników morfologii krwi jest niezależ­
+na od medycznego laboratorium diagnostycznego.
+160
+L
+D
+WWW.DIAGNOSTYKALABORATORYJNA.EU
+diagnostyka laboratoryjna Journal of Laboratory Diagnostics
+Rekomendacje / Recommedations
+5. Jeżeli 3-4 wyników znalazło się poza 95%
+(15-20%) i zostało odrzuconych, należy wrócić
+do pkt. 1.
+6. Jeżeli odrzucono ≤ 2 wynik (10%) z 20 uzyska­
+nych, które znalazły się poza 95%, to proces wery­
+fikacji potwierdza użyteczność wartości przedzia­
+łu referencyjnego i jest zakończony pomyślnie.
+7. Jeżeli odrzucone wyniki będą stanowiły
+≥3 z 20 (15%), których wartości stanowiły po­
+wyżej 95% wartości przedziału referencyjnego,
+to weryfikacja nie potwierdziła ich przydatności.
+8. W przypadku odrzucenia ≥ 5 wyników przy
+pierwszej weryfikacji (15%), to weryfika­
+cja nie potwierdziła przydatności tych zakre­
+sów do stosowania dla danej grupy badanej.
+Przedstawianie wartości liczbowych w badaniu
+morfologii krwi żylnej
+1. W przypadku stosowania wartości metrologicz­
+nych (co do 1 komórki), należy wyznaczyć nie­
+pewność pomiaru i udostępniać ją Zlecenio­
+dawcom, w zależności od potrzeby. Zaleca się
+stosowanie obliczonych niepewności w zależno­
+ści od poziomu materiałów kontrolnych L, N, H.
+2. Zaleca się prezentowanie wartości liczbowych
+badania morfologii krwi żylnej, tak aby były
+użyteczne klinicznie.
+Zalecane w wytycznych wartości przedziałów refe­
+rencyjnych zostały oparte na udokumentowanych
+źródłach (tab. X).
+10.3. Przedziały wartości referencyjnych
+w populacji osób w wieku starszym
+Grupą pacjentów, gdzie występują trudności w wy­
+znaczeniu wartości przedziałów referencyjnych, jest
+grupa osób starszych. Starszy człowiek jest defi­
+niowany według kryterium kalendarzowego, czyli
+osiągnięcie 60. (według WHO) lub 65. r.ż. (według
+ONZ, Eurostatu). Wiek od 65 do 75 lat określany jest
+wiekiem podeszłym, 75 – 84 lat starością późną,
+a osoby 85+ definiuje się jako najstarsze. Wraz z wie­
+kiem zachodzą nieodwracalne procesy fizjologiczne
+związane ze zmniejszeniem rezerwy fizjologicznej
+i ograniczeniem zdolności funkcjonalnych, które
+prowadzą do zmniejszenia możliwości utrzymania
+stanu homeostazy organizmu. Opracowanie kryte­
+riów a-priori i posteriori dla grupy referencyjnej jest
+ekstremalnie trudne wskutek problemów ze znale­
+zieniem osób w pełni zdrowych, gdyż u większości
+badanych stwierdza się pełnoobjawowe lub utajone
+stany chorobowe, schorzenia wielonarządowe, zmia­
+ny anatomiczne i fizjologiczne związane z wiekiem.
+Główne badania w tym obszarze pochodzą z badań
+CHMS (ang. Canadian Health Measures Survey), pro­
+wadzone w grupach pomiędzy 3. a 80. rokiem ży­
+cia. Jednak w tych badaniach zastosowano te same
+kryteria wyłączenia, niezależnie od wieku, co może
+nie być właściwe w przypadku grupy geriatrycznej,
+gdzie większość pacjentów stosuje przewlekłe leki.
+Wyniki badań laboratoryjnych w starszym wieku po­
+winny być interpretowane z dużą ostrożnością. Duże
+znaczenie dla obserwowanych z wiekiem zmian w wy­
+nikach laboratoryjnych, oprócz pogorszenia funkcji
+narządów, mają również stan odżywienia, czynniki
+metaboliczne, styl życia czy wspomniana obecność
+wielu schorzeń i związane z nimi stosowane środki
+farmakologiczne. Na wyniki badań ++laboratoryjnych
+mają wpływ również czynniki związane ze standary­
+zacją procesu diagnostycznego (czynniki przedana­
+lityczne, analityczne oraz zmiany biologiczne), m.in.:
+• Wśród czynników przedanalitycznych znaczenie
+ma proces pobierania materiału (przedłużone
+utrzymywanie opaski uciskowej na wskutek
+trudności z uzyskaniem dostępu do naczynia).
+• Przedłużone unieruchomienie – zmniejszenie
+objętości osocza o 5%.
+• Wzrost temperatury otoczenia – wzrost objętości
+krwi o 5% po 30 min.
+• Nasilone pocenia – odwodnienie, zmniejszenie
+objętości osocza.
+• Niska temperatura – spadek objętości krwi.
+U osób starszych wzrasta częstość występowania nie­
+dokrwistości, która jest przyczyną pogorszenia jakości
+życia osób starszych i jest złym czynnikiem predykcyj­
+nym i prognostycznym chorób, zwiększa także ryzyko
+zespołów geriatrycznych. Wykazano, że u zdrowych
+osób starszych stężenia hemoglobiny i wartości he­
+matokrytu są niższe niż u osób młodszych, a różnice
+w wynikach między płciami ulegają zawężeniu:
+• Spadek stężenia hemoglobiny związany jest nie
+tylko ze starzeniem się układu krwiotwórczego,
+161
+DIAGN LAB. 2024; 60(3): 137–169, DOI: 10.5604/01.3001.0054.7416
+L
+D
+ISSN 0867-4043
+Rekomendacje / Recommedations
+Tabela X. Zalecane przedziały wartości referencyjnych badania morfologii u osób dorosłych.
+PARAMETR
+PŁEĆ
+WARTOŚĆ DOLNA
+PRZEDZIAŁU
+WARTOŚĆ GÓRNA
+PRZEDZIAŁU
+JEDNOSTKI
+WBC
+M/K
+4,0
+10,0
+x 109/l
+NEUT# o j. pałeczkowatym
+M/K
+0,0
+0,5
+x 109/l
+NEUT% o j. pałeczkowatym
+M/K
+0,0
+5,0
+%
+NEUT#
+M/K
+1,9
+7,0
+x 109/l
+NEUT%
+M/K
+45,0
+70,0
+%
+LYM#
+M/K
+1,5
+4,5
+x 109/l
+LYM%
+M/K
+25,0
+45,0
+%
+MONO#
+M/K
+0,1
+0,9
+x 109/l
+MONO%
+M/K
+2,0
+9,0
+%
+EOS#
+M/K
+0,05
+0,5
+x 109/l
+EOS%
+M/K
+0,0
+5,0
+%
+BASO#
+M/K
+0,0
+0,1
+x 109/l
+BASO%
+M/K
+0,0
+1,0
+%
+RBC
+M
+4,6
+6,5
+x 1012/l
+K
+4,2
+5,5
+HGB
+M
+13,5
+18,0
+g/dl
+K
+12,0
+16,0
+HCT
+M
+40
+52
+%
+K
+37
+47
+MCV
+M/K
+80,0
+98,0
+fl
+MCH
+M/K
+27,0
+32,0
+pg
+MCHC
+M/K
+31,0
+37,0
+g/dl
+RDW-CV
+M/K
+11,5
+14,5
+%
+RDW-SD
+M/K
+36
+47
+fl
+RETIC#
+M/K
+28
+100
+x 109/l
+RETIC%
+M/K
+0,5
+2,2
+%
+PLT
+M/K
+150,0
+400,0
+x 109/l
+MPV
+M/K
+7,0
+12,0
+fl
+PCT
+M/K
+0,12
+0,36
+%
+K – kobiety; M – mężczyźni; j. pałeczkowate – jądro pałeczkowate
+[TABELA strona 25, nr 1]
+PARAMETR | PŁEĆ | WARTOŚĆ DOLNA
+PRZEDZIAŁU | WARTOŚĆ GÓRNA
+PRZEDZIAŁU | JEDNOSTKI
+-----------------------------------------------------------------+------+--------------------------+--------------------------+----------
+WBC | M/K | 4,0 | 10,0 | x 109/l
+NEUT# o j. pałeczkowatym | M/K | 0,0 | 0,5 | x 109/l
+NEUT% o j. pałeczkowatym | M/K | 0,0 | 5,0 | %
+NEUT# | M/K | 1,9 | 7,0 | x 109/l
+NEUT% | M/K | 45,0 | 70,0 | %
+LYM# | M/K | 1,5 | 4,5 | x 109/l
+LYM% | M/K | 25,0 | 45,0 | %
+MONO# | M/K | 0,1 | 0,9 | x 109/l
+MONO% | M/K | 2,0 | 9,0 | %
+EOS# | M/K | 0,05 | 0,5 | x 109/l
+EOS% | M/K | 0,0 | 5,0 | %
+BASO# | M/K | 0,0 | 0,1 | x 109/l
+BASO% | M/K | 0,0 | 1,0 | %
+RBC | M | 4,6 | 6,5 | x 1012/l
+| K | 4,2 | 5,5 |
+HGB | M | 13,5 | 18,0 | g/dl
+| K | 12,0 | 16,0 |
+HCT | M | 40 | 52 | %
+| K | 37 | 47 |
+MCV | M/K | 80,0 | 98,0 | fl
+MCH | M/K | 27,0 | 32,0 | pg
+MCHC | M/K | 31,0 | 37,0 | g/dl
+RDW-CV | M/K | 11,5 | 14,5 | %
+RDW-SD | M/K | 36 | 47 | fl
+RETIC# | M/K | 28 | 100 | x 109/l
+RETIC% | M/K | 0,5 | 2,2 | %
+PLT | M/K | 150,0 | 400,0 | x 109/l
+MPV | M/K | 7,0 | 12,0 | fl
+PCT | M/K | 0,12 | 0,36 | %
+K – kobiety; M – mężczyźni; j. pałeczkowate – jądro pałeczkowate | | | |
+162
+L
+D
+WWW.DIAGNOSTYKALABORATORYJNA.EU
+diagnostyka laboratoryjna Journal of Laboratory Diagnostics
+Rekomendacje / Recommedations
+lecz także z pogorszeniem się wchłaniania że­
+laza i witaminy B12, utraty krwi i rozpadu ery­
+trocytów, a także wskutek chorób przewlekłych
+lub niewydolności nerek.
+• Wartość hematokrytu może być odzwierciedle­
+niem zmiany stanu odżywiania albo zaburzeń
+w ilości spożywanych płynów.
+Liczba leukocytów fizjologicznie z wiekiem nie ulega
+zmianom, jednak w przebiegu zakażeń nie zawsze
+obserwowany jest ich wzrost.
+Liczba krwinek płytkowych może ulec obniżeniu na
+wskutek pogorszenia z wiekiem funkcji szpiku, jed­
+nak częściej obserwuje się pogorszenie ich funkcji.
+Wyznaczenie wartości przedziałów referencyjnych
+opartych na 95 percentylu budzi wątpliwość, po­
+nieważ może nie dawać odpowiedzi na pytanie, czy
+otrzymany wynik jest wykładnikiem choroby lub jest
+zależny od procesu starzenia. Należy pamiętać, że
+wynik prawidłowy nie wyklucza obecności patologii,
+dlatego w jego interpretacji należy wziąć pod uwagę
+całościową ocenę chorego.
+10.4. Przedziały wartości
+referencyjnych w populacji
+pediatrycznej
+Powszechnie wiadomo, że wyznaczenie zakresów
+wartości referencyjnych w populacji pediatrycznej
+jest wyjątkowo trudne. Dotyczy to głównie problemów
+etycznych z pozyskaniem materiału do badań w celu
+ich wyznaczenia. Szczególnie trudne jest uzyskanie
+materiału w grupie noworodków czy też małych dzie­
+ci. W praktyce klinicznej krew do badań pobierana jest
+z różnych miejsc (krew żylna, krew kapilarna).
+Duże osiągnięcia w tym obszarze mają badacze pro­
+jektu CALIPER, którzy stworzyli biobank zdrowych
+próbek pediatrycznych od ponad 9700 dzieci i mło­
+dzieży w wieku od 1 do 19 lat z większych obszarów
+Toronto i Hamilton w Kanadzie. Badania te dotyczyły
+5 powszechnie używanych platform analitycznych,
+biochemicznych i immunochemicznych. Jednakże
+istnieją uzasadnione obawy dotyczące ocenianej po­
+pulacji. W porównaniu z dziećmi w Kanadzie, dzieci
+europejskie mają inny sposób odżywiania (np. podaż
+jodu i witamin) i prowadzą inny tryb życia. Dlatego
+też przedziały wartości referencyjnych dzieci kana­
+dyjskich nie zawsze są porównywalne z przedziała­
+mi referencyjnymi dla dzieci europejskich.
+Znaczący wkład w wyznaczeniu europejskich przedzia­
+łów wartości referencyjnych w populacji pediatrycznej
+mają badania KiGGS Instytutu im. Roberta Kocha
+w Berlinie. Wyznaczono przedziały wartości referen­
+cyjnych dla 28 analitów na podstawie reprezentatyw­
+nej niemieckiej grupy 14255 dzieci w wieku od 1,5 do
+18 lat, w tym parametry morfologii krwi oceniono w róż­
+nych grupach wiekowych u 7365 dzieci.
+Porównanie wyznaczonych przedziałów referencyjnych
+metodą pośrednią pomiędzy KIGGS i CALIPER wykazało
+dużą zgodność górnych i dolnych granic wartości refe­
+rencyjnych oraz podział na grupy w zależności od wieku.
+Zaproponowany podział na grupy wiekowe w bada­
+niach morfologii krwi w pediatrii wynika z fizjologicz­
+nych zmian procesu hematopoezy. Układ krwiotwórczy
+u dzieci w porównaniu do dorosłych wykazuje różnice
+w zakresie anatomicznym, morfologicznym i czynno­
+ściowym. Duży wpływ na zróżnicowanie wartości prze­
+działów referencyjnych ma także rozwój fizjologiczny,
+sposób odżywiania i okres dojrzewania płciowego.
+Erytrocyty u noworodka zazwyczaj wykazują cechy
+makrocytozy, w rozmazie krwi obwodowej często
+obserwuje się sferocyty i krwinki tarczowate. Ery­
+trocyty, ze względu na zmniejszoną aktywność
+większości enzymów wewnątrzkomórkowych, wy­
+kazują zwiększoną wrażliwość na uszkodzenia,
+dlatego czas przeżycia erytrocytów jest skrócony
+i wynosi 65 – 80 dni. Przez pierwsze kilka godzin
+po porodzie stwierdza się także wysokie wartości
+hematokrytu. Proces wytwarzania krwinek czerwo­
+nych po urodzeniu jest spowolniony ze względu na
+mały potencjał odtwórczy szpiku kostnego i stopnio­
+wo zwiększające się wytwarzanie i uwalnianie ery­
+tropoetyny. Z tego względu najniższe stężenie he­
+moglobiny i liczby erytrocytów obserwuje się między
+2. a 3. miesiącem życia (tzw. niedokrwistość pierw­
+szego kwartału). Pomiędzy 10. a 24. m.ż. obserwuje
+się zwiększenie wytwarzania krwinek czerwonych
+jednak bez równoległego zwiększania się stęże­
+nia hemoglobiny, ze względu na wyczerpanie się
+ok. 5. m.ż. zapasów żelaza pochodzącego od matki
+163
+DIAGN LAB. 2024; 60(3): 137–169, DOI: 10.5604/01.3001.0054.7416
+L
+D
+ISSN 0867-4043
+Rekomendacje / Recommedations
+Tabela XI. Zalecane przedziały wartości referencyjnych dla wyników badania morfologii krwi dla dzieci.
+WIEK
+HGB
+g/l
+RBC
+x ś1012/l
+HCT
+%
+MCV
+fl
+MCH
+pg
+MCHC
+g/dl
+RDW-CV
+%
+RDW-SD
+fl
+RETIC
+PLT
+x 109/l
+%
+x 109/l
+PŁÓD
+
+
+
+
+
+
+
+
+
+
+
+15. tydz.
+9,5 – 12,3
+2,20 – 3,20
+28,0 – 42,0
+127,0 – 159,0
+
+
+
+
+
+
+120 – 240
+16. tydz.
+10,9 – 14,1
+2,30 – 3,20
+34,0 – 42,0
+119,0 – 167,0
+
+
+
+
+
+
+120 – 240
+17. tydz.
+10,6 – 14,0
+2,60 – 3,60
+31,0 – 43,0
+121,0 – 153,0
+
+
+
+
+
+
+120 – 240
+18. – 21. tydz.
+9,5 – 14,1
+2,40 – 3,80
+31,0 – 45,0
+119,0 – 143,0
+
+
+
+
+
+
+120 – 240
+22. – 25. tydz.
+9,4 – 14,7
+2,70 – 4,30
+31,0 – 47,0
+109,0 – 141,0
+
+
+
+
+
+
+170 – 260
+26. – 29. tydz.
+10,1 – 15,7
+2,50 – 5,10
+32,0 – 50,0
+103,0 – 134,0
+
+
+
+
+
+
+170 – 260
+> 30. tydz.
+9,2 – 18,0
+4,30 – 6,30
+32,0 – 58,0
+97,0 – 132,0
+
+
+
+
+0,90 – 6,50
+40 – 171
+170 – 260
+KREW
+PĘPOWINOWA
+13,5 – 20,4
+
+48,0 – 56,0
+101,0 – 125,0
+
+
+
+
+
+
+
+NOWORODKI
+
+
+
+
+
+
+
+
+
+
+
+0 – 3 dni
+15,0 – 24,0
+4,50 – 6,30
+44,0 – 68,0
+95,0 – 125,0
+31,0 – 38,0
+31,0 – 36,0
+14,5 – 17,5
+51,0 – 65,0
+1,80 – 6,00
+148 – 400
+150 – 480
+4 – 14 dni
+13,0 – 20,0
+4,10 – 6,10
+40,0 – 65,0
+88,0 – 124,0
+30,0 – 37,0
+32,0 – 36,0
+14,5 – 17,5
+51,0 – 65,0
+1,06 – 2,40
+88 – 216
+150 – 500
+15 – 30 dni
+10,0 – 18,0
+3,80 – 5,60
+33,0 – 55,0
+82, 0– 123,0
+29,0 – 36,0
+32,0 – 36,0
+13,5 – 16,5
+46,0 – 60,0
+1,10 – 3,00
+51 – 138
+150 – 550
+DZIECI
+31 – 60 dni
+9,0 – 16,0
+3,80 – 5,30
+28,0 – 48,0
+81,0 – 115,0
+28,0 – 32,0
+32,0 – 35,0
+13,5 – 16,5
+35,0–56,0
+1,10 – 3,20
+46 – 138
+150 – 600
+3 – 6 mies.
+10,0 – 18,0
+3,40 – 5,00
+31,0 – 46,0
+77,0 – 110,0
+26,0 – 31,0
+32,0 – 35,0
+11,5 – 15,5
+35,0–44,0
+1,10 – 2,70
+46 – 138
+150 – 635
+7 – 24 mies.
+10,5 – 14,0
+4,10 – 5,10
+33,0 – 39,0
+74,0 – 84,0
+23,0 – 29,0
+32,0 – 35,0
+11,5 – 15,5
+35,0–44,0
+0,99 – 2,20
+46 – 138
+150 – 635
+3 – 6 lat
+11,0 – 13,5
+4,20 – 5,10
+34,0 – 40,0
+77,0 – 86,0
+25,0 – 30,0
+32,0 – 36,0
+11,5 – 14,5
+35,0–44,0
+0,99 – 2,20
+40 – 138
+150 – 450
+7 – 11 lat
+11,5 – 13,5
+4,20 – 5,20
+36,0 – 43,0
+79,0 – 89,0
+27,0 – 30,0
+31,0 – 37,0
+11,5 – 14,5
+35,0–44,0
+0,99 – 2,20
+40 – 138
+150 – 450
+12 – 13 lat
+12,0 – 15,0
+4,20 – 5,30
+37,0 – 44,0
+81,0 – 90,0
+27,0 – 31,0
+31,0 – 37,0
+11,5 – 14,5
+35,0–44,0
+0,50 – 2,10
+30 – 105
+150 – 400
+14 – 17 lat
+(dziewczęta)
+12,0 – 16,0
+4,20 – 5,10
+37,0 – 44,0
+84,0 – 93,0
+27,0 – 32,0
+31,0 – 37,0
+11,5 – 14,5
+36,0–47,0
+0,50 – 2,10
+30 – 105
+150 – 400
+14 – 17 lat (chłopcy)
+13,5 – 17,0
+4,60 – 5,70
+40,0 – 49,0
+84,0 – 93,0
+27,0 – 32,0
+31,0 – 37,0
+11,5 – 14,5
+36,0–47,0
+0,50 – 2,10
+30 – 105
+150 – 400
+od 18 r.ż. (kobiety)
+12,0 – 16,0
+4,20 – 5,50
+37,0 – 47,0
+80,0 – 98,0
+27,0 – 32,0
+31,0 – 37,0
+11,5 – 14,5
+36,0–47,0
+0,50 – 2,20
+28 – 100
+150 – 400
+od 18 r.ż. (mężczyźni)
+13,5 – 18,0
+4,60 – 6,50
+40,0 – 52,0
+80,0 – 98,0
+27,0 – 32,0
+31,0 – 37,0
+11,5 – 14,5
+36,0–47,0
+0,50 – 2,20
+28 – 100
+150 – 400
+HGB – hemoglobina; RBC – erytrocyty; HCT – hematokryt; MCV – średnia objętość erytrocytu; MCH – średnia masa hemoglobiny w erytrocycie; MCHC – średnie stężenie he­
+moglobiny w erytrocytach; RDW-CV – współczynnik zmienności szerokości rozkładu objętości erytrocytów; RDW-SD – odchylenie standardowe szerokości rozkładu objętości
+erytrocytów; PLT – płytki krwi; RETIC – retikulocyty; tydz. – tydzień; mies. – miesiąc; r.ż. – rok życia
+[TABELA strona 27, nr 1]
+l/901
+TLP
+x | | | 042
+–
+021 | 042
+–
+021 | 042
+–
+021 | 042
+–
+021 | 062
+–
+071 | 062
+–
+071 | 062
+–
+071
+--------------+---------+------+---------------+---------------+---------------+-----------------+-----------------+-----------------+-------------
+CITER | l/901
+x | | | | | | | | 171
+–
+04
+| % | | | | | | | | 05,6
+–
+09,0
+DS-WDR
+fl | | | | | | | | |
+VC-WDR
+% | | | | | | | | |
+CHCM
+ld/g | | | | | | | | |
+HCM
+gp | | | | | | | | |
+VCM
+fl | | | 0,951
+–
+0,721 | 0,761
+–
+0,911 | 0,351
+–
+0,121 | 0,341
+–
+0,911 | 0,141
+–
+0,901 | 0,431
+–
+0,301 | 0,231
+–
+0,79
+TCH
+% | | | 0,24
+–
+0,82 | 0,24
+–
+0,43 | 0,34
+–
+0,13 | 0,54
+–
+0,13 | 0,74
+–
+0,13 | 0,05
+–
+0,23 | 0,85
+–
+0,23
+l/2101ś
+CBR
+x | | | 02,3
+–
+02,2 | 02,3
+–
+03,2 | 06,3
+–
+06,2 | 08,3
+–
+04,2 | 03,4
+–
+07,2 | 01,5
+–
+05,2 | 03,6
+–
+03,4
+BGH l/g | | | 3,21
+–
+5,9 | 1,41
+–
+9,01 | 0,41
+–
+6,01 | 1,41
+–
+5,9 | 7,41
+–
+4,9 | 7,51
+–
+1,01 | 0,81
+–
+2,9
+KEIW | | DÓŁP | .zdyt
+.51 | .zdyt
+.61 | .zdyt
+.71 | .zdyt
+.12
+–
+.81 | .zdyt
+.52
+–
+.22 | .zdyt
+.92
+–
+.62 | .zdyt
+.03
+>
+[TABELA strona 27, nr 2]
+| 084
+–
+051 | 005
+–
+051 | 055
+–
+051 | | 006
+–
+051 | 536
+–
+051 | 536
+–
+051 | 054
+–
+051 | 054
+–
+051 | 004
+–
+051 | 004
+–
+051 | 004
+–
+051
+----------+--------------+--------------+--------------+--------+--------------+--------------+--------------+-------------+-------------+-------------+--------------------------+----------------------
+| 004
+–
+841 | 612
+–
+88 | 831
+–
+15 | | 831
+–
+64 | 831
+–
+64 | 831
+–
+64 | 831
+–
+04 | 831
+–
+04 | 501
+–
+03 | 501
+–
+03 | 501
+–
+03
+| 00,6
+–
+08,1 | 04,2
+–
+60,1 | 00,3
+–
+01,1 | | 02,3
+–
+01,1 | 07,2
+–
+01,1 | 02,2
+–
+99,0 | 02,2
+–
+99,0 | 02,2
+–
+99,0 | 01,2
+–
+05,0 | 01,2
+–
+05,0 | 01,2
+–
+05,0
+| 0,56
+–
+0,15 | 0,56
+–
+0,15 | 0,06
+–
+0,64 | | 0,65–0,53 | 0,44–0,53 | 0,44–0,53 | 0,44–0,53 | 0,44–0,53 | 0,44–0,53 | 0,74–0,63 | 0,74–0,63
+| 5,71
+–
+5,41 | 5,71
+–
+5,41 | 5,61
+–
+5,31 | | 5,61
+–
+5,31 | 5,51
+–
+5,11 | 5,51
+–
+5,11 | 5,41
+–
+5,11 | 5,41
+–
+5,11 | 5,41
+–
+5,11 | 5,41
+–
+5,11 | 5,41
+–
+5,11
+| 0,63
+–
+0,13 | 0,63
+–
+0,23 | 0,63
+–
+0,23 | | 0,53
+–
+0,23 | 0,53
+–
+0,23 | 0,53
+–
+0,23 | 0,63
+–
+0,23 | 0,73
+–
+0,13 | 0,73
+–
+0,13 | 0,73
+–
+0,13 | 0,73
+–
+0,13
+| 0,83
+–
+0,13 | 0,73
+–
+0,03 | 0,63
+–
+0,92 | | 0,23
+–
+0,82 | 0,13
+–
+0,62 | 0,92
+–
+0,32 | 0,03
+–
+0,52 | 0,03
+–
+0,72 | 0,13
+–
+0,72 | 0,23
+–
+0,72 | 0,23
+–
+0,72
+| 0,521
+–
+0,59 | 0,421
+–
+0,88 | 0,321
+–0
+,28 | | 0,511
+–
+0,18 | 0,011
+–
+0,77 | 0,48
+–
+0,47 | 0,68
+–
+0,77 | 0,98
+–
+0,97 | 0,09
+–
+0,18 | 0,39
+–
+0,48 | 0,39
+–
+0,48
+| 0,86
+–
+0,44 | 0,56
+–
+0,04 | 0,55
+–
+0,33 | | 0,84
+–
+0,82 | 0,64
+–
+0,13 | 0,93
+–
+0,33 | 0,04
+–
+0,43 | 0,34
+–
+0,63 | 0,44
+–
+0,73 | 0,44
+–
+0,73 | 0,94
+–
+0,04
+| 03,6
+–
+05,4 | 01,6
+–
+01,4 | 06,5
+–
+08,3 | | 03,5
+–
+08,3 | 00,5
+–
+04,3 | 01,5
+–
+01,4 | 01,5
+–
+02,4 | 02,5
+–
+02,4 | 03,5
+–
+02,4 | 01,5
+–
+02,4 | 07,5
+–
+06,4
+| 0,42
+–
+0,51 | 0,02
+–
+0,31 | 0,81
+–
+0,01 | | 0,61
+–
+0,9 | 0,81
+–
+0,01 | 0,41
+–
+5,01 | 5,31
+–
+0,11 | 5,31
+–
+5,11 | 0,51
+–
+0,21 | 0,61
+–
+0,21 | 0,71
+–
+5,31
+IKDOROWON | ind
+3
+–
+0 | ind
+41
+–
+4 | ind
+03
+–
+51 | ICEIZD | ind
+06
+–
+13 | .seim
+6
+–
+3 | .seim
+42
+–
+7 | tal
+6
+–
+3 | tal
+11
+–
+7 | tal
+31
+–
+21 | )atęzcweizd(
+tal
+71
+–
+41 | )ycpołhc(
+tal
+71
+–
+41
+164
+L
+D
+WWW.DIAGNOSTYKALABORATORYJNA.EU
+diagnostyka laboratoryjna Journal of Laboratory Diagnostics
+Rekomendacje / Recommedations
+Tabela XI c. d. Zalecane przedziały wartości referencyjnych dla wyników badania morfologii krwi dla dzieci.
+WIEK
+WBC
+x 109/l
+NEUT
+LYM
+MONO
+EOS
+BASO
+x 109/l
+%
+x 109/l
+%
+x 109/l
+%
+x 109/l
+%
+x 109/l
+%
+PŁÓD
+
+
+
+
+
+
+
+
+
+
+16. – 19. tydz.
+3,1 – 6,3
+0,1 – 0,3
+
+0,5 – 3,3
+
+< 0,3
+
+< 0,06
+
+
+
+20. – 27. tydz.
+2,5 – 6,2
+0,1 – 0,4
+
+1,2 – 4,0
+
+< 0,4
+
+< 0,10
+
+
+
+0 – 1 dzień
+9,0 – 30,0 2,9 –
+14,5
+33 – 69,5
+3,6 – 7,6
+13,0 – 57,0
+0,1 – 1,7
+5 – 20,0
+< 1,00
+2 – 3 dni
+9,0 – 26,0 1,5 – 5,5
+34,0 – 70,0
+2,8 – 9,1
+14,0 – 65,0
+0,1 – 1,2
+2,0 – 11,0
+< 0,81
+0,0 – 5,0
+< 0,05
+0,02 – 0,1
+2 – 30 dni
+9,0 – 20,0 1,5 – 5,5
+16,0 – 65,0
+2,8 – 9,1
+18,0 – 69,0
+0,1 – 1,2
+2,0 – 11,0
+< 0,82
+0,0 – 5,0
+< 0,06
+0,02 – 0,1
+DZIECI
+
+
+
+
+
+
+
+
+
+
+
+2 – 5 mies.
+6,0 – 19,0 1,0 – 5,0
+17,0 – 61,0
+2,8 – 10,6
+32,0 – 80,0
+0,1 – 1,2
+2,0 – 11,0
+< 0,83
+0,0 – 5,0
+< 0,07
+0,02 – 0,1
+6 – 12 mies.
+6,0 – 17,0 1,8 – 7,0
+16,0 – 59,0
+2,8 – 10,6
+28,0 – 70,0
+0,1 – 1,2
+2,0 – 11,0
+< 0,84
+0,0 – 5,0
+< 0,08
+0,02 – 0,1
+2 – 6 lat
+5,0 – 15,0 1,5 – 7,5
+21,0 – 62,0
+2,8 – 7,5
+35,0 – 60,0
+0,1 – 1,2
+2,0 – 11,0
+< 0,85
+0,0 – 5,0
+< 0,09
+0,02 – 0,1
+7 – 11 lat
+4,5 – 11,0 1,6 – 7,2
+32,0 – 77,0
+1,7 – 4,5
+25,0 – 32,0
+0,1 – 0,9
+2,0 – 9,0
+< 0,86
+0,0 – 5,0
+< 0,10
+0,02 – 0,1
+12 – 17 lat
+4,0 – 10,0 1,8 – 7,0
+42,0 – 70,0
+1,3 – 4,5
+27,0 – 32,0
+0,1 – 0,9
+2,0 – 9,0
+< 0,87
+0,0 – 5,0
+< 0,11
+0,02 – 0,1
+od 18. r.ż.
+4,0 – 10,0 1,9 – 7,0
+45,0 – 70,0
+1,5– 4,5
+25,0 – 45,0
+0,1 – 0,9
+2,0 – 9,0
+0,05 – 0,5
+0,0 – 5,0
+0,0 – 0,1
+0,0 – 1,0
+WBC – leukocyty; NEU – neutrofile; LYM – limfocyty; MONO – monocyty; EOS – eozynofile; BASO – bazofile; tydz. – tydzień; mies. – miesiąc; r.ż. – rok życia
+[TABELA strona 28, nr 1]
+OSAB | % | | |
+------------+---------+------+-----------------+----------------
+| l/901
+x | | |
+SOE | % | | |
+| l/901
+x | | 60,0
+< | 01,0
+<
+ONOM | % | | |
+| l/901
+x | | 3,0
+< | 4,0
+<
+MYL | % | | |
+| l/901
+x | | 3,3
+–
+5,0 | 0,4
+–
+2,1
+TUEN | % | | |
+| l/901
+x | | 3,0
+–
+1,0 | 4,0
+–
+1,0
+l/901
+CBW
+x | | | 3,6
+–
+1,3 | 2,6
+–
+5,2
+KEIW | | DÓŁP | .zdyt
+.91
+–
+.61 | .zdyt
+.72
+–
+.02
+[TABELA strona 28, nr 2]
+| 1,0
+–
+20,0 | 1,0
+–
+20,0 | 1,0
+–
+20,0 | 1,0
+–
+20,0 | 1,0
+–
+20,0
+-------+-------------+--------------+-------------+-------------+------------
+| 70,0
+< | 80,0
+< | 90,0
+< | 01,0
+< | 11,0
+<
+| 0,5
+–
+0,0 | 0,5
+–
+0,0 | 0,5
+–
+0,0 | 0,5
+–
+0,0 | 0,5
+–
+0,0
+| 38,0
+< | 48,0
+< | 58,0
+< | 68,0
+< | 78,0
+<
+| 0,11
+–
+0,2 | 0,11
+–
+0,2 | 0,11
+–
+0,2 | 0,9
+–
+0,2 | 0,9
+–
+0,2
+| 2,1
+–
+1,0 | 2,1
+–
+1,0 | 2,1
+–
+1,0 | 9,0
+–
+1,0 | 9,0
+–
+1,0
+| 0,08
+–
+0,23 | 0,07
+–
+0,82 | 0,06
+–
+0,53 | 0,23
+–
+0,52 | 0,23
+–
+0,72
+| 6,01
+–
+8,2 | 6,01
+–
+8,2 | 5,7
+–
+8,2 | 5,4
+–
+7,1 | 5,4
+–
+3,1
+| 0,16
+–
+0,71 | 0,95
+–
+0,61 | 0,26
+–
+0,12 | 0,77
+–
+0,23 | 0,07
+–
+0,24
+| 0,5
+–
+0,1 | 0,7
+–
+8,1 | 5,7
+–
+5,1 | 2,7
+–
+6,1 | 0,7
+–
+8,1
+| 0,91
+–
+0,6 | 0,71
+–
+0,6 | 0,51
+–
+0,5 | 0,11
+–
+5,4 | 0,01
+–
+0,4
+ICEIZD | .seim
+5
+–
+2 | .seim
+21
+–
+6 | tal
+6
+–
+2 | tal
+11
+–
+7 | tal
+71
+–
+21
+165
+DIAGN LAB. 2024; 60(3): 137–169, DOI: 10.5604/01.3001.0054.7416
+L
+D
+ISSN 0867-4043
+Rekomendacje / Recommedations
+oraz braku możliwości jego podaży w diecie w tym
+okresie. W kolejnych miesiącach obserwuje się
+zwiększenie stężenia hemoglobiny, liczby krwi­
+nek czerwonych i wartości hematokrytu, u dzieci
+> 4. r.ż. wartości parametrów czerwonokrwinko­
+wych zbliżone są do tych u dorosłych i nie wykazu­
+ją zasadniczo zróżnicowania w zależności od płci.
+Po urodzeniu, u noworodka eutroficznego, liczba
+leukocytów jest wyższa niż u człowieka dorosłego
+i może wystąpić fizjologiczne przesunięcie w lewo
+(pozostałość po "wątrobowym” okresie hematopo­
+ezy, gdzie nie funkcjonuje bariera "wątroba”/krew).
+Zaraz po urodzeniu obserwuje się przewagę neutro­
+fili, natomiast w 5.-6. dniu życia noworodka, najpóź­
+niej na początku drugiego tygodnia życia, dochodzi
+do "pierwszego skrzyżowania”, to znaczy, że odsetki
+neutrofili i limfocytów zrównują się, a leukocytoza
+stopniowo się obniża. Po "pierwszym skrzyżowaniu”,
+do czasu "drugiego skrzyżowania”, które ma miejsce
+w warunkach fizjologicznych na przełomie 5.-6. roku
+życia dziecka, w obrazie krwi obwodowej dominują
+limfocyty nad neutrofilami. Po "drugim skrzyżowa­
+niu”, obraz krwi obwodowej jest taki jak u człowieka
+dorosłego, czyli z występującą przewagą neutrofili.
+Bezpośrednio po urodzeniu, szczególnie u wcześnia­
+ków, można obserwować niższe wartości płytek krwi,
+nawet < 150x109/l, jednak ich liczba zwiększa się po
+kilku dniach i utrzymuje się na poziomie wartości spo­
+tykanych u dorosłych osób. W tabeli XI przedstawiono
+propozycję przedziałów wartości referencyjnych
+dla dzieci będące kompilacją danych z programów
+KiGGS i CALIPER, danych opublikowanych [25, 30,
+40, 55], a także danych z Instytutu Matki i Dziecka
+w Warszawie oraz Instytutu "Pomnik Centrum Zdro­
+wia Dziecka w Warszawie.
+W przypadku, kiedy pediatrzy wskazują Laboratorium
+źródła przedziałów wartości referencyjnych dopusz­
+cza się ich stosowanie.
+11. KONTROLA JAKOŚCI
+11.1. Zalecenia dotyczące kontroli
+wewnątrzlaboratoryjnej
+Materiały kontrolne należy stosować zgodnie z za­
+leceniami producentów analizatorów i odczynników
+lub certyfikowanego producenta materiałów kontro­
+lnych, niezawisłej strony trzeciej.
+Zaleca się, aby opracowany i stosowany przez La­
+boratorium program kontroli wewnatrzlaborato­
+ryjnej uwzględniał co najmniej przedstawione po­
+niżej działania:
+• Stosowanie materiałów kontrolnych na trzech
+poziomach, wysokim, prawidłowym i niskim, co
+najmniej raz dzienne, przed wykonywaniem serii
+badań laboratoryjnych, po każdej awarii, po każdym
+przeglądzie technicznym, w razie podejrzenia
+wystąpienia błędu systematycznego (bias). Nie
+zaleca się stosowania materiałów kontrolnych
+w odstępach czasowych, np. rano – poziom
+prawidłowy, w południe – wysoki, wieczór – niski.
+• Opracowanie i stosowanie jednoznacznych kry­
+teriów akceptacji/odrzucenia wyników kontroli
+wewnątrzlaboratoryjnej.
+• Opracowanie i stosowanie zasad postępowania
+w przypadku odrzucenia wyników kontroli we­
+wnątrzlaboratoryjnej.
+11.2. Zalecenia dotyczące kontroli
+zewnątrzlaboratoryjnej
+Zaleca się, aby wszystkie parametry morfolo­
+gii krwi wraz z różnicowaniem leukocytów i reti­
+kulocytami wraz z parametrami dodatkowymi
+prezentowanymi w sprawozdaniu wyników la­
+boratoryjnych były objęte programem kontroli ze­
+wnatrzlaboratoryjnej, z częstością zgodną z zale­
+ceniami Organizatorów tej kontroli.
+Zalecenia te obejmują:
+• udział personelu wykonującego badania,
+• stosowanie kryteriów Organizatora kontroli
+w ocenie jej wyników,
+• opracowanie i stosowanie zasad
+postępowania w przypadku uzyskania
+wyników niezgodnych.
+W przypadku braku lub niedostępności kontroli ze­
+wnątrzlaboratoryjnej dla parametrów dodatkowych
+zaleca sie podejście alternatywne, zorganizowa­
+nie porównań. Jeżeli zorganizowanie porównań
+166
+L
+D
+WWW.DIAGNOSTYKALABORATORYJNA.EU
+diagnostyka laboratoryjna Journal of Laboratory Diagnostics
+Rekomendacje / Recommedations
+ocena mikroskopowa rozmazu krwi podlega su­
+biektywnej ocenie.
+Zaleca się, aby osoby pracujące w pracowni diagno­
+styki hematologicznej stanowiły STAŁY zespół dia­
+gnostów laboratoryjnych i techników analityki me­
+dycznej koordynowany przez kierownika pracowni.
+Zaleca się, aby minimalny czas szkolenia w Pracow­
+ni Diagnostyki Hematologicznej wynosił 1 miesiąc.
+Zaleca się, aby kierownik pracowni organizował "we­
+wnątrzpracowniane” sprawdziany mikroskopowej
+oceny rozmazu krwi wykonywane przez różne osoby
+i zaleca się, aby uzyskane wyniki sprawdzianu były
+poddane analizie na podstawie kryteriów opraco­
+wanych i stosowanych w Laboratorium.
+międzylaboratoryjnych nie jest możliwe, to mini­
+malną formą kontroli jest stosowanie certyfikowa­
+nych materiałów odniesienia, najlepiej strony trzeciej
+uznanego niezależnego producenta tych materiałów.
+12. MINIMALNE DOŚWIADCZENIE
+I SPOSÓB PRACY
+Pomimo znacznego postępu w automatyzacji la­
+boratoriów medycznych, który na przestrzeni lat
+dokonał się w pracowniach diagnostyki hematolo­
+gicznej, wyniki autoryzowane są nie tylko na podsta­
+wie wartości parametrów uzyskanych z analizatora,
+lecz także na ocenie wzrokowej cyto- i histogramów
+w analizatorze, sugerujących "problem” z próbką –
+natury technicznej lub związany z obecnymi zmia­
+nami patologicznymi w próbce, co nie zawsze jest
+równoznaczne z pojawieniem się "flag”. Ponadto
+167
+DIAGN LAB. 2024; 60(3): 137–169, DOI: 10.5604/01.3001.0054.7416
+L
+D
+ISSN 0867-4043
+Rekomendacje / Recommedations
+13. PIŚMIENNICTWO
+1.
+Agarwal R, Sarkar A, Bhowmik A, et al. A portable spinning
+disc for complete blood count (CBC). Biosens Bioelectron.
+2020; 150: 111935.
+2.
+Aita A, Sciacovelli L, Plebani M. Laboratory-related errors: you
+cannot manage what you don't measure. You manage what
+you know and measure. Diagnosis (Berl). 2017; 4(4): 193–195.
+3.
+Ammer T, Schützenmeister A, Prokosch HU, et al. A Novel Al­
+gorithm for Reference Interval Estimation from Real-World
+Data. Sci Rep. 2021; 11(1): 16023.
+4.
+Bain JB. Blood cells. A practical guide. Wiley Blackwell, Oxford,
+UK. 2015.
+5.
+Barth J.H. Clinical quality indicators in laboratory medicine:
+a survey of current practice in the UK. Ann Clin Bioch. 2011,
+48: 238–240.
+6.
+Biino G, Santimone I, Minelli C, et al. Age- and sex-related varia­
+tions in platelet count in Italy: a proposal of reference ranges
+based on 40987 subjects' data. PLoS One. 2013; 8(1): e54289.
+7.
+Brereton M, McCafferty R, Marsden K, et al. Recommendation
+for standardization of haematology reporting units used in
+the extended blood count. Int J Lab Hem. 2016; 38: 472–482.
+8.
+Briggs C, Culp N, Davis B, et al. International Council for Stan­
+dardization of Haematology. ICSH guidelines for the evalu­
+ation of blood cell analysers including those used for differen­
+tial leucocyte and reticulocyte counting. Int J Lab Hematol.
+2014; 36(6): 613–627.
+9.
+Briggs C, Harrison P, Machin SJ. Continuing developments
+with the automated platelet count. Int J Lab Hematol. 2007;
+29(2): 77–91.
+10. Briggs C. Quality counts: new parameters in blood cell coun­
+ting. Int J Lab Hematol. 2009; 31(3): 277–297.
+11. Bull BS, Fujimoto K, Houwen B, et al. ICSH Expert Panel on Cy­
+tometry. International Council for Standardization in Haema­
+tology (ICSH) recommendations for "surrogate reference" me­
+thod for the packed cell volume. Lab Hematol. 2003; 9(1): 1–9.
+12. Buttarello M, Plebani M. Automated blood cell counts: state
+of the art. Am J Clin Pathol. 2008; 130(1): 104–116.
+13. Ceriotti F, Hinzmann R, Panteghini M. Reference intervals: the
+way forward. Ann Clin Biochem. 2009; 46(Pt 1): 8–17.
+14. Choudhary S, Katkar R S, Nagaram D. Storage artefacts in
+peripheral blood smears. J Diagn Pathol Oncol. 2018; 4(3):
+187–191.
+15. Clinical and Laboratory Standards Institute. Methods for Re­
+ticulocyte Counting (Automated Blood Cell Counters, Flow
+Cytometry, and Supravital Dyes). NCCLS document H44-A2.
+Approved Guideline – Second Edition, 2004; Vol. 24, No. 8.
+16. Clinical and Laboratory Standards Institute. Reference and se­
+lected procedures for the quantitative determination of hemo­
+globin in blood. H15–A3. Approved Guideline, 2000.
+17. Clinical and Laboratory Standards Institute. Reference leuko­
+cyte (WBC) differential count (proportional) and evaluation
+of instrumental methods. CLSI document H20-A2. Approved
+Standard – Second Edition, 2007.
+18. Clinical and Laboratory Standards Institute. Tubes and Additi­
+ves for Venous and Capillary Blood Specimen Collection; Appro­
+ved Standard – Sixth Edition. CLSI document GP39-A6. 2010.
+19. Comar SR, Malvezzi M, Pasquini R. Are the review criteria for
+automated complete blood counts of the International Socie­
+ty of Laboratory Hematology suitable for all hematology labo­
+ratories? Rev Bras Hematol Hemoter. 2014; 36(3): 219–225.
+20. Coşkun A, Carobene A, Kilercik M, et al; European Biological
+Variation Study of the EFLM Working Group on Biological Va­
+riation. Within-subject and between-subject biological varia­
+tion estimates of 21 hematological parameters in 30 healthy
+subjects. Clin Chem Lab Med. 2018; 56(8): 1309–1318.
+21. International Council for Standardization in Haematology
+technical report 1-2009: new reference material for haemo­
+globin cyanide for use in standardization of blood haemoglo­
+bin measurements. Int J Lab Hematol. 2010; 32(2): 139–141.
+22. De la Salle B. Pre- and postanalytical errors in haematology.
+Int J Lab Hematol. 2019; 41 (Suppl 1): 170–176.
+23. De la Salle BJ, McTaggart PN, Briggs C, et al. The accuracy of
+platelet counting in thrombocytopenic blood samples distribu­
+ted by the UK National External Quality Assessment Scheme for
+General Haematology. Am J ClinPathol. 2012; 137(1): 65–74.
+24. Deshka M. Pobieranie krwi w praktyce. Poradnik dla personelu
+medycznego. Bezpieczne pobieranie krwi włośniczkowej i żyl­
+nej w ambulatorium i szpitalu. Kohlhammer Verlag Stuttgart,
+ISBN: 978-3-17-020830-8.
+25. Dortschy R, Schaffrath Rosario A, Scheidt-Nave Ch, et al. Bevöl­
+kerungsbezogene Verteilungswerte ausgewählter Laborpara­
+meter aus der Studie zur Gesundheit von Kindern und Jugen­
+dlichen in Deutschland (KiGGS). Robert Koch – Institut, Berlin.
+2009. Mercedes-Druck, Berlin, DOI: doi.org/10.25646/3144.
+26. Eldanasoury AS, Boshnak NH, Abd El Monem RE. Validation
+of criteria for smear review following automated blood cell
+analysis in Ain Shams University Laboratory. Int J Sci Res.
+2016; 5: 484–493.
+27. Farrell CL, Nguyen L. Indirect Reference Intervals: Harnes­
+sing the Power of Stored Laboratory Data. Clin Biochem Rev.
+2019; 40(2): 99–111.
+28. Gulati G, Song J, Florea AD, et al. Purpose and criteria for blo­
+od smears can, blood smear examination, and blood smear
+review. Ann Lab Med. 2013; 33(1): 1–7.
+29. Haeckel R, Wosniok W, Arzideh F. A plea for intra-laboratory re­
+ference limits. Part 1. General considerations and concepts for
+determination. Clin Chem Lab Med. 2007; 45(8): 1033–1042.
+30. Heil W, Ehrhardt V. Reference ranges for adults and children.
+Pre-analytical considerations. Roche Diagnostics, Mannhe­
+im. 2008.
+31. Henny J. The IFCC recommendations for determining referen­
+ce intervals: strengths and limitations. J Lab Med 2009; 33(2):
+45–51, DOI: 10.1515/JLM.2009.016.
+32. Hjelm M, Leyssen MHT, Tentori L, et al. Standardization of
+blood specimen collection procedure for reference values.
+International Committee for Standardization in Haematology
+(ICSH). Clin lab Haemat. 1982; 4: 83–86.
+33. International Council for Standardization in Haematology Expert
+Panel on Cytometry; International Society of Laboratory He­
+matology Task Force on Platelet Counting. Platelet counting
+by the RBC/platelet ratio method. A reference method. Am J
+Clin Pathol. 2001; 115(3): 460–464.
+34. Izzi B, Bonaccio M, de Gaetano G, et al. Learning by counting blo­
+od platelets in population studies: survey and perspective a long
+way after Bizzozero. J Thromb Haemost. 2018; 16(9): 1711–1721.
+35. Jean A, Boutet C, Lenormand B, et al. Combination of cellular
+population data and CytoDiff analyses for the diagnosis of
+lymphocytosis. Clin Chem Lab Med. 2011; 49(11): 1861–1868.
+36. Jones GRD, Haeckel R, Loh TP, et al. IFCC Committee on Refe­
+rence Intervals and Decision Limits. Indirect methods for refe­
+rence interval determination – review and recommendations.
+Clin Chem Lab Med. 2018; 57(1): 20–29.
+37. Kawalec W, Grenda R, Ziółkowska H. Pediatria. PZWL, War­
+szawa. 2020.
+168
+L
+D
+WWW.DIAGNOSTYKALABORATORYJNA.EU
+diagnostyka laboratoryjna Journal of Laboratory Diagnostics
+Rekomendacje / Recommedations
+38. Kawalec W, Grenda R, Kulus M. Pediatra, wyd. III. PZWL, War­
+szawa. 2024.
+39. Kemble S, Briggs C, Harrison P. Platelet Counting. In: Michel­
+son A, Cattaneo M, Frelinger L, Newman P, (eds.). Platelets. 4th
+edition ed. Academic Press (Elsevier), London. 2019: 582–591.
+40. Klarmann D, Hintereder G, Thomas L. Reference intervals and
+orienting ranges for Clinical Chemistry and Laboratory Medi­
+cine in fetuses, newborn and adolescents. Chapter 54 in: Lo­
+ther T. Clinical Laboratory Diagnostics. Germany 2024. www.
+clinical-laboratory.diagnostics.com.
+41. Kratz A, Lee SH, Zini G, et al. International Council for Stan­
+dardization in Haematology. Digital morphology analyzers in
+hematology: ICSH review and recommendations. Int J Lab
+Hematol. 2019; 41(4): 437–447.
+42. Laboratory management, accreditation, quality assurance.
+Clin. Chim. Acta. 2019; 497–532.
+43. Latger-Cannard V, Hoarau M, Salignac S, et al. Mean platelet
+volume: comparison of three analysers towards standardiza­
+tion of platelet morphological phenotype. Int J Lab Hematol.
+2012; 34(3): 300–310.
+44. Linssen J, Aderhold S, Nierhaus A, et al. Automation and va­
+lidation of a rapid method to assess neutrophil and monocy­
+te activation by routine fluorescence flow cytometry in vitro.
+Cytometry B Clin Cytom. 2008; 74(5): 295–309.
+45. Lippi G, Favaloro EJ, Buoro S. Platelet Transfusion Thresholds:
+How Low Can We Go in Respect to Platelet Counting? Semin
+Thromb Hemost. 2020; 46(3): 238–244.
+46. Lippi G, Simundic AM, European Federation for Clinical Che­
+mistry and Laboratory Medicine (EFLM) Working Group for
+Preanalytical Phase (WG-PRE). The EFLM strategy for har­
+monization of the preanalytical phase. Clin Chem Lab Med.
+2018; 56(10): 1660–1666.
+47. Liu W, Bretz F, Cortina-Borja M. Reference range: Which sta­
+tistical intervals to use? Stat Methods Med Res. 2021; 30(2):
+523–534.
+48. Mokhtari M, Najafi S. Evaluation of the correlation of automa­
+ted and manual results of complete blood count in oncolo­
+gic patients. Comp. Clin. Path. 2016; 25(6): 1151–1154, DOI:
+10.1007/s00580-016-2319-9.
+49. Omuse G, Maina D, Mwangi J, et al. Complete blood count
+reference intervals from a healthy adult urban population in
+Kenya. PLoS One. 2018; 13(6): e0198444.
+50. Oprisan B, Stoica I, Avadanei MI. Morphological changes indu­
+ced in erythrocyte membrane by the antiepileptic treatment:
+Anatomic force microscopy study. Microsc Res Tech. 2017;
+80(4): 364–373.
+51. Palmer L, Briggs C, McFadden S, et al. ICSH recommendations
+for the standardization of nomenclature and grading of peri­
+pheral blood cell morphological features. Int J Lab Hematol.
+2015; 37(3): 287–303.
+52. Palur K, Arakeri SU. Effectiveness of the International Consen­
+sus Group criteria for manual peripheral smear review. Indian
+J Pathol Microbiol. 2018; 61(3): 360–365.
+53. Park IJ, Ahn S, Kim YI, et al. Performance evaluation of Sam­
+sung LABGEO(HC10) Hematology Analyzer. Arch Pathol Lab
+Med. 2014; 138(8): 1077–1082.
+54. Pekelharing M, Hauss O, de Jonge R, et al. Haematology refe­
+rence intervals for established and novel parameters in healthy
+adults. Diagnostic Perspectives. 2010; 1(1): 1–11.
+55. Piątosa B, Wolska-Kuśnierz B, Siewiera K, et al. Distribution of
+leukocyte and lymphocyte subsets in peripheral blood. Age
+related normal values for preliminary evaluation of the im­
+mune status in Polish children. Centr Eur J Immunol. 2010;
+35(3): 168–175.
+56. Plebani M, Sciacovelli L, Aita A, et al. Performance criteria and
+quality indicators for the pre-analytical phase. Clin Chem Lab
+Med. 2015; 53(6): 943–948. DOI: 10.1515/cclm-2014-1124.
+57. PN-EN ISO 15189:2013-05 Laboratoria medyczne – Wymaga­
+nia dotyczące jakości i kompetencje.
+58. Proposed reference method for reticulocyte counting based
+on the determination of the reticulocyte to red cell ratio. The
+Expert Panel on Cytometry of the International Council for
+Standardization in Haematology. Clin Lab Haematol. 1998;
+20(2): 77–79.
+59. Reference method for the enumeration of erythrocytes and
+leucocytes. International Council for Standardization in Ha­
+ematology; prepared by the Expert Panel on Cytometry. Clin
+Lab Haematol. 1994; 16(2): 131–138.
+60. Rozporządzenie Ministra Zdrowia z dnia 23 marca 2006 r.
+w sprawie standardów jakości dla medycznych laboratoriów
+diagnostycznych i mikrobiologicznych z późn. zm.
+61. SEED Haematology – Reference ranges – and what Sysmex
+can offer. Sysmex Educational Enhancement and Develop­
+ment. 2015.
+62. Sciacovelli L, Aita A, Padoan A, et al. Performance criteria and
+quality indicators for the post-analytical phase. Clin Chem Lab
+Med. 2016; 54(7): 1169–1176.
+63. Simundic AM, Lippi G. Preanalytical phase – a continuous
+challenge for laboratory professionals. Biochem Med (Za­
+greb). 2012; 22(2): 145–149.
+64. Scherer PS, Moraes D; Terezinha P, et al. New red blood cell
+and reticulocyte parameters and reference values for healthy
+individuals and in chronic kidney disease. J Bras Patol Med
+Lab. 2015; 51(2): 77–84.
+65. Solberg HE. The IFCC recommendation on estimation of re­
+ference intervals. The Ref Val program. Clin Chem Lab Med.
+2004; 42(7): 710–714.
+66. Solnica B, Dembińska-Kieć A, Naskalski JW. Diagnostyka La­
+boratoryjna z elementami biochemii klinicznej, wyd. V., Edra
+Urban & Partner, Wrocław. 2022.
+67. Specific Criteria for Accreditation of Medical Laboratories,
+National Accreditation Board for Testing and Calibration La­
+boratories (NABL 112). 2019.
+68. Summeta S, Rajesh K, Nanera A, et al. Sample rejection as
+a quality indicator for continual improvement of laboratory
+services, tertiary care hospital. NJIRM. 2014: 5(1): 72–75.
+69. Swerdlow SH, Campo E, Harris NL, et al. WHO Classification
+of Tumours of Haematopoietic and Lymphoid Tissues. 4th
+Edition. Lyon, 2008.
+70. Szczeklik A, Gajewski P. Interna Szczeklika. Medycyna prak­
+tyczna, Kraków. 2023.
+71. Tate JR, Johnson R, Barth J. Harmonization of laboratory te­
+sting – Current achievements and future strategies. Clin Chim
+Acta. 2014; 432: 4–7.
+72. Tatsumi N, Miwa S, Lewis SM; International Society of He­
+matology, and the International Council for Standardization
+in Haematology. Specimen collection, storage, and transmis­
+sion to the laboratory for hematological tests. Int J Hematol.
+2002; 75(3): 261–268.
+73. Tohyama K. Present status and perspective of laboratory he­
+matology in Japan: On the standardization of blood cell mor­
+phology including myelodysplasia: On behalf of the Japanese
+Society for Laboratory Hematology. Int J Lab Hematol. 2018;
+40(Suppl 1): 120–125.
+74. Urrechaga E. Standarization and recommendations in the La­
+boratory of Haematology Hematimetric and reticulocyte indi­
+ces in the diagnosis of anemia, 2019.
+169
+DIAGN LAB. 2024; 60(3): 137–169, DOI: 10.5604/01.3001.0054.7416
+L
+D
+ISSN 0867-4043
+Rekomendacje / Recommedations
+75. Wakeman L, Al-Ismail S, Benton A, et al. Robust, routine ha­
+ematology reference ranges for healthy adults. Int J Lab He­
+matol. 2007; 29(4): 279–283.
+76. Wiwanitkit V. Effect of EDTA K2 and K3 anticoagulants on the
+complete blood count measured by hematological analyzer.
+Arch Hell Med. 2011; 28(6): 849–850.
+77. World Health Organization use of anticoagulants in diagno­
+stic laboratory investigations. 2002, who/dil/lab/99.1 Rev.2.
+78. Zhang L, Xu J, Gao L, et al. Spurious Thrombocytopenia in
+Automated Platelet Count. Lab Med. 2018; 49(2): 130–133.
+79. Zini G; International Council for Standardization in Haema­
+tology (ICSH). Stability of complete blood count parame­
+ters with storage: toward defined specifications for dif­
+ferent diagnostic applications. Int J Lab Hematol. 2014;
+36(2): 111–113.
+80. Zwart A, van Assendelft OW, Bull BS, et al. Recommendations
+for reference method for haemoglobinometry in human blo­
+od (ICSH standard 1995) and specifications for international
+haemiglobinocyanide standard (4th edition). J Clin Pathol.
+1996; 49(4): 271–274.

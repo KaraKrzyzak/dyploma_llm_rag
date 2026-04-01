@@ -1,0 +1,2436 @@
+Redakcja kwartalnika "Diagnostyka Laboratoryjna” ma przyjemność i zaszczyt przekazać do rąk PT Czytelników opracowanie pt.: "Zalecenia Polskiego Towarzystwa
+Diagnostyki Laboratoryjnej dotyczące badania upostaciowanych elementów moczu
+w medycznym laboratorium diagnostycznym”. Publikacja, którą przygotował Zespół
+Wybitnych Specjalistów i Ekspertów z zakresu diagnostyki laboratoryjnej stanowi pierwszą
+z cyklu planowanych przez Zarząd Główny Polskiego Towarzystwa Diagnostyki Laboratoryjnej monografii, dotyczących istotnych zagadnień z dziedziny praktyki laboratoryjnej.
+Zespołowi Autorów i Ekspertów składamy najserdeczniejsze podziękowania za podjęcie
+się trudu opracowania tak niezbędnych w codziennej pracy diagnostów laboratoryjnych
+rekomendacji.
+Jan Kanty Kulpa
+Redaktor Naczelny
+Zalecenia Polskiego Towarzystwa Diagnostyki Laboratoryjnej dotyczące badania
+upostaciowanych elementów moczu zostały poparte przez Zarząd Główny Polskiego
+Towarzystwa Nefrologicznego.
+Andrzej Oko
+Prezes Polskiego Towarzystwa Nefrologicznego
+Rekomendacje • Recommendations
+147
+diagnostyka laboratoryjna Journal of Laboratory Diagnostics
+Diagn Lab. 2019; 55(3): 145-198
+Zalecenia Polskiego Towarzystwa Diagnostyki Laboratoryjnej
+dotyczące badania upostaciowanych elementów moczu
+w medycznym laboratorium diagnostycznym
+The Polish Society for Laboratory Diagnostics Guidelines
+on urine particles analysis
+in a medical diagnostic laboratory
+Stanowisko ekspertów opracowane na podstawie zaleceń
+Clinical and Laboratory Standards Institute
+oraz European Confederation of Laboratory Medicine
+Iwona Bil-Lula, Agnieszka Ćwiklińska, Dorota Kamińska, Joanna Kamińska,
+Zygmunt Kopczyński, Danuta Kozłowska, Anna Krzywonos-Zawadzka, Maria Mantur,
+Anna Mertas, Mirosława Pietruczuk, Bogdan Solnica, Iwona Zoubek
+Dokument zawiera zalecenia dotyczące procedur badania upostaciowanych elementów moczu, uwzględniające charakterystykę
+czynników przedanalitycznych, próbek moczu, technik pobierania i transportu próbek, niezbędnego sprzętu laboratoryjnego
+oraz metod oceny ilościowej lub jakościowej elementów upostaciowanych
+Zalecenia Polskiego Towarzystwa Diagnostyki Laboratoryjnej dotyczące badania
+upostaciowanych elementów moczu uzyskały poparcie Polskiego Towarzystwa Nefrologicznego
+www.diagnostykalaboratoryjna.eu
+148
+REDAKCJA NAUKOWA
+dr hab. Iwona Bil-Lula
+ZESPÓŁ EKSPERTÓW:
+Przewodnicząca zespołu:
+dr hab. Iwona Bil-Lula, Katedra Analityki Medycznej, Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu, ul. Borowska
+211A, 50-556 Wrocław, e-mail: iwona.bil-lula@umed.wroc.pl
+Członkowie zespołu:
+dr Agnieszka Ćwiklińska, Zakład Chemii Klinicznej, Gdański Uniwersytet Medyczny, ul. Dębinki 7, 80-211 Gdańsk, e-mail: agnieszka.cwiklinska@gumed.edu.pl
+dr hab. Dorota Kamińska, Katedra i Klinika Nefrologii i Medycyny Transplantacyjnej, Uniwersytecki Szpital Kliniczny we Wrocławiu, ul. Borowska 213, 50-556 Wrocław, e-mail: dorota.kaminska@umed.wroc.pl
+dr Joanna Kamińska, Zakład Laboratoryjnej Diagnostyki Klinicznej, Uniwersytet Medyczny w Białymstoku, ul. Waszyngtona
+15A, 15-269 Białystok, e-mail: joanna.kaminska@umb.edu.pl
+prof. dr hab. Zygmunt Kopczyński, Katedra i Zakład Diagnostyki Laboratoryjnej, Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu, ul. Fredry 10, 61-701 Poznań, e-mail: diagnostyka@poczta.fm
+mgr Danuta Kozłowska, DIAGNOSTYKA Spółka z ograniczoną odpowiedzialnością, ul. prof. Michała Życzkowskiego 16,
+31-864 Kraków, e-mail: danuta.kozlowska@diag.pl
+dr Anna Krzywonos-Zawadzka, Katedra Analityki Medycznej, Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu,
+ul. Borowska 211A, 50-556 Wrocław, e-mail: anna.krzywonos-zawadzka@umed.wroc.pl
+prof. dr hab. Maria Mantur, Zakład Laboratoryjnej Diagnostyki Klinicznej, Uniwersytet Medyczny w Białymstoku,
+ul. Waszyngtona 15A, 15-269 Białystok (emerytowany profesor); Wyższa Szkoła Medyczna w Białymstoku, ul. Krakowska 9,
+15-875 Białystok, e-mail: maria.mantur@umb.edu.pl
+dr hab. Anna Mertas, Katedra i Zakład Mikrobiologii i Immunologii w Zabrzu, Śląski Uniwersytet Medyczny w Katowicach, ul.
+Jordana 19, 41-808 Zabrze, e-mail: amertas@sum.edu.pl
+prof. dr hab. Mirosława Pietruczuk, Zakład Diagnostyki Laboratoryjnej, Uniwersytet Medyczny w Łodzi, ul. Kopcińskiego 22,
+90-153 Łódź, e-mail: miroslawa.pietruczuk@umed.lodz.pl
+prof. dr hab. Bogdan Solnica, Katedra Biochemii Klinicznej, Uniwersytet Jagielloński – Collegium Medicum, ul. Kopernika
+15 A, 31-501 Kraków, e-mail: mbsolnic@cyf-kr.edu.pl
+mgr Iwona Zoubek, Dział Diagnostyki Laboratoryjnej, ul. Borowska 213, Uniwersytecki Szpital Kliniczny we Wrocławiu,
+50-556 Wrocław, e-mail: iwonaz.anna@gmail.com
+Tłumaczenie dokumentów źródłowych:
+mgr Aleksandra Franczak, Katedra Analityki Medycznej, Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu,
+ul. Borowska 211A, 50-556 Wrocław, e-mail: aleksandra.franczak@umed.wroc.pl
+mgr Agnieszka Olejnik, Katedra Analityki Medycznej, Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu,
+ul. Borowska 211A, 50-556 Wrocław, e-mail: agnieszka.olejnik@student.umed.wroc.pl
+149
+Diagn Lab. 2019; 55(3): 145-198
+Autorzy zdjęć mikroskopowych:
+dr Agnieszka Ćwiklińska, Zakład Chemii Klinicznej, Gdański Uniwersytet Medyczny, ul. Dębinki 7, 80-211 Gdańsk,
+e-mail: agnieszka.cwiklinska@gumed.edu.pl (Ryciny: 16, 19, 28, 50, 61)
+mgr Anna Gliwińska, Zakład Chemii Klinicznej, Gdański Uniwersytet Medyczny, ul. Dębinki 7, 80-211 Gdańsk,
+e-mail: anna.gliwinska@gumed.edu.pl (Ryciny: 16, 19, 28, 50, 61)
+dr Joanna Kamińska, Zakład Laboratoryjnej Diagnostyki Klinicznej, Uniwersytet Medyczny w Białymstoku, ul. Waszyngtona 15A,
+15-269 Białystok, e-mail: joanna.kaminska@umb.edu.pl (Ryciny: 2-11, 13, 14, 17, 18, 20, 22-27, 29-49, 51, 52, 54-56, 60, 62-69).
+prof. Maria Mantur, Zakład Laboratoryjnej Diagnostyki Klinicznej, Uniwersytet Medyczny w Białymstoku, ul. Waszyngtona
+15A, 15-269 Białystok (emerytowany profesor); Wyższa Szkoła Medyczna w Białymstoku, ul. Krakowska 9, 15-875 Białystok,
+e-mail: maria.mantur@umb.edu.pl ( Ryciny: 12, 15, 21)
+dr Beata Wojtysiak-Duma, Zakład Diagnostyki Laboratoryjnej, Uniwersytet Medyczny w Lublinie, ul. Chodźki 1, 20-093 Lublin,
+e-mail: bwd@interia.eu (Rycina: 53)
+www.diagnostykalaboratoryjna.eu
+150
+Spis treści
+1. WSTĘP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 152
+2. PROCEDURY PRZEDANALITYCZNE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 152
+2.1. Przygotowanie pacjenta do badania . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 152
+2.2. Rodzaje próbek moczu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 152
+2.3. Czynniki przedanalityczne wpływające na wynik badania moczu . . . . . . . . . . . . . . . . . . . . . 153
+2.4. Procedura pobierania próbki moczu do badania . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 153
+2.4.1. Techniki pobierania moczu do badania ogólnego . . . . . . . . . . . . . . . . . . . . . . . . . . . 153
+2.4.2. Formularz zlecenia badania ogólnego moczu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 154
+2.4.3. Pojemniki do pobierania moczu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 154
+2.4.4. Transport i przechowywanie moczu. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 155
+3. PROCEDURY ANALITYCZNE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 155
+3.1. Metody badania upostaciowanych elementów moczu . . . . . . . . . . . . . . . . . . . . . . . . . . . . 155
+3.2. Standaryzowana metoda mikroskopowej oceny upostaciowanych elementów moczu . . . . . . . 156
+3.2.1. Procedura manualnego badania moczu wirowanego przy użyciu standaryzowanych
+komór. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 156
+3.2.2. Mikroskopowa ocena upostaciowanych elementów moczu niewirowanego w komorach
+standaryzowanych. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 157
+3.2.3. Różnicowanie upostaciowanych elementów moczu . . . . . . . . . . . . . . . . . . . . . . . . . 159
+3.3. Procedura badania upostaciowanych elementów moczu metodami automatycznymi . . . . . . . . 160
+3.4. Filtracja moczu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 162
+4. ANALIZA UPOSTACIOWANYCH ELEMENTÓW MOCZU . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 162
+4.1. Przedziały referencyjne upostaciowanych elementów moczu (Tabela IV) . . . . . . . . . . . . . . . . 162
+4.2. Charakterystyka upostaciowanych elementów moczu . . . . . . . . . . . . . . . . . . . . . . . . . . . . 162
+4.2.1. Komórki krwi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 162
+4.2.2. Komórki nabłonka . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 165
+4.2.3. Wałeczki . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 167
+4.2.4. Bakterie, drożdże i inne mikroorganizmy. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 169
+4.2.5. Składniki mineralne . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 170
+4.2.6. Lipidy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 172
+4.2.7. Inne upostaciowane elementy moczu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 172
+4.3. Techniki barwienia upostaciowanych elementów moczu w badaniu na poziomie zaawansowanym
+i specjalistycznym. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 173
+4.3.1. Barwienie lipidów . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 173
+4.3.2. Barwienie bakterii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 174
+4.3.3. Barwienie MGG . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 175
+4.3.4. Barwienie 0,5% błękitem toluidynowym O . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 176
+4.3.5. Barwienie eozynofili metodą Hänsela. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 176
+4.3.6. Barwienie limfocytów metodą Wrighta. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+4.3.7. Barwienie komórek zmodyfikowaną metodą Sternheimera-Malbina . . . . . . . . . . . . . . . 177
+151
+Diagn Lab. 2019; 55(3): 145-198
+5. FORMUŁOWANIE WYNIKU . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+5.1. Formularz sprawozdania z badania ogólnego moczu wraz z oceną upostaciowanych elementów
+moczu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+5.2. Przykładowe komentarze . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 181
+6. KONTROLA JAKOŚCI . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 181
+7. TRUDNOŚCI DIAGNOSTYCZNE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 183
+8. PIŚMIENNICTWO. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 184
+9. WYKAZ SKRÓTÓW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 184
+10. SŁOWNIK TERMINOLOGII . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 185
+11. ZAŁĄCZNIK 1. Katalog fotografii mikroskopowych upostaciowanych elementów moczu. . . . . . . . . . 186
+12. ZAŁĄCZNIK 2. Instrukcje pisemne z ilustracją w formie piktogramów. . . . . . . . . . . . . . . . . . . . . . . 198
+www.diagnostykalaboratoryjna.eu
+152
+1. WSTĘP
+Badanie ogólne moczu jest wykonywane w celach diagnostycznych, przesiewowych, do monitorowania leczenia
+i/lub oceny postępu procesu chorobowego. Zakres badania ogólnego moczu obejmuje badanie fizykochemiczne
+parametrów takich jak: barwa, przejrzystość, ciężar właściwy, pH, obecność białka, glukozy, ciał ketonowych, krwi,
+esterazy leukocytarnej (leukocytów), azotynów (bakterii), bilirubiny i urobilinogenu oraz badanie upostaciowanych
+elementów moczu: erytrocytów, leukocytów, komórek nabłonka, wałeczków, bakterii i innych mikroorganizmów,
+kryształów, kropli tłuszczu, owalnych ciał tłuszczowych i pasm śluzu. Zaleca się, aby badanie upostaciowanych
+elementów moczu stanowiło obligatoryjną część badania ogólnego moczu u każdego pacjenta. Jeżeli z uzasadnionych względów praktycznych nie jest to możliwe, badanie elementów upostaciowanych należy wykonać
+bezwzględnie w przypadku dodatniego wyniku testu paskowego na obecność krwi, leukocytów, białka, azotynów
+(bakterii) oraz w przypadku zmętnienia moczu, nieprawidłowego ciężaru właściwego i zmiany barwy moczu.
+2. PROCEDURY PRZEDANALITYCZNE
+2.1. Przygotowanie pacjenta do badania
+1.
+Każdy pacjent powinien otrzymać ustną i/lub pisemną instrukcję (zalecana forma pisemna uzupełniona
+piktogramami (wzór w załączniku nr 2)), dokładnie określającą warunki prawidłowego pobrania i dostarczenia próbki moczu do laboratorium.
+2.
+Właściwe przygotowanie pacjenta ma na celu wyeliminowanie czynników/błędów przedlaboratoryjnych,
+wpływających na wynik badania ogólnego moczu.
+3.
+Przygotowanie powinno rozpocząć się w dniu poprzedzającym popranie próbki moczu:
+a.
+Nie należy podejmować znacznego wysiłku fizycznego, np. długotrwałych marszów.
+b.
+Przynajmniej 3 dni przed badaniem należy zachować wstrzemięźliwość płciową.
+c.
+Przed planowanym pobraniem próbki należy unikać skrajnego ograniczenia lub zwiększonego przyjmowania płynów.
+4.
+Zaleca się umieszczanie na druku zlecenia badania informacji dotyczącej rodzaju próbki moczu.
+2.2. Rodzaje próbek moczu
+Rodzaj pobieranej próbki do badania ogólnego moczu jest uzależniony od rodzaju wykonywanych badań:
+1.
+Losowa (przygodna) próbka moczu – pojedyncza porcja moczu pobrana o dowolnej porze dnia, w dowolnej
+objętości, bez wcześniejszego przygotowania pacjenta. Jest wykorzystywana do badań doraźnych. Należy
+podkreślić, iż wartość diagnostyczna wyniku badania próbki losowej jest ograniczona, ze względu na wpływ
+czynników przedanalitycznych.
+2.
+Pierwsza poranna próbka moczu – pobrana bezpośrednio po spoczynku nocnym w pozycji leżącej, trwającym nie mniej niż 8 godzin. Mocz powinien być gromadzony w pęcherzu co najmniej 4 godziny (nawet jeśli
+pęcherz był opróżniany podczas nocy). Pierwsza poranna próbka moczu jest próbką zalecaną do badania
+ogólnego i badania mikrobiologicznego moczu.
+3.
+Druga poranna próbka moczu – pojedyncza porcja moczu, oddana ok. 2 godzin po pierwszej porannej
+mikcji. Należy pamiętać, że nie jest to próbka zalecana do badania ogólnego, a jej skład istotnie zależy od
+objętości przyjmowanych płynów, liczby i rodzaju posiłków oraz aktywności fizycznej.
+Jest próbką zalecaną do analizy cytomorfologicznej i oceny morfologii wałeczków. W celu zwiększenia wartości diagnostycznej badania, zaleca się ograniczenie spożycia płynów (do 200 mL wody po godzinie 2200
+dnia poprzedzającego pobranie moczu) i nieprzyjmowanie pokarmów do momentu pobrania materiału.
+W przypadku problemów diagnostycznych związanych z wystąpieniem białkomoczu ortostatycznego,
+zaleca się badanie zarówno w pierwszej, jak i drugiej porannej porcji moczu. Jeśli zalecenia dotyczące
+pobrania drugiej porannej porcji moczu nie mogą być spełnione, próbkę należy sklasyfikowac jako losową.
+153
+Diagn Lab. 2019; 55(3): 145-198
+4.
+Próbka okresowa – oznacza zbiórkę moczu w ściśle określonym przedziale czasowym, np.: w ciągu 2 godzin
+lub pomiędzy określonymi godzinami.
+2.3. Czynniki przedanalityczne wpływające na wynik badania moczu
+Do czynników poprzedzających proces analityczny i mających wpływ na wiarygodność wyniku badania upostaciowanych elementów moczu należą:
+1.
+Diureza – na diurezę wpływa: podaż płynów, zdolność nerek do zagęszczania i rozcieńczania moczu, temperatura otoczenia, stosowanie diuretyków. W celu uzyskania moczu zagęszczonego wskazana jest wielkość
+diurezy na poziomie 20 – 50 mL/godz.
+2.
+Dieta – rodzaj i ilość spożywanych pokarmów może wpływać na barwę, odczyn moczu oraz pojawienie się
+zwiększonej ilości kryształów, np.: szczawianów wapnia, fosforanów/moczanów bezpostaciowych, kwasu
+moczowego.
+3.
+Aktywność fizyczna i postawa ciała – aby zminimalizować wpływ ćwiczeń fizycznych i/lub pozycji ciała na
+wynik badania moczu, zaleca się badanie próbek porannych oraz przestrzeganie minimalnej aktywności
+fizycznej przed pobraniem materiału do badania (forsowne ćwiczenia mogą sprzyjać wystąpieniu białkomoczu i pojawieniu się wałeczków szklistych i ziarnistych w moczu).
+4.
+Ciąża – w czasie ciąży może być obserwowana fizjologiczna leukocyturia i glukozuria.
+5.
+Inkubacja moczu w pęcherzu moczowym – do oceny mikroorganizmów zaleca się pobranie próbki gromadzonej w pęcherzu przez 4 – 8 godz. Do analizy cytomorfologicznej i oceny morfologii wałeczków
+zaleca się pobranie próbki 1 – 2 godzinnej, co zabezpiecza przed nadmiernym rozcieńczeniem badanych
+elementów (pkt. 2.2.3.).
+6.
+Zanieczyszczenie próbki – próbki moczu powinny być wolne od płynów kontaminujących (zarówno pochodzenia wewnątrzustrojowego, jak i zewnątrzustrojowego). Zaleca się wykonanie badania po zachowaniu
+minimalnego czasu abstynencji płciowej (przynajmniej 3 dni). Nie zaleca się badania moczu w okresie
+okołomenstruacyjnym.
+2.4. Procedura pobierania próbki moczu do badania
+Wybór odpowiedniego rodzaju próbki oraz właściwe jej pobranie warunkuje otrzymanie wiarygodnego wyniku.
+Próbka moczu powinna być wolna od zanieczyszczeń chemicznych i biologicznych.
+W przypadku stwierdzenia niezgodności dostarczonego do laboratorium materiału do badań z wymaganiami dotyczącymi pobierania, transportu lub innej nieprawidłowości powodującej, że materiał nie może być
+wykorzystany do badań, pracownik powinien zgłosić ten fakt kierownikowi laboratorium lub osobie przez
+niego upoważnionej. W razie potwierdzenia niezgodności, osoby te mogą zakwalifikować materiał jako
+niezdatny do badania i odmówić wykonania badania. Dalsze postępowanie z materiałem laboratoryjnym
+należy uzgodnić ze zleceniodawcą (Dz.U. z 2016r. poz. 1665). Nie należy odrzucać próbki bez konsultacji ze zleceniodawcą. Jeśli próbki nie spełniają kryteriów akceptacji do analizy, dopuszcza się wykonanie badania
+tylko w przypadku, gdy wynik badania będzie opatrzony odpowiednim komentarzem.
+2.4.1. Techniki pobierania moczu do badania ogólnego
+Wyróżnia się następujące techniki pobierania próbek moczu:
+1.
+Podczas mikcji spontanicznej, mocz ze środkowego strumienia – zaleca się pobranie moczu o objętości
+50 – 100 mL, ze środkowej porcji moczu (zarówno pierwsza, jak i ostatnia porcja moczu podczas mikcji
+powinna zostać odrzucona). Przed pobraniem próbki, zaleca się zachowanie standardowej higieny
+narządów moczowo-płciowych (ujście cewki moczowej u kobiet i napletek u mężczyzn należy umyć
+czystą wodą i osuszyć jednorazowym, papierowym ręcznikiem). Nie zaleca się stosowania środków
+odkażających oraz mydeł.
+www.diagnostykalaboratoryjna.eu
+154
+2.
+Cewnikowanie – mocz pobrany po wprowadzeniu nowego, sterylnego cewnika do pęcherza moczowego lub
+moczowodu poprzez cewkę moczową. Jest jedną z metod pobrania materiału od dzieci/osób leżących/po
+zabiegu. W przypadku cewnika stałego, mocz należy pobrać z portu do pobierania moczu lub, jeśli cewnik
+nie zawiera portu, z odcinka cewnika w pobliżu zbiornika/worka na mocz.
+3.
+Punkcja pęcherza moczowego – nakłucie pęcherza moczowego przez powłoki brzuszne igłą punkcyjną
+połączoną ze strzykawką. Pozwala na jednoznaczne potwierdzenie lub wykluczenie zakażenia dolnych
+dróg moczowych (szczególnie przy podejrzeniu zakażenia bakteriami beztlenowymi) oraz zmniejsza ryzyko
+zanieczyszczenia próbki (szczególnie u niemowląt).
+4.
+Worki do pobierania moczu – stosowane u niemowląt. Przed pobraniem próbki, zaleca się zachowanie
+standardowej higieny narządów płciowych dokonanej za pomocą czystej wody i jednorazowego, papierowego ręcznika. Ze względu na możliwość zanieczyszczenia próbki, zbiórka moczu nie powinna trwać
+dłużej niż 1 godzinę.
+5.
+Urostomia – materiał pozyskany z przetoki moczowo-skórnej.
+2.4.2. Formularz zlecenia badania ogólnego moczu
+Formularz zlecenia badania ogólnego moczu powinien zawierać następujące informacje:
+1.
+dane pacjenta: imię i nazwisko, data urodzenia, miejsce zamieszkania/oddział szpitalny, płeć, numer PESEL
+lub numer dokumentu tożsamości lub numer identyfikujący pacjenta (przy braku innych danych),
+2.
+dane jednostki zlecającej,
+3.
+pieczęć i/lub podpis oraz dane identyfikujące osobę zlecającą badanie,
+4.
+rodzaj próbki,
+5.
+zlecone badania,
+6.
+tryb wykonywania badania (cito lub normalny/rutynowy),
+7.
+data i godzina pobrania materiału (dane osoby pobierającej, jeśli ma to znaczenie),
+8.
+data i godzina przyjęcia materiału do laboratorium,
+9.
+istotne dane kliniczne mogące mieć wpływ na wynik badania (np. aktualne i niedawno przebyte choroby,
+przyjmowane leki itp.),
+10. kod spinający zlecenie z próbką.
+2.4.3. Pojemniki do pobierania moczu
+Pojemniki przeznaczone do pobrania pojedynczej próbki moczu powinny być czyste i jednorazowego użytku,
+posiadać pojemność co najmniej 50 – 100 mL. Pojemnik powinien mieć szeroką podstawę i otwór o średnicy
+co najmniej 5 cm, być zaopatrzony w pokrywkę umożliwiającą szczelne zamknięcie pojemnika. Pojemnik oraz
+pokrywka powinny być wykonane z materiałów, które nie reagują ze składnikami moczu i ich nie adsorbują.
+Pojemniki jednorazowego użytku powinny być oznaczone, odporną na wilgoć, etykietą oraz czytelnie i trwale
+oznakowane, w sposób umożliwiający jednoznaczną identyfikację pacjenta i próbki (kod kreskowy lub inna forma oznakowania, pozwalająca na uzyskanie informacji na temat: danych pacjenta (zgodnie z rozporządzeniem
+RODO), numeru badania, danych zlecającego oraz informacje na temat próbki: godzina pobrania i dostarczenia
+do badania, rodzaj materiału, informacje dodatkowe). Informacje na temat zastosowanych konserwantów
+powinny być zamieszczone na osobnej etykiecie wraz z piktogramami ostrzegawczymi.
+Istnieje możliwość pobrania i transportu próbki z wykorzystaniem systemu zamkniętego do pobierania próbek
+moczu. System ten składa się z pojemnika do pobierania moczu oraz probówki próżniowej (niezawierającej lub
+zawierającej konserwant). W przypadku korzystania z systemu, próbkę należy pobrać do pojemnika na mocz,
+dokładnie wymieszać, a następnie przenieść do probówki, zgodnie z instrukcją producenta.
+UWAGA: Wszystkie etykiety powinny być umieszczone na pojemniku, nie na pokrywce.
+155
+Diagn Lab. 2019; 55(3): 145-198
+2.4.4. Transport i przechowywanie moczu
+Zaleca się następujące warunki transportu i przechowywania próbki moczu:
+1.
+Materiał powinien być transportowany do laboratorium w pojemniku, do którego został pobrany lub
+w probówce próżniowej (w przypadku korzystania z systemu zamkniętego do pobierania moczu).
+2.
+Zaleca się, aby badanie zostało wykonane w ciągu 2 godz. od momentu pobrania próbki, przechowywanej
+w temp. pokojowej.
+3.
+Jeżeli nie jest możliwe zbadanie próbki w ciągu 2 godz. od pobrania, próbkę można zbadać w ciągu 4 godz.
+pod warunkiem, że próbka była przechowywana w temp. 2-8 °C lub zastosować środek konserwujący.
+4.
+Chłodzenie może powodować wytrącanie się kryształów (głównie moczanów i fosforanów bezpostaciowych).
+Jeśli krystalizacja uniemożliwia analizę elementów upostaciowanych moczu, należy zbadać nową, świeżą
+próbkę natychmiast po pobraniu lub próbkę przechowywaną w temp. pokojowej (ok. 20°C) do 2 godzin.
+5.
+Dłuższe przechowywanie moczu (nawet w temp. 2 – 8°C) zwiększa ryzyko rozpadu komórek (zwłaszcza w moczu o niskim ciężarze właściwym i odczynie zasadowym). Po 2 godz. od pobrania do analizy moczu oznaczona
+liczba leukocytów może być niewiarygodna. W takim przypadku wskazane jest zastosowanie środków konserwujących. Utrwalenie upostaciowanych składników moczu jest możliwe przez np. dodanie do niego 50%
+etanolu, utrwalacza Saccomanno z dodatkiem glikolu polietylenowego, kwasu borowego i ortoborowego,
+tymolu i formaliny lub zastosowanie zestawów komercyjnych zawierających odpowiednie konserwanty.
+6.
+Zaleca się pobieranie moczu przy zastosowaniu systemów do pobierania moczu z konserwantami, jeśli
+transport próbki oraz czas badania przekraczają 2 godz. od momentu pobrania. Maksymalny czas pomiędzy
+pobraniem próbki z wykorzystaniem systemu a wykonaniem badania jest określony przez producenta.
+3. PROCEDURY ANALITYCZNE
+UWAGA!
+Wszystkie próbki moczu należy traktować jako potencjalnie zakaźne, a podczas badania
+należy zachować odpowiednie środki ostrożności
+3.1. Metody badania upostaciowanych elementów moczu
+Badanie upostaciowanych elementów moczu przeprowadza się manualnie (metodą mikroskopową) lub metodami automatycznymi. Badanie manualne powinno obejmować ocenę ilościową, półilościową i jakościową
+upostaciowanych elementów moczu pod powiększeniem 400x (tabela I). Niemniej jednak, w celu wstępnej
+Tabela I. Rodzaje oceny upostaciowanych elementów moczu.
+Element
+Rodzaj oceny*
+Powiększenie
+Erytrocyty
+ilościowa
+duże (400x)
+Leukocyty
+ilościowa
+duże (400x)
+Komórki nabłonka:
+płaskiego (wielokątne płaskie)
+przejściowego (urotelialne)
+z kanalików nerkowych
+
+półilościowa
+półilościowa
+półilościowa
+duże (400x)
+Wałeczki
+półilościowa
+duże (400x)
+Bakterie i inne mikroorganizmy
+półilościowa
+duże (400x)
+Kryształy
+półilościowa
+duże (400x)
+Pasma śluzu
+półilościowa
+duże (400x)
+Krople tłuszczu, owalne ciała tłuszczowe
+jakościowa
+duże (400x)
+Pasożyty, plemniki, artefakty
+jakościowa
+duże (400x)
+* możliwa jest ocena ilościowa wszystkich składników moczu, jeżeli laboratorium wykonuje analizę metodą umożliwiającą wiarygodną ocenę ilościową tych elementów (np. przy użyciu analizatora automatycznego).
+www.diagnostykalaboratoryjna.eu
+156
+oceny preparatu oraz oceny dystrybucji upostaciowanych elementów moczu zaleca się, w pierwszej kolejności, analizę preparatu pod małym powiększeniem (100 – 200x). Jeżeli badanie elementów upostaciowanych
+wykonywane jest przy użyciu analizatorów automatycznych, wyniki mogą być wyrażone w skali ilościowej.
+UWAGA: W przypadku obecności skupisk komórek i braku możliwości ich oceny ilościowej wynik należy
+opatrzyć komentarzem: "pokrywają pole widzenia”.
+W badaniu manualnym najczęściej wykorzystuje się mikroskop świetlny. W celu lepszej wizualizacji szczegółów budowy badanych elementów można zastosować odpowiednie barwienie (np. zmodyfikowany barwnik
+Sternheimera-Malbina lub inne, specyficzne barwienie, rozdział 4.3). Do oceny preparatów niewybarwionych
+zaleca się stosowanie mikroskopu kontrastowo-fazowego lub kontrastowo-interferencyjnego.
+3.2. Standaryzowana metoda mikroskopowej oceny upostaciowanych elementów moczu
+Uzyskanie wiarygodnych diagnostycznie wyników mikroskopowego badania upostaciowanych elementów
+moczu wymaga standaryzacji wszystkich etapów badania, wpływających na jego jakość, tj.:
+–– pobrania i przechowywania próbki moczu przed analizą,
+–– przygotowania preparatu osadu moczu,
+–– wykonania oceny mikroskopowej,
+–– sposobu formułowania wyniku.
+3.2.1. Procedura manualnego badania moczu wirowanego przy użyciu standaryzowanych komór
+1.
+Osad moczu do badania mikroskopowego uzyskuje się przez wirowanie ściśle określonej objętości, dobrze
+wymieszanej (homogenna zawiesina) próbki moczu, z zachowaniem stałego współczynnika zagęszczenia.
+Zaleca się stosowanie jednorazowych, plastikowych, stożkodennych probówek z naniesioną skalą objętościową, umożliwiających ocenę makroskopową moczu.
+2.
+Zalecane parametry wirowania to: 400 x g (RCF; ang. relative centrifugal force – względna siła odśrodkowa)
+przez 5 min, opcjonalnie w temperaturze 4°C, przy wyłączonej funkcji rozpędzania i hamowania wirówki.
+Wzór przeliczeniowy RCF na RPM
+RCF = 1,118 x 10-5 x r x RPM2
+RPM = 6000 x √1/r, jeśli RCF = 400 x g
+gdzie: r – odległość pomiędzy osią wirówki a dnem próbówki w trakcie wirowania (cm);
+RPM, ang. revolutions per minute – liczba obrotów na minutę; RCF – względna siła odśrodkowa.
+3.
+Informacje na temat RCF oraz RPM wykorzystywanej wirówki można również uzyskać z nomogramu dołączonego do urządzenia przez producenta.
+4.
+Po odwirowaniu próbki moczu, supernatant znad osadu należy usunąć pipetą jednorazową (np. Pasteura)
+w przypadku zastosowania próbówki z podziałką lub pipetą miarową, uzyskując zamierzone zagęszczenie
+moczu. Zaleca się uzyskanie 20 – krotnego zagęszczenia moczu. Objętość wirowanego moczu oraz objętość
+osadu powinna zostać ściśle określona w danym laboratorium, wg niniejszych zaleceń.
+UWAGA: Moczu nie należy dekantować! Dekantacja grozi utratą ważnych diagnostycznie elementów
+upostaciowanych moczu. Nie pozwala ona również na uzyskanie ściśle określonej objętości homogennej
+zawiesiny osadu (odpowiedniego zagęszczenia próbki).
+5.
+Osad moczu należy dokładnie wymieszać, nanieść do standaryzowanej komory o znanej objętości i oceniać
+w mikroskopie kontrastowo-fazowym, kontrastowo-interferencyjnym lub świetlnym (najlepiej po uprzed157
+Diagn Lab. 2019; 55(3): 145-198
+nim wybarwieniu), zgodnie z instrukcją producenta. Zaleca się stosowanie dwuokularowego mikroskopu
+z wbudowanym źródłem światła oraz ruchomym stolikiem. Mikroskop powinien być wyposażony w zestaw
+obiektywów: o małym (10x do 20x) i dużym (40x) powiększeniu oraz okulary pozwalające na uzyskanie
+powiększenia 10 – krotnego.
+6.
+W celu oceny rozmieszczenia elementów upostaciowanych moczu, w pierwszej kolejności zaleca się ocenę
+preparatu w polu widzenia pod małym powiększeniem (100 – 200x, wpw) (punkt 3.1).
+7.
+W polu widzenia pod dużym powiększeniem (400x, wpw) należy określić ilościowo, półilościowo lub
+jakościowo następujące elementy: erytrocyty, leukocyty, komórki nabłonka, wałeczki, kryształy, krople
+tłuszczu, owalne ciała tłuszczowe, bakterie i inne mikroorganizmy, pasma śluzu, pasożyty, plemniki i artefakty (tabela I).
+8.
+Elementy należy oszacować na wyznaczonej do tego celu powierzchni, określonej przez producenta standaryzowanej komory do badania upostaciowanych elementów moczu.
+9.
+Wynik należy przedstawić w sposób następujący:
+a.
+w ocenie ilościowej określić liczbę elementów w jednostce objętości (x 106/L). Sposób przeliczania
+elementów w jednostce objętości określa instrukcja dostarczona przez producenta komory;
+b.
+w ocenie półilościowej oszacować liczbę elementów w polu widzenia (wpw) według tabeli II (punkt:
+Jednostki);
+c.
+w ocenie jakościowej opisać elementy jako obecne/nieobecne wpw.
+Nie zaleca się badania osadu o nieznanej objętości, przy użyciu szkiełka podstawowego
+i nakrywkowego, ze względu na wysoką wątpliwość wyników i niską czułość
+3.2.2. Mikroskopowa ocena upostaciowanych elementów moczu niewirowanego w komorach
+standaryzowanych
+Badanie moczu nieodwirowanego jest metodą z wyboru u noworodków, niemowląt i osób z ostrą niewydolnością nerek, od których uzyskuje się niewielką objętość moczu do badania oraz próbek mętnych/gęstych,
+których nie można wiarygodnie ocenić w komorach. Ze względu na małe zagęszczenie elementów i możliwość
+przeoczenia elementów rzadkich ta metoda nie jest zalecana do rutynowego stosowania. Dodatkowo metoda
+ta jest używana w celu weryfikacji wyników uzyskiwanych metodą automatyczną. Zaleca się stosowanie barwienia i/lub mikroskopii kontrastowo-fazowej. Aby uzyskać wiarygodny diagnostycznie wynik konieczne jest
+zliczenie co najmniej 100 komórek (aby osiągnąć współczynnik zmienności (WZ) na poziomie 10%) lub 400
+komórek (aby osiągnąć WZ na poziomie 5%).
+Wykonanie badania upostaciowanych elementów moczu niewirowanego:
+1.
+Mocz należy dokładnie wymieszać, nanieść do standaryzowanej komory o znanej objętości i oceniać w mikroskopie kontrastowo-fazowym, kontrastowo-interferencyjnym lub świetlnym (najlepiej po uprzednim
+wybarwieniu). Zaleca się stosowanie dwuokularowego mikroskopu z wbudowanym źródłem światła oraz
+ruchomym stolikiem. Mikroskop powinien być wyposażony w zestaw obiektywów: o małym (10x do 20x)
+i dużym (40x) powiększeniu oraz okulary pozwalające na uzyskanie powiększenia 10 – krotnego.
+2.
+W celu oceny dystrybucji upostaciowanych elementów moczu zaleca się w pierwszej kolejności ocenę
+preparatu w polu widzenia pod małym powiększeniem (100 – 200x).
+3.
+W polu widzenia pod dużym powiększeniem (400x) należy określić ilościowo erytrocyty oraz leukocyty
+(tabela I).
+4.
+Zaleca się liczenie leukocytów i erytrocytów na powierzchni odpowiadającej objętości co najmniej 1 µL
+(1 mm3). Sposób przeliczania elementów w jednostce objętości określa instrukcja dostarczona przez producenta komory.
+5.
+W sprawozdaniu z badania należy umieścić adnotację, iż badanie wykonano z próbki niewirowanej.
+www.diagnostykalaboratoryjna.eu
+158
+Tabela II. Standaryzacja procedury badania upostaciowanych elementów moczu wirowanego.
+Etap
+Zalecenia
+Uwagi
+Przechowywanie
+materiału do badania
+Jeśli próbka jest przechowywana w temp. pokojowej (ok. 20°C),
+czas od pozyskania próbki do wykonania analizy nie powinien
+przekroczyć 2 godz.
+Schłodzenie próbki (2 – 8ºC) i/lub zastosowanie środków
+utrwalających umożliwia jej przechowywanie powyżej 2 godz. od
+pobrania
+Udokumentowany czas pozyskania materiału
+Objętość próbki moczu
+Ściśle określona, zwykle 5 – 12 mL; najczęściej 10 mL.
+Należy zachować 20 – krotne zagęszczenie.
+Obliczenie pożądanej objętości osadu:
+objętość moczu (mL)/20 = objętość osadu (mL)
+Stosowanie kalibrowanych próbówek
+z podziałką/pipet miarowych
+Wirowanie
+400 x g przez 5 minut, opcjonalnie 4°C, z wyłączoną opcją
+rozpędzania i hamowania wirówki
+Zastosowanie odpowiedniego nomogramu lub
+wzoru do przeliczania wartości RCF na RPM
+Usuwanie supernatantu
+Aspiracyjne usuwanie określonej objętości supernatantu
+z probówek kalibrowanych przy użyciu pipety jednorazowej lub
+pipety miarowej, w celu otrzymania pożądanego zagęszczenia
+próbki (20x)
+Nie należy stosować dekantacji
+Rodzaj mikroskopu
+i metody barwienia
+Mikroskop świetlny (najlepiej po wybarwieniu preparatu),
+kontrastowo-fazowy, kontrastowo-interferencyjny lub mikroskop
+polaryzacyjny
+Zalecane metody barwienia:
+zmodyfikowana metoda barwienia
+Sternheimera-Malbina; MGG; Grama; Hänsela;
+Sudanem III; Oleiną O; Papanicolau; Błękitem
+toluidyny O
+Należy ściśle określić objętość osadu i ilość
+dodanego barwnika. Objętość barwnika nie
+powinna przekraczać 10% objętości osadu
+Objętość próbki badanej
+pod mikroskopem
+Ściśle określona
+Stosowanie standaryzowanych komór
+o określonej objętości
+Technika
+mikroskopowania
+Ocena elementów upostaciowanych moczu w polu widzenia
+pod małym (100 – 200x) i dużym (400x) powiększeniem
+Należy zacząć od ogólnej oceny preparatu
+pod małym powiększeniem (ocena rozkładu
+elementów)
+Analiza ilościowa, półilościowa lub jakościowa
+elementów upostaciowanych moczu pod
+dużym powiększeniem (tabela I)
+Lista ocenianych
+parametrów
+Zdefiniowana w formularzu sprawozdania z badania
+Zakres ocenianych parametrów zależy od profilu
+laboratorium (tabela III)
+Jednostki
+Ocena ilościowa: liczba elementów x106/L
+Ocena półilościowa: skala – bardzo liczne, liczne, nieliczne,
+pojedyncze, nieobecne w polu widzenia pod dużym
+powiększeniem (400x, wpw)
+Ocena jakościowa: obecne/nieobecne
+Skala oceny
+Szacowana liczba
+bardzo liczne
+> 50 wpw
+liczne
+11 – 50 wpw
+nieliczne
+6 – 10 wpw
+pojedyncze
+1 – 5 wpw
+nieobecne
+0 wpw
+Powtarzalność procesu
+badania
+Standardowe procedury operacyjne (SOP)
+Szkolenie wewnętrzne personelu
+laboratoryjnego
+Wewnętrzna kontrola
+jakości
+(IQC, ang. internal quality
+control)
+Kursy i szkolenie personelu
+Materiał kontrolny zawierający utrwalone krwinki
+lub
+Podwójna ocena próbki
+Ocena wiarygodności metody zliczania
+elementów moczu oraz ocena umiejętności
+identyfikacji elementów upostaciowanych
+moczu
+Ten sam preparat oceniany niezależnie przez
+dwóch diagnostów
+Dokumentacja wyników badania
+Zewnętrzna ocena jakości
+(EQA, ang. external quality
+assessment)
+Uczestnictwo w programie zewnętrznej oceny jakości
+Ocena wiarygodności metody zliczania
+elementów moczu oraz ocena umiejętności
+identyfikacji elementów upostaciowanych
+moczu
+Dokumentacja wyników badania próbek
+kontrolnych
+159
+Diagn Lab. 2019; 55(3): 145-198
+Badanie nieodwirowanego moczu zmniejsza ryzyko uszkodzenia i zniszczenia erytrocytów i leukocytów podczas
+wirowania (20 – 80% utraty komórek podczas wirowania).
+Zaletami badania są: krótki czas wykonania, eliminacja błędów związanych z wirowaniem i zagęszczeniem
+próbki, niewielka objętość moczu potrzebna do wykonania badania. Natomiast wadą tej metody jest mała
+liczba elementów upostaciowanych w polu widzenia oraz brak spójnych przedziałów referencyjnych dla elementów upostaciowanych.
+3.2.3. Różnicowanie upostaciowanych elementów moczu
+Różnicowanie upostaciowanych elementów moczu może być prowadzone na poziomie podstawowym, zaawansowanymi i specjalistycznym (tabela III). Decyzja na jakim poziomie laboratorium będzie prowadzić różnicowanie
+poszczególnych elementów upostaciowanych w moczu powinna być podjęta w porozumieniu z jednostkami
+klinicznymi, z którymi laboratorium współpracuje i w zależności od ich potrzeb klinicznych. Może się to wiązać z potrzebą różnicowania np. krwinek czerwonych na poziomie specjalistycznym dla niektórych jednostek
+np. oddziałów nefrologicznych. Dlatego każde laboratorium powinno wybrać i jasno określić, które elementy
+upostaciowane moczu ocenia na jakim poziomie i dla jakich odbiorców wyniku. Ponadto decyzja ta powinna
+być uzależniona od możliwości laboratorium (zasoby materialne, ludzkie, doświadczenie). Podkreślając istotne
+znaczenie różnicowania upostaciowanych elementów moczu zaleca się, aby w laboratoriach ocenę elementów
+upostaciowanych prowadzić przynajmniej na poziomie zaawansowanym. Poziom ten obejmuje identyfikację
+Tabela III. Poziomy różnicowania upostaciowanych elementów moczu w zależności od profilu badania laboratoryjnego.
+Poziom podstawowy
+Poziom zaawansowany
+Poziom specjalistyczny
+Krwinki czerwone (erytrocyty)
+Jakościowe zróżnicowanie subpopulacji
+erytrocytów a
+Zróżnicowanie i ocena odsetkowa subpopulacji
+erytrocytów:
+• erytrocyty izomorficzne
+• erytrocyty dysmorficzne
+• akantocyty
+• erytrocyty wyługowane
+Krwinki białe (leukocyty)
+Krwinki białe (leukocyty) b
+Zróżnicowanie i ocena odsetkowa leukocytów:
+• limfocyty
+• monocyty i makrofagi
+• neutrofile
+• eozynofile
+• bazofile
+• komórki Sternheimera-Malbina
+Komórki nabłonka:
+• płaskiego
+• małe komórki nabłonkowe
+Komórki nabłonka:
+• płaskiego
+• przejściowego
+• z kanalika nerkowego
+• atypowe (do identyfikacji
+patomorfologicznej)
+Komórki nabłonka:
+• płaskiego
+• przejściowego
+• z kanalika nerkowego, z podziałem na komórki
+z kanalika proksymalnego, dystalnego i zbiorczego,
+• jelitowego (pojawiają się po operacji pęcherza)
+• atypowe (do identyfikacji patomorfologicznej)
+Wałeczki:
+• szkliste,
+• inne niż szkliste
+Wałeczki:
+• szkliste,
+• inne niż szkliste, w tym:
+–– erytrocytarne
+–– leukocytarne
+–– z komórek kanalika nerkowego
+–– ziarniste
+–– woskowe
+–– tłuszczowe
+–– hemoglobinowe
+–– mioglobinowe
+–– bilirubinowe
+–– mieszane
+Wałeczki:
+• szkliste,
+• inne niż szkliste, w tym:
+–– erytrocytarne
+–– leukocytarne
+–– z komórek kanalika nerkowego
+–– ziarniste
+–– woskowe
+–– tłuszczowe
+–– hemoglobinowe
+–– mioglobinowe
+–– bilirubinowe
+–– mieszane
+www.diagnostykalaboratoryjna.eu
+160
+Poziom podstawowy, cd.
+Poziom zaawansowany, cd.
+Poziom specjalistyczny, cd.
+Bakterie
+Bakterie
+Bakterie:
+• Gram dodatnie
+• Gram ujemne
+(laboratoria mikrobiologiczne)
+Drożdże, rzęsistek pochwowy
+(Trichomonas vaginalis), jaja
+i larwy owsika
+Drożdże, rzęsistek pochwowy (Trichomonas
+vaginalis), jaja i larwy owsika, przywra krwi
+(Schistosoma haematobium) – w niektórych
+rejonach geograficznych
+Drożdże, rzęsistek pochwowy (Trichomonas vaginalis),
+jaja i larwy owsika, przywra krwi (Schistosoma
+haematobium) – w niektórych rejonach geograficznych
+Kryształy:
+• kryształy amorficzne (moczany,
+fosforany)
+• kwas moczowy
+• moczany amonu
+• szczawian wapnia
+• dwufosforany wapnia
+• dwufosforany magnezu
+• fosforany amonowomagnezowe
+• fosforany amonowo-wapniowe
+• cystyna
+• leucyna
+• tyrozyna
+• inne
+Kryształy:
+• kryształy amorficzne (moczany,
+fosforany)
+• kwas moczowy
+• moczany amonu
+• szczawiany wapnia (jednoi dwuwodne)
+• dwufosforany wapnia
+• dwufosforany magnezu
+• fosforany amonowomagnezowe
+• fosforany amonowo-wapniowe
+• cystyna
+• leucyna
+• tyrozyna
+• 2,8-dihydroksyadenina
+• ksantyna
+• polekowe
+• inne
+Kryształy:
+• kryształy amorficzne (moczany,
+fosforany)
+• kwas moczowy
+• moczany amonu
+• szczawiany wapnia (jednoi dwuwodne)
+• dwufosforany wapnia
+• dwufosforany magnezu
+• fosforany amonowomagnezowe
+• fosforany amonowo-wapniowe
+• cystyna
+• leucyna
+• tyrozyna
+• 2,8-dihydroksyadenina
+• ksantyna
+• polekowe
+• inne
+Lipidy:
+• krople tłuszczu obojętnego
+(pojedyncze lub w agregatach)
+• owalne ciała tłuszczowe
+Lipidy:
+• krople tłuszczu obojętnego
+(pojedyncze lub w agregatach)
+• owalne ciała tłuszczowe
+• kryształy cholesterolu
+Lipidy:
+• krople tłuszczu obojętnego (pojedyncze lub
+w agregatach)
+• owalne ciała tłuszczowe
+• kryształy cholesterolu
+Pasma śluzu
+Pasma śluzu
+Pasma śluzu
+Plemniki
+Plemniki
+Plemniki
+Artefakty (np. włosy, włókna
+mięsne, włókna papierowe
+i tekstylne, ziarna skrobi, szkło)
+Artefakty (np. włosy, włókna mięsne, włókna
+papierowe i tekstylne, ziarna skrobi, szkło)
+Artefakty (np. włosy, włókna mięsne, włókna papierowe
+i tekstylne, ziarna skrobi, szkło)
+a jeżeli w preparacie obecną są subpopulacje erytrocytów, wynik należy opatrzyć komentarzem: "wśród erytrocytów obecne erytrocyty izomorficzne, dysmorficzne i wyługowane”;
+b jeżeli w preparacie obecne są komórki Sternheimera-Malbina wynik należy opatrzyć komentarzem: "wśród leukocytów obecne
+komórki Sternheimera-Malbina”;
+i różnicowanie krwinek czerwonych, krwinek białych, komórek nabłonka, wałeczków, kryształów, lipidów, mikroorganizmów i artefaktów. W uzasadnionych przypadkach, np. w laboratoriach przy oddziałach nefrologicznych,
+intensywnej terapii, endokrynologii itp. zaleca się różnicowanie elementów upostaciowanych na poziomie
+specjalistycznym, łącznie ze specyficzną identyfikacją mikroorganizmów (w laboratoriach mikrobiologicznych).
+3.3. Procedura badania upostaciowanych elementów moczu metodami automatycznymi
+Automatyczne metody analizy upostaciowanych elementów moczu pozwalają na zwiększenie wydajności
+tego badania, poprawę precyzji i łatwiejszą standaryzację. Analizatory elementów upostaciowanych mogą
+być łączone z analizatorami parametrów fizykochemicznych (czytnikami pasków) w wydajne stacje robocze
+mogące wykonywać kompletne badanie ogólne moczu we wszystkich dostarczanych do laboratorium próbkach, zachowując dopuszczalny czas przechowywania materiału przed analizą. Inną zaletą automatyzacji tej
+części badania jest przejście z oceny półilościowej do oceny ilościowej z przeliczaniem wyników na jednostkę
+161
+Diagn Lab. 2019; 55(3): 145-198
+objętości moczu, obok tradycyjnych pól widzenia. Ułatwia to harmonizację wyników i wyznaczanie przedziałów
+referencyjnych dla zawartości poszczególnych elementów upostaciowanych.
+Obecnie używane automatyczne analizatory upostaciowanych elementów moczu wykonują badania wykorzystując następujące metody:
+–– tzw. automatyczna mikroskopia polegająca na rejestrowaniu mikroskopowych obrazów upostaciowanych
+elementów moczu przez kamerę wideo oraz identyfikacji i zliczaniu tych elementów przez stosowny
+algorytm w oprogramowaniu komputera. Obrazy mogą być rejestrowane w moczu nieodwirowanym,
+w trakcie laminarnego przepływu próbki przez kuwetę przed soczewką kamery rejestrującej pojedyncze
+elementy. W innym rozwiązaniu integralną częścią analizatora jest wirówka. Próbki moczu są automatycznie wirowane w kuwetach przenoszonych pod obiektyw wbudowanego mikroskopu, gdzie w standardowych powiększeniach rejestrowane są pełne pola widzenia. Analizatory tego typu posługują się
+mikroskopią świetlną i kontrastowo-fazową. Elementy upostaciowane w zarejestrowanych obrazach
+są automatycznie identyfikowane i zliczane. Takie analizatory wykonują 100 – 120 badań/godz. W obu
+typach analizatorów zarejestrowane obrazy są archiwizowane, co umożliwia ich ocenę przez operatora
+i weryfikację automatycznie generowanego wyniku, mogą też być przesyłane, np. do konsultacji zgodnie
+z koncepcją telemedycyny.
+–– cytometria przepływowa jest wykorzystywana do analizy upostaciowanych elementów moczu zgodnie
+z podobnymi zasadami jak do identyfikacji i zliczania krwinek w badaniach hematologicznych. W typowym
+rozwiązaniu elementy upostaciowane w próbce moczu są barwione dwoma barwnikami fluorescencyjnymi, następnie ogniskowane hydrodynamicznie przechodzą przez optyczny układ pomiarowy z laserem
+argonowym jako źródłem światła. Pomiar przez fotodetektory rozproszenia światła i intensywności fluorescencji emitowanej przez poszczególne elementy upostaciowane pozwala na ich grupowanie zależnie
+od wielkości i wybarwienia oraz identyfikację w ten sposób. Wyniki generowane przez takie analizatory
+oprócz danych liczbowych zawierają skatergramy i histogramy obrazujące wyniki pomiarów.
+Liczne badania wykazały porównywalność wyników automatycznej analizy upostaciowanych elementów moczu
+z różnymi wariantami mikroskopii manualnej. Niemniej jednak ich automatyczna identyfikacja nie jest wolna
+od ograniczeń i błędów, które mogą wymagać weryfikacji przy pomocy odpowiednich, wystandaryzowanych
+metod mikroskopowych.
+Wszelkie ograniczenia tych metod/analizatorów powinny być zweryfikowane na etapie walidacji metody
+i uwzględniane w pracy rutynowej (rycina 1).
+Rycina 1. Procedura badania elementów upostaciowanych moczu metodami automatycznymi.
+www.diagnostykalaboratoryjna.eu
+162
+Producenci analizatorów do badania elementów upostaciowanych moczu przedstawiają szczegółowo możliwości
+identyfikacyjne swoich aparatów w porównaniu do manualnej metody mikroskopowej oraz kryteria oceny
+morfologii elementów upostaciowanych moczu, co powinno być w pełni odtworzone przy walidacji metody.
+Ocena powinna być dokonana zarówno w populacji ogólnej, jak i w specyficznych grupach pacjentów, aby
+ustalić możliwości i ograniczenia stosowania danego analizatora.
+W celu zapewnienia wiarygodnych wyników i uniknięcia interferencji artefaktów, konieczne jest prawidłowe
+pobranie i przechowywanie materiału przeznaczonego do analizy, zgodnie z zaleceniami producenta analizatora. Lista znanych substancji interferujących powinna być dostępna i systematycznie aktualizowana.
+Podsumowując, dokumentacja metody automatycznego badania elementów upostaciowanych moczu powinna
+zawierać m.in: opis rutynowego postępowania, uwzględniający sposób przygotowania próbki, rodzaje analiz
+w próbce, protokoły oceny jakości i postępowania w przypadku pojawiania się błędów i alarmów. Powinna
+istnieć lista próbek, które nie nadają się do analizy automatycznej wraz z sugerowaną wystandaryzowaną,
+alternatywną metodą manualną (punkt 3.2).
+3.4. Filtracja moczu
+Filtracja moczu pozwala na pozyskanie nieuszkodzonych elementów w danej objętości moczu. Może być stosowana np. w celu zwiększenia wykrywalności wałeczków. W tym celu mogą być stosowane naczynia filtracyjne
+posiadające błonę filtracyjną o średnicy porów nie większej niż 3 µm. Naczynia te pozwalają na zagęszczenie
+od 20 do 100 mL moczu.
+4. ANALIZA UPOSTACIOWANYCH ELEMENTÓW MOCZU
+Analiza upostaciowanych elementów moczu może być przeprowadzana metodą manualną lub automatyczną.
+W metodzie manualnej zaleca się stosowanie zestawów do standaryzowanego badania upostaciowanych
+elementów moczu. Bez względu jednak na rodzaj stosowanego systemu lub ich kombinacje, badanie musi
+spełniać wymagania opisane w zaleceniach.
+4.1. Przedziały referencyjne upostaciowanych elementów moczu (Tabela IV)
+UWAGA: Zaleca się ustalenie biologicznych przedziałów referencyjnych w każdym laboratorium.
+4.2. Charakterystyka upostaciowanych elementów moczu
+4.2.1. Komórki krwi
+Erytrocyty (krwinki czerwone)
+Bezjądrzaste komórki o średnicy od 4 do 10 µm. Kształt i wielkość krwinek oraz zawartość hemoglobiny jest
+uzależniona od typu krwinkomoczu (opis poniżej) oraz osmolalności moczu – im mniejsza osmolalność, tym
+większe komórki i mniejsza zawartość hemoglobiny.
+Zwiększona liczba krwinek czerwonych w moczu (hematuria), zarówno makroskopowa, jak i mikroskopowa, jest
+jednym z głównych wykładników chorób dróg moczowych i nerek. Może również świadczyć o występowaniu
+tendencji do krwawień. Krwinkomocz kłębuszkowy występuje w różnych typach kłębuszkowego zapalenia
+nerek, mogą to być pierwotne i wtórne glomerulopatie. Krwinkomocz urologiczny występuje w kamicy moczowej, gruźlicy dróg moczowych, u mężczyzn w chorobach gruczołu krokowego oraz przy urazach i torbielach
+w obrębie dróg moczowych. Krwinkomocz może również występować przy intensywnym wysiłku fizycznym lub
+z powodu zanieczyszczenia próbek wydzieliną z pochwy (krew menstruacyjna); takie próbki powinny zostać
+wyeliminowane na etapie przygotowania pacjenta do badania (rozdział 2.4.).
+W ustaleniu przyczyny hematurii może być pomocna ocena morfologii erytrocytów. Obecność erytrocytów
+163
+Diagn Lab. 2019; 55(3): 145-198
+izomorficznych wskazuje na patologię w obrębie dolnych dróg moczowych (ang. non-glomerular hematuria).
+Obecność erytrocytów dysmorficznych, w tym akantocytów/komórek G1 i/lub erytrocytów wyługowanych
+wskazuje na kłębuszkowe pochodzenie hematurii (ang. glomerular hematuria). Ocena morfologii erytrocytów
+ma szczególne znaczenie u pacjentów z izolowanym krwinkomoczem, gdyż determinuje kierunek dalszego
+procesu diagnostycznego (urologiczny lub nefrologiczny). Zaleca się używanie mikroskopu kontrastowo-fazowego, który pozwala na identyfikację odmienności morfologicznych krwinek.
+Ze względu na podobieństwo budowy erytrocyty należy różnicować z innymi elementami upostaciowanymi
+moczu, np.: owalnymi formami jednowodnego szczawianu wapnia, komórkami drożdży i kropelkami tłuszczu
+oraz z artefaktami, np. pęcherzykami powietrza, zwiniętymi plemnikami.
+Erytrocyty izomorficzne
+Krwinki o niezmienionej morfologii, jednorodnej strukturze i okrągłym kształcie. W części środkowej są nieco
+wklęsłe, wskutek czego w mikroskopie są widoczne jako podwójne krążki, dyski, a obserwowane z boku przypominają kształtem biszkopty lub hantle (ryc. 2).
+Erytrocyty dysmorficzne
+Erytrocyty o zmienionej, nieprawidłowej morfologii na skutek przejścia przez błonę filtracyjną kłębuszka
+nerkowego. Charakteryzują się np. zmienną wielkością, utratą dyskoidalnego kształtu, pofałdowaniem błony
+komórkowej, całkowitą lub częściową utratą cytoplazmy, zmniejszoną zawartością hemoglobiny lub obecnością licznych ziaren hemoglobiny w cytoplazmie (ryc. 3). Liczba erytrocytów dysmorficznych stanowiąca ≥ 10%
+erytrocytów może wskazywać na hematurię pochodzenia kłębuszkowego.
+Tabela IV. Przedziały referencyjne upostaciowanych elementów w moczu wirowanym.
+Elementy
+Przedział referencyjny
+Uwagi
+Erytrocyty ab
+w tym:
+• dysmorficzne
+• akantocyty c
+< 7 x 106/L *
+< 10%
+< 5%
+Ocena ilościowa (x 106/L)
+Odsetek erytrocytów (%)
+Odsetek erytrocytów (%)
+Leukocyty
+< 10 x 106/L *
+Ocena ilościowa (x 106/L)
+Komórki nabłonka:
+• z kanalików nerkowych
+• przejściowego
+• płaskiego
+Nieobecne
+Pojedyncze
+Pojedyncze
+Ocena półilościowa (wpw)
+Ocena półilościowa (wpw)
+Ocena półilościowa (wpw)
+Komórki atypowe
+(wskazanie do oceny cytomorfologa)
+Nieobecne
+Ocena jakościowa:
+• obecne (wpw)
+• nieobecne (wpw)
+Wałeczki:
+Szkliste i szklisto-ziarniste
+Inne
+Pojedyncze
+Nieobecne
+Ocena półilościowa (wpw)
+Bakterie
+Nieobecne
+Ocena półilościowa (wpw)
+Drożdże i inne mikroorganizmy
+Nieobecne
+Ocena półilościowa (wpw)
+Kryształy d
+Ocena półilościowa (wpw)
+Krople tłuszczu i owalne ciała tłuszczowe
+Nieobecne
+Ocena jakościowa
+• obecne (wpw)
+• nieobecne (wpw)
+Pasma śluzu
+Pojedyncze
+Ocena półilościowa (wpw)
+* wartości stanowią średnią wartość wyznaczoną na podstawie danych z piśmiennictwa. Każde laboratorium powinno zwalidować
+i ustalić przedziały referencyjne samodzielnie.
+a Jeśli podczas oceny preparatu (pod powiększeniem 400x) obserwujemy zmiany morfologii erytrocytów, wynik należy opatrzyć
+komentarzem: "potrzeba wykonania badania w kierunku erytrocyturii dysmorficznej w ośrodku specjalistycznym”.
+b W przypadku obecności erytrocytów wyługowanych, wynik należy opatrzyć komentarzem: "wśród zliczonych erytrocytów obecne
+erytrocyty wyługowane”.
+c Dotyczy rozpoznania w mikroskopie kontrastowo-fazowym.
+d Znaczenie diagnostyczne kryształów jest uzależnione od rodzaju składnika mineralnego (pkt. 4.6).
+www.diagnostykalaboratoryjna.eu
+164
+Akantocyty
+Akantocyty to erytrocyty, mające kształt pierścienia, z którego błony odchodzi jeden lub więcej "pęcherzyków”.
+"Pęcherzyki” mogą mieć rożną wielkość, kształt i znajdować się wewnątrz lub na zewnątrz błony erytrocytów
+(ryc. 4). Zaleca się określanie odsetka akantocytów, gdyż ich odsetek ≥5% populacji erytrocytów może wskazywać na hematurię pochodzenia kłębuszkowego. Ponadto za krwinkomoczem nerkowym przemawia obecność
+wałeczków erytrocytarnych i/lub proteinuria.
+Właściwa ocena dysmorficznych erytrocytów może zależeć od pH i osmolalności moczu, dlatego zaleca się ich
+ocenę w pierwszej próbce porannej i powtórzenie w drugiej świeżej, 2 – godz. porcji porannej. Celem zapewnienia właściwej identyfikacji, wymagane jest odpowiednie przeszkolenie osoby wykonującej analizę.
+Erytrocyty wyługowane
+Krwinki o zwiększonej objętości i bardzo małej zawartości hemoglobiny, występujące w formie słabo widocznych, pustych krążków, jako tzw. "cienie komórek” (ryc. 5). Ich obecność może wskazywać na krwinkomocz
+kłębuszkowy lub wynikać ze zmian morfologicznych krwinek w moczu o odczynie zasadowym i małym ciężarze właściwym – w takim środowisku erytrocyty pęcznieją i tracą dwuwklęsłość, przez co zyskują wyraźny
+pojedynczy obrys. W moczu o bardzo niskiej osmolalności erytrocyty mogą ulec lizie.
+Erytrocyty morwowate
+Krwinki o mniejszej średnicy oraz ząbkowanych i nierównych brzegach, przypominające budową owoce morwy.
+Powstają w moczu o odczynie kwaśnym i dużym ciężarze właściwym (ryc. 6). Ich obecność nie ma znaczenia
+diagnostycznego.
+Leukocyty (krwinki białe)
+W moczu mogą być obecne: granulocyty obojętnochłonne (neutrofile), kwasochłonne (eozynofile), zasadochłonne (bazofile), monocyty/makrofagi oraz limfocyty. Leukocyty zazwyczaj występują w moczu jako pojedyncze komórki (ryc. 7), ale wykazują także zdolność do tworzenia skupisk, konglomeratów (ryc. 8), wałeczków
+leukocytarnych (ryc. 9). Najczęściej obserwowaną w moczu populacją leukocytów są neutrofile.
+Masywna leukocyturia (tzw. pyuria, ropomocz) (ryc. 10), podobnie jak bakteriuria, jest głównym objawem odmiedniczkowego zapalenia nerek lub rzadziej pęcherza moczowego. Pyuria może występować także w zapaleniach innych odcinków dróg moczowych lub towarzyszyć erytrocyturii w kłębuszkowym zapaleniu nerek. Przy
+niecharakterystycznym przebiegu odmiedniczkowego zapalenia nerek może wystąpić leukocyturia jałowa lub
+bakteriuria bez leukocyturii. Leukocyturia jałowa najczęściej występuje w gruźlicy nerek, w chorobach wywołanych przez rzadkie drobnoustroje, np. grzyby, pierwotniaki (Trichomonas vaginalis), chlamydie oraz wirusy
+(Herpes simplex), a także w ropnym zapaleniu wyrostka robaczkowego i zapaleniu jajników. U kobiet, leukocyty
+obecne w moczu mogą pochodzić z pochwy, dlatego mocz do badania należy pobierać po porannej toalecie,
+z środkowego strumienia. Aby wykluczyć leukocyturię pochodzącą z dróg rodnych, mocz do badania można
+również pobrać za pomocą punkcji nadłonowej pęcherza moczowego.
+Neutrofile
+Okrągłe, bezbarwne/szarawe komórki o średnicy 10 – 14 µm, z płatowatym jądrem (ryc. 11). Wielopłatowość
+jądra jest dobrze widoczna po dodaniu 2% kwasu octowego, w mikroskopie kontrastowo-fazowym, po wybarwieniu 0,5% roztworem błękitu toluidyny i w barwieniu Sternheimera-Malbina. Zwiększona liczba neutrofilów
+w moczu towarzyszy najczęściej chorobom infekcyjnym dróg moczowych (zapalenie pęcherza moczowego,
+cewki, gruczołu krokowego), odmiedniczkowemu zapaleniu nerek, a także kłębuszkowemu zapaleniu nerek,
+śródmiąższowemu zapaleniu nerek i aseptycznemu zapaleniu pęcherza moczowego.
+165
+Diagn Lab. 2019; 55(3): 145-198
+Limfocyty
+Małe komórki o średnicy około 6 – 9 µm, z okrągłym lub lekko owalnym, gładkim jądrem wypełniającym prawie
+całą komórkę oraz skąpą i bezziarnistą cytoplazmą (ryc. 11). Obecność limfocytów związana jest z przewlekłym
+procesem zapalnym (np. śródmiąższowym zapaleniem nerek, chorobami wirusowymi, nowotworowymi i odrzuceniem przeszczepu nerki). W niebarwionym osadzie moczu trudno odróżnić limfocyty od innych komórek
+jednojądrzastych. Dobrą metodą wykrywania limfocytów jest badanie cytodiagnostyczne moczu. W tym celu
+sporządza się preparat zagęszczając mocz w cytowirówce. Następnie preparat należy utrwalić, zabarwić wybraną
+metodą, np. MGG (rozdz. 4.3.3.) lub metodą immunocytochemiczną.
+Eozynofile
+W moczu występują rzadko, np. w ostrym polekowym śródmiąższowym zapaleniu nerek lub przy torbielach
+eozynofilowych (ryc. 12). Komórki te trudno odróżnić od innych granulocytów, dlatego zaleca się barwienie
+przyżyciowe metodą Hänsela (rozdz. 4.3.5.) lub badanie cytodiagnostyczne moczu z barwieniem MGG (rozdz.
+4.3.3.).
+Monocyty i makrofagi (histiocyty)
+Komórki zdolne do fagocytozy drobnoustrojów, krwinek, a także substancji organicznych i nieorganicznych
+(np. tłuszczu, hemosyderyny). Monocyty to komórki o średnicy około 20 – 40 µm, z owalnym lub nerkowatym
+jądrem, posiadające duże wodniczki w cytoplazmie (często zawierające sfagocytowane resztki komórek lub
+drobnoustrojów) (ryc. 13). Makrofagi powstają z monocytów; są to najczęściej komórki o średnicy 30 – 40 µm,
+ale mogą być również mniejsze lub znacznie większe, o średnicy sięgającej nawet 100 µm. Posiadają nieregularne jądro, azurochłonne ziarnistości i obfitą cytoplazmę z wodniczkami. Monocyty i makrofagi (histiocyty)
+występują u pacjentów z infekcjami dróg moczowych. Ich obecność może też świadczyć o toczącym się procesie
+zapalnym w obrębie tkanki nerkowej, ostrej reakcji odrzucania przeszczepu nerki lub nefropatii wywołanej
+cytostatykami. W celu identyfikacji monocytów/makrofagów można zastosować barwienie immunocytochemiczne uwidaczniające antygen CD14.
+Komórki Sternheimera-Malbina
+Wyjątkowa postać leukocytów, nazywana również "komórkami połyskującymi” (ang. glitter cells). Komórki
+te mają powiększone, napęczniałe jądro oraz cytoplazmę zawierającą pęcherzykowate ziarnistości o dużej
+refrakcyjności, wykazujące ruchy Browna (ryc. 14). W odróżnieniu od innych leukocytów, które w barwieniu
+Sternheimera-Malbina (rozdz. 4.3.7.) barwią się na kolor czerwono-fioletowy, komórki Sternheimera-Malbina
+nie chłoną barwnika (ryc. 15, 16). Jeśli stanowią one ponad 10% ogólnej liczby leukocytów, zazwyczaj wskazują
+na odmiedniczkowe zapalenie nerek. W ostrych stanach odmiedniczkowego zapalenia nerek stanowią blisko
+100% populacji leukocytów. Pojedyncze komórki Sternheimera-Malbina mogą występować w zapaleniu dolnych
+dróg moczowych, w moczach hypotonicznych ≤ 1,010, natomiast ich brak w moczu po terapii antybiotykowej
+uważa się za kryterium skuteczności zastosowanego leczenia.
+4.2.2. Komórki nabłonka
+Nabłonki mogą występować w każdej próbce moczu, jednak ich znaczenie diagnostyczne jest uzależnione od
+ich rodzaju i liczby. Wyróżnia się:
+–– komórki nabłonka płaskiego (nabłonek wielokątny płaski),
+–– komórki nabłonka przejściowego (nabłonek urotelialny),
+–– komórki nabłonka z kanalików nerkowych.
+Komórki nabłonka płaskiego
+Duże komórki o średnicy 40 – 60 µm i wielokątnym kształcie, z centralnie ułożonym, małym i zbitym jądrem oraz
+obfitą cytoplazmą zawierającą drobne ziarnistości, których ilość zwiększa się wraz ze zwyrodnieniem komórki.
+www.diagnostykalaboratoryjna.eu
+166
+Ich krawędzie mogą się zawijać, wówczas komórki przybierają różne kształty (ryc. 17). Występują pojedynczo lub
+złuszczając się płatami, tworzą skupiska (ryc. 18). W barwieniu Sternheimera-Malbina (rozdz. 4.3.7.) wybarwiają
+się na kolor od jasnoróżowego/jasnoniebieskiego do purpurowego (ryc. 19). Pochodzą z cewki moczowej u kobiet, części dalszej cewki moczowej u mężczyzn lub z zewnętrznych narządów moczowo-płciowych u obu płci.
+W moczu mogą występować fizjologicznie w niewielkiej liczbie, natomiast ich zwiększona liczba może wskazywać
+na nieprawidłową procedurę pobrania materiału (z wyjątkiem kobiet w ciąży, u których fizjologicznie nasila się
+złuszczanie komórek nabłonkowych). Nasilone złuszczanie komórek nabłonka płaskiego występuje także w stanach zapalnych dolnych dróg moczowych, cewki moczowej oraz pochwy i sromu.
+Komórki nabłonka przejściowego (urotelialne)
+Komórki pochodzące z dróg moczowych, od kielichów i miedniczek nerkowych, przez moczowody, aż po pęcherz moczowy u obu płci oraz z bliższego odcinka cewki moczowej u mężczyzn.
+Warstwę powierzchniową komórek nabłonka przejściowego stanowią komórki okrągłe lub owalne, o średnicy około 30 – 40 µm, płaskie, z przejaśnieniem (tzw. "halo”) wokół jądra, najczęściej jedno- lub dwujądrzaste
+(ryc. 20, 21). Znacznie rzadziej występują komórki "ogonkowate” (tzn. wyciągnięte w szpic), z relatywnie dużym,
+okrągłym jądrem. Cytoplazma komórek jest bezbarwna i drobnoziarnista. Komórki nabłonka warstwy pośredniej
+są mniejsze, o średnicy 20 – 30 µm i bardziej zaokrąglone. Warstwę głęboką tworzą komórki o średnicy około
+10 – 30 µm. Mogą one przybierać różne kształty (okrągły, owalny, "ogonkowaty”, "maczugowaty” i "gruszkowaty”).
+Jądro komórkowe ułożone jest centralnie lub peryferyjnie, cytoplazma jest drobnoziarnista (ryc. 22).
+Komórki nabłonka przejściowego fizjologicznie mogą złuszczać się do moczu w niewielkiej liczbie. W zwiększonej ilości występują u pacjentów z infekcją dróg moczowych lub chorobami urologicznymi. Występują
+pojedynczo lub złuszczają się płatami i występują w skupiskach, szczególnie u pacjentów cewnikowanych
+lub po innych zabiegach inwazyjnych. Komórki z warstwy głębokiej w barwieniu Sternheimera-Malbina
+(rozdz. 4.3.7.) wybarwiają się bardziej intensywnie niż komórki z warstwy powierzchniowej. Ich obecność,
+szczególnie gdy są złuszczone płatami przy braku ingerencji mechanicznej w drogach moczowych, może być
+oznaką raka pęcherza moczowego z komórek nabłonka przejściowego, kamicy moczowej lub wodonercza.
+Atypowe formy komórek nabłonka przejściowego powinny być oceniane w specjalistycznych laboratoriach
+cytologicznych.
+Komórki z kanalików nerkowych
+Wielkość i kształt komórek są determinowane przez odcinek kanalików, z których pochodzą. Wyróżnia się
+komórki z kanalika krętego (bliższego i dalszego) oraz z kanalika zbiorczego.
+Komórki z kanalika krętego bliższego i dalszego są trudne do zróżnicowania. Komórki z kanalika krętego
+bliższego są duże (średnica 20 – 60 µm), o podłużnym lub cygarowatym kształcie; wyglądem przypominają
+małe wałeczki ziarniste. Komórki z kanalika krętego dalszego są mniejsze (średnica 14 – 25 µm) i mają kształt
+od okrągłego do owalnego. Cytoplazma komórek z kanalików krętych jest gruboziarnista, a jądro zwykle leży
+mimośrodkowo. Komórki te występują w moczu u pacjentów z aktywnym, proliferacyjnym kłębuszkowym
+zapaleniem nerek, chorobami kłębuszkowymi związanymi z zespołem nerczycowym, niedokrwiennym lub
+toksycznym uszkodzeniem kanalików oraz z chorobami metabolicznymi (np. w chorobie Fabry’ego). Komórki
+z kanalika zbiorczego są mniejsze (średnica 12 – 20 µm), sześcienne lub walcowate, rzadko kuliste. Jądro stanowi
+około dwóch trzecich objętości komórki. Występują przede wszystkim w moczu pacjentów cierpiących na ostrą
+martwicę kanalikową, ostre śródmiąższowe zapalenie nerek i ostre odrzucenie przeszczepu nerki (ryc. 23, 24).
+W barwieniu Sternheimera-Malbina (rozdz. 4.3.7.) komórki kanalików mają czerwoną cytoplazmę i niebieskie
+lub purpurowe jądro. W mikroskopie świetlnym, bez zastosowania barwienia, komórki nabłonka kanalików
+nerkowych są trudne do odróżnienia od komórek nabłonka przejściowego, więc wiele laboratoriów stosuje
+łączną nazwę dla komórek nerkowych i przejściowych, tzw. "nabłonki okrągłe”. Obecnie nie zaleca się stosowania określenia "nabłonek okrągły”.
+Komórki kanalików często wykazują cechy zwyrodnienia. Komórki posiadające liczne, zmagazynowane w cytoplazmie kropelki tłuszczu są określane mianem owalnych ciał tłuszczowych (ryc. 25, 26). Występowanie zwięk167
+Diagn Lab. 2019; 55(3): 145-198
+szonej liczby owalnych ciał tłuszczowych występuje w zespole nerczycowym, charakteryzującym się masywną
+proteinurią z lipidurią oraz hipoproteinemią z hiperlipidemią. Rzadziej występują w przypadku miażdżycy tętnic,
+nadciśnieniu, cukrzycy czy ksantochromatozie.
+Komórki atypowe
+Ze względu na trudności diagnostyczne identyfikacja komórek atypowych w moczu powinna być przeprowadzana przez patomorfologa. Podejrzenie obecności komórek atypowych może być rozważane i raportowane
+przez medyczne laboratoria diagnostyczne przeprowadzające różnicowanie upostaciowanych elementów
+moczu na poziomie zaawansowanym i specjalistycznym (tabela III). Do badania cytopatologicznego konieczne
+jest ponowne pobranie moczu zgodnie z wystandaryzowaną procedurą.
+Porównanie morfologii komórek obserwowanych w moczu zawiera tabela V.
+4.2.3. Wałeczki
+Powstające w kanalikach nerkowych, wydłużone struktury o cylindrycznym kształcie, zbudowane z białka,
+w obrębie których mogą znajdować się inne składniki moczu, np. komórki (erytrocyty, leukocyty, komórki
+z kanalików nerkowych), ziarnistości, lipidy, bakterie, drożdże, kryształy czy barwniki (mioglobina, hemoglobina, bilirubina). Średnicę wałeczków warunkuje średnica kanalika, w którym powstają. U dzieci wałeczki są na
+ogół cieńsze niż u osób dorosłych, co wynika z budowy anatomicznej. Czynnikami sprzyjającymi powstawaniu
+Tabela V. Różnicowanie komórek jądrzastych przy użyciu mikroskopii kontrastowo-fazowej lub mikroskopii świetlnej i różnych
+technik barwienia.
+Rodzaj komórki
+Wygląd jądra
+Charakterystyka cytoplazmy
+Inne cechy
+Neutrofile
+Wielopłatowe lub pałeczkowate
+Ziarnistość swoista i azurochłonna
+Często występują w skupiskach,
+okrągły kształt, mogą ulec
+degranulacji
+Eozynofile
+Dwu– lub rzadziej wielopłatowe
+Ziarnistość kwasochłonna
+Identyfikacja przy użyciu barwienia
+Hänsela, barwienia MGG
+Makrofagi
+Chromatyna niehomogenna, mogą
+być wielojądrzaste
+Delikatna, ziarnistość azurochłonna,
+może zawierać wakuole oraz
+materiał sfagocytowany
+Kształt okrągły, nieregularny,
+dendrytyczny
+Limfocyty
+Zajmuje prawie całą objętość
+komórki, zbite, pojedyncze, owalne
+Bezziarnista
+Komórki nabłonka płaskiego
+Zdegenerowane, małe, okrągłe,
+położone centralnie, może
+występować jako "nagie” jądro
+w moczu
+Blada, obfita, delikatnie ziarnista
+Często w skupiskach, kształt
+wielokątny, pozaginane brzegi
+Komórki nabłonka
+przejściowego
+W komórkach warstwy
+powierzchniowej małe, owalne
+lub okrągłe, położone centralnie,
+chromatyna delikatnie ziarnista,
+często widoczne jąderka, może
+występować więcej niż jedno jądro
+w komórce.
+Komórki w głębszych warstwach
+charakteryzują się jądrem
+położonym centralnie lub
+peryferyjnie. Jądro jest
+wyraźne, duże, ma dobrze
+widoczne jąderka
+Obfita, z wyraźnym "halo” wokół
+jądra, delikatnie ziarnista
+Może zawierać wiele ziarnistości
+o atypowych formach,
+kwasochłonna
+Kształt okrągły lub owalny, mogą
+występować w skupiskach
+Różnorodny kształt komórek, mogą
+występować w skupiskach
+Komórki nabłonka
+z kanalików nerkowych
+Owalne lub okrągłe, homogenne,
+gładka chromatyna, mogą być
+widoczne jąderka
+Ziarnista, często może zawierać
+zdegenerowane ziarnistości lub
+tłuszcz
+Wielkość i kształt zależą od miejsca
+pochodzenia: podłużne, okrągłe,
+owalne, sześcienne, walcowate.
+Często w skupiskach
+www.diagnostykalaboratoryjna.eu
+168
+wałeczków są: proteinuria, podwyższona temperatura, zakwaszenie i/lub zagęszczenie moczu. Wałeczkomocz
+z towarzyszącym białkomoczem świadczy o chorobach nerek. Wyjątek stanowi obecność wałeczków szklistych
+oraz rzadziej, ziarnistych, które mogą pojawić się w moczu ludzi zdrowych po intensywnym wysiłku fizycznym,
+w okresie gorączki, w stresie psychicznym, po gorącej kąpieli, czy podczas stosowania diuretyków.
+Wałeczki szkliste (hialinowe)
+Powstają w kanalikach dalszych i zbiorczych z glikoproteiny Tamma-Horsfalla (uromukoid, uromodulina), która
+w prawidłowym moczu występuje w niewykrywalnych ilościach. Glikoproteina ta produkowana jest przez komórki wstępującego ramienia pętli Henlego i formuje ona macierz hialinową większości wałeczków. Ze względu
+na niski współczynnik refrakcji wałeczki szkliste najłatwiej zidentyfikować w mikroskopie kontrastowo-fazowym
+lub po wybarwieniu próbki metodą Sternhemiera-Malbina (rozdz. 4.3.7.) – wałeczki barwią się na kolor od
+jasnoróżowego/jasnopomarańczowego do czerwonego (ryc. 27, 28, 29). Wałeczki szkliste występują zarówno
+u osób zdrowych, jak i u pacjentów z chorobami miąższu nerek. Zwiększona liczba wałeczków w moczu jest
+swoistym, ale mało czułym markerem chorób nerek.
+UWAGA: Wałeczki szkliste łatwo rozpuszczają się w środowisku zasadowym, dlatego po dłuższym przechowywaniu moczu in vitro (alkalizacja pod wpływem bakterii) wałeczki mogą być niewykrywalne.
+Wałeczki ziarniste (drobno– lub gruboziarniste)
+Powstają z wałeczków komórkowych wskutek zwyrodnienia komórek lub w wyniku gromadzenia się produktów
+metabolizmu białkowego, usuwanych z komórek nabłonka kanalikowego. Są zazwyczaj większe i szersze niż
+wałeczki szkliste (ryc. 29, 30). Występują również wałeczki mieszane: szklisto-ziarniste. Tworzy je homogenna, półprzezroczysta substancja podstawowa, pokryta na niektórych odcinkach ziarnistościami białkowymi.
+Wałeczki gruboziarniste są rzadko spotykane u zdrowych osób. Ich obecność może wskazywać na choroby
+nerek: ostrą martwicę nerek, ostre i przewlekłe kłębuszkowe zapalenie nerek, mocznicę lub odmiedniczkowe
+zapalenie nerek.
+UWAGA: Wałeczki ziarniste łatwo pomylić z wałeczkami szklistymi pokrytymi składnikami mineralnymi (amorficznymi).
+Wałeczki leukocytarne
+Zbudowane są z leukocytów (zazwyczaj granulocytów) posklejanych substancją szklistą. Ich obecność może
+wskazywać na odmiedniczkowe zapalenie nerek lub ostre śródmiąższowe zapalenie nerek, rzadziej na proliferujące kłębuszkowe zapalenie nerek (ryc. 9).
+Wałeczki erytrocytarne
+Zbudowane są z erytrocytów posklejanych substancją szklistą. Ich obecność wskazuje na krwawienie w obrębie miąższu nerki w przebiegu np. ostrych i przewlekłych kłębuszkowych zapaleń nerek, rzadziej w toczniu
+rumieniowatym układowym lub w ostrym bakteryjnym zapaleniu wsierdzia z zespołem zapalenia kłębuszków
+nerkowych (ryc. 31).
+UWAGA: Wałeczki erytrocytarne są kruche. Podczas zbyt silnego mieszania/wirowania moczu mogą ulec rozłamaniu i w osadzie będą widoczne ich fragmenty.
+Wałeczki z komórek kanalików nerkowych
+Zbudowane są z komórek nabłonka nerkowego posklejanych substancją szklistą. Występują dość rzadko, np.
+u pacjentów z ostrą martwicą kanalików, ostrym śródmiąższowym zapaleniem nerek lub ostrym odrzuceniem
+przeszczepu nerki. Można je również spotkać w przypadku uszkodzenia kanalików w chorobach wirusowych
+o ciężkim przebiegu.
+169
+Diagn Lab. 2019; 55(3): 145-198
+UWAGA: Wałeczek uznaje się za komórkowy, tj. erytrocytarny, leukocytarny, z kanalików nerkowych, jeżeli co
+najmniej 1/3 jego powierzchni jest zajęta przez komórki danego rodzaju (ryc. 31, 32).
+W przypadku postępującej degeneracji komórek oraz ich utrudnionego różnicowania w obrębie wałeczka lub
+w obecności zarówno erytrocytów, leukocytów i/lub komórek z kanalików nerkowych, dopuszczalne jest nieróżnicowanie typu komórek w obrębie wałeczka i stosowanie w takich sytuacjach określenia wałeczek komórkowy.
+Wałeczki woskowe
+Duże, szerokie struktury o ściętych lub nierównych granicach, wysokim współczynniku refrakcji i homogennej
+strukturze. Zazwyczaj mają żółtawy odcień i woskowy połysk oraz głębokie wcięcia i/lub charakterystyczne
+spiralne skręcenia powstające podczas sukcesywnego ściskania tworzącej się wstęgi białkowej w kanaliku nerkowym. Wałeczki woskowe mogą czasem przyjmować postać pośrednią (mieszaną): część wałeczka wykazuje
+cechy wałeczka ziarnistego, pozostała część – cechy wałeczka woskowego (ryc. 30, 33). Obecność wałeczków
+woskowych wskazuje na ciężką chorobę nerek w zaawansowanym stadium niewydolności narządu. Rzadko
+można je stwierdzić podczas wznowienia diurezy po ostrym bezmoczu.
+Wałeczki tłuszczowe
+Zawierają kropelki tłuszczu lub owalne ciała tłuszczowe, silnie załamujące światło. Ich identyfikację ułatwia
+barwienie Sudanem III oraz czerwienią oleinową O (rozdz. 4.3.1.), ponieważ kropelki tłuszczu obojętnego barwią się na kolor czerwony (ryc. 34, 35). W świetle spolaryzowanym z kolei można rozpoznać nagromadzone
+substancje lipidowe podwójnie załamujące światło jako tzw. krzyże maltańskie. Wałeczki tłuszczowe są typowe
+dla pacjentów ze znacznym białkomoczem, często związanym z lipoproteinurią (zespół nerczycowy).
+Wałeczki hemoglobinowe lub mioglobinowe
+Drobnoziarniste, o czerwonobrązowej barwie (ryc. 36). Wałeczki hemoglobinowe mogą powstawać w wyniku
+hemoglobinurii spowodowanej hemolizą wewnątrznaczyniową oraz nocną napadową hemoglobinurią lub
+z wałeczków erytrocytarnych i wskazywać na krwawienie w obrębie miąższu nerki. Wałeczki z mioglobiną powstają u pacjentów z uszkodzeniem nerek na skutek mioglobinurii, rozległego uszkodzenia mięśni, w śpiączce,
+po zatruciu alkoholowym, w rabdomiolizie, w ostrym zaniku wątroby i zatruciu fosforem.
+Wałeczki z bilirubiną
+Charakteryzują się żółtobrązową barwą. Ich obecność świadczy o zaburzeniach metabolizmu bilirubiny i zwiększonym wydalaniu bilirubiny z moczem.
+Wałeczki zawierające mikroorganizmy: bakteryjne i z drożdżami
+Występują rzadko, mogą pojawiać się u pacjentów z niedoborami immunologicznymi w przebiegu zakażeń
+bakteryjnych lub grzybiczych obejmujących miąższ nerki.
+Wałeczki mieszane
+Dodatkowo spotyka się wałeczki mieszane, np. szklisto-ziarniste, woskowo-ziarniste, szklisto-komórkowe
+(ryc. 37).
+4.2.4. Bakterie, drożdże i inne mikroorganizmy
+Obserwowane w moczu bakterie mają zróżnicowany kształt (najczęściej ziarniaki lub pałeczki) (ryc. 38). Wszystkie
+bakterie słabo załamują światło i często tworzą skupiska. Aby odróżnić zakażenie dróg moczowych od zanieczyszczenia próbki, należy wykonać badanie mikrobiologiczne.
+Drożdże często występują w moczu kobiet z zapaleniem pochwy. Komórki Candida spp. (ryc. 39) widoczne
+są jako owalne albo okrągłe, niebarwiące się struktury, często w formie pączkującej. Można również zaobserwować strzępki grzybni. W większości przypadków grzyby stanowią zanieczyszczenie z dróg rodnych,
+www.diagnostykalaboratoryjna.eu
+170
+jednak mogą świadczyć również o infekcji dróg moczowych u pacjentów z niedoborami odporności. Drożdże
+bardzo często namnażają się w moczu pacjentów z glukozurią (cukromoczem). Obecność w moczu Candida
+albicans wskazuje najczęściej na osłabiony mechanizm obronny pacjenta lub stan po długotrwałym leczeniu
+antybiotykami.
+Pierwotniaki, głównie żywy rzęsistek pochwowy (Trichomonas vaginalis), ze względu na poruszającą się
+błonę falującą i szybkie, nieregularne ruchy jest łatwy do identyfikacji nawet w preparacie niebarwionym.
+Jest pierwotniakiem okrągłym lub gruszkowatym, 2 – 3 krotnie większym od leukocytów. Na jednym
+biegunie znajdują się cztery wici, a ciało otacza błona falująca (ryc. 40). Obumarłe rzęsistki przypominają
+leukocyty, komórki nabłonka, wobec czego identyfikacja wymaga wcześniejszego barwienia np. safraniną,
+która barwi leukocyty na różowo zaś rzęsistki na kolor zielonkawy. W większości przypadków ich obecność
+w moczu jest skutkiem kontaminacji wydzieliną z dróg rodnych (rzęsistkowica dróg rodnych u kobiet, zapalenie gruczołu krokowego u mężczyzn).
+Podczas badania mikroskopowego upostaciowanych elementów moczu można również wykryć jaja przywry
+(Schistosoma haematobium). Jaja o wymiarach ok. 140 x 50 µm przyjmują kształt wrzecionowaty z zaokrąglonym
+przednim i zaostrzonym tylnym końcem. Wykrycie jaj w moczu jest elementem diagnostyki zakażenia przywrą.
+Częstym elementem spotykanym w próbkach moczu dzieci płci żeńskiej są jaja i larwy owsika (Enterobius vermicularis). Jajo w kształcie owalnym lub "bochenka chleba”, z podłużną pręgą, z przeźroczystą ścianą komórkową
+i widoczną larwą (ryc. 41).
+4.2.5. Składniki mineralne
+Występują w moczu w postaci uformowanych kryształów o różnorodnym kształcie lub w postaci soli amorficznych. Ich rodzaj i liczba zależą od temperatury ciała i stanu nawodnienia pacjenta oraz od temperatury, pH
+i zagęszczenia próbki moczu. Identyfikacja składników mineralnych jest szczególnie istotna w populacji pacjentów z kamicą nerkową oraz z ostrym uszkodzeniem nerek. W większości przypadków ich obecność w moczu
+nie ma jednak znaczenia klinicznego.
+Kryształy amorficzne (moczany bezpostaciowe, fosforany bezpostaciowe)
+Ziarniste struktury przypominające ziarna piasku, często występujące w skupiskach. Żółtawe/ceglastoczerwone
+moczany występują w moczu o odczynie kwaśnym i polaryzują światło (ryc. 42), białe/szare fosforany występują
+w moczu o odczynie zasadowym/obojętnym i nie wykazują zdolności polaryzacji światła (ryc. 43). Moczany
+obserwuje się częściej w moczu zagęszczonym, np. podczas gorączki oraz w dnie moczanowej. Zwiększone
+wydalanie fosforanów obserwuje się np. podczas stosowania diety wegetariańskiej.
+UWAGA: W przypadku dużych ilości kryształów amorficznych próbka powinna zostać odrzucona ze względu
+na brak możliwości wiarygodnej oceny elementów upostaciowanych moczu.
+Szczawiany wapnia
+Bezbarwne i silnie załamujące światło kryształy, występujące w moczu o odczynie kwaśnym, obojętnym i lekko
+zasadowym. Duże kryształy dwuwodnego szczawianu wapnia charakteryzują się dwójłomnością i przybierają
+kształt dwóch piramid złączonych podstawami (kształt koperty) (ryc. 44), mogą występować również w agregatach. Jednowodne szczawiany wapnia przyjmują kształt owalny, hantli lub dwuwklęsłego dysku; zawsze są
+wyraźnie dwójłomne (ryc. 45). Kryształy szczawianu wapnia występują w moczu po spożyciu szczawiu, rabarbaru,
+pomarańczy, bananów a także po przyjęciu dużych dawek witaminy C (zwłaszcza po podaniu dożylnym), jak
+również w przypadku nadmiernego wchłaniania wapnia w jelitach. Występują także w zatruciach substancjami
+zapobiegającymi zamarzaniu, np. glikolem etylenowym. Zwiększone wytrącanie szczawianów wapnia w moczu
+występuje w pierwotnej oksalurii, należącej do rzadkich chorób dziedzicznych i często towarzyszącej zwapnieniom nerek (tzw. nefrokalcytozie) oraz kamicy nerkowej.
+171
+Diagn Lab. 2019; 55(3): 145-198
+Kwas moczowy
+Kryształy o żółtawym/bursztynowym kolorze, cechujące się dwójłomnością w świetle spolaryzowanym. Krystalizują w postaci rombu lub "diamentu”, mogą również przyjmować kształt beczułkowaty i tworzyć rozety (ryc.
+46, 47). Kwas moczowy występuje w moczu zagęszczonym, o odczynie kwaśnym, w gorączce, dnie moczanowej
+oraz w chorobach związanych z rozpadem jąder komórkowych, np. w białaczkach lub w innych chorobach
+nowotworowych w trakcie leczenia cytostatykami. Zwiększenie liczby kryształów kwasu moczowego w moczu
+może być również skutkiem diety bogatej w białka (puryny).
+Trójfosforan amonowo-magnezowy
+Przezroczyste, dwójłomne kryształy wyglądem przypominające wieko trumny, piramidy lub liście paproci (ryc.
+48). Występują w moczu o odczynie zasadowym lub obojętnym. Obecność tych kryształów często towarzyszy
+infekcjom dróg moczowych spowodowanym przez bakterie ureazo-dodatnie (np. Ureaplasma urealitycum), które
+przekształcają obecny w moczu mocznik do amoniaku alkalizując mocz, jak również w kamicy tzw. struwitowej.
+Fosforan wapnia
+Kryształy o kształcie pryzmatu, igieł lub igieł ułożonych w rozety, silnie polaryzujące światło. Jeśli występuje
+w postaci płytek, nie wykazuje dwójłomności. Krystalizuje w moczu o odczynie zasadowym, obojętnym i lekko
+kwaśnym (ryc. 49).
+Moczan dwuamonowy
+Występuje w postaci żółtobrązowych kul, często z nieregularnymi wypustkami lub kolcami (tzw. "kolczaste
+jabłka”); może tworzyć skupiska (ryc. 50). Krystalizuje w moczu o odczynie zasadowym lub obojętnym. Jego
+precypitacja in vivo może być związana z uszkodzeniem kanalików nerkowych.
+Cholesterol
+Przezroczyste, cienkie płytki z ostrymi bokami i rogami (ryc. 51). Występuje w moczu o odczynie kwaśnym
+i obojętnym. Obecność kryształów cholesterolu w moczu jest związana z ciężkim białkomoczem w przebiegu
+m.in. zespołu nerczycowego oraz z chylurią, gdzie na skutek zalegania chłonki w jamie otrzewnowej z powodu
+ucisku na naczynia chłonne przez guz lub podczas filariozy (choroba pasożytnicza rozpowszechniona w krajach
+tropikalnych) następuje przedostawanie się chłonki do moczu.
+Cystyna
+Aminokwas krystalizujący w moczu o odczynie kwaśnym w postaci bezbarwnych, sześciokątnych płytek (ryc.
+52). W celu wykrycia kryształów cystyny w osadzie moczu próbka powinna być zakwaszona kwasem octowym
+(do pH < 6) i chłodzona przez noc w celu jej krystalizacji. Kryształy cystyny pojawiają się w moczu we wrodzonej
+cystynozie i cystynurii. Możliwa jest szybka identyfikacja cystyny w badaniu z cyjankiem i nitroprusydkiem.
+Do wykazania zwiększonej ilości cystyny w moczu stosuje się test przesiewowy cyjankowo-nitroprusydkowy (próba Branda), w którym cyjanek redukuje cystynę do cysteiny, której grupa -SH reaguje z nitroprusydkiem sodu, dając purpurowe zabarwienie. Wynik dodatni obserwuje się, jeżeli zawartość cystyny
+w moczu wynosi > 100 mg/g kreatyniny. Test z nitroprusydkiem należy przeprowadzać kilkakrotnie, z uwagi
+na charakterystyczną dla choroby zmienną ilość cystyny w moczu. Test należy wykonywać w pierwszej porannej porcji moczu.
+Wykonanie testu:
+1.
+Zmieszać 1 mL moczu z 0,2 mL 67 g/L wodnego roztworu cyjanku sodu.
+2.
+Odstawić na 10 minut w temperaturze otoczenia.
+3.
+Dodać kroplami do 0,2 mL 50 g/L roztworu nitroprusydku sodowego.
+4.
+Wynik dodatni: zmiana koloru próbki na kolor różowy lub fioletowy.
+www.diagnostykalaboratoryjna.eu
+172
+Leucyna, tyrozyna
+Kryształy leucyny występują w formie żółtawobrązowych kul z lekką promieniową pręgą (ryc. 53). Tyrozyna
+krystalizuje w moczu o odczynie kwaśnym w formie błyszczących, bezbarwnych lub lekko żółtawych, cienkich
+igieł, układających się pojedynczo lub w pęczki (ryc. 54). Obecność kryształów tyrozyny i leucyny w moczu jest
+związana z ciężkimi chorobami wątroby (śpiączka, marskość). W celu potwierdzenia wrodzonych zaburzeń
+metabolizmu aminokwasów rekomendowane jest oznaczenie stężenia tych aminokwasów w moczu i osoczu.
+Bilirubina
+Występuje w moczu o odczynie kwaśnym, najczęściej w postaci skupisk żółtobrązowych drobnych igieł, rzadziej w kształcie ziarenek lub płytek (ryc. 55). Może występować u pacjentów z żółtaczką mechaniczną lub
+wirusowym zapaleniem wątroby.
+Kwas hipurowy
+Krystalizuje w postaci długich, bezbarwnych, czasami lekko żółtawych igieł lub graniastosłupów, najczęściej
+ułożonych w formie gwiazd (ryc. 56). Występuje bardzo rzadko, najczęściej podczas stosowania preparatów
+zawierających kwas salicylowy oraz w niektórych chorobach wątroby.
+2,8-dihydroksyadenina
+Najczęściej okrągłe, czerwono-brązowe kryształy, z ciemną obwódką i przejaśnieniem w środku, na tle którego
+widoczne jest ciemne pęknięcie – widoczne w postaci krzyży maltańskich w świetle spolaryzowanym (ryc. 57).
+Występują w moczu u pacjentów z niedoborem enzymu fosforybozylotransferazy adeninowej.
+Ksantyna
+Przyjmuje postać bezbarwnych kryształów w kształcie osełki (ryc. 58). Występuje w niedoborze oksydazy
+ksantynowej.
+Uwaga: Nie mylić z kwasem moczowym
+Kryształy polekowe
+Najczęściej obserwowane kryształy polekowe to: sulfadiazyna tworząca żółto-brązowe "snopki”, ampicylina (bezbarwne długie igły i "snopki”), acyklowir (dwójłomne, w kształcie igieł), indinawir (kształt płytek lub gwiazdek),
+witamina C (ryc. 59), po podaniu radiologicznych środków cieniujących, tzw. kontrastu (w postaci bezbarwnych
+igieł występujących pojedynczo lub w pęczkach, lub jako płaskie, prostokątne płytki) (ryc. 60).
+4.2.6. Lipidy
+Zwiększona przepuszczalność błony podstawnej kłębuszka nerkowego prowadzi do pojawienia się składników
+lipidowych w moczu. Ponieważ lipoproteiny są większe niż cząstki białkowe, lipiduria jest typowa dla pacjentów
+z intensywnym białkomoczem. Lipidy w moczu mogą występować w postaci kropel tłuszczu (pojedynczych
+lub w skupiskach) (ryc. 25), owalnych ciał tłuszczowych (ryc. 25, 26) lub kryształów cholesterolu (ryc. 51) oraz
+w obrębie wałeczków tłuszczowych (ryc. 34, 35). Można je łatwo zidentyfikować w mikroskopie polaryzacyjnym
+ze względu na ich wysoki współczynnik refrakcji i zdolność do polaryzacji światła (tworzenie tzw. krzyży maltańskich) oraz w mikroskopie świetlnym po wybarwieniu na kolor czerwony/pomarańczowy metodą z Sudanem
+III lub czerwienią olejową O (rozdz. 4.3.1.).
+4.2.7. Inne upostaciowane elementy moczu
+Pasma śluzu
+Włókniste białko występujące w moczu w kształcie długich, bezbarwnych taśm o zmiennej szerokości, czasem
+z rozgałęzieniami. Pochodzi z dróg moczowych lub jest zanieczyszczeniem z dróg rodnych. Obecność pasm
+śluzu zazwyczaj nie ma znaczenia klinicznego (ryc. 61).
+173
+Diagn Lab. 2019; 55(3): 145-198
+Plemniki
+Struktury o charakterystycznym kształcie: gruszkowatej, spłaszczonej z boku główce i bardzo długiej, cienkiej
+witce (ryc. 62). Mogą występować w moczu po stosunku płciowym (u kobiet i mężczyzn) lub na skutek polucji.
+Częściej obserwuje się je również w moczu mężczyzn z przerostem gruczołu krokowego.
+UWAGA: O ile obecność plemników w moczu nie ma znaczenia klinicznego, o tyle informacja o ich obecności
+powinna zostać wykazana w sprawozdaniu z badania (m.in. ze względu na możliwość zawyżonego stężenia
+białka i węglowodanów).
+Zanieczyszczenia
+Lignina (ryc. 63), skrobia (ryc. 64), włosy (ryc. 65), resztki kałowe, głównie u niemowląt płci żeńskiej (ryc. 66).
+Można także zaobserwować pęcherzyki powietrza (ryc. 67) lub inne artefakty (ryc. 68, 69).
+UWAGA: O ile obecność resztek kałowych w moczu nie ma znaczenia klinicznego i stanowi najczęściej zanieczyszczenie, o tyle informacja o ich obecności powinna zostać wykazana w sprawozdaniu z badania (m.in. ze
+względu na możliwość występowania przetoki jelitowo-pęcherzowej).
+4.3. Techniki barwienia upostaciowanych elementów moczu w badaniu na poziomie zaawansowanym
+i specjalistycznym
+W celu lepszego uwidocznienia upostaciowanych elementów moczu zaleca się stosowanie odpowiedniego
+barwienia. Jedną z technik barwienia osadu jest zmodyfikowana metoda Sternheimera-Malbina (fiolet krystaliczny, safranina O), służąca głównie do identyfikacji nabłonków, wałeczków i leukocytów, w tym komórek
+Sternheimera-Malbina. Inną techniką barwienia jest barwienie błękitem toluidynowym O (barwienie przyżyciowe
+komórek). Do identyfikacji eozynofilów zaleca się barwienie według Hänsela (Nolan i wsp. 1986). W diagnostyce
+cytologicznej do identyfikacji komórek atypowych zaleca się barwienie Papanicolau z utrwalaniem preparatu.
+W celu dokładniejszej identyfikacji kryształów i lipidów można zastosować dodatkowo filtry polaryzacyjne.
+Należy ściśle określić objętość badanej próbki jak również ilość barwnika, który jest dodawany do barwienia
+preparatu: ilość barwnika nie powinna przekraczać 10% objętości próbki. Należy zachować stały czas barwienia.
+Oceny dokonuje się w barwionych preparatach przyżyciowych lub utrwalonych, przygotowanych metodą rozmazu lub techniką cytowirowania. W tabeli VI umieszczono techniki zalecane podczas identyfikacji elementów
+tłuszczowych, komórkowych i bakteryjnych.
+4.3.1. Barwienie lipidów
+Tłuszcz obojętny, kwasy tłuszczowe lub owalne ciała tłuszczowe barwią się czerwienią olejową O lub roztworem
+Sudanu III. Barwienie przeprowadza się w próbówce. Test można wykonać za pomocą dostępnych komercyjnie
+zestawów lub przygotowując samodzielnie odczynniki.
+Odczynniki:
+Nasycony roztwór Sudanu III (w 70% etanolu) lub 0,5% czerwień olejowa O (w 60% 2-propanolu)
+Przebieg barwienia:
+1.
+Do osadu w próbówce dodać 1–2 krople nasyconego roztworu Sudanu III w 70% etanolu (v:v) lub 0,5%
+czerwieni olejowej O (v:v).
+2.
+Zawartość probówki wymieszać i odstawić na 15 minut.
+3.
+Po dokładnym wymieszaniu zawartości próbówki należy sporządzić preparat przyżyciowy i ocenić go w mikroskopie pod powiększeniem 400 – krotnym. Krople tłuszczu obojętnego, kwasy tłuszczowe, owalne ciała
+tłuszczowe oraz wałeczki tłuszczowe barwią się na kolor pomarańczowo-czerwony, czerwony lub różowy.
+www.diagnostykalaboratoryjna.eu
+174
+4.3.2. Barwienie bakterii
+Bakterie obecne w moczu barwią się metodą Grama lub Papanicolau.
+Barwienie Grama
+Odczynniki (również dostępne komercyjnie):
+–– 0,3 % roztwór fioletu krystalicznego (w:v) w mieszaninie: 5% izopropanol, 5% etanol, woda destylowana
+(v:v:v).
+–– 0,33 % roztwór jodu (w:v) w 0,66 % wodnym roztworze jodku potasu (w:v) – jodyna
+–– Roztwór odbarwiający: 25% aceton:75% izopropanol (v:v).
+–– 0,4 % roztwór safraniny (w:v) w 20% etanolu (v:v)
+Przebieg barwienia:
+1.
+Zanurzyć utrwalony na szkiełku podstawowym preparat osadu moczu w roztworze fioletu krystalicznego
+na 1 minutę.
+2.
+Usunąć roztwór fioletu delikatnie przepłukując preparat zimną wodą.
+3.
+Zanurzyć szkiełko w roztworze jodyny na 1 minutę.
+4.
+Usunąć roztwór jodyny delikatnie przepłukując preparat zimną wodą.
+5.
+Odbarwiać preparat roztworem odbarwiającym przez 30 – 60 sekund.
+Tabela VI. Techniki barwienia elementów upostaciowanych moczu zalecane na poziomie zaawansowanym i specjalistycznym.
+Element
+Metoda barwienia
+Wynik barwienia
+Krople tłuszczu
+Owalne ciała tłuszczowe
+Czerwień olejowa O
+Sudan III
+Krople tłuszczu (tłuszcz obojętny) barwią się na kolor czerwono-pomarańczowy
+Bakterie
+Grama
+Papanicolaou
+Bakterie Gram-dodatnie barwią się na kolor ciemnogranatowy
+Gram-ujemne barwią się na kolor różowo-czerwony
+Zabarwienie ciemnogranatowe
+Eozynofile
+Hänsela
+MGG
+Kwasochłonna ziarnistość barwi się na pomarańczowo-czerwono
+Cytoplazma bez RNA – lekko błękitna, ziarnistość kwasochłonna – pomarańczowo/
+czerwona
+Limfocyty, neutrofile
+Monocyty/makrofagi
+Wrighta
+MGG
+Błękit toluidyny O
+Immunocytochemiczne
+Chromatyna barwi się na kolor niebiesko-fioletowy/czerwono-fioletowy
+Cytoplazma szara, jasnoniebieska lub ciemnoniebieska
+Limfocyty: cytoplazma z RNA – ciemnobłękitna, cytoplazma bez RNA – szara lub
+jasnobłękitna; Monocyty: cytoplazma – szaroniebieska z fioletowymi ziarnistościami
+azurochłonnymi
+Jądra w kolorze fioletowym, fioletowo-czerwonym
+Cytoplazma barwi się na kolor szary.
+Ocena efektu barwienia zależna od zastosowanej metody immunochemicznej
+Hemosyderyna
+Błękit pruski (test Rousa)
+Niebieskie ziarna
+Komórki SternheimeraMalbina
+Zmodyfikowana metoda
+Sternheimera-Malbina
+Krwinki białe patologiczne (komórki Sternheimera-Malbina) – jądra nie barwią się,
+cytoplazma szarawa
+Krwinki białe prawidłowe – jądra fioletowe, cytoplazma jasnofioletowa
+Ponadto, krwinki czerwone – różowe do fioletowych
+Nabłonki – jądra fioletowe, cytoplazma jasnofioletowa
+Wałeczki– jasnoróżowe do czerwonych
+Śluz – jasnoróżowy lub bladoniebieski
+Bakterie – bezbarwne do niebieskich
+175
+Diagn Lab. 2019; 55(3): 145-198
+6.
+Przepłukać preparat zimną wodą.
+7.
+Zanurzyć szkiełko w roztworze safraniny i barwić przez 30 – 60 sekund.
+8.
+Przepłukać preparat zimną wodą.
+9.
+Preparat pozostawić do wyschnięcia na powietrzu ustawiony pod kątem 45 stopni.
+10. Ocenić wybarwione drobnoustroje w mikroskopie świetlnym pod powiększeniem 1000x (pod immersją).
+Wynik ujemny w barwieniu Grama (brak widocznych drobnoustrojów w preparacie) oznacza, że w badanym moczu
+nieobecne są bakterie lub w badanym materiale klinicznym znajduje się zbyt mało drobnoustrojów, aby je zidentyfikować tą metodą (wynik fałszywie ujemny). W przypadku wyniku dodatniego w barwieniu Grama, świadczącego
+o obecności drobnoustrojów w moczu, należy opisać obserwowane drobnoustroje:
+–– bakterie Gram-dodatnie lub drożdże (wybarwione na ciemnogranatowo)
+–– bakterie Gram-ujemne (wybarwione na kolor czerwono – różowy)
+–– kształt pojedynczych komórek: bakterie o kształcie kulistym (ziarenkowce) lub cylindrycznym (pałeczki)
+–– kształt, rozmiar i układ komórek drobnoustrojów
+–– orientacyjna ilość (ocena półilościowa) drobnoustrojów
+–– występowanie bakterii wewnątrz komórek osadu moczu.
+Barwienie metodą Grama pozwala tylko na stwierdzenie obecności drobnoustrojów, które wymaga potwierdzenia
+i uzupełnienia innymi, bardziej swoistymi i czułymi metodami mikrobiologicznymi, jak: hodowla, testy biochemiczne, testy immunologiczne, ocena lekowrażliwości i mechanizmów lekooporności. Jednakże, objawy kliniczne
+w połączeniu z wynikiem badania osadu barwionego metodą Grama mogą posłużyć lekarzowi do podjęcia decyzji
+o właściwym leczeniu pacjenta, zanim dostępne będą wyniki badania mikrobiologicznego.
+Barwienie metodą Papanicolau
+Odczynniki (również dostępne komercyjnie):
+–– Roztwór hematoksyliny: 0,42% hematoksylina (w:v), 8,3% dwunastowodny siarczan glinowo-potasowy
+(w:v), 0,42% tlenek rtęci (w:v), 4,2% etanol (v:v),
+Tabela VII. Schemat barwienia progresywnego.
+Etap
+Odczynnik
+Czas
+1.
+95% Etanol
+15 – 30 min
+2.
+80% Etanol
+2 min
+3.
+60% Etanol
+2 min
+4.
+Woda destylowana
+5 zanurzeń
+5.
+Woda destylowana
+5 zanurzeń
+6.
+Roztwór hematoksyliny
+3 min
+7.
+Woda destylowana
+3 min
+8.
+60% Etanol
+2 min
+9.
+80% Etanol
+2 min
+10.
+95% Etanol
+2 min
+11.
+Roztwór pomarańczu G
+3 min
+12.
+95% Etanol
+2 min
+13.
+95% Etanol
+2 min
+14.
+Roztwór eozyny
+3 min
+15.
+95% Etanol
+2 min
+16.
+95% Etanol
+2 min
+17.
+95% Etanol
+2 min
+18.
+95% Etanol
+2 min
+19.
+Etanol absolutny
+2 min
+20.
+Etanol absolutny
+2 min
+21.
+Etanol absolutny
+2 min
+22.
+50% Etanol absolutny: 50% Ksylen (v:v)
+2 min
+23.
+Ksylen
+2 min
+24.
+Ksylen
+2 min
+25.
+Ksylen
+Do odbarwienia
+83 % woda destylowana (50°C) (v:v), 3,3% lodowaty kwas octowy (v:v).
+–– Roztwór pomarańczu G: 0,15% kwas fosforowolframowy (w:v), 5% 10% wodnego roztworu
+pomarańczu G, 95% alkoholu etylowego (v:v).
+–– Roztwór eozyny Y: 1% 0,04 M roztwór zielonego
+barwnika triarylometanowego (v:v), 2% 0,3M
+roztwór eozyny Y (v:v), 0,2 % kwas fosforowolframowy (w:v), 72 % etanolu (v:v), 23% metanol
+(v:v), 2% lodowaty kwas octowy (v:v).
+Przebieg barwienia (tabela VII):
+Barwienie Papanicolaou jest barwieniem z wyboru
+dla komórek: z kanalików nerkowych, urotelialnych,
+gruczołowych, nabłonka płaskiego oraz atypowych.
+4.3.3. Barwienie MGG
+Odczynniki (dostępne komercyjne):
+–– Eozyna i błękit metylenowy May-Grünwalda,
+–– Lazur Giemsy skoncentrowany. Lazur Giemsy
+jest odczynnikiem skoncentrowanym, należy
+www.diagnostykalaboratoryjna.eu
+176
+sporządzić roztwór 20 – krotnie rozcieńczony z wykorzystaniem wody destylowanej. Przygotowany
+roztwór nie jest trwały, sporządzić przed barwieniem.
+Wykonać preparat osadu moczu w cytowirówce i zabarwić wg poniższej instrukcji. Preparat można, po wyjęciu
+z cytowirówki, pokryć Fixocytem w aerozolu, w celu utrwalenia i zabezpieczenia przed spłukaniem preparatu
+ze szkiełka podczas barwienia.
+Przebieg barwienia:
+1.
+Dobrze wysuszony preparat osadu moczu pokryć roztworem barwnika May – Grünwalda, pozostawić na
+3 minuty w celu utrwalenia i wybarwienia preparatu.
+2.
+Preparat przez minutę płukać w wodzie destylowanej.
+3.
+Następnie, preparat barwić w sporządzonym roztworze Giemsy przez 8 minut (najlepiej poprzez całkowite
+zanurzenie preparatu w sporządzonym roztworze).
+4.
+Spłukać preparat wodą destylowaną.
+5.
+Poczekać, aż preparat wyschnie i dokonać oceny pod immersją, w powiększeniu 1000 – krotnym.
+Jądra komórkowe (chromatyna) wybarwiają się na kolor fioletowy, fioletowo-czerwony. Neutrofile: cytoplazma
+bez RNA – lekko błękitna, ziarnistość obojętnochłonna – fioletowo/różowa. Eozynofile: cytoplazma bez RNA –
+lekko błękitna, ziarnistość kwasochłonna – pomarańczowo-czerwona. Limfocyty: cytoplazma z RNA – ciemnobłękitna, cytoplazma bez RNA – szara lub jasnobłękitna; Monocyty: cytoplazma – szaroniebieska z fioletowymi
+ziarnistościami azurochłonnymi.
+4.3.4. Barwienie 0,5% błękitem toluidynowym O
+Odczynniki:
+0,5% błękit toluidynowy O – roztwór wodny, dostępny komercyjnie.
+Przebieg barwienia:
+1.
+Do świeżo przygotowanego osadu moczu dodać 1 kroplę roztworu wodnego 0,5% błękitu toluidyny O.
+2.
+Inkubować w temperaturze pokojowej przez 2 min.
+3.
+Wymieszać osad i sporządzić preparat.
+4.
+Osad obejrzeć pod mikroskopem w powiększeniu 400 – krotnym.
+Barwienie to uwidacznia morfologię jądra, które wybarwia się na fioletowo, fioletowo-czerwono. Pomocne
+w różnicowaniu granulocytów (neutrofile, monocyty/makrofagi) względem agranulocytów (limfocyty)
+w 400-krotnym powiększeniu.
+4.3.5. Barwienie eozynofili metodą Hänsela
+Odczynniki:
+Odczynnik Hänsela dostępny komercyjnie.
+Przebieg barwienia:
+1.
+Kroplę zawiesiny osadu umieścić na szkiełku podstawowym i pozostawić do wyschnięcia.
+2.
+Wysuszony osad utrwalić w 95% metanolu przez 5 sekund.
+3.
+Utrwalony preparat barwić przez 45 sek. odczynnikiem Hänsela.
+4.
+Preparat odbarwić metanolem przez 1 – 2 sek., a następnie spłukać wodą destylowaną.
+5.
+Po wysuszeniu preparat ocenić w mikroskopie (pod immersją w powiększeniu 1000 – krotnym).
+Gruba, kwasochłonna ziarnistość granulocytów kwasochłonnych barwi się na czerwono.
+177
+Diagn Lab. 2019; 55(3): 145-198
+4.3.6. Barwienie limfocytów metodą Wrighta
+Barwienie metodą Wrighta jest zmodyfikowanym barwieniem metodą MGG. W barwniku Wrighta czysty błękit
+metylenowy zastąpiono błękitem metylenowym wraz z jego produktami utlenienia: azur A, azur B i tionina.
+Barwnik znalazł szczególne uznanie w USA, w krajach europejskich częściej korzysta się z barwienia metodą
+MGG, która daje podobne wyniki.
+Odczynniki:
+Odczynnik Wrighta dostępny komercyjnie.
+Przebieg barwienia:
+1.
+Pokryć wysuszony osad 1 mL roztworu barwnika Wrighta (podczas tego kroku następuje utrwalenie rozmazu)
+i pozostawić na 3 minuty.
+2.
+Na szkiełko dodać 1 mL wody destylowanej (lub buforu, pH 6,4 – 7,0), lekko kołysząc wymieszać z barwnikiem i pozostawić na 4 – 6 minut.
+3.
+Spłukać szybko preparat wodą destylowaną (lub buforem pH 6,4 – 7,0) – nie dłużej niż 1 minutę.
+4.
+Osad ocenić w mikroskopie pod immersją, w powiększeniu 1000 – krotnym.
+4.3.7. Barwienie komórek zmodyfikowaną metodą Sternheimera-Malbina
+Barwnik dostępny komercyjnie.
+Odczynniki:
+–– Roztwór fioletu gencjany: 3% fiolet gencjany (w:v), 0,8% szczawian amonu w mieszaninie 95% alkoholu
+etylowego i wody destylowanej w stosunku 1+4 (v:v).
+–– 0,25 % roztwór safraniny O: 0,25 g safraniny O rozpuścić w 10 mL 95% alkoholu etylowego, następnie
+rozcieńczyć wodą destylowaną 100 mL.
+–– Mieszanina barwiąca: 3% roztworu fioletu gencjany i 97% 0,25% roztworu safraniny O (v:v). Wymieszać
+i przesączyć.
+Przebieg barwienia:
+1.
+Do świeżo przygotowanego osadu moczu dodać 1 kroplę roztworu barwiącego.
+2.
+Inkubować 3 minuty w temp. pokojowej.
+3.
+Po dokładnym wymieszaniu osadu z barwnikiem sporządzić preparat.
+4.
+Osad ocenić w mikroskopie w powiększeniu 400 – krotnym.
+Komórki Sternheimera-Malbina – duże leukocyty z licznymi ziarnistościami wykazującymi ruchy Browna
+w cytoplazmie, jądra nie barwią się tą metodą, cytoplazma w kolorze szarym.
+5. FORMUŁOWANIE WYNIKU
+Sprawozdanie z badania ogólnego moczu powinno zawierać: dane identyfikujące pacjenta, informacje na temat
+rodzaju próbki i/lub techniki pobrania, datę i godzinę pobrania moczu i wykonania badania oraz informacje
+o zastosowanej metodzie: tzn. standaryzowana metoda komorowa lub metoda automatyczna.
+5.1. Formularz sprawozdania z badania ogólnego moczu wraz z oceną upostaciowanych elementów
+moczu
+1.
+Przygotowany przez laboratorium wzór formularza sprawozdania musi spełniać aktualnie obowiązujące
+wymagania resortowe, w tym prezentować wymagane pola.
+www.diagnostykalaboratoryjna.eu
+178
+2.
+Na wyniku badania muszą być zdefiniowane biologiczne przedziały referencyjne (Rozporządzenie MZ z dnia
+21 stycznia 2009 r. w sprawie standardów jakości dla medycznych laboratoriów diagnostycznych i mikrobiologicznych, pkt 8, podpunkt 9).
+3.
+Zalecane jest stosowanie jednolitych opisów, nazw, komentarzy, tak aby były zrozumiałe przez zleceniodawców.
+4.
+Zalecane jest podanie rodzaju próbki pierwotnej, w tym np. pierwsza poranna próbka moczu, druga
+poranna próbka moczu lub próbka losowa.
+5.
+Wyniki dotyczące oceny badania ogólnego moczu, za pomocą testu paskowego (metoda suchej chemii),
+powinny zawierać co najmniej:
+a.
+Cechy fizyczne:
+–– Barwa moczu – zaleca się stosowanie ujednoliconego nazewnictwa: bezbarwny, żółty, pomarańczowy,
+brązowy, czerwony, różowy, niebieski, zielony, stosując stopniowanie, np. jasnożółty, żółty, ciemnożółty
+itd. Nie zaleca się stosowania porównań (np. kolor popłuczyn mięsnych);
+–– Przejrzystość: przejrzysty, lekko mętny, mętny;
+–– Ciężar właściwy (g/mL lub bez jednostki).
+b.
+Cechy chemiczne:
+–– pH (wartość);
+–– Białko: wykryto/nie wykryto;
+–– Glukoza: wykryto/nie wykryto;
+–– Ciała ketonowe: wykryto/nie wykryto;
+–– Bilirubina: wykryto/nie wykryto;
+–– Urobilinogen: prawidłowy, zwiększony (test paskowy nie wykrywa niedoboru);
+–– Azotyny: wykryto/nie wykryto;
+–– Krew: wykryto/nie wykryto;
+–– Leukocyty: wykryto/nie wykryto.
+6.
+Ocena elementów upostaciowanych moczu powinna obejmować parametry określone w tabeli III oraz
+tabeli IV.
+7.
+Wynik należy przedstawić w sposób następujący:
+a.
+w ocenie ilościowej należy określić liczbę elementów w jednostce objętości (x 106/L). Sposób przeliczania elementów w jednostce objętości określa instrukcja dostarczona przez producenta komory;
+b.
+w ocenie półilościowej należy oszacować liczbę elementów w polu widzenia (wpw) wg tabeli II.
+c.
+w ocenie jakościowej należy stwierdzić obecność lub brak obecności danego elementu wpw.
+8.
+Przykładowy formularz sprawozdania z badania ogólnego moczu z mikroskopową oceną elementów
+upostaciowanych na poziomie specjalistycznym:
+Każde laboratorium powinno przygotować formularz sprawozdania z badania ogólnego moczu dostosowany do
+stosowanej metody badania oraz poziomu różnicowania elementów upostaciowanych. W przypadku stosowania metod automatycznych, umożliwiających uzyskanie wyników ilościowych, wartości (również referencyjne)
+należy podawać w zaokrągleniu do wartości całkowitych.
+Wynik badania elementów upostaciowanych powinien być zgodny z wynikiem badania cech fizyko-chemicznych moczu za pomocą testów paskowych oraz metod chemicznych. W przypadku wystąpienia niezgodności
+wynik badania moczu powinien zostać zweryfikowany. Jeżeli wykluczone zostaną błędy przedanalityczne (np.
+zbyt długie przechowywanie próbki), analityczne (np. błędy w analizie testem paskowym, błędna klasyfikacja
+elementów upostaciowanych moczu) oraz administracyjne (np. zamiana próbek), należy rozważyć możliwe
+przyczyny uzyskania wyników niezgodnych (rozdział 7) oraz informacje producentów pasków odnośnie interferencji. Ponadto, w takiej sytuacji wskazane jest opatrzenie wyniku odpowiednim komentarzem, wskazującym
+na możliwe przyczyny stwierdzonej niezgodności.
+179
+Diagn Lab. 2019; 55(3): 145-198
+SPRAWOZDANIE Z BADAŃ LABORATORYJNYCH moczu
+Nazwisko:
+Data wydruku:
+Imię:
+Nr lab:
+PESEL:
+Data urodzenia:
+Wiek (lata)
+Płeć (K/M)
+Adres:
+Lekarz zlecający:
+Oddział:
+Data i godz. pobrania materiału:
+Data i godz. przyjęcia materiału:
+
+
+
+
+
+
+MOCZ PB-A-001 wyd. III z 29.09.2015
+Profil:
+Data wykonania:
+Zatwierdzono:
+Tryb wykonania badania: CITO
+
+
+
+
+BADANIE NR HH
+WYNIK
+JEDNOSTKI
+PRZEDZIAŁ
+REFERENCYJNY
+% BAD.
+Mocz– badanie ogólne
+
+Barwa
+żółta
+Przejrzystość
+przejrzysty
+Ciężar właściwy
+g/mL
+1,003 – 1,030
+pH
+5,0 – 7,5
+Białko (jakościowo)
+nie wykryto
+Glukoza (jakościowo)
+nie wykryto
+Ciała ketonowe jakościowo
+nie wykryto
+Krew jakościowo
+nie wykryto
+Leukocyty jakościowo
+nie wykryto
+Azotyny jakościowo
+nie wykryto
+Bilirubina jakościowo
+nie wykryto
+Urobilinogen jakościowo
+prawidłowy
+Ocena elementów upostaciowanych w moczu wirowanym
+Erytrocyty
+x 106/L
+< 7 x 106/L
+izomorficzne
+%
+> 85
+dysmorficzne
+%
+< 10
+akantocyty
+%
+< 5
+Leukocyty
+x 106/L
+< 10 x 106/L
+neutrofile
+%
+eozynofile
+%
+bazofile
+%
+limfocyty
+%
+monocyty i makrofagi
+%
+komórki Sterheimera-Malbina
+%
+Komórki nabłonka płaskiego
+wpw
+pojedyncze
+Nabłonki nabłonka przejściowego
+wpw
+pojedyncze
+Komórki nabłonka z kanalików nerkowych
+wpw
+nieobecne
+z kanalika proksymalnego
+wpw
+nieobecne
+z kanalika dystalnego
+wpw
+nieobecne
+z kanalika zbiorczego
+wpw
+nieobecne
+www.diagnostykalaboratoryjna.eu
+180
+Komórki nabłonka jelitowego
+wpw
+nieobecne
+Komórki atypowe
+wpw
+nieobecne
+Wałeczki szkliste/szklisto-ziarniste
+wpw
+pojedyncze
+Wałeczki inne niż szkliste:
+nieobecne
+erytrocytarne
+wpw
+nieobecne
+leukocytarne
+wpw
+nieobecne
+z komórek kanalika nerkowego
+wpw
+nieobecne
+ziarniste
+wpw
+nieobecne
+woskowe
+wpw
+nieobecne
+tłuszczowe
+wpw
+nieobecne
+hemoglobinowe
+wpw
+nieobecne
+mioglobinowe
+wpw
+nieobecne
+bilirubinowe
+wpw
+nieobecne
+mieszane
+wpw
+nieobecne
+Pasma śluzu
+wpw
+pojedyncze
+Kryształy:
+wpw
+nieliczne
+Moczany bezpostaciowe
+wpw
+nieliczne
+Fosforany bezpostaciowe
+wpw
+nieliczne
+Kwas moczowy
+wpw
+nieliczne
+Moczany amonu
+wpw
+nieliczne
+Szczawiany wapnia
+wpw
+nieliczne
+Fosforany wapnia
+wpw
+nieliczne
+Dwufosforan magnezu
+wpw
+nieliczne
+Fosforany amonowo – magnezowe, amonowo –
+wapniowe
+wpw
+nieliczne
+Leucyna, tyrozyna
+wpw
+nieobecne
+Cystyna
+wpw
+nieobecne
+2,8-dihydroksyadenina
+wpw
+nieobecne
+Ksantyna
+wpw
+nieobecne
+Cholesterol
+wpw
+nieobecne
+Kryształy polekowe
+wpw
+nieobecne
+Krople tłuszczu, owalne ciała tłuszczowe
+wpw
+nieobecne
+Bakterie
+wpw
+nieobecne
+Inne mikroorganizmy
+wpw
+nieobecne
+Plemniki
+
+wpw
+nieobecne
+METODA:
+
+
+w moczu
+
+UWAGA:
+
+KOMENTARZ:
+Badanie wykonał:
+Badanie autoryzował:
+Uwagi do lekarza:
+181
+Diagn Lab. 2019; 55(3): 145-198
+5.2 Przykładowe komentarze
+1.
+Brak godziny pobrania moczu.
+Komentarz: Nie podano godziny pobrania moczu.
+2.
+Przekroczenie dopuszczalnego czasu od pobrania moczu do wykonania badania:
+Komentarz: Przekroczono dopuszczalny czas do wykonania badania, laboratoryjna interpretacja wyniku jest
+niemożliwa.
+3.
+Stosowanie istotnych dla badania leków, ich wskazanie:
+Komentarz: Pacjent przyjmuje następujące leki: ./ preparaty: ./ jest w trakcie chemioterapii.
+4.
+Brak krwinek czerwonych w badaniu elementów upostaciowanych, przy dodatnim wyniku testu paskowego na obecność krwi na pasku.
+Komentarz: Niezgodność wyniku badania na obecność krwi na pasku testowym i erytrocytów w badaniu
+elementów upostaciowanych moczu może być spowodowana lizą krwinek w środowisku hipotonicznym /
+zasadowym, obecnością hemoglobiny, mioglobiny lub obecnością substancji interferujących o charakterze
+utleniającym oraz peroksydaz bakteryjnych.
+5.
+Obecne krwinki czerwone w badaniu elementów upostaciowanych, przy ujemnym wyniku testu paskowego na obecność krwi:
+Komentarz: Ujemny wynik badania na obecność krwi na pasku testowym może być spowodowany interferencją
+kwasu askorbinowego lub innych substancji o charakterze redukującym.
+6.
+Brak krwinek białych w badaniu elementów upostaciowanych, przy dodatnim wyniku testu paskowego
+na obecność leukocytów.
+Komentarz: Niezgodność wyniku badania na obecność leukocytów na pasku testowym i w badaniu elementów
+upostaciowanych moczu może być spowodowana lizą krwinek w środowisku hipotonicznym / zasadowym lub
+obecnością substancji interferujących w reakcji na pasku.
+7.
+Obecne krwinki białe w badaniu elementów upostaciowanych, przy ujemnym wyniku testu paskowego
+na obecność leukocytów:
+Komentarz: Ujemny wynik badania na obecność leukocytów na pasku testowym może być spowodowany
+obecnością limfocytów w moczu (nie posiadają esterazy leukocytarnej reagującej w polu testowym), interferencją kwasu askorbinowego lub interferencją substancji o charakterze utleniającym, a także wysokim stężeniem
+glukozy i białka oraz w próbkach nadmiernie rozcieńczonych (rozcieńczenie esterazy leukocytarnej).
+8.
+Obecne bakterie w badaniu elementów upostaciowanych, przy ujemnym wyniku testu paskowego na
+obecność azotynów:
+Komentarz: Ujemny wynik na obecność azotynów (bakterii) na pasku testowym może być spowodowany
+obecnością szczepu bakterii nieposiadających reduktazy azotanowej, zbyt małą podażą azotanów w diecie,
+zbyt krótką inkubacją moczu w pęcherzu moczowym, interferencją kwasu askorbinowego, powtórnym przekształceniem przez bakterie azotynów w azotany lub antybiotykoterapią/chemioterapią.
+6. KONTROLA JAKOŚCI
+Kontrola jakości (QC; ang. quality control) stanowi integralną i niezbędną część systemu zapewnienia jakości
+(QA; ang. quality assurance) wyników badań w laboratoriach medycznych.
+www.diagnostykalaboratoryjna.eu
+182
+Zapewnienie jakości (QA) wyników badania elementów upostaciowanych moczu wymaga standaryzacji procesów przedanalitycznych, analitycznych i postanalitycznych badania oraz odpowiednich kompetencji personelu
+w zakresie umiejętności rozpoznawania elementów upostaciowanych moczu.
+QA powinno obejmować:
+1.
+Postępowanie zgodnie z procedurami szczegółowo opisanymi w każdym laboratorium (SOP), na każdym
+etapie procedury badania; dokument ten powinien być dostępny na stanowisku roboczym.
+2.
+Stosowanie spójnej terminologii i przedstawianie wyników badania w ustalonym w laboratorium, standardowym formacie.
+3.
+Wykorzystywanie dobrej jakości sprzętu (mikroskop, wirówka, analizator testów paskowych, automatyczny
+analizator do oceny upostaciowanych elementów moczu) i zapewnienie wykonywania jego okresowych
+przeglądów przez specjalistyczny serwis.
+4.
+Zapewnienie na stanowisku roboczym dostępu do materiałów szkoleniowych (m.in. atlasów elementów
+upostaciowanych moczu) oraz prowadzenie aktywności umożliwiających podnoszenie kwalifikacji personelu (np. szkolenia, konsultacje, omawianie przypadków trudnych/wątpliwych).
+5.
+Prowadzenie kontroli jakości (QC):
+a.
+Laboratorium powinno prowadzić kontrolę wewnętrzną (IQC; ang. internal quality control) i uczestniczyć
+w programie zewnętrznej oceny jakości (EQA; ang. external quality assessment).
+b.
+QC powinna obejmować ocenę wiarygodności stosowanej metody badania (ocena procedury analitycznej) i ocenę wiarygodności rozpoznawania elementów osadu moczu.
+c.
+Laboratorium powinno prowadzić dokumentację wyników QC.
+Wewnętrzna kontrola jakości (IQC)
+1.
+IQC powinna być prowadzona codziennie.
+2.
+Procedury analityczne badania elementów upostaciowanych moczu mogą być kontrolowane z wykorzystaniem próbek moczu pacjenta (podwójna ocena tej samej próbki) lub przy użyciu komercyjnie dostępnych
+materiałów kontrolnych, zawierających utrwalone krwinki czerwone i / lub białe.
+3.
+Ponieważ obecnie dostępne materiały kontrolne nie zawierają wszystkich diagnostycznie ważnych elementów upostaciowanych moczu, w celu przeprowadzenia kontroli jakości w zakresie prawidłowego rozpoznawania elementów upostaciowanych, zaleca się podwójną analizę wybranej próbki moczu pacjenta.
+4.
+W przypadku elementów moczu określanych ilościowo, laboratorium powinno ustalić własny zakres błędu dopuszczalnego (jego wielkość będzie zależna m.in. od stosowanej metody badania). W przypadku
+elementów wyrażanych w skali półilościowej, za prawidłowe należy uznać wyniki różniące się o nie więcej
+niż jedną kategorię (tabela II).
+Tabela IX. Wewnętrzna kontrola jakości i zewnętrzna ocena jakości badania upostaciowanych elementów moczu.
+Rodzaj kontroli
+Sposób kontroli
+Poziom kontroli
+Wewnętrzna
+kontrola jakości
+(IQC)
+Kursy i szkolenia personelu
+Materiał kontrolny zawierający utrwalone
+krwinki
+i/lub
+podwójna ocena tej samej próbki moczu
+natywnego
+Ocena wiarygodności metody zliczania elementów moczu
+oraz
+ocena umiejętności identyfikacji elementów upostaciowanych moczu
+Ten sam preparat oceniany niezależnie przez dwóch diagnostów
+Dokumentacja wyników badania
+Zewnętrzna ocena
+jakości (EQA)
+Uczestnictwo w programie zewnętrznej oceny
+jakości
+Ocena wiarygodności metody zliczania elementów moczu
+oraz
+ocena umiejętności identyfikacji elementów upostaciowanych moczu
+Dokumentacja wyników badania próbek kontrolnych
+183
+Diagn Lab. 2019; 55(3): 145-198
+Tabela X. Trudności diagnostyczne podczas analizy elementów upostaciowanych moczu.
+Problem
+Możliwe przyczyny
+Brak krwinek czerwonych w badaniu
+elementów upostaciowanych, przy
+dodatnim wyniku testu paskowego na
+obecność krwi
+• liza krwinek czerwonych w moczu hypotonicznym lub zasadowym
+• hemoglobinuria
+• mioglobinuria
+• fałszywie dodatni wynik testu paskowego w wyniku obecności substancji o właściwościach
+utleniających lub peroksydaz bakteryjnych (np. E. coli)
+Obecność krwinek czerwonych w badaniu
+elementów upostaciowanych, przy
+ujemnym wyniku testu paskowego
+• interferencja kwasu askorbinowego lub innych substancji o charakterze redukującym
+w reakcję na pasku
+• wysoki ciężar właściwy
+• mylna klasyfikacja jednowodnych szczawianów wapnia, drożdży, pęcherzyków powietrza,
+kropelek tłuszczu, zwiniętych plemników jako erytrocyty
+Brak krwinek białych w badaniu elementów
+upostaciowanych, przy dodatnim wyniku
+testu paskowego na obecność leukocytów
+• liza leukocytów w moczu hypotonicznym lub zasadowym
+• interferencje chemiczne (np. formaldehyd, leki: imipenem, karbapenem, kwas klawulanowy)
+Obecność krwinek białych w badaniu
+elementów upostaciowanych, przy
+ujemnym wyniku testu paskowego
+• obecność limfocytów niebiorących udziału w reakcji na pasku
+• rozcieńczenie moczu wpływające na rozcieńczenie esterazy leukocytarnej
+• interferencje chemiczne, np.: kwas askorbinowy, kwas borny, kwas szczawiowy, antybiotyki:
+cefaleksyna, gentamycyna, tetracyklina
+• wysokie stężenie glukozy (> 2 – 3 g/dL) lub białka (> 5 g/L)
+• silne środki utleniające
+• nieprawidłowa klasyfikacja leukocytów – podobieństwo do erytrocytów, komórek nabłonka
+kanalikowego lub rzęsistka pochwowego
+Obecne bakterie w badaniu elementów
+upostaciowanych moczu, przy ujemnym
+wyniku testu paskowego na azotyny
+• bakterie nieprzekształcające azotanów do azotynów
+• niskie stężenie azotanów w moczu
+• krótka inkubacja moczu w pęcherzu moczowym
+• interferencja kwasu askorbinowego
+• powtórne przekształcenie przez bakterie azotynów w azotany
+• antybiotykoterapia/chemioterapia
+• błędna klasyfikacja kryształów amorficznych jako bakterie
+Wysoka liczba wałeczków szklistych przy
+prawidłowym wyniku oceny białka
+• pasma śluzu błędnie sklasyfikowane jako wałeczki szkliste (wałeczki nie posiadają
+prążkowania podłużnego, mają łagodnie zakończone brzegi)
+Fałszywie zawyżona liczba wałeczków
+• skupiska składników mineralnych mogą imitować wałeczki ziarniste (skupiska nie mają
+widocznego białkowego zrębu, silnie polaryzują)
+• włókna bawełniane, włókna mięsne mogą przypominać wałeczki woskowe (włókna mają
+tendencję do zwężania się w środku i polaryzują; wałeczki mają tendencję do zwężania się
+na końcach, nie wykazują zdolności do polaryzacji i zawsze towarzyszy im białkomocz!)
+Zanieczyszczenie kałem, wynikające
+z nieprawidłowego pobrania próbki moczu
+lub nieprawidłowego funkcjonowania
+stomii moczowo-jelitowej
+• w badaniu elementów upostaciowanych moczu można zaobserwować wówczas: włókna
+roślinne i mięsne (strawione lub częściowo strawione), bakterie, ziarna skrobi, krople
+tłuszczu.
+Zewnętrzna ocena jakości (EQA)
+1.
+Laboratorium powinno regularnie uczestniczyć w programach EQA.
+2.
+Wyniki uzyskane w sprawdzianach EQA powinny być dokładnie analizowane; w pierwszej kolejności w odniesieniu do własnej grupy metodycznej, a następnie w odniesieniu do wszystkich wyników uzyskanych
+w sprawdzianie.
+3.
+W przypadku uzyskania wyników niespełniających kryteriów akceptacji, wskazane jest sprawdzenie stosowanych procedur badania/kontrola wykorzystywanego sprzętu oraz podjęcie ewentualnych działań
+naprawczych (tabela IX).
+7. TRUDNOŚCI DIAGNOSTYCZNE
+www.diagnostykalaboratoryjna.eu
+184
+8. PIŚMIENNICTWO
+1.
+Althof S, Kindler J. Atlas osadu moczu. Red. wyd. pol. Bil-Lula I, Mantur
+M. MedPharm. 2018.
+2.
+Blumberg A, Huser B, Kühni M, et al. [Diagnosis of glomerular and non-
+-glomerular erythrocyturia using phase contrast microscopy of the
+urine sediment]. Schweiz Med Wochenschr. 1987; 117(36): 1321-1325.
+3.
+Brunzel NA. Diagnostyka laboratoryjna moczu i innych płynów ustrojowych. Red. wyd. pol. Kemona H, Mantur M. Edra URBAN&PARTNER. 2016.
+4.
+Du J, Xu J, Wang F, Guo Y, et al. Establishment and development of
+the personalized criteria for microscopic review following multiple
+automated routine urinalysis systems. Clin Chim Acta Int J Clin Chem.
+2015; 444: 221–228.
+5.
+European Urinalysis Guidelines. European Confederation of Laboratory Medicine. Scand J Clin Lab Invest. 2000; 60: 1 – 96.
+6.
+Finocchiaro R, D’Eufemia P, Celli M, et al. Usefulness of cyanide-nitroprusside test in detecting incomplete recessive heterozygotes for cystinuria: a standardized dilution procedure. Urol Res. 1998; 26(6): 401–405.
+7.
+Fogazzi GB, Edefonti A, Garigali G, et al. Urine erythrocyte morphology
+in patients with microscopic haematuria caused by a glomerulopathy.
+Pediatr Nephrol. 2008; 23(7): 1093-1100.
+8.
+Fogazzi GB, Ferrari B, Garigali G, et al. Urinary sediment findings in
+acute interstitial nephritis. Am J Kidney Dis. 2012; 60(2): 330-332.
+9.
+Fogazzi GB, Garigali G. The Urinary Sediment by UriSed Technology.
+A new approach to urinary sediment examination. Elsevier Srl. 2012.
+10. Fogazzi GB, Secchiero S, Consonni D, et al. An Italian external quality
+assessment (EQA) program on urinary sediment. Clin Chim Acta.
+2010; 411(11-12): 859-867.
+11. GP16-A3: Urinalysis; Approved Guideline, Third Edition. Wayne, PA.
+Clinical & Laboratory Standards Institute. 2009; 29 (19).
+12. Györy AZ, Kesson AM, Talbot JM. Microscopy of urine--now you see
+it, now you don’t! Am Heart J. 1980; 99(4): 537–538.
+13. Holmquist ND. Detection of urinary cancer with urinalysis sediment.
+J Urol. 1980;v123(2): 188–189.
+14. Huussen J, Koene RA, Hilbrands LB. The (fixed) urinary sediment,
+a simple and useful diagnostic tool in patients with haematuria. Neth
+J Med. 2004; 62(1): 4-9.
+15. Köhler H, Wandel E, Brunck B: Acanthocyturia – a characteristic marker
+of glomerular bleeding. Kidney Int. 1991; 40: 115–120.
+16. Lab Test Online. Publiczne źródło informacji o badaniach laboratoryjnych. Dostępne na: http://www.labtestsonline.pl/tests. Dostęp
+z dnia 01.05.2019.
+17. Lamchiagdhase P, Preechaborisutkul K, Lomsomboon P, Srisuchart P,
+Tantiniti P, Khan-u-ra N i in. Urine sediment examination: A comparison between the manual method and the iQ200 automated urine
+microscopy analyzer. Clin Chim Acta. 2005; 358(1): 167–174.
+18. Manda-Handzlik A, Sztefko K, Zając A, et al. UriSed – Preliminary
+reference intervals and optimal method for urine sediment analysis
+in newborns and infants. Clin Biochem. 2016; 49(12): 909–914.
+19. Manoni F, Gessoni G, Alessio MG, et al. Gender’s equality in evaluation
+of urine particles: Results of a multicenter study of the Italian Urinalysis Group. Clin Chim Acta. 2014; 427: 1–5.
+20. Seccchiero S, Fogazzi GB. Quality control programs for urinary sediment. The Urinary Sediment. An Integrated View, 3rd edition. Ed.
+Masson Spa, Milano (Italy). 2009; 233-245.
+21. Solnica B. Zalecenia ECLM: Kontrola czynników przedanalitycznych
+w badaniach moczu. Badanie i Diagnoza. 2000; 6 (6-7): 49-52.
+22. Stapleton FB. Morphology of urinary red blood cells: a simple guide
+in localizing the site of hematuria. Pediatr Clin North Am. 1987; 34(3):
+561-569.
+23. Sternheimer R, Malbin B. Clinical recognition of pyelonephritis, with
+a new stain for urinary sediments. Am J Med. 1951; 11(3): 312–323.
+24. Strasinger SK, Di Lorenzo MJ. Urinalysis and body fluids. Urinalysis and
+body fluids, 5th edition. F.A. Davis company, Philadelphia (USA) 2008.
+25. Ulotka producenta. Dostępne na: http://www.kolchem.pl/instrukcje/
+barwienie_mgg.pdf. Dostęp z dnia 01.07.2019.
+26. Zaman Z, Fogazzi GB, Garigali G, et al. Urine sediment analysis: Analytical and diagnostic performance of sediMAX – a new automated
+microscopy image-based urine sediment analyser. Clin Chim Acta Int
+J Clin Chem. 2010; 411(3–4): 147–154.
+9. WYKAZ SKRÓTÓW
+EQA – (ang. external quality assessment ) zewnętrzna
+ocena jakości
+IQC – (ang. internal quality control) wewnętrzna kontrola jakości
+MGG – barwienie May-Grünwalda-Giemsy
+QA – (ang. quality assurance) system zapewnienia jakości
+QC – (ang. quality control) kontrola jakości
+RCF – (ang. relative centrifugal force) względna siła
+odśrodkowa
+RNA – (ang. ribonucleic acid) kwasy rybonukleinowe
+RPM – (ang. revolutions per minute) prędkość wirowania, liczba obrotów na minutę
+SOP – (ang. standard operating procedure) standardowa procedura operacyjna
+wpw – w polu widzenia
+WZ – współczynnik zmienności
+185
+Diagn Lab. 2019; 55(3): 145-198
+10. SŁOWNIK TERMINOLOGII
+Akantocyty – (komórki G1) erytrocyty o pierścieniowatym kształcie, posiadające anomalie struktury
+błony w postaci jednego lub więcej "pęcherzyków”
+(ang. blebs).
+Badanie ogólne moczu – obejmuje badanie fizykochemiczne oraz badanie upostaciowanych elementów moczu. Wykonywane w celach diagnostycznych,
+przesiewowych, do monitorowania leczenia i/lub oceny postępu procesu chorobowego.
+Białkomocz – nadmierna utrata białka z moczem
+przekraczająca 150 mg/dobę.
+Cienie komórek – erytrocyty wyługowane.
+Czynniki przedanalityczne – czynniki wpływające na
+wynik badania laboratoryjnego w fazie przed właściwą analizą laboratoryjną.
+Druga poranna próbka moczu – pojedyncza porcja
+moczu, oddana ok. 2 godziny po pierwszej porannej
+mikcji.
+Erytrocyty dysmorficzne – erytrocyty o zmienionej,
+nieprawidłowej morfologii, powstałe w wyniku przejścia przez błonę filtracyjną kłębuszka nerkowego.
+Erytrocyty izomorficzne – erytrocyty o niezmienionej morfologii, mają jednorodną strukturę i okrągły/
+owalny kształt.
+Erytrocyty morwowate – krwinki czerwone o nierównych, ząbkowanych brzegach, przypominające
+owoce morwy. Należą do erytrocytów izomorficznych.
+Erytrocyty wyługowane – komórki o zwiększonej
+objętości i obniżonej zawartości hemoglobiny, występują w formie słabo widocznych pustych krążków,
+"cienie komórek”.
+Hematuria – zwiększona liczba krwinek czerwonych
+w moczu (>7 x 106/L).
+Komórki G1 – akantocyty.
+Leukocyturia – zwiększona liczba leukocytów w moczu (>10 x 106/L).
+Leukocyturia jałowa– leukocyturia bez bakteriurii.
+Losowa (przygodna) próbka moczu – pojedyncza
+porcja moczu pobrana o dowolnej porze dnia i nocy,
+w dowolnej objętości, bez wcześniejszego przygotowania pacjenta.
+Mikcja – medyczne określenie aktu oddawania moczu, polegające na świadomym wydaleniu moczu
+zebranego w pęcherzu.
+Osad moczu – homogenna zawiesina zagęszczonej
+próbki moczu, którą uzyskuje się przez wirowanie ściśle określonej objętości moczu. Osad moczu wykorzystywany jest w badaniu mikroskopowym do oceny
+elementów upostaciowanych moczu.
+Owalne ciała tłuszczowe – kropelki tłuszczu zmagazynowane w cytoplazmie leukocytów i/lub komórek
+nabłonka z kanalików nerkowych.
+Pierwsza poranna próbka moczu – porcja moczu pobrana bezpośrednio po spoczynku nocnym w pozycji
+leżącej, trwającym nie mniej niż 8 godzin.
+Próbka moczu ze środkowego strumienia – próbka
+pobrana ze środkowej porcji moczu: zarówno pierwsza, jak i ostatnia porcja moczu podczas mikcji powinna zostać odrzucona.
+Próbka okresowa – oznacza zbiórkę moczu w ściśle określonym przedziale czasowym, np.: w ciągu 2
+godzin lub w okresie czasu pomiędzy określonymi
+godzinami.
+Ropomocz – (pyuria) znacznie nasilona, masywna
+leukocyturia z bakteriurią.
+Uromukoid – (uromodulina) białko Tamma-Horsfalla,
+glikoproteina syntetyzowana w ramieniu wstępującym pętli Henlego za wyjątkiem plamki gęstej.
+www.diagnostykalaboratoryjna.eu
+186
+11. ZAŁĄCZNIK 1.
+Katalog fotografii mikroskopowych upostaciowanych elementów moczu.
+Rycina 2. Erytrocyty izomorficzne. Preparat niebarwiony. Mikroskop świetlny. Powiększenie 400x.
+Rycina 3. Erytrocyty dysmorficzne, akantocyty. Preparat niebarwiony. Mikroskop świetlny. Powiększenie 400x.
+Rycina 4. Akantocyty, erytrocyty dysmorficzne. Preparat niebarwiony. Mikroskop świetlny. Powiększenie 400x.
+Rycina 5. Erytrocyty wyługowane. Preparat niebarwiony. Mikroskop świetlny. Powiększenie 400x.
+Rycina 6. Erytrocyty morwowate i erytrocyty izomorficzne. Preparat niebarwiony. Mikroskop świetlny. Powiększenie 400x.
+Rycina 7. Leukocyty. Preparat niebarwiony. Mikroskop świetlny.
+Powiększenie 400x.
+187
+Diagn Lab. 2019; 55(3): 145-198
+Rycina 8. Leukocyty tworzące skupisko. Preparat niebarwiony.
+Mikroskop świetlny. Powiększenie 400x
+Rycina 9. Wałeczek leukocytarny. Preparat niebarwiony. Mikroskop
+świetlny. Powiększenie 400x
+Rycina 10. Masywna leukocyturia (ropomocz, pyuria). Preparat
+niebarwiony. Mikroskop świetlny. Powiększenie 400x.
+Rycina 11. Leukocyty z uwidocznionymi jądrami po dodaniu 2%
+kwasu octowego (neutrofile, limfocyty, makrofagi). Mikroskop
+świetlny. Powiększenie 400x.
+Rycina 12. Eozynofile. Preparat barwiony MGG. Mikroskop świetlny.
+Powiększenie 1000x.
+Rycina 13. Makrofagi. Mikroskop świetlny. Powiększenie 400x
+www.diagnostykalaboratoryjna.eu
+188
+Rycina 16. Skupisko komórek Streinhaimera-Malbina. Preparat
+barwiony S-M (Fast-Read Stain). Mikroskop świetlny. Powiększenie 400x.
+Rycina 14. Komórki Sternheimera-Malbina (napęczniałe leukocyty
+z ziarnistościami wykazującymi ruchy Browna). Preparat niebarwiony. Mikroskop świetlny. Powiększenie 400x.
+Rycina 18. Skupisko komórek nabłonka płaskiego. Preparat barwiony MGG. Mikroskop świetlny. Powiększenie 1000x.
+Rycina 17. Komórki nabłonka płaskiego. Preparat niebarwiony.
+Mikroskop świetlny. Powiększenie 400x.
+Rycina 15. Komórki Sternheimera-Malbina (napęczniałe leukocyty
+z ziarnistościami wykazującymi ruchy Browna). Preparat barwiony
+S-M (Fast-Read Stain). Mikroskop świetlny. Powiększenie 400x.
+Rycina 19. Komórki nabłonka płaskiego. Preparat barwiony S-M
+(Fast-Read Stain), w tle moczany bezpostaciowe. Mikroskop świetlny. Powiększenie 400x.
+189
+Diagn Lab. 2019; 55(3): 145-198
+Rycina 20. Komórki nabłonka przejściowego (nabłonek urotelialny) z warstwy powierzchniowej. Preparat niebarwiony. Mikroskop
+świetlny. Powiększenie 400x.
+Rycina 21. Komórki nabłonka przejściowego oraz nabłonka wielokątnego płaskiego, leukocyty, bakterie i komórki drożdży. Preparat
+niebarwiony. Mikroskop świetlny. Powiększenie 400x.
+Rycina 22. Komórka nabłonka przejściowego (nabłonek urotelialny) "gruszkowata”. Preparat niebarwiony. Mikroskop świetlny.
+Powiększenie 400x.
+Rycina 24. Skupiska komórek ze zbiorczego kanalika nerkowego.
+Preparat niebarwiony. Mikroskop świetlny. Powiększenie 400x.
+Rycina 23. Nabłonki ze zbiorczego kanalika nerkowego. Preparat
+niebarwiony. Mikroskop świetlny. Powiększenie 400x.
+Rycina 25. Owalne ciała tłuszczowe (widoczne pojedyncze kropelki tłuszczu). Preparat niebarwiony. Mikroskop świetlny. Powiększenie 400x.
+www.diagnostykalaboratoryjna.eu
+190
+Rycina 28. Wałeczki szkliste (hialinowe), w tle leukocyty i bakterie.
+Preparat barwiony S-M (Fast-Read Stain). Mikroskop świetlny.
+Powiększenie 400x.
+Rycina 26. Owalne ciało tłuszczowe (widoczne pojedyncze kropelki tłuszczu wybarwione na kolor czerwono-pomarańczowy).
+Preparat barwiony Sudanem III. Mikroskop świetlny. Powiększenie
+400x.
+Rycina 30. Wałeczki gruboziarniste szerokie; wałeczek woskowy
+szeroki, wałeczki woskowe. Preparat niebarwiony. Mikroskop
+świetlny. Powiększenie 400x.
+Rycina 29. Wałeczki: gruboziarnisty (u góry) oraz szklisty (u dołu).
+Preparat niebarwiony. Mikroskop świetlny. Powiększenie 400x.
+Rycina 27. Wałeczki szkliste (hialinowe). Preparat niebarwiony.
+Mikroskop świetlny. Powiększenie 400x.
+Rycina 31. Wałeczek erytrocytarny. Preparat niebarwiony. Mikroskop świetlny. Powiększenie 400x.
+191
+Diagn Lab. 2019; 55(3): 145-198
+Rycina 32. Wałeczek komórkowy. Preparat niebarwiony. Mikroskop
+świetlny. Powiększenie 400x.
+Rycina 33. Wałeczki woskowe. Preparat niebarwiony. Mikroskop
+świetlny. Powiększenie 400x.
+Rycina 34. Wałeczek tłuszczowy. Preparat niebarwiony. Mikroskop
+świetlny. Powiększenie 400x.
+Rycina 36. Wałeczek erytrocytarno-hemoglobinowy. Preparat niebarwiony. Mikroskop świetlny. Powiększenie 400x.
+Rycina 35. Wałeczek tłuszczowy i pojedyncza kropla wybarwionego tłuszczu obojętnego. Barwienie Sudanem III. Mikroskop
+świetlny. Powiększenie 400x.
+Rycina 37. Wałeczek mieszany (ziarnisto-woskowy). Preparat niebarwiony. Mikroskop świetlny. Powiększenie 400x.
+www.diagnostykalaboratoryjna.eu
+192
+Rycina 40. Trichomonas vaginalis. Preparat niebarwiony. Mikroskop
+świetlny. Powiększenie 400x.
+Rycina 38. Bakterie. Preparat niebarwiony. Mikroskop świetlny.
+Powiększenie 400x.
+Rycina 42. Kryształy amorficzne. Moczany bezpostaciowe. Preparat niebarwiony. Mikroskop świetlny. Powiększenie 400x.
+Rycina 41. Jajo owsika, leukocyty. Preparat niebarwiony. Mikroskop świetlny. Powiększenie 400x.
+Rycina 39. Candida sp. Preparat niebarwiony. Mikroskop świetlny.
+Powiększenie 400x.
+Rycina 43. Kryształy amorficzne. Fosforany bezpostaciowe. Preparat niebarwiony. Mikroskop świetlny. Powiększenie 400x.
+193
+Diagn Lab. 2019; 55(3): 145-198
+Rycina 44. Kryształy dwuwodnego szczawianu wapnia. Preparat
+niebarwiony. Mikroskop świetlny. Powiększenie 400x.
+Rycina 45. Kryształy jednowodnego szczawianu wapnia. Preparat
+niebarwiony. Mikroskop świetlny. Powiększenie 400x.
+Rycina 46. Kryształy kwasu moczowego. Preparat niebarwiony.
+Mikroskop świetlny. Powiększenie 400x.
+Rycina 48. Kryształy trójfosforanu amonowo-magnezowego. Preparat niebarwiony. Mikroskop świetlny. Powiększenie 400x.
+Rycina 47. Kryształy kwasu moczowego. Preparat niebarwiony.
+Mikroskop świetlny. Powiększenie 400x.
+Rycina 49. Kryształy fosforanu wapnia. Preparat niebarwiony. Mikroskop świetlny. Powiększenie 400x.
+www.diagnostykalaboratoryjna.eu
+194
+Rycina 52. Kryształy cystyny. Preparat niebarwiony. Mikroskop
+świetlny. Powiększenie 400x.
+Rycina 50. Kryształy moczanu dwuamonowego. Preparat niebarwiony. Mikroskop świetlny. Powiększenie 400x.
+Rycina 54. Kryształy tyrozyny. Preparat niebarwiony. Mikroskop
+świetlny. Powiększenie 400x.
+Rycina 53. Kryształy leucyny. Preparat niebarwiony. Mikroskop
+świetlny. Powiększenie 400x.
+Rycina 51. Kryształy cholesterolu i owalne ciało tłuszczowe. Preparat barwiony Sudanem III. Mikroskop świetlny. Powiększenie 400x.
+Rycina 55. Kryształy bilirubiny. Preparat niebarwiony. Mikroskop
+świetlny. Powiększenie 400x.
+195
+Diagn Lab. 2019; 55(3): 145-198
+Rycina 56. Kryształy kwasu hipurowego. Preparat niebarwiony.
+Mikroskop świetlny. Powiększenie 400x.
+Rycina 57. Kryształy 2,8-dihydroksyadeniny. Preparat niebarwiony. Mikroskop świetlny. Powiększenie 400x. Źródło: http://www.
+rarekidneystones.org
+Rycina 58. Kryształy ksantyny. Preparat niebarwiony. Mikroskop
+świetlny. Powiększenie 400x. Źródło: udostępnione przez Siemens
+Healthineers.
+Rycina 60. Kryształy polekowe (po podaniu radiologicznych środków cieniujących). Preparat niebarwiony. Mikroskop świetlny.
+Powiększenie 400x.
+Rycina 59. Kryształy kwasu askorbinowego. Preparat niebarwiony.
+Mikroskop świetlny. Powiększenie 400x. Źródło: https://medical-
+-dictionary.thefreedictionary.com
+Rycina 61. Pasma śluzu. Preparat niebarwiony. Mikroskop świetlny.
+Powiększenie 400x.
+www.diagnostykalaboratoryjna.eu
+196
+Rycina 64. Ziarna skrobi. Preparat niebarwiony. Mikroskop świetlny. Powiększenie 400x.
+Rycina 62. Domieszka spermy. Preparat niebarwiony. Mikroskop
+świetlny. Powiększenie 400x.
+Rycina 66. Domieszka resztek kałowych. Preparat niebarwiony.
+Mikroskop świetlny. Powiększenie 400x.
+Rycina 65. Włos. Preparat niebarwiony. Mikroskop świetlny. Powiększenie 400x.
+Rycina 63. Lignina. Preparat niebarwiony. Mikroskop świetlny.
+Powiększenie 400x.
+Rycina 67. Pęcherzyki powietrza. Preparat niebarwiony. Mikroskop
+świetlny. Powiększenie 400x
+197
+Diagn Lab. 2019; 55(3): 145-198
+Rycina 68. Artefakt. Preparat niebarwiony. Mikroskop świetlny.
+Powiększenie 400x.
+Rycina 69. Pseudostrzępka grzybni. Preparat niebarwiony. Mikroskop świetlny. Powiększenie 400x.
+Procedura pobrania próbki moczu "ze środkowego strumienia” u mężczyzn.
+Źródło: European Urinalysis Guidelines. European Confederation of Laboratory Medicine. Scand J Clin Lab Invest 2000; 60: 1 – 96
+12. ZAŁĄCZNIK 2.
+Instrukcje pisemne z ilustracją w formie piktogramów.
+Procedura pobrania próbki moczu "ze środkowego strumienia” u kobiet.
+Źródło: European Urinalysis Guidelines. European Confederation of Laboratory Medicine. Scand J Clin Lab Invest 2000; 60: 1 – 96
+1.
+Umyj ręce.
+2.
+Rozchyl wargi sromowe.
+3.
+Umyj zewnętrzne narządy moczowo-płciowe wodą (lub chusteczką nasączoną wodą).
+4.
+Osusz zewnętrzne narządy moczowo-płciowe jednorazowym, papierowym ręcznikiem.
+5.
+Oddaj pierwszą porcję moczu do toalety.
+6.
+Pobierz ok. 50 ml moczu do pojemnika. Nie
+dotykaj wnętrza pojemnika rękoma.
+7.
+Oddaj resztę moczu do toalety.
+8.
+Jak najszybciej przetransportuj próbkę do
+laboratorium.
+1.
+Umyj ręce.
+2.
+Odsuń napletek.
+3.
+Umyj ujście cewki moczowej wodą (lub
+chusteczką nasączoną wodą).
+4.
+Osusz ujście cewki moczowej jednorazowym, papierowym ręcznikiem.
+5.
+Oddaj pierwszą porcję moczu do toalety.
+6.
+Pobierz ok. 50 ml moczu do pojemnika. Nie
+dotykaj wnętrza pojemnika rękoma.
+7.
+Oddaj resztę moczu do toalety.
+8.
+Jak najszybciej przetransportuj próbkę do
+laboratorium.
